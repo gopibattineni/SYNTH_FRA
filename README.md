@@ -10,11 +10,11 @@
 | **Metrics** | TRTR/TSTR utility · distributional fidelity · MIA / NNDR privacy |
 | **Python** | 3.10–3.12 |
 
-**Repository:** https://github.com/gopibattineni/SYNTH_FRAMEWORK_NEW
+**Repository:** https://github.com/gopibattineni/SYNTH_FRA
 
 **Live dashboards:**
-- [Interactive Results Dashboard](https://gopibattineni.github.io/SYNTH_FRAMEWORK_NEW/)
-- [10-Seed Results Explorer](https://gopibattineni.github.io/SYNTH_FRAMEWORK_NEW/explorer/)
+- [Interactive Results Dashboard](https://gopibattineni.github.io/SYNTH_FRA/)
+- [10-Seed Results Explorer](https://gopibattineni.github.io/SYNTH_FRA/explorer/)
 
 ---
 
@@ -30,7 +30,7 @@
 ## Repository layout
 
 ```text
-SYNTH_FRAMEWORK/
+SYNTH_FRA/
 ├── Generators/                  # Notebooks & exports by family
 │   ├── SDV models/              # CTGAN, CopulaGAN, TVAE, GaussianCopula
 │   ├── Other GANS/              # CTABGAN, WGAN-GP
@@ -55,8 +55,8 @@ SYNTH_FRAMEWORK/
 ## Quick start
 
 ```bash
-git clone https://github.com/gopibattineni/SYNTH_FRAMEWORK_NEW.git
-cd SYNTH_FRAMEWORK_NEW
+git clone https://github.com/gopibattineni/SYNTH_FRA.git
+cd SYNTH_FRA
 
 python -m venv .venv
 # Windows
@@ -141,8 +141,8 @@ Open http://127.0.0.1:8000
 
 | Site | URL |
 |------|-----|
-| **Interactive Results Dashboard** | https://gopibattineni.github.io/SYNTH_FRAMEWORK_NEW/ |
-| **10-Seed Results Explorer** | https://gopibattineni.github.io/SYNTH_FRAMEWORK_NEW/explorer/ |
+| **Interactive Results Dashboard** | https://gopibattineni.github.io/SYNTH_FRA/ |
+| **10-Seed Results Explorer** | https://gopibattineni.github.io/SYNTH_FRA/explorer/ |
 
 Static Plotly dashboards built from the merged 10-seed Excel. Rebuild locally:
 
@@ -180,7 +180,7 @@ If you use this work, please cite:
   title   = {{SYNTH Benchmark: Tabular Synthetic Data Generator Evaluation}},
   year    = {2026},
   version = {1.0.0},
-  url     = {https://github.com/gopibattineni/SYNTH_FRAMEWORK_NEW}
+  url     = {https://github.com/gopibattineni/SYNTH_FRA}
 }
 ```
 

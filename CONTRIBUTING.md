@@ -17,8 +17,8 @@ Thank you for your interest in improving the SYNTH Benchmark! This guide helps y
 ## Development setup
 
 ```bash
-git clone https://github.com/gopibattineni/SYNTH_BENCHMARK.git
-cd SYNTH_BENCHMARK
+git clone https://github.com/gopibattineni/SYNTH_FRA.git
+cd SYNTH_FRA
 pip install -r requirements-analysis.txt
 pip install -r requirements.txt          # full notebook dependencies (optional)
 ```
