@@ -1,0 +1,19 @@
+OneHotEncoder.__init__() got an unexpected keyword argument 'sparse'
+Traceback (most recent call last):
+  File "/home/gopi_b/SYNTH_BENCHMARK/multi seed generators/1st batch/src/experiment.py", line 165, in run_one
+    synth = generate_synthetic(generator, train, target, n_samples, seed, task)
+  File "/home/gopi_b/SYNTH_BENCHMARK/multi seed generators/1st batch/src/generators/__init__.py", line 246, in generate_synthetic
+    return train_diffusion(generator, train, target, n_samples, seed, task)
+  File "/home/gopi_b/SYNTH_BENCHMARK/multi seed generators/1st batch/src/generators/__init__.py", line 224, in train_diffusion
+    return mod.train_tabddpm(train, target_col=target, n_samples=n_samples, seed=seed, is_regression=is_reg)
+  File "/home/gopi_b/SYNTH_BENCHMARK/Generators/Diffusion GANs/diffusion_generators.py", line 339, in train_tabddpm
+    tabddpm_train(
+  File "/home/gopi_b/SYNTH_BENCHMARK/_vendor/tab-ddpm/scripts/train.py", line 102, in train
+    dataset = make_dataset(
+  File "/home/gopi_b/SYNTH_BENCHMARK/_vendor/tab-ddpm/scripts/utils_train.py", line 89, in make_dataset
+    return lib.transform_dataset(D, T, None)
+  File "/home/gopi_b/SYNTH_BENCHMARK/_vendor/tab-ddpm/lib/data.py", line 417, in transform_dataset
+    X_cat, is_num, cat_transform = cat_encode(
+  File "/home/gopi_b/SYNTH_BENCHMARK/_vendor/tab-ddpm/lib/data.py", line 311, in cat_encode
+    ohe = sklearn.preprocessing.OneHotEncoder(
+TypeError: OneHotEncoder.__init__() got an unexpected keyword argument 'sparse'

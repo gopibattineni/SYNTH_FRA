@@ -1,0 +1,97 @@
+Dataset,Generator,Mapping_Method,Metric,Available,Mean
+Alzheimers,CTGAN,Greedy,Cosine Similarity,False,
+Alzheimers,CTGAN,Greedy,Mahalanobis Distance,False,
+Alzheimers,CTGAN,One-to-One Greedy,Cosine Similarity,False,
+Alzheimers,CTGAN,One-to-One Greedy,Mahalanobis Distance,True,10.223153
+Alzheimers,CTGAN,Hungarian,Cosine Similarity,True,0.9857164555931764
+Alzheimers,CTGAN,Hungarian,Mahalanobis Distance,True,9.748478010813969
+Alzheimers,CopulaGAN,Greedy,Cosine Similarity,False,
+Alzheimers,CopulaGAN,Greedy,Mahalanobis Distance,False,
+Alzheimers,CopulaGAN,One-to-One Greedy,Cosine Similarity,False,
+Alzheimers,CopulaGAN,One-to-One Greedy,Mahalanobis Distance,True,12.265453
+Alzheimers,CopulaGAN,Hungarian,Cosine Similarity,True,0.9033691712569901
+Alzheimers,CopulaGAN,Hungarian,Mahalanobis Distance,True,11.682761106077505
+Alzheimers,TVAE,Greedy,Cosine Similarity,False,
+Alzheimers,TVAE,Greedy,Mahalanobis Distance,False,
+Alzheimers,TVAE,One-to-One Greedy,Cosine Similarity,False,
+Alzheimers,TVAE,One-to-One Greedy,Mahalanobis Distance,True,4.814556
+Alzheimers,TVAE,Hungarian,Cosine Similarity,True,0.9938161964168027
+Alzheimers,TVAE,Hungarian,Mahalanobis Distance,True,4.489425236712889
+Alzheimers,GaussianCopula,Greedy,Cosine Similarity,False,
+Alzheimers,GaussianCopula,Greedy,Mahalanobis Distance,False,
+Alzheimers,GaussianCopula,One-to-One Greedy,Cosine Similarity,False,
+Alzheimers,GaussianCopula,One-to-One Greedy,Mahalanobis Distance,True,3.699365
+Alzheimers,GaussianCopula,Hungarian,Cosine Similarity,True,0.9543145125738454
+Alzheimers,GaussianCopula,Hungarian,Mahalanobis Distance,True,3.1524701684400127
+Alzheimers,WGAN_GP,Greedy,Cosine Similarity,False,
+Alzheimers,WGAN_GP,Greedy,Mahalanobis Distance,False,
+Alzheimers,WGAN_GP,One-to-One Greedy,Cosine Similarity,False,
+Alzheimers,WGAN_GP,One-to-One Greedy,Mahalanobis Distance,True,1.7733
+Alzheimers,WGAN_GP,Hungarian,Cosine Similarity,True,0.999887283759619
+Alzheimers,WGAN_GP,Hungarian,Mahalanobis Distance,True,1.749388884153588
+Alzheimers,CTABGAN,Greedy,Cosine Similarity,False,
+Alzheimers,CTABGAN,Greedy,Mahalanobis Distance,False,
+Alzheimers,CTABGAN,One-to-One Greedy,Cosine Similarity,False,
+Alzheimers,CTABGAN,One-to-One Greedy,Mahalanobis Distance,True,2.9484
+Alzheimers,CTABGAN,Hungarian,Cosine Similarity,True,0.9998100910307862
+Alzheimers,CTABGAN,Hungarian,Mahalanobis Distance,True,2.808648543884104
+Alzheimers,TabDDPM,Greedy,Cosine Similarity,False,
+Alzheimers,TabDDPM,Greedy,Mahalanobis Distance,False,
+Alzheimers,TabDDPM,One-to-One Greedy,Cosine Similarity,False,
+Alzheimers,TabDDPM,One-to-One Greedy,Mahalanobis Distance,True,3.317
+Alzheimers,TabDDPM,Hungarian,Cosine Similarity,True,0.9915310108191177
+Alzheimers,TabDDPM,Hungarian,Mahalanobis Distance,True,3.151104083475662
+Alzheimers,ForestDiffusion,Greedy,Cosine Similarity,False,
+Alzheimers,ForestDiffusion,Greedy,Mahalanobis Distance,False,
+Alzheimers,ForestDiffusion,One-to-One Greedy,Cosine Similarity,False,
+Alzheimers,ForestDiffusion,One-to-One Greedy,Mahalanobis Distance,True,1.4367
+Alzheimers,ForestDiffusion,Hungarian,Cosine Similarity,True,0.9999908867907574
+Alzheimers,ForestDiffusion,Hungarian,Mahalanobis Distance,True,1.4215141300852796
+Adult,CTGAN,Greedy,Cosine Similarity,False,
+Adult,CTGAN,Greedy,Mahalanobis Distance,False,
+Adult,CTGAN,One-to-One Greedy,Cosine Similarity,False,
+Adult,CTGAN,One-to-One Greedy,Mahalanobis Distance,False,
+Adult,CTGAN,Hungarian,Cosine Similarity,True,0.9996530761322039
+Adult,CTGAN,Hungarian,Mahalanobis Distance,True,0.3984864519523495
+Adult,CopulaGAN,Greedy,Cosine Similarity,False,
+Adult,CopulaGAN,Greedy,Mahalanobis Distance,False,
+Adult,CopulaGAN,One-to-One Greedy,Cosine Similarity,False,
+Adult,CopulaGAN,One-to-One Greedy,Mahalanobis Distance,False,
+Adult,CopulaGAN,Hungarian,Cosine Similarity,True,0.9998247798659585
+Adult,CopulaGAN,Hungarian,Mahalanobis Distance,True,0.6570783387200433
+Adult,TVAE,Greedy,Cosine Similarity,False,
+Adult,TVAE,Greedy,Mahalanobis Distance,False,
+Adult,TVAE,One-to-One Greedy,Cosine Similarity,False,
+Adult,TVAE,One-to-One Greedy,Mahalanobis Distance,False,
+Adult,TVAE,Hungarian,Cosine Similarity,True,0.9994318429684329
+Adult,TVAE,Hungarian,Mahalanobis Distance,True,0.1250522829440672
+Adult,GaussianCopula,Greedy,Cosine Similarity,False,
+Adult,GaussianCopula,Greedy,Mahalanobis Distance,False,
+Adult,GaussianCopula,One-to-One Greedy,Cosine Similarity,False,
+Adult,GaussianCopula,One-to-One Greedy,Mahalanobis Distance,False,
+Adult,GaussianCopula,Hungarian,Cosine Similarity,True,0.9806849869684116
+Adult,GaussianCopula,Hungarian,Mahalanobis Distance,True,2.4846892730119725
+Adult,WGAN_GP,Greedy,Cosine Similarity,False,
+Adult,WGAN_GP,Greedy,Mahalanobis Distance,False,
+Adult,WGAN_GP,One-to-One Greedy,Cosine Similarity,False,
+Adult,WGAN_GP,One-to-One Greedy,Mahalanobis Distance,True,1.7954
+Adult,WGAN_GP,Hungarian,Cosine Similarity,True,0.9963044766618209
+Adult,WGAN_GP,Hungarian,Mahalanobis Distance,True,1.6473219434342932
+Adult,CTABGAN,Greedy,Cosine Similarity,False,
+Adult,CTABGAN,Greedy,Mahalanobis Distance,False,
+Adult,CTABGAN,One-to-One Greedy,Cosine Similarity,False,
+Adult,CTABGAN,One-to-One Greedy,Mahalanobis Distance,True,2.508
+Adult,CTABGAN,Hungarian,Cosine Similarity,True,0.9998866616845967
+Adult,CTABGAN,Hungarian,Mahalanobis Distance,True,2.428502572522146
+Adult,TabDDPM,Greedy,Cosine Similarity,False,
+Adult,TabDDPM,Greedy,Mahalanobis Distance,False,
+Adult,TabDDPM,One-to-One Greedy,Cosine Similarity,False,
+Adult,TabDDPM,One-to-One Greedy,Mahalanobis Distance,True,11.842
+Adult,TabDDPM,Hungarian,Cosine Similarity,True,0.7988756851244702
+Adult,TabDDPM,Hungarian,Mahalanobis Distance,True,11.730588729945616
+Adult,ForestDiffusion,Greedy,Cosine Similarity,False,
+Adult,ForestDiffusion,Greedy,Mahalanobis Distance,False,
+Adult,ForestDiffusion,One-to-One Greedy,Cosine Similarity,False,
+Adult,ForestDiffusion,One-to-One Greedy,Mahalanobis Distance,True,0.8831
+Adult,ForestDiffusion,Hungarian,Cosine Similarity,True,0.9997905968172515
+Adult,ForestDiffusion,Hungarian,Mahalanobis Distance,True,0.7604998920067207

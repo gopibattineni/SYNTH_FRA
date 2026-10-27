@@ -1,0 +1,16 @@
+Dataset,Dataset_Short,N_available_of_48
+1. Cancer,Cancer,16
+10. Metro interstate,Metro,16
+11. online shopping,OnlineShop,12
+12. Air Quality,AirQuality,14
+13. Concrete Compressive Strength,Concrete,16
+14. Energy Efficiency,Energy,16
+15. Real Estate Valuation,RealEstate,16
+2. Alzhimers,Alzheimers,24
+3. Adult,Adult,24
+4. Forest cover dataset,ForestCover,18
+5. Bank Markting,Bank,12
+6. Wine dataset,Wine,12
+7. CDC diabetes dataset,CDC_Diabetes,16
+8. Mushroom dataset,Mushroom,16
+9. MAGIC Gamma Telescope,MAGIC,24

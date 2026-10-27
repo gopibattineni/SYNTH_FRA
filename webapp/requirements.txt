@@ -1,0 +1,15 @@
+# SYNTH web application dependencies
+fastapi>=0.110
+uvicorn[standard]>=0.27
+python-multipart>=0.0.9
+pydantic>=2.5
+
+# Core benchmark stack (also in repo root requirements.txt)
+numpy>=1.24,<3
+pandas>=2.0
+openpyxl>=3.1
+scikit-learn>=1.3
+sdv>=1.17
+torch>=2.0
+ucimlrepo>=0.0.7
+ForestDiffusion>=1.0

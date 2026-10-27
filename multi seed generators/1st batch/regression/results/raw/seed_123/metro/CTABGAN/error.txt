@@ -1,0 +1,17 @@
+CUDA out of memory. Tried to allocate 500.00 MiB (GPU 0; 7.92 GiB total capacity; 7.17 GiB already allocated; 102.88 MiB free; 7.66 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+Traceback (most recent call last):
+  File "/home/gopi_b/SYNTH_BENCHMARK/multi seed generators/1st batch/src/experiment.py", line 202, in run_one
+    synth = generate_synthetic(generator, train, target, n_samples, seed, task)
+  File "/home/gopi_b/SYNTH_BENCHMARK/multi seed generators/1st batch/src/generators/__init__.py", line 242, in generate_synthetic
+    return train_ctabgan(train, target, n_samples, seed, task)
+  File "/home/gopi_b/SYNTH_BENCHMARK/multi seed generators/1st batch/src/generators/__init__.py", line 84, in train_ctabgan
+    model.fit()
+  File "/home/gopi_b/SYNTH_BENCHMARK/Generators/Other GANS/CTAB-GAN-Plus/model/ctabgan.py", line 44, in fit
+    self.synthesizer.fit(train_data=self.data_prep.df, categorical = self.data_prep.column_types["categorical"], mixed = self.data_prep.column_types["mixed"],
+  File "/home/gopi_b/SYNTH_BENCHMARK/Generators/Other GANS/CTAB-GAN-Plus/model/synthesizer/ctabgan_synthesizer.py", line 476, in fit
+    pen.backward()
+  File "/home/gopi_b/SYNTH_BENCHMARK/.venv/lib/python3.10/site-packages/torch/_tensor.py", line 488, in backward
+    torch.autograd.backward(
+  File "/home/gopi_b/SYNTH_BENCHMARK/.venv/lib/python3.10/site-packages/torch/autograd/__init__.py", line 197, in backward
+    Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 500.00 MiB (GPU 0; 7.92 GiB total capacity; 7.17 GiB already allocated; 102.88 MiB free; 7.66 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF

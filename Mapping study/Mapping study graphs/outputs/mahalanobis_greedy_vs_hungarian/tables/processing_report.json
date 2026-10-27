@@ -1,0 +1,532 @@
+{
+  "source_primary": "/home/gopi_b/SYNTH_FRAMEWORK_NEW/mapping study graphs/extracted_results/hungarian_vs_greedy_summary.csv",
+  "source_secondary": "/home/gopi_b/SYNTH_FRAMEWORK_NEW/mapping study graphs/extracted_results/mahalanobis_distance_results.csv",
+  "processed": [
+    {
+      "dataset": "Cancer",
+      "generator": "CTGAN"
+    },
+    {
+      "dataset": "Cancer",
+      "generator": "CopulaGAN"
+    },
+    {
+      "dataset": "Cancer",
+      "generator": "TVAE"
+    },
+    {
+      "dataset": "Cancer",
+      "generator": "GaussianCopula"
+    },
+    {
+      "dataset": "Cancer",
+      "generator": "CTABGAN"
+    },
+    {
+      "dataset": "Cancer",
+      "generator": "WGAN_GP"
+    },
+    {
+      "dataset": "Cancer",
+      "generator": "TabDDPM"
+    },
+    {
+      "dataset": "Cancer",
+      "generator": "ForestDiffusion"
+    },
+    {
+      "dataset": "Alzheimers",
+      "generator": "CTGAN"
+    },
+    {
+      "dataset": "Alzheimers",
+      "generator": "CopulaGAN"
+    },
+    {
+      "dataset": "Alzheimers",
+      "generator": "TVAE"
+    },
+    {
+      "dataset": "Alzheimers",
+      "generator": "GaussianCopula"
+    },
+    {
+      "dataset": "Alzheimers",
+      "generator": "CTABGAN"
+    },
+    {
+      "dataset": "Alzheimers",
+      "generator": "WGAN_GP"
+    },
+    {
+      "dataset": "Alzheimers",
+      "generator": "TabDDPM"
+    },
+    {
+      "dataset": "Alzheimers",
+      "generator": "ForestDiffusion"
+    },
+    {
+      "dataset": "Adult",
+      "generator": "CTGAN"
+    },
+    {
+      "dataset": "Adult",
+      "generator": "CopulaGAN"
+    },
+    {
+      "dataset": "Adult",
+      "generator": "TVAE"
+    },
+    {
+      "dataset": "Adult",
+      "generator": "GaussianCopula"
+    },
+    {
+      "dataset": "Adult",
+      "generator": "CTABGAN"
+    },
+    {
+      "dataset": "Adult",
+      "generator": "WGAN_GP"
+    },
+    {
+      "dataset": "Adult",
+      "generator": "TabDDPM"
+    },
+    {
+      "dataset": "Adult",
+      "generator": "ForestDiffusion"
+    },
+    {
+      "dataset": "ForestCover",
+      "generator": "CTGAN"
+    },
+    {
+      "dataset": "ForestCover",
+      "generator": "CopulaGAN"
+    },
+    {
+      "dataset": "ForestCover",
+      "generator": "TVAE"
+    },
+    {
+      "dataset": "ForestCover",
+      "generator": "GaussianCopula"
+    },
+    {
+      "dataset": "ForestCover",
+      "generator": "CTABGAN"
+    },
+    {
+      "dataset": "ForestCover",
+      "generator": "WGAN_GP"
+    },
+    {
+      "dataset": "ForestCover",
+      "generator": "TabDDPM"
+    },
+    {
+      "dataset": "ForestCover",
+      "generator": "ForestDiffusion"
+    },
+    {
+      "dataset": "Bank",
+      "generator": "CTGAN"
+    },
+    {
+      "dataset": "Bank",
+      "generator": "CopulaGAN"
+    },
+    {
+      "dataset": "Bank",
+      "generator": "TVAE"
+    },
+    {
+      "dataset": "Bank",
+      "generator": "GaussianCopula"
+    },
+    {
+      "dataset": "Bank",
+      "generator": "CTABGAN"
+    },
+    {
+      "dataset": "Bank",
+      "generator": "WGAN_GP"
+    },
+    {
+      "dataset": "Bank",
+      "generator": "TabDDPM"
+    },
+    {
+      "dataset": "Bank",
+      "generator": "ForestDiffusion"
+    },
+    {
+      "dataset": "Wine",
+      "generator": "CTABGAN"
+    },
+    {
+      "dataset": "Wine",
+      "generator": "WGAN_GP"
+    },
+    {
+      "dataset": "Wine",
+      "generator": "TabDDPM"
+    },
+    {
+      "dataset": "Wine",
+      "generator": "ForestDiffusion"
+    },
+    {
+      "dataset": "CDC",
+      "generator": "CTGAN"
+    },
+    {
+      "dataset": "CDC",
+      "generator": "CopulaGAN"
+    },
+    {
+      "dataset": "CDC",
+      "generator": "TVAE"
+    },
+    {
+      "dataset": "CDC",
+      "generator": "GaussianCopula"
+    },
+    {
+      "dataset": "CDC",
+      "generator": "CTABGAN"
+    },
+    {
+      "dataset": "CDC",
+      "generator": "WGAN_GP"
+    },
+    {
+      "dataset": "CDC",
+      "generator": "TabDDPM"
+    },
+    {
+      "dataset": "CDC",
+      "generator": "ForestDiffusion"
+    },
+    {
+      "dataset": "Mushroom",
+      "generator": "CTGAN"
+    },
+    {
+      "dataset": "Mushroom",
+      "generator": "CopulaGAN"
+    },
+    {
+      "dataset": "Mushroom",
+      "generator": "TVAE"
+    },
+    {
+      "dataset": "Mushroom",
+      "generator": "GaussianCopula"
+    },
+    {
+      "dataset": "Mushroom",
+      "generator": "CTABGAN"
+    },
+    {
+      "dataset": "Mushroom",
+      "generator": "WGAN_GP"
+    },
+    {
+      "dataset": "Mushroom",
+      "generator": "TabDDPM"
+    },
+    {
+      "dataset": "Mushroom",
+      "generator": "ForestDiffusion"
+    },
+    {
+      "dataset": "MAGIC",
+      "generator": "CTGAN"
+    },
+    {
+      "dataset": "MAGIC",
+      "generator": "CopulaGAN"
+    },
+    {
+      "dataset": "MAGIC",
+      "generator": "TVAE"
+    },
+    {
+      "dataset": "MAGIC",
+      "generator": "GaussianCopula"
+    },
+    {
+      "dataset": "MAGIC",
+      "generator": "CTABGAN"
+    },
+    {
+      "dataset": "MAGIC",
+      "generator": "WGAN_GP"
+    },
+    {
+      "dataset": "MAGIC",
+      "generator": "TabDDPM"
+    },
+    {
+      "dataset": "MAGIC",
+      "generator": "ForestDiffusion"
+    },
+    {
+      "dataset": "Metro",
+      "generator": "CTGAN"
+    },
+    {
+      "dataset": "Metro",
+      "generator": "CopulaGAN"
+    },
+    {
+      "dataset": "Metro",
+      "generator": "TVAE"
+    },
+    {
+      "dataset": "Metro",
+      "generator": "GaussianCopula"
+    },
+    {
+      "dataset": "Metro",
+      "generator": "CTABGAN"
+    },
+    {
+      "dataset": "Metro",
+      "generator": "WGAN_GP"
+    },
+    {
+      "dataset": "Metro",
+      "generator": "TabDDPM"
+    },
+    {
+      "dataset": "Metro",
+      "generator": "ForestDiffusion"
+    },
+    {
+      "dataset": "OnlineShop",
+      "generator": "CTGAN"
+    },
+    {
+      "dataset": "OnlineShop",
+      "generator": "CopulaGAN"
+    },
+    {
+      "dataset": "OnlineShop",
+      "generator": "TVAE"
+    },
+    {
+      "dataset": "OnlineShop",
+      "generator": "GaussianCopula"
+    },
+    {
+      "dataset": "OnlineShop",
+      "generator": "CTABGAN"
+    },
+    {
+      "dataset": "OnlineShop",
+      "generator": "WGAN_GP"
+    },
+    {
+      "dataset": "OnlineShop",
+      "generator": "TabDDPM"
+    },
+    {
+      "dataset": "OnlineShop",
+      "generator": "ForestDiffusion"
+    },
+    {
+      "dataset": "AirQuality",
+      "generator": "TVAE"
+    },
+    {
+      "dataset": "AirQuality",
+      "generator": "GaussianCopula"
+    },
+    {
+      "dataset": "AirQuality",
+      "generator": "CTABGAN"
+    },
+    {
+      "dataset": "AirQuality",
+      "generator": "WGAN_GP"
+    },
+    {
+      "dataset": "AirQuality",
+      "generator": "TabDDPM"
+    },
+    {
+      "dataset": "AirQuality",
+      "generator": "ForestDiffusion"
+    },
+    {
+      "dataset": "Concrete",
+      "generator": "CTGAN"
+    },
+    {
+      "dataset": "Concrete",
+      "generator": "CopulaGAN"
+    },
+    {
+      "dataset": "Concrete",
+      "generator": "TVAE"
+    },
+    {
+      "dataset": "Concrete",
+      "generator": "GaussianCopula"
+    },
+    {
+      "dataset": "Concrete",
+      "generator": "CTABGAN"
+    },
+    {
+      "dataset": "Concrete",
+      "generator": "WGAN_GP"
+    },
+    {
+      "dataset": "Concrete",
+      "generator": "TabDDPM"
+    },
+    {
+      "dataset": "Concrete",
+      "generator": "ForestDiffusion"
+    },
+    {
+      "dataset": "Energy",
+      "generator": "CTGAN"
+    },
+    {
+      "dataset": "Energy",
+      "generator": "CopulaGAN"
+    },
+    {
+      "dataset": "Energy",
+      "generator": "TVAE"
+    },
+    {
+      "dataset": "Energy",
+      "generator": "GaussianCopula"
+    },
+    {
+      "dataset": "Energy",
+      "generator": "CTABGAN"
+    },
+    {
+      "dataset": "Energy",
+      "generator": "WGAN_GP"
+    },
+    {
+      "dataset": "Energy",
+      "generator": "TabDDPM"
+    },
+    {
+      "dataset": "Energy",
+      "generator": "ForestDiffusion"
+    },
+    {
+      "dataset": "RealEstate",
+      "generator": "CTGAN"
+    },
+    {
+      "dataset": "RealEstate",
+      "generator": "CopulaGAN"
+    },
+    {
+      "dataset": "RealEstate",
+      "generator": "TVAE"
+    },
+    {
+      "dataset": "RealEstate",
+      "generator": "GaussianCopula"
+    },
+    {
+      "dataset": "RealEstate",
+      "generator": "CTABGAN"
+    },
+    {
+      "dataset": "RealEstate",
+      "generator": "WGAN_GP"
+    },
+    {
+      "dataset": "RealEstate",
+      "generator": "TabDDPM"
+    },
+    {
+      "dataset": "RealEstate",
+      "generator": "ForestDiffusion"
+    }
+  ],
+  "skipped": [
+    {
+      "dataset": "Wine",
+      "generator": "CTGAN",
+      "reason": "incomplete Mahalanobis methods available: ['Hungarian', 'One-to-One Greedy']"
+    },
+    {
+      "dataset": "Wine",
+      "generator": "CopulaGAN",
+      "reason": "incomplete Mahalanobis methods available: ['Hungarian', 'One-to-One Greedy']"
+    },
+    {
+      "dataset": "Wine",
+      "generator": "TVAE",
+      "reason": "incomplete Mahalanobis methods available: ['Hungarian', 'One-to-One Greedy']"
+    },
+    {
+      "dataset": "Wine",
+      "generator": "GaussianCopula",
+      "reason": "incomplete Mahalanobis methods available: ['Hungarian', 'One-to-One Greedy']"
+    },
+    {
+      "dataset": "AirQuality",
+      "generator": "CTGAN",
+      "reason": "incomplete Mahalanobis methods available: ['Hungarian', 'One-to-One Greedy']"
+    },
+    {
+      "dataset": "AirQuality",
+      "generator": "CopulaGAN",
+      "reason": "incomplete Mahalanobis methods available: ['Hungarian', 'One-to-One Greedy']"
+    }
+  ],
+  "notes": [
+    "No runtime/compute-cost fields found in extracted mapping results; runtime figures skipped.",
+    "No assignment-level pair identity matrices found; agreement figure skipped."
+  ],
+  "n_paired": 114,
+  "n_skipped": 6,
+  "datasets": [
+    "Adult",
+    "AirQuality",
+    "Alzheimers",
+    "Bank",
+    "CDC",
+    "Cancer",
+    "Concrete",
+    "Energy",
+    "ForestCover",
+    "MAGIC",
+    "Metro",
+    "Mushroom",
+    "OnlineShop",
+    "RealEstate",
+    "Wine"
+  ],
+  "generators": [
+    "CTABGAN",
+    "CTGAN",
+    "CopulaGAN",
+    "ForestDiffusion",
+    "GaussianCopula",
+    "TVAE",
+    "TabDDPM",
+    "WGAN_GP"
+  ],
+  "metric": "Mahalanobis Distance (mean matched-pair distance)",
+  "lower_is_better": true,
+  "diff_definition": "Hungarian - Greedy (negative = Hungarian better)",
+  "runtime_available": false,
+  "assignment_level_available": false
+}

@@ -1,0 +1,26 @@
+No module named 'numpy._core.numeric'
+Traceback (most recent call last):
+  File "/home/gopi_b/SYNTH_BENCHMARK/.venv/lib/python3.10/site-packages/pandas/io/pickle.py", line 202, in read_pickle
+    return pickle.load(handles.handle)
+ModuleNotFoundError: No module named 'numpy._core.numeric'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/gopi_b/SYNTH_BENCHMARK/multi seed generators/1st batch/src/experiment.py", line 156, in run_one
+    split = load_and_split(cfg, test_size=test_size, split_seed=split_seed, use_cache=True)
+  File "/home/gopi_b/SYNTH_BENCHMARK/multi seed generators/1st batch/src/datasets.py", line 105, in load_and_split
+    obj = pd.read_pickle(cache_path)
+  File "/home/gopi_b/SYNTH_BENCHMARK/.venv/lib/python3.10/site-packages/pandas/io/pickle.py", line 207, in read_pickle
+    return pc.load(handles.handle, encoding=None)
+  File "/home/gopi_b/SYNTH_BENCHMARK/.venv/lib/python3.10/site-packages/pandas/compat/pickle_compat.py", line 231, in load
+    return up.load()
+  File "/usr/lib/python3.10/pickle.py", line 1213, in load
+    dispatch[key[0]](self)
+  File "/usr/lib/python3.10/pickle.py", line 1538, in load_stack_global
+    self.append(self.find_class(module, name))
+  File "/home/gopi_b/SYNTH_BENCHMARK/.venv/lib/python3.10/site-packages/pandas/compat/pickle_compat.py", line 162, in find_class
+    return super().find_class(module, name)
+  File "/usr/lib/python3.10/pickle.py", line 1580, in find_class
+    __import__(module, level=0)
+ModuleNotFoundError: No module named 'numpy._core.numeric'

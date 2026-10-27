@@ -1,0 +1,5 @@
+Figure 5 aggregation
+--------------------
+For each (Dataset, Mapping_Method), take the unweighted mean of
+available generator-level means. Missing generators are omitted
+(not imputed). Two panels: cosine and Mahalanobis.

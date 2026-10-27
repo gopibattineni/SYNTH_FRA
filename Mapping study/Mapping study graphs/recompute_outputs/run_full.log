@@ -1,0 +1,57 @@
+/home/gopi_b/SYNTH_BENCHMARK/.venv/lib/python3.10/site-packages/torch/cuda/__init__.py:497: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+========================================================================
+Missing Mahalanobis greedy recompute — status
+========================================================================
+Input dir : /home/gopi_b/SYNTH_FRAMEWORK_NEW/mapping study graphs/recompute_inputs
+Output dir: /home/gopi_b/SYNTH_FRAMEWORK_NEW/mapping study graphs/recompute_outputs
+GPUs      : [0, 1, 3]
+
+  [READY  ] Wine        / CTGAN           → /home/gopi_b/SYNTH_FRAMEWORK_NEW/mapping study graphs/recompute_inputs/Wine/CTGAN.csv
+  [READY  ] Wine        / CopulaGAN       → /home/gopi_b/SYNTH_FRAMEWORK_NEW/mapping study graphs/recompute_inputs/Wine/CopulaGAN.csv
+  [READY  ] Wine        / TVAE            → /home/gopi_b/SYNTH_FRAMEWORK_NEW/mapping study graphs/recompute_inputs/Wine/TVAE.csv
+  [READY  ] Wine        / GaussianCopula  → /home/gopi_b/SYNTH_FRAMEWORK_NEW/mapping study graphs/recompute_inputs/Wine/GaussianCopula.csv
+  [READY  ] AirQuality  / CTGAN           → /home/gopi_b/SYNTH_FRAMEWORK_NEW/mapping study graphs/recompute_inputs/AirQuality/CTGAN.csv
+  [READY  ] AirQuality  / CopulaGAN       → /home/gopi_b/SYNTH_FRAMEWORK_NEW/mapping study graphs/recompute_inputs/AirQuality/CopulaGAN.csv
+
+6/6 synthetic tables found.
+
+Launching 6 job(s) (multi-GPU, mode=full)…
+/home/gopi_b/SYNTH_BENCHMARK/.venv/lib/python3.10/site-packages/torch/cuda/__init__.py:497: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+/home/gopi_b/SYNTH_BENCHMARK/.venv/lib/python3.10/site-packages/torch/cuda/__init__.py:497: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+/home/gopi_b/SYNTH_BENCHMARK/.venv/lib/python3.10/site-packages/torch/cuda/__init__.py:497: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+  [ok] Wine/CTGAN device=cuda:0 greedy_mean=3.061355  n=6497  24.4s  (WARNING: greedy mean << known Hungarian mean; check feature alignment / covariance / synth table)
+  [ok] Wine/TVAE device=cuda:3 greedy_mean=2.025714  n=6497  24.5s  (WARNING: greedy mean << known Hungarian mean; check feature alignment / covariance / synth table)
+  [ok] Wine/CopulaGAN device=cuda:1 greedy_mean=2.678047  n=6497  25.0s  (WARNING: greedy mean << known Hungarian mean; check feature alignment / covariance / synth table)
+  [ok] AirQuality/CTGAN device=cuda:1 greedy_mean=15.877545  n=1000  0.6s  (WARNING: greedy mean << known Hungarian mean; check feature alignment / covariance / synth table)
+  [ok] AirQuality/CopulaGAN device=cuda:3 greedy_mean=17.049146  n=1000  0.5s  (WARNING: greedy mean << known Hungarian mean; check feature alignment / covariance / synth table)
+  [ok] Wine/GaussianCopula device=cuda:0 greedy_mean=2.166344  n=6497  20.0s  (WARNING: greedy mean << known Hungarian mean; check feature alignment / covariance / synth table)
+
+Wrote /home/gopi_b/SYNTH_FRAMEWORK_NEW/mapping study graphs/recompute_outputs/greedy_recompute_full.csv
+Patched 6 summary rows → /home/gopi_b/SYNTH_FRAMEWORK_NEW/mapping study graphs/extracted_results/hungarian_vs_greedy_summary.csv
+Rebuilding Mahalanobis greedy-vs-Hungarian figures…
+========================================================================
+Mahalanobis Greedy vs Hungarian — extract-only figure/table rebuild
+========================================================================
+Paired units: 120
+Skipped units: 0
+
+Validation:
+  [OK] overall_comparison/Fig01_dumbbell_dataset_means.png
+  [OK] overall_comparison/Fig01b_dumbbell_all_units.png
+  [OK] dataset_comparison/Fig02_dataset_diff_ranked.png
+  [OK] generator_comparison/Fig03_generator_mean_diff.png
+  [OK] heatmaps/Fig04_heatmap_hung_minus_greedy.png
+  [OK] distributions/Fig05a_diff_distribution_overall.png
+  [OK] distributions/Fig05b_diff_distribution_by_generator.png
+  [OK] scatter/Fig06_greedy_vs_hungarian_scatter.png
+  [OK] summary/Fig07_summary_mahalanobis_greedy_vs_hungarian.png
+  [OK] tables/unit_level_mahalanobis_greedy_vs_hungarian.csv
+  [OK] README.md
+  [OK] no cosine-named outputs in output folder
+========================================================================
+DONE
+Output root: /home/gopi_b/SYNTH_FRAMEWORK_NEW/mapping study graphs/outputs/mahalanobis_greedy_vs_hungarian

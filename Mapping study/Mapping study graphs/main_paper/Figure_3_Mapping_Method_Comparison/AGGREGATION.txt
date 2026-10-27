@@ -1,0 +1,8 @@
+Figure 3 aggregation
+--------------------
+No cross-dataset averaging in the primary panels: each point is one
+(Dataset × Generator) mean for a mapping method.
+Cosine panel: violin + strip of available methods.
+Mahalanobis panel: box + strip; annotation counts paired units where
+both One-to-One Greedy and Hungarian exist.
+Optional paired Δ histogram saved alongside the main figure.

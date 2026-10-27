@@ -1,0 +1,41 @@
+{
+  "datasets_identified": 15,
+  "generators_identified": 8,
+  "expected_120": 120,
+  "cosine_pairwise_hungarian_pairs": 108,
+  "mahalanobis_greedy_hungarian_pairs": 114,
+  "greedy_cosine_extracted": false,
+  "hungarian_cosine_extracted": true,
+  "greedy_mahalanobis_extracted": true,
+  "hungarian_mahalanobis_extracted": true,
+  "delta_cosine_definition": "Hungarian - Pairwise (Pairwise used because Greedy cosine missing)",
+  "delta_mahalanobis_definition": "Greedy - Hungarian (positive = Hungarian improvement)",
+  "mapping_rerun": false,
+  "datasets": [
+    "Adult",
+    "AirQuality",
+    "Alzheimers",
+    "Bank",
+    "CDC",
+    "Cancer",
+    "Concrete",
+    "Energy",
+    "ForestCover",
+    "MAGIC",
+    "Metro",
+    "Mushroom",
+    "OnlineShop",
+    "RealEstate",
+    "Wine"
+  ],
+  "generators": [
+    "CTABGAN",
+    "CTGAN",
+    "CopulaGAN",
+    "ForestDiffusion",
+    "GaussianCopula",
+    "TVAE",
+    "TabDDPM",
+    "WGAN_GP"
+  ]
+}

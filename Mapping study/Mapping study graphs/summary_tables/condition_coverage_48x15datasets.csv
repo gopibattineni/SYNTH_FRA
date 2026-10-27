@@ -1,0 +1,721 @@
+Dataset,Dataset_Short,Generator,Mapping_Method,Metric,Available,Mean
+1. Cancer,Cancer,CTGAN,Greedy,Cosine Similarity,False,
+1. Cancer,Cancer,CTGAN,Greedy,Mahalanobis Distance,False,
+1. Cancer,Cancer,CTGAN,One-to-One Greedy,Cosine Similarity,False,
+1. Cancer,Cancer,CTGAN,One-to-One Greedy,Mahalanobis Distance,True,110.861512
+1. Cancer,Cancer,CTGAN,Hungarian,Cosine Similarity,True,0.94758
+1. Cancer,Cancer,CTGAN,Hungarian,Mahalanobis Distance,False,
+1. Cancer,Cancer,CopulaGAN,Greedy,Cosine Similarity,False,
+1. Cancer,Cancer,CopulaGAN,Greedy,Mahalanobis Distance,False,
+1. Cancer,Cancer,CopulaGAN,One-to-One Greedy,Cosine Similarity,False,
+1. Cancer,Cancer,CopulaGAN,One-to-One Greedy,Mahalanobis Distance,True,134.275819
+1. Cancer,Cancer,CopulaGAN,Hungarian,Cosine Similarity,True,0.956947
+1. Cancer,Cancer,CopulaGAN,Hungarian,Mahalanobis Distance,False,
+1. Cancer,Cancer,TVAE,Greedy,Cosine Similarity,False,
+1. Cancer,Cancer,TVAE,Greedy,Mahalanobis Distance,False,
+1. Cancer,Cancer,TVAE,One-to-One Greedy,Cosine Similarity,False,
+1. Cancer,Cancer,TVAE,One-to-One Greedy,Mahalanobis Distance,True,44.110818
+1. Cancer,Cancer,TVAE,Hungarian,Cosine Similarity,True,0.994255
+1. Cancer,Cancer,TVAE,Hungarian,Mahalanobis Distance,False,
+1. Cancer,Cancer,GaussianCopula,Greedy,Cosine Similarity,False,
+1. Cancer,Cancer,GaussianCopula,Greedy,Mahalanobis Distance,False,
+1. Cancer,Cancer,GaussianCopula,One-to-One Greedy,Cosine Similarity,False,
+1. Cancer,Cancer,GaussianCopula,One-to-One Greedy,Mahalanobis Distance,True,6.494969
+1. Cancer,Cancer,GaussianCopula,Hungarian,Cosine Similarity,True,0.999626
+1. Cancer,Cancer,GaussianCopula,Hungarian,Mahalanobis Distance,False,
+1. Cancer,Cancer,WGAN_GP,Greedy,Cosine Similarity,False,
+1. Cancer,Cancer,WGAN_GP,Greedy,Mahalanobis Distance,False,
+1. Cancer,Cancer,WGAN_GP,One-to-One Greedy,Cosine Similarity,False,
+1. Cancer,Cancer,WGAN_GP,One-to-One Greedy,Mahalanobis Distance,True,6.3872
+1. Cancer,Cancer,WGAN_GP,Hungarian,Cosine Similarity,True,0.99984
+1. Cancer,Cancer,WGAN_GP,Hungarian,Mahalanobis Distance,False,
+1. Cancer,Cancer,CTABGAN,Greedy,Cosine Similarity,False,
+1. Cancer,Cancer,CTABGAN,Greedy,Mahalanobis Distance,False,
+1. Cancer,Cancer,CTABGAN,One-to-One Greedy,Cosine Similarity,False,
+1. Cancer,Cancer,CTABGAN,One-to-One Greedy,Mahalanobis Distance,True,50.2123
+1. Cancer,Cancer,CTABGAN,Hungarian,Cosine Similarity,True,0.998195
+1. Cancer,Cancer,CTABGAN,Hungarian,Mahalanobis Distance,False,
+1. Cancer,Cancer,TabDDPM,Greedy,Cosine Similarity,False,
+1. Cancer,Cancer,TabDDPM,Greedy,Mahalanobis Distance,False,
+1. Cancer,Cancer,TabDDPM,One-to-One Greedy,Cosine Similarity,False,
+1. Cancer,Cancer,TabDDPM,One-to-One Greedy,Mahalanobis Distance,True,34.6458
+1. Cancer,Cancer,TabDDPM,Hungarian,Cosine Similarity,True,0.991305
+1. Cancer,Cancer,TabDDPM,Hungarian,Mahalanobis Distance,False,
+1. Cancer,Cancer,ForestDiffusion,Greedy,Cosine Similarity,False,
+1. Cancer,Cancer,ForestDiffusion,Greedy,Mahalanobis Distance,False,
+1. Cancer,Cancer,ForestDiffusion,One-to-One Greedy,Cosine Similarity,False,
+1. Cancer,Cancer,ForestDiffusion,One-to-One Greedy,Mahalanobis Distance,True,3.9522
+1. Cancer,Cancer,ForestDiffusion,Hungarian,Cosine Similarity,True,0.999888
+1. Cancer,Cancer,ForestDiffusion,Hungarian,Mahalanobis Distance,False,
+2. Alzhimers,Alzheimers,CTGAN,Greedy,Cosine Similarity,False,
+2. Alzhimers,Alzheimers,CTGAN,Greedy,Mahalanobis Distance,False,
+2. Alzhimers,Alzheimers,CTGAN,One-to-One Greedy,Cosine Similarity,False,
+2. Alzhimers,Alzheimers,CTGAN,One-to-One Greedy,Mahalanobis Distance,True,10.223153
+2. Alzhimers,Alzheimers,CTGAN,Hungarian,Cosine Similarity,True,0.9857164555931767
+2. Alzhimers,Alzheimers,CTGAN,Hungarian,Mahalanobis Distance,True,9.748478010813969
+2. Alzhimers,Alzheimers,CopulaGAN,Greedy,Cosine Similarity,False,
+2. Alzhimers,Alzheimers,CopulaGAN,Greedy,Mahalanobis Distance,False,
+2. Alzhimers,Alzheimers,CopulaGAN,One-to-One Greedy,Cosine Similarity,False,
+2. Alzhimers,Alzheimers,CopulaGAN,One-to-One Greedy,Mahalanobis Distance,True,12.265453
+2. Alzhimers,Alzheimers,CopulaGAN,Hungarian,Cosine Similarity,True,0.9033691712569901
+2. Alzhimers,Alzheimers,CopulaGAN,Hungarian,Mahalanobis Distance,True,11.68276110607751
+2. Alzhimers,Alzheimers,TVAE,Greedy,Cosine Similarity,False,
+2. Alzhimers,Alzheimers,TVAE,Greedy,Mahalanobis Distance,False,
+2. Alzhimers,Alzheimers,TVAE,One-to-One Greedy,Cosine Similarity,False,
+2. Alzhimers,Alzheimers,TVAE,One-to-One Greedy,Mahalanobis Distance,True,4.814556
+2. Alzhimers,Alzheimers,TVAE,Hungarian,Cosine Similarity,True,0.9938161964168027
+2. Alzhimers,Alzheimers,TVAE,Hungarian,Mahalanobis Distance,True,4.489425236712888
+2. Alzhimers,Alzheimers,GaussianCopula,Greedy,Cosine Similarity,False,
+2. Alzhimers,Alzheimers,GaussianCopula,Greedy,Mahalanobis Distance,False,
+2. Alzhimers,Alzheimers,GaussianCopula,One-to-One Greedy,Cosine Similarity,False,
+2. Alzhimers,Alzheimers,GaussianCopula,One-to-One Greedy,Mahalanobis Distance,True,3.699365
+2. Alzhimers,Alzheimers,GaussianCopula,Hungarian,Cosine Similarity,True,0.9543145125738454
+2. Alzhimers,Alzheimers,GaussianCopula,Hungarian,Mahalanobis Distance,True,3.152470168440013
+2. Alzhimers,Alzheimers,WGAN_GP,Greedy,Cosine Similarity,False,
+2. Alzhimers,Alzheimers,WGAN_GP,Greedy,Mahalanobis Distance,False,
+2. Alzhimers,Alzheimers,WGAN_GP,One-to-One Greedy,Cosine Similarity,False,
+2. Alzhimers,Alzheimers,WGAN_GP,One-to-One Greedy,Mahalanobis Distance,True,1.7733
+2. Alzhimers,Alzheimers,WGAN_GP,Hungarian,Cosine Similarity,True,0.9998872837596191
+2. Alzhimers,Alzheimers,WGAN_GP,Hungarian,Mahalanobis Distance,True,1.749388884153588
+2. Alzhimers,Alzheimers,CTABGAN,Greedy,Cosine Similarity,False,
+2. Alzhimers,Alzheimers,CTABGAN,Greedy,Mahalanobis Distance,False,
+2. Alzhimers,Alzheimers,CTABGAN,One-to-One Greedy,Cosine Similarity,False,
+2. Alzhimers,Alzheimers,CTABGAN,One-to-One Greedy,Mahalanobis Distance,True,2.9484
+2. Alzhimers,Alzheimers,CTABGAN,Hungarian,Cosine Similarity,True,0.9998100910307864
+2. Alzhimers,Alzheimers,CTABGAN,Hungarian,Mahalanobis Distance,True,2.808648543884104
+2. Alzhimers,Alzheimers,TabDDPM,Greedy,Cosine Similarity,False,
+2. Alzhimers,Alzheimers,TabDDPM,Greedy,Mahalanobis Distance,False,
+2. Alzhimers,Alzheimers,TabDDPM,One-to-One Greedy,Cosine Similarity,False,
+2. Alzhimers,Alzheimers,TabDDPM,One-to-One Greedy,Mahalanobis Distance,True,3.317
+2. Alzhimers,Alzheimers,TabDDPM,Hungarian,Cosine Similarity,True,0.9915310108191179
+2. Alzhimers,Alzheimers,TabDDPM,Hungarian,Mahalanobis Distance,True,3.151104083475662
+2. Alzhimers,Alzheimers,ForestDiffusion,Greedy,Cosine Similarity,False,
+2. Alzhimers,Alzheimers,ForestDiffusion,Greedy,Mahalanobis Distance,False,
+2. Alzhimers,Alzheimers,ForestDiffusion,One-to-One Greedy,Cosine Similarity,False,
+2. Alzhimers,Alzheimers,ForestDiffusion,One-to-One Greedy,Mahalanobis Distance,True,1.4367
+2. Alzhimers,Alzheimers,ForestDiffusion,Hungarian,Cosine Similarity,True,0.9999908867907575
+2. Alzhimers,Alzheimers,ForestDiffusion,Hungarian,Mahalanobis Distance,True,1.42151413008528
+3. Adult,Adult,CTGAN,Greedy,Cosine Similarity,False,
+3. Adult,Adult,CTGAN,Greedy,Mahalanobis Distance,False,
+3. Adult,Adult,CTGAN,One-to-One Greedy,Cosine Similarity,False,
+3. Adult,Adult,CTGAN,One-to-One Greedy,Mahalanobis Distance,True,1.768268
+3. Adult,Adult,CTGAN,Hungarian,Cosine Similarity,True,0.9996423581191255
+3. Adult,Adult,CTGAN,Hungarian,Mahalanobis Distance,True,0.312119816355832
+3. Adult,Adult,CopulaGAN,Greedy,Cosine Similarity,False,
+3. Adult,Adult,CopulaGAN,Greedy,Mahalanobis Distance,False,
+3. Adult,Adult,CopulaGAN,One-to-One Greedy,Cosine Similarity,False,
+3. Adult,Adult,CopulaGAN,One-to-One Greedy,Mahalanobis Distance,True,2.101094
+3. Adult,Adult,CopulaGAN,Hungarian,Cosine Similarity,True,0.9964779684956977
+3. Adult,Adult,CopulaGAN,Hungarian,Mahalanobis Distance,True,0.6750320130668681
+3. Adult,Adult,TVAE,Greedy,Cosine Similarity,False,
+3. Adult,Adult,TVAE,Greedy,Mahalanobis Distance,False,
+3. Adult,Adult,TVAE,One-to-One Greedy,Cosine Similarity,False,
+3. Adult,Adult,TVAE,One-to-One Greedy,Mahalanobis Distance,True,2.491583
+3. Adult,Adult,TVAE,Hungarian,Cosine Similarity,True,0.9994313165892008
+3. Adult,Adult,TVAE,Hungarian,Mahalanobis Distance,True,0.1163703617203237
+3. Adult,Adult,GaussianCopula,Greedy,Cosine Similarity,False,
+3. Adult,Adult,GaussianCopula,Greedy,Mahalanobis Distance,False,
+3. Adult,Adult,GaussianCopula,One-to-One Greedy,Cosine Similarity,False,
+3. Adult,Adult,GaussianCopula,One-to-One Greedy,Mahalanobis Distance,True,5.795991
+3. Adult,Adult,GaussianCopula,Hungarian,Cosine Similarity,True,0.9806849869684116
+3. Adult,Adult,GaussianCopula,Hungarian,Mahalanobis Distance,True,2.484689273011973
+3. Adult,Adult,WGAN_GP,Greedy,Cosine Similarity,False,
+3. Adult,Adult,WGAN_GP,Greedy,Mahalanobis Distance,False,
+3. Adult,Adult,WGAN_GP,One-to-One Greedy,Cosine Similarity,False,
+3. Adult,Adult,WGAN_GP,One-to-One Greedy,Mahalanobis Distance,True,1.7954
+3. Adult,Adult,WGAN_GP,Hungarian,Cosine Similarity,True,0.996304476661821
+3. Adult,Adult,WGAN_GP,Hungarian,Mahalanobis Distance,True,1.647321943434293
+3. Adult,Adult,CTABGAN,Greedy,Cosine Similarity,False,
+3. Adult,Adult,CTABGAN,Greedy,Mahalanobis Distance,False,
+3. Adult,Adult,CTABGAN,One-to-One Greedy,Cosine Similarity,False,
+3. Adult,Adult,CTABGAN,One-to-One Greedy,Mahalanobis Distance,True,2.508
+3. Adult,Adult,CTABGAN,Hungarian,Cosine Similarity,True,0.9998866616845967
+3. Adult,Adult,CTABGAN,Hungarian,Mahalanobis Distance,True,2.428502572522146
+3. Adult,Adult,TabDDPM,Greedy,Cosine Similarity,False,
+3. Adult,Adult,TabDDPM,Greedy,Mahalanobis Distance,False,
+3. Adult,Adult,TabDDPM,One-to-One Greedy,Cosine Similarity,False,
+3. Adult,Adult,TabDDPM,One-to-One Greedy,Mahalanobis Distance,True,11.842
+3. Adult,Adult,TabDDPM,Hungarian,Cosine Similarity,True,0.7988756851244702
+3. Adult,Adult,TabDDPM,Hungarian,Mahalanobis Distance,True,11.73058872994562
+3. Adult,Adult,ForestDiffusion,Greedy,Cosine Similarity,False,
+3. Adult,Adult,ForestDiffusion,Greedy,Mahalanobis Distance,False,
+3. Adult,Adult,ForestDiffusion,One-to-One Greedy,Cosine Similarity,False,
+3. Adult,Adult,ForestDiffusion,One-to-One Greedy,Mahalanobis Distance,True,0.8831
+3. Adult,Adult,ForestDiffusion,Hungarian,Cosine Similarity,True,0.9997905968172516
+3. Adult,Adult,ForestDiffusion,Hungarian,Mahalanobis Distance,True,0.7604998920067207
+4. Forest cover dataset,ForestCover,CTGAN,Greedy,Cosine Similarity,False,
+4. Forest cover dataset,ForestCover,CTGAN,Greedy,Mahalanobis Distance,False,
+4. Forest cover dataset,ForestCover,CTGAN,One-to-One Greedy,Cosine Similarity,False,
+4. Forest cover dataset,ForestCover,CTGAN,One-to-One Greedy,Mahalanobis Distance,True,387.984
+4. Forest cover dataset,ForestCover,CTGAN,Hungarian,Cosine Similarity,True,0.976664
+4. Forest cover dataset,ForestCover,CTGAN,Hungarian,Mahalanobis Distance,False,
+4. Forest cover dataset,ForestCover,CopulaGAN,Greedy,Cosine Similarity,False,
+4. Forest cover dataset,ForestCover,CopulaGAN,Greedy,Mahalanobis Distance,False,
+4. Forest cover dataset,ForestCover,CopulaGAN,One-to-One Greedy,Cosine Similarity,False,
+4. Forest cover dataset,ForestCover,CopulaGAN,One-to-One Greedy,Mahalanobis Distance,True,391.878
+4. Forest cover dataset,ForestCover,CopulaGAN,Hungarian,Cosine Similarity,True,0.954908
+4. Forest cover dataset,ForestCover,CopulaGAN,Hungarian,Mahalanobis Distance,False,
+4. Forest cover dataset,ForestCover,TVAE,Greedy,Cosine Similarity,False,
+4. Forest cover dataset,ForestCover,TVAE,Greedy,Mahalanobis Distance,False,
+4. Forest cover dataset,ForestCover,TVAE,One-to-One Greedy,Cosine Similarity,False,
+4. Forest cover dataset,ForestCover,TVAE,One-to-One Greedy,Mahalanobis Distance,True,191.5824
+4. Forest cover dataset,ForestCover,TVAE,Hungarian,Cosine Similarity,True,0.985911
+4. Forest cover dataset,ForestCover,TVAE,Hungarian,Mahalanobis Distance,False,
+4. Forest cover dataset,ForestCover,GaussianCopula,Greedy,Cosine Similarity,False,
+4. Forest cover dataset,ForestCover,GaussianCopula,Greedy,Mahalanobis Distance,False,
+4. Forest cover dataset,ForestCover,GaussianCopula,One-to-One Greedy,Cosine Similarity,False,
+4. Forest cover dataset,ForestCover,GaussianCopula,One-to-One Greedy,Mahalanobis Distance,True,283.6519
+4. Forest cover dataset,ForestCover,GaussianCopula,Hungarian,Cosine Similarity,True,0.997299
+4. Forest cover dataset,ForestCover,GaussianCopula,Hungarian,Mahalanobis Distance,False,
+4. Forest cover dataset,ForestCover,WGAN_GP,Greedy,Cosine Similarity,False,
+4. Forest cover dataset,ForestCover,WGAN_GP,Greedy,Mahalanobis Distance,False,
+4. Forest cover dataset,ForestCover,WGAN_GP,One-to-One Greedy,Cosine Similarity,False,
+4. Forest cover dataset,ForestCover,WGAN_GP,One-to-One Greedy,Mahalanobis Distance,True,485.347
+4. Forest cover dataset,ForestCover,WGAN_GP,Hungarian,Cosine Similarity,True,0.997355
+4. Forest cover dataset,ForestCover,WGAN_GP,Hungarian,Mahalanobis Distance,False,
+4. Forest cover dataset,ForestCover,CTABGAN,Greedy,Cosine Similarity,False,
+4. Forest cover dataset,ForestCover,CTABGAN,Greedy,Mahalanobis Distance,False,
+4. Forest cover dataset,ForestCover,CTABGAN,One-to-One Greedy,Cosine Similarity,False,
+4. Forest cover dataset,ForestCover,CTABGAN,One-to-One Greedy,Mahalanobis Distance,True,63.0334
+4. Forest cover dataset,ForestCover,CTABGAN,Hungarian,Cosine Similarity,True,0.996078
+4. Forest cover dataset,ForestCover,CTABGAN,Hungarian,Mahalanobis Distance,False,
+4. Forest cover dataset,ForestCover,TabDDPM,Greedy,Cosine Similarity,False,
+4. Forest cover dataset,ForestCover,TabDDPM,Greedy,Mahalanobis Distance,False,
+4. Forest cover dataset,ForestCover,TabDDPM,One-to-One Greedy,Cosine Similarity,False,
+4. Forest cover dataset,ForestCover,TabDDPM,One-to-One Greedy,Mahalanobis Distance,True,636.1656
+4. Forest cover dataset,ForestCover,TabDDPM,Hungarian,Cosine Similarity,True,0.891484
+4. Forest cover dataset,ForestCover,TabDDPM,Hungarian,Mahalanobis Distance,True,636.1192608076418
+4. Forest cover dataset,ForestCover,ForestDiffusion,Greedy,Cosine Similarity,False,
+4. Forest cover dataset,ForestCover,ForestDiffusion,Greedy,Mahalanobis Distance,False,
+4. Forest cover dataset,ForestCover,ForestDiffusion,One-to-One Greedy,Cosine Similarity,False,
+4. Forest cover dataset,ForestCover,ForestDiffusion,One-to-One Greedy,Mahalanobis Distance,True,10.3564
+4. Forest cover dataset,ForestCover,ForestDiffusion,Hungarian,Cosine Similarity,True,0.997509
+4. Forest cover dataset,ForestCover,ForestDiffusion,Hungarian,Mahalanobis Distance,True,10.21356345113765
+5. Bank Markting,Bank,CTGAN,Greedy,Cosine Similarity,False,
+5. Bank Markting,Bank,CTGAN,Greedy,Mahalanobis Distance,False,
+5. Bank Markting,Bank,CTGAN,One-to-One Greedy,Cosine Similarity,False,
+5. Bank Markting,Bank,CTGAN,One-to-One Greedy,Mahalanobis Distance,False,
+5. Bank Markting,Bank,CTGAN,Hungarian,Cosine Similarity,True,0.9996685798816864
+5. Bank Markting,Bank,CTGAN,Hungarian,Mahalanobis Distance,False,
+5. Bank Markting,Bank,CopulaGAN,Greedy,Cosine Similarity,False,
+5. Bank Markting,Bank,CopulaGAN,Greedy,Mahalanobis Distance,False,
+5. Bank Markting,Bank,CopulaGAN,One-to-One Greedy,Cosine Similarity,False,
+5. Bank Markting,Bank,CopulaGAN,One-to-One Greedy,Mahalanobis Distance,False,
+5. Bank Markting,Bank,CopulaGAN,Hungarian,Cosine Similarity,True,0.9994728773158172
+5. Bank Markting,Bank,CopulaGAN,Hungarian,Mahalanobis Distance,False,
+5. Bank Markting,Bank,TVAE,Greedy,Cosine Similarity,False,
+5. Bank Markting,Bank,TVAE,Greedy,Mahalanobis Distance,False,
+5. Bank Markting,Bank,TVAE,One-to-One Greedy,Cosine Similarity,False,
+5. Bank Markting,Bank,TVAE,One-to-One Greedy,Mahalanobis Distance,False,
+5. Bank Markting,Bank,TVAE,Hungarian,Cosine Similarity,True,0.9989676630292432
+5. Bank Markting,Bank,TVAE,Hungarian,Mahalanobis Distance,False,
+5. Bank Markting,Bank,GaussianCopula,Greedy,Cosine Similarity,False,
+5. Bank Markting,Bank,GaussianCopula,Greedy,Mahalanobis Distance,False,
+5. Bank Markting,Bank,GaussianCopula,One-to-One Greedy,Cosine Similarity,False,
+5. Bank Markting,Bank,GaussianCopula,One-to-One Greedy,Mahalanobis Distance,False,
+5. Bank Markting,Bank,GaussianCopula,Hungarian,Cosine Similarity,True,0.9931425769281476
+5. Bank Markting,Bank,GaussianCopula,Hungarian,Mahalanobis Distance,False,
+5. Bank Markting,Bank,WGAN_GP,Greedy,Cosine Similarity,False,
+5. Bank Markting,Bank,WGAN_GP,Greedy,Mahalanobis Distance,False,
+5. Bank Markting,Bank,WGAN_GP,One-to-One Greedy,Cosine Similarity,False,
+5. Bank Markting,Bank,WGAN_GP,One-to-One Greedy,Mahalanobis Distance,True,2.2412
+5. Bank Markting,Bank,WGAN_GP,Hungarian,Cosine Similarity,True,0.810998
+5. Bank Markting,Bank,WGAN_GP,Hungarian,Mahalanobis Distance,False,
+5. Bank Markting,Bank,CTABGAN,Greedy,Cosine Similarity,False,
+5. Bank Markting,Bank,CTABGAN,Greedy,Mahalanobis Distance,False,
+5. Bank Markting,Bank,CTABGAN,One-to-One Greedy,Cosine Similarity,False,
+5. Bank Markting,Bank,CTABGAN,One-to-One Greedy,Mahalanobis Distance,True,1.3445
+5. Bank Markting,Bank,CTABGAN,Hungarian,Cosine Similarity,True,0.939923
+5. Bank Markting,Bank,CTABGAN,Hungarian,Mahalanobis Distance,False,
+5. Bank Markting,Bank,TabDDPM,Greedy,Cosine Similarity,False,
+5. Bank Markting,Bank,TabDDPM,Greedy,Mahalanobis Distance,False,
+5. Bank Markting,Bank,TabDDPM,One-to-One Greedy,Cosine Similarity,False,
+5. Bank Markting,Bank,TabDDPM,One-to-One Greedy,Mahalanobis Distance,True,10.6833
+5. Bank Markting,Bank,TabDDPM,Hungarian,Cosine Similarity,True,0.357519
+5. Bank Markting,Bank,TabDDPM,Hungarian,Mahalanobis Distance,False,
+5. Bank Markting,Bank,ForestDiffusion,Greedy,Cosine Similarity,False,
+5. Bank Markting,Bank,ForestDiffusion,Greedy,Mahalanobis Distance,False,
+5. Bank Markting,Bank,ForestDiffusion,One-to-One Greedy,Cosine Similarity,False,
+5. Bank Markting,Bank,ForestDiffusion,One-to-One Greedy,Mahalanobis Distance,True,0.9368
+5. Bank Markting,Bank,ForestDiffusion,Hungarian,Cosine Similarity,True,0.953458
+5. Bank Markting,Bank,ForestDiffusion,Hungarian,Mahalanobis Distance,False,
+6. Wine dataset,Wine,CTGAN,Greedy,Cosine Similarity,False,
+6. Wine dataset,Wine,CTGAN,Greedy,Mahalanobis Distance,False,
+6. Wine dataset,Wine,CTGAN,One-to-One Greedy,Cosine Similarity,False,
+6. Wine dataset,Wine,CTGAN,One-to-One Greedy,Mahalanobis Distance,False,
+6. Wine dataset,Wine,CTGAN,Hungarian,Cosine Similarity,False,
+6. Wine dataset,Wine,CTGAN,Hungarian,Mahalanobis Distance,True,14.60013448951508
+6. Wine dataset,Wine,CopulaGAN,Greedy,Cosine Similarity,False,
+6. Wine dataset,Wine,CopulaGAN,Greedy,Mahalanobis Distance,False,
+6. Wine dataset,Wine,CopulaGAN,One-to-One Greedy,Cosine Similarity,False,
+6. Wine dataset,Wine,CopulaGAN,One-to-One Greedy,Mahalanobis Distance,False,
+6. Wine dataset,Wine,CopulaGAN,Hungarian,Cosine Similarity,False,
+6. Wine dataset,Wine,CopulaGAN,Hungarian,Mahalanobis Distance,True,14.97249458978774
+6. Wine dataset,Wine,TVAE,Greedy,Cosine Similarity,False,
+6. Wine dataset,Wine,TVAE,Greedy,Mahalanobis Distance,False,
+6. Wine dataset,Wine,TVAE,One-to-One Greedy,Cosine Similarity,False,
+6. Wine dataset,Wine,TVAE,One-to-One Greedy,Mahalanobis Distance,False,
+6. Wine dataset,Wine,TVAE,Hungarian,Cosine Similarity,False,
+6. Wine dataset,Wine,TVAE,Hungarian,Mahalanobis Distance,True,13.65101514825886
+6. Wine dataset,Wine,GaussianCopula,Greedy,Cosine Similarity,False,
+6. Wine dataset,Wine,GaussianCopula,Greedy,Mahalanobis Distance,False,
+6. Wine dataset,Wine,GaussianCopula,One-to-One Greedy,Cosine Similarity,False,
+6. Wine dataset,Wine,GaussianCopula,One-to-One Greedy,Mahalanobis Distance,False,
+6. Wine dataset,Wine,GaussianCopula,Hungarian,Cosine Similarity,False,
+6. Wine dataset,Wine,GaussianCopula,Hungarian,Mahalanobis Distance,True,15.50733446018729
+6. Wine dataset,Wine,WGAN_GP,Greedy,Cosine Similarity,False,
+6. Wine dataset,Wine,WGAN_GP,Greedy,Mahalanobis Distance,False,
+6. Wine dataset,Wine,WGAN_GP,One-to-One Greedy,Cosine Similarity,False,
+6. Wine dataset,Wine,WGAN_GP,One-to-One Greedy,Mahalanobis Distance,True,3.6759
+6. Wine dataset,Wine,WGAN_GP,Hungarian,Cosine Similarity,True,0.976834
+6. Wine dataset,Wine,WGAN_GP,Hungarian,Mahalanobis Distance,False,
+6. Wine dataset,Wine,CTABGAN,Greedy,Cosine Similarity,False,
+6. Wine dataset,Wine,CTABGAN,Greedy,Mahalanobis Distance,False,
+6. Wine dataset,Wine,CTABGAN,One-to-One Greedy,Cosine Similarity,False,
+6. Wine dataset,Wine,CTABGAN,One-to-One Greedy,Mahalanobis Distance,True,3.3377
+6. Wine dataset,Wine,CTABGAN,Hungarian,Cosine Similarity,True,0.980089
+6. Wine dataset,Wine,CTABGAN,Hungarian,Mahalanobis Distance,False,
+6. Wine dataset,Wine,TabDDPM,Greedy,Cosine Similarity,False,
+6. Wine dataset,Wine,TabDDPM,Greedy,Mahalanobis Distance,False,
+6. Wine dataset,Wine,TabDDPM,One-to-One Greedy,Cosine Similarity,False,
+6. Wine dataset,Wine,TabDDPM,One-to-One Greedy,Mahalanobis Distance,True,5.4729
+6. Wine dataset,Wine,TabDDPM,Hungarian,Cosine Similarity,True,0.942491
+6. Wine dataset,Wine,TabDDPM,Hungarian,Mahalanobis Distance,False,
+6. Wine dataset,Wine,ForestDiffusion,Greedy,Cosine Similarity,False,
+6. Wine dataset,Wine,ForestDiffusion,Greedy,Mahalanobis Distance,False,
+6. Wine dataset,Wine,ForestDiffusion,One-to-One Greedy,Cosine Similarity,False,
+6. Wine dataset,Wine,ForestDiffusion,One-to-One Greedy,Mahalanobis Distance,True,1.6171
+6. Wine dataset,Wine,ForestDiffusion,Hungarian,Cosine Similarity,True,0.997669
+6. Wine dataset,Wine,ForestDiffusion,Hungarian,Mahalanobis Distance,False,
+7. CDC diabetes dataset,CDC_Diabetes,CTGAN,Greedy,Cosine Similarity,False,
+7. CDC diabetes dataset,CDC_Diabetes,CTGAN,Greedy,Mahalanobis Distance,False,
+7. CDC diabetes dataset,CDC_Diabetes,CTGAN,One-to-One Greedy,Cosine Similarity,False,
+7. CDC diabetes dataset,CDC_Diabetes,CTGAN,One-to-One Greedy,Mahalanobis Distance,False,
+7. CDC diabetes dataset,CDC_Diabetes,CTGAN,Hungarian,Cosine Similarity,True,0.9851661008568016
+7. CDC diabetes dataset,CDC_Diabetes,CTGAN,Hungarian,Mahalanobis Distance,True,0.480346042408537
+7. CDC diabetes dataset,CDC_Diabetes,CopulaGAN,Greedy,Cosine Similarity,False,
+7. CDC diabetes dataset,CDC_Diabetes,CopulaGAN,Greedy,Mahalanobis Distance,False,
+7. CDC diabetes dataset,CDC_Diabetes,CopulaGAN,One-to-One Greedy,Cosine Similarity,False,
+7. CDC diabetes dataset,CDC_Diabetes,CopulaGAN,One-to-One Greedy,Mahalanobis Distance,False,
+7. CDC diabetes dataset,CDC_Diabetes,CopulaGAN,Hungarian,Cosine Similarity,True,0.9945577524214452
+7. CDC diabetes dataset,CDC_Diabetes,CopulaGAN,Hungarian,Mahalanobis Distance,True,0.577594273540177
+7. CDC diabetes dataset,CDC_Diabetes,TVAE,Greedy,Cosine Similarity,False,
+7. CDC diabetes dataset,CDC_Diabetes,TVAE,Greedy,Mahalanobis Distance,False,
+7. CDC diabetes dataset,CDC_Diabetes,TVAE,One-to-One Greedy,Cosine Similarity,False,
+7. CDC diabetes dataset,CDC_Diabetes,TVAE,One-to-One Greedy,Mahalanobis Distance,False,
+7. CDC diabetes dataset,CDC_Diabetes,TVAE,Hungarian,Cosine Similarity,True,0.9983234912644736
+7. CDC diabetes dataset,CDC_Diabetes,TVAE,Hungarian,Mahalanobis Distance,True,0.6194033040135131
+7. CDC diabetes dataset,CDC_Diabetes,GaussianCopula,Greedy,Cosine Similarity,False,
+7. CDC diabetes dataset,CDC_Diabetes,GaussianCopula,Greedy,Mahalanobis Distance,False,
+7. CDC diabetes dataset,CDC_Diabetes,GaussianCopula,One-to-One Greedy,Cosine Similarity,False,
+7. CDC diabetes dataset,CDC_Diabetes,GaussianCopula,One-to-One Greedy,Mahalanobis Distance,False,
+7. CDC diabetes dataset,CDC_Diabetes,GaussianCopula,Hungarian,Cosine Similarity,True,0.9971737677781224
+7. CDC diabetes dataset,CDC_Diabetes,GaussianCopula,Hungarian,Mahalanobis Distance,True,27.5822488054879
+7. CDC diabetes dataset,CDC_Diabetes,WGAN_GP,Greedy,Cosine Similarity,False,
+7. CDC diabetes dataset,CDC_Diabetes,WGAN_GP,Greedy,Mahalanobis Distance,False,
+7. CDC diabetes dataset,CDC_Diabetes,WGAN_GP,One-to-One Greedy,Cosine Similarity,False,
+7. CDC diabetes dataset,CDC_Diabetes,WGAN_GP,One-to-One Greedy,Mahalanobis Distance,True,3.9642
+7. CDC diabetes dataset,CDC_Diabetes,WGAN_GP,Hungarian,Cosine Similarity,True,0.982831
+7. CDC diabetes dataset,CDC_Diabetes,WGAN_GP,Hungarian,Mahalanobis Distance,False,
+7. CDC diabetes dataset,CDC_Diabetes,CTABGAN,Greedy,Cosine Similarity,False,
+7. CDC diabetes dataset,CDC_Diabetes,CTABGAN,Greedy,Mahalanobis Distance,False,
+7. CDC diabetes dataset,CDC_Diabetes,CTABGAN,One-to-One Greedy,Cosine Similarity,False,
+7. CDC diabetes dataset,CDC_Diabetes,CTABGAN,One-to-One Greedy,Mahalanobis Distance,True,6.856
+7. CDC diabetes dataset,CDC_Diabetes,CTABGAN,Hungarian,Cosine Similarity,True,0.986286
+7. CDC diabetes dataset,CDC_Diabetes,CTABGAN,Hungarian,Mahalanobis Distance,False,
+7. CDC diabetes dataset,CDC_Diabetes,TabDDPM,Greedy,Cosine Similarity,False,
+7. CDC diabetes dataset,CDC_Diabetes,TabDDPM,Greedy,Mahalanobis Distance,False,
+7. CDC diabetes dataset,CDC_Diabetes,TabDDPM,One-to-One Greedy,Cosine Similarity,False,
+7. CDC diabetes dataset,CDC_Diabetes,TabDDPM,One-to-One Greedy,Mahalanobis Distance,True,8.5135
+7. CDC diabetes dataset,CDC_Diabetes,TabDDPM,Hungarian,Cosine Similarity,True,0.946035
+7. CDC diabetes dataset,CDC_Diabetes,TabDDPM,Hungarian,Mahalanobis Distance,False,
+7. CDC diabetes dataset,CDC_Diabetes,ForestDiffusion,Greedy,Cosine Similarity,False,
+7. CDC diabetes dataset,CDC_Diabetes,ForestDiffusion,Greedy,Mahalanobis Distance,False,
+7. CDC diabetes dataset,CDC_Diabetes,ForestDiffusion,One-to-One Greedy,Cosine Similarity,False,
+7. CDC diabetes dataset,CDC_Diabetes,ForestDiffusion,One-to-One Greedy,Mahalanobis Distance,True,2.7934
+7. CDC diabetes dataset,CDC_Diabetes,ForestDiffusion,Hungarian,Cosine Similarity,True,0.995394
+7. CDC diabetes dataset,CDC_Diabetes,ForestDiffusion,Hungarian,Mahalanobis Distance,False,
+8. Mushroom dataset,Mushroom,CTGAN,Greedy,Cosine Similarity,False,
+8. Mushroom dataset,Mushroom,CTGAN,Greedy,Mahalanobis Distance,False,
+8. Mushroom dataset,Mushroom,CTGAN,One-to-One Greedy,Cosine Similarity,False,
+8. Mushroom dataset,Mushroom,CTGAN,One-to-One Greedy,Mahalanobis Distance,False,
+8. Mushroom dataset,Mushroom,CTGAN,Hungarian,Cosine Similarity,True,0.9887827505945156
+8. Mushroom dataset,Mushroom,CTGAN,Hungarian,Mahalanobis Distance,True,0.4861690905004704
+8. Mushroom dataset,Mushroom,CopulaGAN,Greedy,Cosine Similarity,False,
+8. Mushroom dataset,Mushroom,CopulaGAN,Greedy,Mahalanobis Distance,False,
+8. Mushroom dataset,Mushroom,CopulaGAN,One-to-One Greedy,Cosine Similarity,False,
+8. Mushroom dataset,Mushroom,CopulaGAN,One-to-One Greedy,Mahalanobis Distance,False,
+8. Mushroom dataset,Mushroom,CopulaGAN,Hungarian,Cosine Similarity,True,0.989882442334801
+8. Mushroom dataset,Mushroom,CopulaGAN,Hungarian,Mahalanobis Distance,True,0.5394674015084815
+8. Mushroom dataset,Mushroom,TVAE,Greedy,Cosine Similarity,False,
+8. Mushroom dataset,Mushroom,TVAE,Greedy,Mahalanobis Distance,False,
+8. Mushroom dataset,Mushroom,TVAE,One-to-One Greedy,Cosine Similarity,False,
+8. Mushroom dataset,Mushroom,TVAE,One-to-One Greedy,Mahalanobis Distance,False,
+8. Mushroom dataset,Mushroom,TVAE,Hungarian,Cosine Similarity,True,0.9835869904792532
+8. Mushroom dataset,Mushroom,TVAE,Hungarian,Mahalanobis Distance,True,0.4330184728020023
+8. Mushroom dataset,Mushroom,GaussianCopula,Greedy,Cosine Similarity,False,
+8. Mushroom dataset,Mushroom,GaussianCopula,Greedy,Mahalanobis Distance,False,
+8. Mushroom dataset,Mushroom,GaussianCopula,One-to-One Greedy,Cosine Similarity,False,
+8. Mushroom dataset,Mushroom,GaussianCopula,One-to-One Greedy,Mahalanobis Distance,False,
+8. Mushroom dataset,Mushroom,GaussianCopula,Hungarian,Cosine Similarity,True,0.9944284213885014
+8. Mushroom dataset,Mushroom,GaussianCopula,Hungarian,Mahalanobis Distance,True,0.3940570978261434
+8. Mushroom dataset,Mushroom,WGAN_GP,Greedy,Cosine Similarity,False,
+8. Mushroom dataset,Mushroom,WGAN_GP,Greedy,Mahalanobis Distance,False,
+8. Mushroom dataset,Mushroom,WGAN_GP,One-to-One Greedy,Cosine Similarity,False,
+8. Mushroom dataset,Mushroom,WGAN_GP,One-to-One Greedy,Mahalanobis Distance,True,1.1701
+8. Mushroom dataset,Mushroom,WGAN_GP,Hungarian,Cosine Similarity,True,0.864065
+8. Mushroom dataset,Mushroom,WGAN_GP,Hungarian,Mahalanobis Distance,False,
+8. Mushroom dataset,Mushroom,CTABGAN,Greedy,Cosine Similarity,False,
+8. Mushroom dataset,Mushroom,CTABGAN,Greedy,Mahalanobis Distance,False,
+8. Mushroom dataset,Mushroom,CTABGAN,One-to-One Greedy,Cosine Similarity,False,
+8. Mushroom dataset,Mushroom,CTABGAN,One-to-One Greedy,Mahalanobis Distance,True,1.9831
+8. Mushroom dataset,Mushroom,CTABGAN,Hungarian,Cosine Similarity,True,0.9666
+8. Mushroom dataset,Mushroom,CTABGAN,Hungarian,Mahalanobis Distance,False,
+8. Mushroom dataset,Mushroom,TabDDPM,Greedy,Cosine Similarity,False,
+8. Mushroom dataset,Mushroom,TabDDPM,Greedy,Mahalanobis Distance,False,
+8. Mushroom dataset,Mushroom,TabDDPM,One-to-One Greedy,Cosine Similarity,False,
+8. Mushroom dataset,Mushroom,TabDDPM,One-to-One Greedy,Mahalanobis Distance,True,9.3739
+8. Mushroom dataset,Mushroom,TabDDPM,Hungarian,Cosine Similarity,True,0.810579
+8. Mushroom dataset,Mushroom,TabDDPM,Hungarian,Mahalanobis Distance,False,
+8. Mushroom dataset,Mushroom,ForestDiffusion,Greedy,Cosine Similarity,False,
+8. Mushroom dataset,Mushroom,ForestDiffusion,Greedy,Mahalanobis Distance,False,
+8. Mushroom dataset,Mushroom,ForestDiffusion,One-to-One Greedy,Cosine Similarity,False,
+8. Mushroom dataset,Mushroom,ForestDiffusion,One-to-One Greedy,Mahalanobis Distance,True,0.6321
+8. Mushroom dataset,Mushroom,ForestDiffusion,Hungarian,Cosine Similarity,True,0.988409
+8. Mushroom dataset,Mushroom,ForestDiffusion,Hungarian,Mahalanobis Distance,False,
+9. MAGIC Gamma Telescope,MAGIC,CTGAN,Greedy,Cosine Similarity,False,
+9. MAGIC Gamma Telescope,MAGIC,CTGAN,Greedy,Mahalanobis Distance,False,
+9. MAGIC Gamma Telescope,MAGIC,CTGAN,One-to-One Greedy,Cosine Similarity,False,
+9. MAGIC Gamma Telescope,MAGIC,CTGAN,One-to-One Greedy,Mahalanobis Distance,True,2.43384
+9. MAGIC Gamma Telescope,MAGIC,CTGAN,Hungarian,Cosine Similarity,True,0.987115
+9. MAGIC Gamma Telescope,MAGIC,CTGAN,Hungarian,Mahalanobis Distance,True,3.259152594267476
+9. MAGIC Gamma Telescope,MAGIC,CopulaGAN,Greedy,Cosine Similarity,False,
+9. MAGIC Gamma Telescope,MAGIC,CopulaGAN,Greedy,Mahalanobis Distance,False,
+9. MAGIC Gamma Telescope,MAGIC,CopulaGAN,One-to-One Greedy,Cosine Similarity,False,
+9. MAGIC Gamma Telescope,MAGIC,CopulaGAN,One-to-One Greedy,Mahalanobis Distance,True,2.200845
+9. MAGIC Gamma Telescope,MAGIC,CopulaGAN,Hungarian,Cosine Similarity,True,0.983916
+9. MAGIC Gamma Telescope,MAGIC,CopulaGAN,Hungarian,Mahalanobis Distance,True,2.898899999348318
+9. MAGIC Gamma Telescope,MAGIC,TVAE,Greedy,Cosine Similarity,False,
+9. MAGIC Gamma Telescope,MAGIC,TVAE,Greedy,Mahalanobis Distance,False,
+9. MAGIC Gamma Telescope,MAGIC,TVAE,One-to-One Greedy,Cosine Similarity,False,
+9. MAGIC Gamma Telescope,MAGIC,TVAE,One-to-One Greedy,Mahalanobis Distance,True,1.25837
+9. MAGIC Gamma Telescope,MAGIC,TVAE,Hungarian,Cosine Similarity,True,0.989433
+9. MAGIC Gamma Telescope,MAGIC,TVAE,Hungarian,Mahalanobis Distance,True,1.871005046571554
+9. MAGIC Gamma Telescope,MAGIC,GaussianCopula,Greedy,Cosine Similarity,False,
+9. MAGIC Gamma Telescope,MAGIC,GaussianCopula,Greedy,Mahalanobis Distance,False,
+9. MAGIC Gamma Telescope,MAGIC,GaussianCopula,One-to-One Greedy,Cosine Similarity,False,
+9. MAGIC Gamma Telescope,MAGIC,GaussianCopula,One-to-One Greedy,Mahalanobis Distance,True,1.948976
+9. MAGIC Gamma Telescope,MAGIC,GaussianCopula,Hungarian,Cosine Similarity,True,0.946915
+9. MAGIC Gamma Telescope,MAGIC,GaussianCopula,Hungarian,Mahalanobis Distance,True,2.29071670862113
+9. MAGIC Gamma Telescope,MAGIC,WGAN_GP,Greedy,Cosine Similarity,False,
+9. MAGIC Gamma Telescope,MAGIC,WGAN_GP,Greedy,Mahalanobis Distance,False,
+9. MAGIC Gamma Telescope,MAGIC,WGAN_GP,One-to-One Greedy,Cosine Similarity,False,
+9. MAGIC Gamma Telescope,MAGIC,WGAN_GP,One-to-One Greedy,Mahalanobis Distance,True,1.209
+9. MAGIC Gamma Telescope,MAGIC,WGAN_GP,Hungarian,Cosine Similarity,True,0.997771
+9. MAGIC Gamma Telescope,MAGIC,WGAN_GP,Hungarian,Mahalanobis Distance,True,1.17739482499675
+9. MAGIC Gamma Telescope,MAGIC,CTABGAN,Greedy,Cosine Similarity,False,
+9. MAGIC Gamma Telescope,MAGIC,CTABGAN,Greedy,Mahalanobis Distance,False,
+9. MAGIC Gamma Telescope,MAGIC,CTABGAN,One-to-One Greedy,Cosine Similarity,False,
+9. MAGIC Gamma Telescope,MAGIC,CTABGAN,One-to-One Greedy,Mahalanobis Distance,True,1.9498
+9. MAGIC Gamma Telescope,MAGIC,CTABGAN,Hungarian,Cosine Similarity,True,0.995642
+9. MAGIC Gamma Telescope,MAGIC,CTABGAN,Hungarian,Mahalanobis Distance,True,1.864591197366024
+9. MAGIC Gamma Telescope,MAGIC,TabDDPM,Greedy,Cosine Similarity,False,
+9. MAGIC Gamma Telescope,MAGIC,TabDDPM,Greedy,Mahalanobis Distance,False,
+9. MAGIC Gamma Telescope,MAGIC,TabDDPM,One-to-One Greedy,Cosine Similarity,False,
+9. MAGIC Gamma Telescope,MAGIC,TabDDPM,One-to-One Greedy,Mahalanobis Distance,True,4.5721
+9. MAGIC Gamma Telescope,MAGIC,TabDDPM,Hungarian,Cosine Similarity,True,0.923839
+9. MAGIC Gamma Telescope,MAGIC,TabDDPM,Hungarian,Mahalanobis Distance,True,4.284835835531674
+9. MAGIC Gamma Telescope,MAGIC,ForestDiffusion,Greedy,Cosine Similarity,False,
+9. MAGIC Gamma Telescope,MAGIC,ForestDiffusion,Greedy,Mahalanobis Distance,False,
+9. MAGIC Gamma Telescope,MAGIC,ForestDiffusion,One-to-One Greedy,Cosine Similarity,False,
+9. MAGIC Gamma Telescope,MAGIC,ForestDiffusion,One-to-One Greedy,Mahalanobis Distance,True,1.432
+9. MAGIC Gamma Telescope,MAGIC,ForestDiffusion,Hungarian,Cosine Similarity,True,0.992639
+9. MAGIC Gamma Telescope,MAGIC,ForestDiffusion,Hungarian,Mahalanobis Distance,True,1.307832354805954
+10. Metro interstate,Metro,CTGAN,Greedy,Cosine Similarity,False,
+10. Metro interstate,Metro,CTGAN,Greedy,Mahalanobis Distance,False,
+10. Metro interstate,Metro,CTGAN,One-to-One Greedy,Cosine Similarity,False,
+10. Metro interstate,Metro,CTGAN,One-to-One Greedy,Mahalanobis Distance,False,
+10. Metro interstate,Metro,CTGAN,Hungarian,Cosine Similarity,True,0.9998118622548122
+10. Metro interstate,Metro,CTGAN,Hungarian,Mahalanobis Distance,True,0.5035159578153979
+10. Metro interstate,Metro,CopulaGAN,Greedy,Cosine Similarity,False,
+10. Metro interstate,Metro,CopulaGAN,Greedy,Mahalanobis Distance,False,
+10. Metro interstate,Metro,CopulaGAN,One-to-One Greedy,Cosine Similarity,False,
+10. Metro interstate,Metro,CopulaGAN,One-to-One Greedy,Mahalanobis Distance,False,
+10. Metro interstate,Metro,CopulaGAN,Hungarian,Cosine Similarity,True,0.9999827423012392
+10. Metro interstate,Metro,CopulaGAN,Hungarian,Mahalanobis Distance,True,0.4004089346444876
+10. Metro interstate,Metro,TVAE,Greedy,Cosine Similarity,False,
+10. Metro interstate,Metro,TVAE,Greedy,Mahalanobis Distance,False,
+10. Metro interstate,Metro,TVAE,One-to-One Greedy,Cosine Similarity,False,
+10. Metro interstate,Metro,TVAE,One-to-One Greedy,Mahalanobis Distance,False,
+10. Metro interstate,Metro,TVAE,Hungarian,Cosine Similarity,True,0.9957562261949416
+10. Metro interstate,Metro,TVAE,Hungarian,Mahalanobis Distance,True,0.2293317570974291
+10. Metro interstate,Metro,GaussianCopula,Greedy,Cosine Similarity,False,
+10. Metro interstate,Metro,GaussianCopula,Greedy,Mahalanobis Distance,False,
+10. Metro interstate,Metro,GaussianCopula,One-to-One Greedy,Cosine Similarity,False,
+10. Metro interstate,Metro,GaussianCopula,One-to-One Greedy,Mahalanobis Distance,False,
+10. Metro interstate,Metro,GaussianCopula,Hungarian,Cosine Similarity,True,0.992558973006293
+10. Metro interstate,Metro,GaussianCopula,Hungarian,Mahalanobis Distance,True,27.57770093164357
+10. Metro interstate,Metro,WGAN_GP,Greedy,Cosine Similarity,False,
+10. Metro interstate,Metro,WGAN_GP,Greedy,Mahalanobis Distance,False,
+10. Metro interstate,Metro,WGAN_GP,One-to-One Greedy,Cosine Similarity,False,
+10. Metro interstate,Metro,WGAN_GP,One-to-One Greedy,Mahalanobis Distance,False,
+10. Metro interstate,Metro,WGAN_GP,Hungarian,Cosine Similarity,True,0.9897666683510477
+10. Metro interstate,Metro,WGAN_GP,Hungarian,Mahalanobis Distance,True,3.055943100071951
+10. Metro interstate,Metro,CTABGAN,Greedy,Cosine Similarity,False,
+10. Metro interstate,Metro,CTABGAN,Greedy,Mahalanobis Distance,False,
+10. Metro interstate,Metro,CTABGAN,One-to-One Greedy,Cosine Similarity,False,
+10. Metro interstate,Metro,CTABGAN,One-to-One Greedy,Mahalanobis Distance,False,
+10. Metro interstate,Metro,CTABGAN,Hungarian,Cosine Similarity,True,0.9930134503165852
+10. Metro interstate,Metro,CTABGAN,Hungarian,Mahalanobis Distance,True,2.433241937847617
+10. Metro interstate,Metro,TabDDPM,Greedy,Cosine Similarity,False,
+10. Metro interstate,Metro,TabDDPM,Greedy,Mahalanobis Distance,False,
+10. Metro interstate,Metro,TabDDPM,One-to-One Greedy,Cosine Similarity,False,
+10. Metro interstate,Metro,TabDDPM,One-to-One Greedy,Mahalanobis Distance,False,
+10. Metro interstate,Metro,TabDDPM,Hungarian,Cosine Similarity,True,0.9498556148901524
+10. Metro interstate,Metro,TabDDPM,Hungarian,Mahalanobis Distance,True,13.54874748944148
+10. Metro interstate,Metro,ForestDiffusion,Greedy,Cosine Similarity,False,
+10. Metro interstate,Metro,ForestDiffusion,Greedy,Mahalanobis Distance,False,
+10. Metro interstate,Metro,ForestDiffusion,One-to-One Greedy,Cosine Similarity,False,
+10. Metro interstate,Metro,ForestDiffusion,One-to-One Greedy,Mahalanobis Distance,False,
+10. Metro interstate,Metro,ForestDiffusion,Hungarian,Cosine Similarity,True,0.9962714485893248
+10. Metro interstate,Metro,ForestDiffusion,Hungarian,Mahalanobis Distance,True,0.2975506383791378
+11. online shopping,OnlineShop,CTGAN,Greedy,Cosine Similarity,False,
+11. online shopping,OnlineShop,CTGAN,Greedy,Mahalanobis Distance,False,
+11. online shopping,OnlineShop,CTGAN,One-to-One Greedy,Cosine Similarity,False,
+11. online shopping,OnlineShop,CTGAN,One-to-One Greedy,Mahalanobis Distance,False,
+11. online shopping,OnlineShop,CTGAN,Hungarian,Cosine Similarity,True,0.9999978326412216
+11. online shopping,OnlineShop,CTGAN,Hungarian,Mahalanobis Distance,True,1.567793840720491
+11. online shopping,OnlineShop,CopulaGAN,Greedy,Cosine Similarity,False,
+11. online shopping,OnlineShop,CopulaGAN,Greedy,Mahalanobis Distance,False,
+11. online shopping,OnlineShop,CopulaGAN,One-to-One Greedy,Cosine Similarity,False,
+11. online shopping,OnlineShop,CopulaGAN,One-to-One Greedy,Mahalanobis Distance,False,
+11. online shopping,OnlineShop,CopulaGAN,Hungarian,Cosine Similarity,True,0.9999985902043173
+11. online shopping,OnlineShop,CopulaGAN,Hungarian,Mahalanobis Distance,True,1.58151116938155
+11. online shopping,OnlineShop,TVAE,Greedy,Cosine Similarity,False,
+11. online shopping,OnlineShop,TVAE,Greedy,Mahalanobis Distance,False,
+11. online shopping,OnlineShop,TVAE,One-to-One Greedy,Cosine Similarity,False,
+11. online shopping,OnlineShop,TVAE,One-to-One Greedy,Mahalanobis Distance,False,
+11. online shopping,OnlineShop,TVAE,Hungarian,Cosine Similarity,True,0.9999769900404132
+11. online shopping,OnlineShop,TVAE,Hungarian,Mahalanobis Distance,True,2.384211658479305
+11. online shopping,OnlineShop,GaussianCopula,Greedy,Cosine Similarity,False,
+11. online shopping,OnlineShop,GaussianCopula,Greedy,Mahalanobis Distance,False,
+11. online shopping,OnlineShop,GaussianCopula,One-to-One Greedy,Cosine Similarity,False,
+11. online shopping,OnlineShop,GaussianCopula,One-to-One Greedy,Mahalanobis Distance,False,
+11. online shopping,OnlineShop,GaussianCopula,Hungarian,Cosine Similarity,True,0.9999974157084122
+11. online shopping,OnlineShop,GaussianCopula,Hungarian,Mahalanobis Distance,True,1.587593292473918
+11. online shopping,OnlineShop,WGAN_GP,Greedy,Cosine Similarity,False,
+11. online shopping,OnlineShop,WGAN_GP,Greedy,Mahalanobis Distance,False,
+11. online shopping,OnlineShop,WGAN_GP,One-to-One Greedy,Cosine Similarity,False,
+11. online shopping,OnlineShop,WGAN_GP,One-to-One Greedy,Mahalanobis Distance,False,
+11. online shopping,OnlineShop,WGAN_GP,Hungarian,Cosine Similarity,False,
+11. online shopping,OnlineShop,WGAN_GP,Hungarian,Mahalanobis Distance,True,3.055943100071951
+11. online shopping,OnlineShop,CTABGAN,Greedy,Cosine Similarity,False,
+11. online shopping,OnlineShop,CTABGAN,Greedy,Mahalanobis Distance,False,
+11. online shopping,OnlineShop,CTABGAN,One-to-One Greedy,Cosine Similarity,False,
+11. online shopping,OnlineShop,CTABGAN,One-to-One Greedy,Mahalanobis Distance,False,
+11. online shopping,OnlineShop,CTABGAN,Hungarian,Cosine Similarity,False,
+11. online shopping,OnlineShop,CTABGAN,Hungarian,Mahalanobis Distance,True,2.433241937847617
+11. online shopping,OnlineShop,TabDDPM,Greedy,Cosine Similarity,False,
+11. online shopping,OnlineShop,TabDDPM,Greedy,Mahalanobis Distance,False,
+11. online shopping,OnlineShop,TabDDPM,One-to-One Greedy,Cosine Similarity,False,
+11. online shopping,OnlineShop,TabDDPM,One-to-One Greedy,Mahalanobis Distance,False,
+11. online shopping,OnlineShop,TabDDPM,Hungarian,Cosine Similarity,False,
+11. online shopping,OnlineShop,TabDDPM,Hungarian,Mahalanobis Distance,True,5.638238186073312
+11. online shopping,OnlineShop,ForestDiffusion,Greedy,Cosine Similarity,False,
+11. online shopping,OnlineShop,ForestDiffusion,Greedy,Mahalanobis Distance,False,
+11. online shopping,OnlineShop,ForestDiffusion,One-to-One Greedy,Cosine Similarity,False,
+11. online shopping,OnlineShop,ForestDiffusion,One-to-One Greedy,Mahalanobis Distance,False,
+11. online shopping,OnlineShop,ForestDiffusion,Hungarian,Cosine Similarity,False,
+11. online shopping,OnlineShop,ForestDiffusion,Hungarian,Mahalanobis Distance,True,1.816702233657161
+12. Air Quality,AirQuality,CTGAN,Greedy,Cosine Similarity,False,
+12. Air Quality,AirQuality,CTGAN,Greedy,Mahalanobis Distance,False,
+12. Air Quality,AirQuality,CTGAN,One-to-One Greedy,Cosine Similarity,False,
+12. Air Quality,AirQuality,CTGAN,One-to-One Greedy,Mahalanobis Distance,False,
+12. Air Quality,AirQuality,CTGAN,Hungarian,Cosine Similarity,True,0.9740564407359084
+12. Air Quality,AirQuality,CTGAN,Hungarian,Mahalanobis Distance,True,145.4258331068809
+12. Air Quality,AirQuality,CopulaGAN,Greedy,Cosine Similarity,False,
+12. Air Quality,AirQuality,CopulaGAN,Greedy,Mahalanobis Distance,False,
+12. Air Quality,AirQuality,CopulaGAN,One-to-One Greedy,Cosine Similarity,False,
+12. Air Quality,AirQuality,CopulaGAN,One-to-One Greedy,Mahalanobis Distance,False,
+12. Air Quality,AirQuality,CopulaGAN,Hungarian,Cosine Similarity,True,0.9658485018218728
+12. Air Quality,AirQuality,CopulaGAN,Hungarian,Mahalanobis Distance,True,42.25175791284352
+12. Air Quality,AirQuality,TVAE,Greedy,Cosine Similarity,False,
+12. Air Quality,AirQuality,TVAE,Greedy,Mahalanobis Distance,False,
+12. Air Quality,AirQuality,TVAE,One-to-One Greedy,Cosine Similarity,False,
+12. Air Quality,AirQuality,TVAE,One-to-One Greedy,Mahalanobis Distance,False,
+12. Air Quality,AirQuality,TVAE,Hungarian,Cosine Similarity,True,0.9959795553323112
+12. Air Quality,AirQuality,TVAE,Hungarian,Mahalanobis Distance,True,20.60500284182482
+12. Air Quality,AirQuality,GaussianCopula,Greedy,Cosine Similarity,False,
+12. Air Quality,AirQuality,GaussianCopula,Greedy,Mahalanobis Distance,False,
+12. Air Quality,AirQuality,GaussianCopula,One-to-One Greedy,Cosine Similarity,False,
+12. Air Quality,AirQuality,GaussianCopula,One-to-One Greedy,Mahalanobis Distance,False,
+12. Air Quality,AirQuality,GaussianCopula,Hungarian,Cosine Similarity,True,0.9978391067700032
+12. Air Quality,AirQuality,GaussianCopula,Hungarian,Mahalanobis Distance,True,18.53194361248073
+12. Air Quality,AirQuality,WGAN_GP,Greedy,Cosine Similarity,False,
+12. Air Quality,AirQuality,WGAN_GP,Greedy,Mahalanobis Distance,False,
+12. Air Quality,AirQuality,WGAN_GP,One-to-One Greedy,Cosine Similarity,False,
+12. Air Quality,AirQuality,WGAN_GP,One-to-One Greedy,Mahalanobis Distance,True,4.9184
+12. Air Quality,AirQuality,WGAN_GP,Hungarian,Cosine Similarity,False,
+12. Air Quality,AirQuality,WGAN_GP,Hungarian,Mahalanobis Distance,False,
+12. Air Quality,AirQuality,CTABGAN,Greedy,Cosine Similarity,False,
+12. Air Quality,AirQuality,CTABGAN,Greedy,Mahalanobis Distance,False,
+12. Air Quality,AirQuality,CTABGAN,One-to-One Greedy,Cosine Similarity,False,
+12. Air Quality,AirQuality,CTABGAN,One-to-One Greedy,Mahalanobis Distance,True,9.2838
+12. Air Quality,AirQuality,CTABGAN,Hungarian,Cosine Similarity,False,
+12. Air Quality,AirQuality,CTABGAN,Hungarian,Mahalanobis Distance,False,
+12. Air Quality,AirQuality,TabDDPM,Greedy,Cosine Similarity,False,
+12. Air Quality,AirQuality,TabDDPM,Greedy,Mahalanobis Distance,False,
+12. Air Quality,AirQuality,TabDDPM,One-to-One Greedy,Cosine Similarity,False,
+12. Air Quality,AirQuality,TabDDPM,One-to-One Greedy,Mahalanobis Distance,True,6.392
+12. Air Quality,AirQuality,TabDDPM,Hungarian,Cosine Similarity,True,0.957594
+12. Air Quality,AirQuality,TabDDPM,Hungarian,Mahalanobis Distance,False,
+12. Air Quality,AirQuality,ForestDiffusion,Greedy,Cosine Similarity,False,
+12. Air Quality,AirQuality,ForestDiffusion,Greedy,Mahalanobis Distance,False,
+12. Air Quality,AirQuality,ForestDiffusion,One-to-One Greedy,Cosine Similarity,False,
+12. Air Quality,AirQuality,ForestDiffusion,One-to-One Greedy,Mahalanobis Distance,True,1.7287
+12. Air Quality,AirQuality,ForestDiffusion,Hungarian,Cosine Similarity,True,0.998953
+12. Air Quality,AirQuality,ForestDiffusion,Hungarian,Mahalanobis Distance,False,
+13. Concrete Compressive Strength,Concrete,CTGAN,Greedy,Cosine Similarity,False,
+13. Concrete Compressive Strength,Concrete,CTGAN,Greedy,Mahalanobis Distance,False,
+13. Concrete Compressive Strength,Concrete,CTGAN,One-to-One Greedy,Cosine Similarity,False,
+13. Concrete Compressive Strength,Concrete,CTGAN,One-to-One Greedy,Mahalanobis Distance,False,
+13. Concrete Compressive Strength,Concrete,CTGAN,Hungarian,Cosine Similarity,True,0.9968473117249576
+13. Concrete Compressive Strength,Concrete,CTGAN,Hungarian,Mahalanobis Distance,True,5.018744814748363
+13. Concrete Compressive Strength,Concrete,CopulaGAN,Greedy,Cosine Similarity,False,
+13. Concrete Compressive Strength,Concrete,CopulaGAN,Greedy,Mahalanobis Distance,False,
+13. Concrete Compressive Strength,Concrete,CopulaGAN,One-to-One Greedy,Cosine Similarity,False,
+13. Concrete Compressive Strength,Concrete,CopulaGAN,One-to-One Greedy,Mahalanobis Distance,False,
+13. Concrete Compressive Strength,Concrete,CopulaGAN,Hungarian,Cosine Similarity,True,0.9944795361352042
+13. Concrete Compressive Strength,Concrete,CopulaGAN,Hungarian,Mahalanobis Distance,True,6.507187039173957
+13. Concrete Compressive Strength,Concrete,TVAE,Greedy,Cosine Similarity,False,
+13. Concrete Compressive Strength,Concrete,TVAE,Greedy,Mahalanobis Distance,False,
+13. Concrete Compressive Strength,Concrete,TVAE,One-to-One Greedy,Cosine Similarity,False,
+13. Concrete Compressive Strength,Concrete,TVAE,One-to-One Greedy,Mahalanobis Distance,False,
+13. Concrete Compressive Strength,Concrete,TVAE,Hungarian,Cosine Similarity,True,0.9972194728703944
+13. Concrete Compressive Strength,Concrete,TVAE,Hungarian,Mahalanobis Distance,True,3.145877314034491
+13. Concrete Compressive Strength,Concrete,GaussianCopula,Greedy,Cosine Similarity,False,
+13. Concrete Compressive Strength,Concrete,GaussianCopula,Greedy,Mahalanobis Distance,False,
+13. Concrete Compressive Strength,Concrete,GaussianCopula,One-to-One Greedy,Cosine Similarity,False,
+13. Concrete Compressive Strength,Concrete,GaussianCopula,One-to-One Greedy,Mahalanobis Distance,False,
+13. Concrete Compressive Strength,Concrete,GaussianCopula,Hungarian,Cosine Similarity,True,0.9961556904529508
+13. Concrete Compressive Strength,Concrete,GaussianCopula,Hungarian,Mahalanobis Distance,True,3.68576914499426
+13. Concrete Compressive Strength,Concrete,WGAN_GP,Greedy,Cosine Similarity,False,
+13. Concrete Compressive Strength,Concrete,WGAN_GP,Greedy,Mahalanobis Distance,False,
+13. Concrete Compressive Strength,Concrete,WGAN_GP,One-to-One Greedy,Cosine Similarity,False,
+13. Concrete Compressive Strength,Concrete,WGAN_GP,One-to-One Greedy,Mahalanobis Distance,True,3.6759
+13. Concrete Compressive Strength,Concrete,WGAN_GP,Hungarian,Cosine Similarity,True,0.976834
+13. Concrete Compressive Strength,Concrete,WGAN_GP,Hungarian,Mahalanobis Distance,False,
+13. Concrete Compressive Strength,Concrete,CTABGAN,Greedy,Cosine Similarity,False,
+13. Concrete Compressive Strength,Concrete,CTABGAN,Greedy,Mahalanobis Distance,False,
+13. Concrete Compressive Strength,Concrete,CTABGAN,One-to-One Greedy,Cosine Similarity,False,
+13. Concrete Compressive Strength,Concrete,CTABGAN,One-to-One Greedy,Mahalanobis Distance,True,3.3377
+13. Concrete Compressive Strength,Concrete,CTABGAN,Hungarian,Cosine Similarity,True,0.980089
+13. Concrete Compressive Strength,Concrete,CTABGAN,Hungarian,Mahalanobis Distance,False,
+13. Concrete Compressive Strength,Concrete,TabDDPM,Greedy,Cosine Similarity,False,
+13. Concrete Compressive Strength,Concrete,TabDDPM,Greedy,Mahalanobis Distance,False,
+13. Concrete Compressive Strength,Concrete,TabDDPM,One-to-One Greedy,Cosine Similarity,False,
+13. Concrete Compressive Strength,Concrete,TabDDPM,One-to-One Greedy,Mahalanobis Distance,True,1.7551
+13. Concrete Compressive Strength,Concrete,TabDDPM,Hungarian,Cosine Similarity,True,0.998188
+13. Concrete Compressive Strength,Concrete,TabDDPM,Hungarian,Mahalanobis Distance,False,
+13. Concrete Compressive Strength,Concrete,ForestDiffusion,Greedy,Cosine Similarity,False,
+13. Concrete Compressive Strength,Concrete,ForestDiffusion,Greedy,Mahalanobis Distance,False,
+13. Concrete Compressive Strength,Concrete,ForestDiffusion,One-to-One Greedy,Cosine Similarity,False,
+13. Concrete Compressive Strength,Concrete,ForestDiffusion,One-to-One Greedy,Mahalanobis Distance,True,0.9112
+13. Concrete Compressive Strength,Concrete,ForestDiffusion,Hungarian,Cosine Similarity,True,0.999365
+13. Concrete Compressive Strength,Concrete,ForestDiffusion,Hungarian,Mahalanobis Distance,False,
+14. Energy Efficiency,Energy,CTGAN,Greedy,Cosine Similarity,False,
+14. Energy Efficiency,Energy,CTGAN,Greedy,Mahalanobis Distance,False,
+14. Energy Efficiency,Energy,CTGAN,One-to-One Greedy,Cosine Similarity,False,
+14. Energy Efficiency,Energy,CTGAN,One-to-One Greedy,Mahalanobis Distance,False,
+14. Energy Efficiency,Energy,CTGAN,Hungarian,Cosine Similarity,True,0.9966612583435426
+14. Energy Efficiency,Energy,CTGAN,Hungarian,Mahalanobis Distance,True,45637.72490186258
+14. Energy Efficiency,Energy,CopulaGAN,Greedy,Cosine Similarity,False,
+14. Energy Efficiency,Energy,CopulaGAN,Greedy,Mahalanobis Distance,False,
+14. Energy Efficiency,Energy,CopulaGAN,One-to-One Greedy,Cosine Similarity,False,
+14. Energy Efficiency,Energy,CopulaGAN,One-to-One Greedy,Mahalanobis Distance,False,
+14. Energy Efficiency,Energy,CopulaGAN,Hungarian,Cosine Similarity,True,0.9967512227047748
+14. Energy Efficiency,Energy,CopulaGAN,Hungarian,Mahalanobis Distance,True,51117.38255461063
+14. Energy Efficiency,Energy,TVAE,Greedy,Cosine Similarity,False,
+14. Energy Efficiency,Energy,TVAE,Greedy,Mahalanobis Distance,False,
+14. Energy Efficiency,Energy,TVAE,One-to-One Greedy,Cosine Similarity,False,
+14. Energy Efficiency,Energy,TVAE,One-to-One Greedy,Mahalanobis Distance,False,
+14. Energy Efficiency,Energy,TVAE,Hungarian,Cosine Similarity,True,0.9991856395133506
+14. Energy Efficiency,Energy,TVAE,Hungarian,Mahalanobis Distance,True,18868.03098811942
+14. Energy Efficiency,Energy,GaussianCopula,Greedy,Cosine Similarity,False,
+14. Energy Efficiency,Energy,GaussianCopula,Greedy,Mahalanobis Distance,False,
+14. Energy Efficiency,Energy,GaussianCopula,One-to-One Greedy,Cosine Similarity,False,
+14. Energy Efficiency,Energy,GaussianCopula,One-to-One Greedy,Mahalanobis Distance,False,
+14. Energy Efficiency,Energy,GaussianCopula,Hungarian,Cosine Similarity,True,0.9993231090584036
+14. Energy Efficiency,Energy,GaussianCopula,Hungarian,Mahalanobis Distance,True,21169.76852420071
+14. Energy Efficiency,Energy,WGAN_GP,Greedy,Cosine Similarity,False,
+14. Energy Efficiency,Energy,WGAN_GP,Greedy,Mahalanobis Distance,False,
+14. Energy Efficiency,Energy,WGAN_GP,One-to-One Greedy,Cosine Similarity,False,
+14. Energy Efficiency,Energy,WGAN_GP,One-to-One Greedy,Mahalanobis Distance,True,23616.3467
+14. Energy Efficiency,Energy,WGAN_GP,Hungarian,Cosine Similarity,True,0.999045
+14. Energy Efficiency,Energy,WGAN_GP,Hungarian,Mahalanobis Distance,False,
+14. Energy Efficiency,Energy,CTABGAN,Greedy,Cosine Similarity,False,
+14. Energy Efficiency,Energy,CTABGAN,Greedy,Mahalanobis Distance,False,
+14. Energy Efficiency,Energy,CTABGAN,One-to-One Greedy,Cosine Similarity,False,
+14. Energy Efficiency,Energy,CTABGAN,One-to-One Greedy,Mahalanobis Distance,True,21021.1892
+14. Energy Efficiency,Energy,CTABGAN,Hungarian,Cosine Similarity,True,0.998061
+14. Energy Efficiency,Energy,CTABGAN,Hungarian,Mahalanobis Distance,False,
+14. Energy Efficiency,Energy,TabDDPM,Greedy,Cosine Similarity,False,
+14. Energy Efficiency,Energy,TabDDPM,Greedy,Mahalanobis Distance,False,
+14. Energy Efficiency,Energy,TabDDPM,One-to-One Greedy,Cosine Similarity,False,
+14. Energy Efficiency,Energy,TabDDPM,One-to-One Greedy,Mahalanobis Distance,True,15946.4815
+14. Energy Efficiency,Energy,TabDDPM,Hungarian,Cosine Similarity,True,0.999033
+14. Energy Efficiency,Energy,TabDDPM,Hungarian,Mahalanobis Distance,False,
+14. Energy Efficiency,Energy,ForestDiffusion,Greedy,Cosine Similarity,False,
+14. Energy Efficiency,Energy,ForestDiffusion,Greedy,Mahalanobis Distance,False,
+14. Energy Efficiency,Energy,ForestDiffusion,One-to-One Greedy,Cosine Similarity,False,
+14. Energy Efficiency,Energy,ForestDiffusion,One-to-One Greedy,Mahalanobis Distance,True,41.2109
+14. Energy Efficiency,Energy,ForestDiffusion,Hungarian,Cosine Similarity,True,0.999999
+14. Energy Efficiency,Energy,ForestDiffusion,Hungarian,Mahalanobis Distance,False,
+15. Real Estate Valuation,RealEstate,CTGAN,Greedy,Cosine Similarity,False,
+15. Real Estate Valuation,RealEstate,CTGAN,Greedy,Mahalanobis Distance,False,
+15. Real Estate Valuation,RealEstate,CTGAN,One-to-One Greedy,Cosine Similarity,False,
+15. Real Estate Valuation,RealEstate,CTGAN,One-to-One Greedy,Mahalanobis Distance,False,
+15. Real Estate Valuation,RealEstate,CTGAN,Hungarian,Cosine Similarity,True,0.9169089186365058
+15. Real Estate Valuation,RealEstate,CTGAN,Hungarian,Mahalanobis Distance,True,16692.75223370301
+15. Real Estate Valuation,RealEstate,CopulaGAN,Greedy,Cosine Similarity,False,
+15. Real Estate Valuation,RealEstate,CopulaGAN,Greedy,Mahalanobis Distance,False,
+15. Real Estate Valuation,RealEstate,CopulaGAN,One-to-One Greedy,Cosine Similarity,False,
+15. Real Estate Valuation,RealEstate,CopulaGAN,One-to-One Greedy,Mahalanobis Distance,False,
+15. Real Estate Valuation,RealEstate,CopulaGAN,Hungarian,Cosine Similarity,True,0.8511433790000289
+15. Real Estate Valuation,RealEstate,CopulaGAN,Hungarian,Mahalanobis Distance,True,16693.83443314724
+15. Real Estate Valuation,RealEstate,TVAE,Greedy,Cosine Similarity,False,
+15. Real Estate Valuation,RealEstate,TVAE,Greedy,Mahalanobis Distance,False,
+15. Real Estate Valuation,RealEstate,TVAE,One-to-One Greedy,Cosine Similarity,False,
+15. Real Estate Valuation,RealEstate,TVAE,One-to-One Greedy,Mahalanobis Distance,False,
+15. Real Estate Valuation,RealEstate,TVAE,Hungarian,Cosine Similarity,True,0.923216777270658
+15. Real Estate Valuation,RealEstate,TVAE,Hungarian,Mahalanobis Distance,True,16693.78910852161
+15. Real Estate Valuation,RealEstate,GaussianCopula,Greedy,Cosine Similarity,False,
+15. Real Estate Valuation,RealEstate,GaussianCopula,Greedy,Mahalanobis Distance,False,
+15. Real Estate Valuation,RealEstate,GaussianCopula,One-to-One Greedy,Cosine Similarity,False,
+15. Real Estate Valuation,RealEstate,GaussianCopula,One-to-One Greedy,Mahalanobis Distance,False,
+15. Real Estate Valuation,RealEstate,GaussianCopula,Hungarian,Cosine Similarity,True,0.9033702266244976
+15. Real Estate Valuation,RealEstate,GaussianCopula,Hungarian,Mahalanobis Distance,True,16693.55375105767
+15. Real Estate Valuation,RealEstate,WGAN_GP,Greedy,Cosine Similarity,False,
+15. Real Estate Valuation,RealEstate,WGAN_GP,Greedy,Mahalanobis Distance,False,
+15. Real Estate Valuation,RealEstate,WGAN_GP,One-to-One Greedy,Cosine Similarity,False,
+15. Real Estate Valuation,RealEstate,WGAN_GP,One-to-One Greedy,Mahalanobis Distance,True,1.4639
+15. Real Estate Valuation,RealEstate,WGAN_GP,Hungarian,Cosine Similarity,True,0.998436
+15. Real Estate Valuation,RealEstate,WGAN_GP,Hungarian,Mahalanobis Distance,False,
+15. Real Estate Valuation,RealEstate,CTABGAN,Greedy,Cosine Similarity,False,
+15. Real Estate Valuation,RealEstate,CTABGAN,Greedy,Mahalanobis Distance,False,
+15. Real Estate Valuation,RealEstate,CTABGAN,One-to-One Greedy,Cosine Similarity,False,
+15. Real Estate Valuation,RealEstate,CTABGAN,One-to-One Greedy,Mahalanobis Distance,True,0.9013
+15. Real Estate Valuation,RealEstate,CTABGAN,Hungarian,Cosine Similarity,True,0.999655
+15. Real Estate Valuation,RealEstate,CTABGAN,Hungarian,Mahalanobis Distance,False,
+15. Real Estate Valuation,RealEstate,TabDDPM,Greedy,Cosine Similarity,False,
+15. Real Estate Valuation,RealEstate,TabDDPM,Greedy,Mahalanobis Distance,False,
+15. Real Estate Valuation,RealEstate,TabDDPM,One-to-One Greedy,Cosine Similarity,False,
+15. Real Estate Valuation,RealEstate,TabDDPM,One-to-One Greedy,Mahalanobis Distance,True,0.9375
+15. Real Estate Valuation,RealEstate,TabDDPM,Hungarian,Cosine Similarity,True,0.999461
+15. Real Estate Valuation,RealEstate,TabDDPM,Hungarian,Mahalanobis Distance,False,
+15. Real Estate Valuation,RealEstate,ForestDiffusion,Greedy,Cosine Similarity,False,
+15. Real Estate Valuation,RealEstate,ForestDiffusion,Greedy,Mahalanobis Distance,False,
+15. Real Estate Valuation,RealEstate,ForestDiffusion,One-to-One Greedy,Cosine Similarity,False,
+15. Real Estate Valuation,RealEstate,ForestDiffusion,One-to-One Greedy,Mahalanobis Distance,True,0.0773
+15. Real Estate Valuation,RealEstate,ForestDiffusion,Hungarian,Cosine Similarity,True,0.999959
+15. Real Estate Valuation,RealEstate,ForestDiffusion,Hungarian,Mahalanobis Distance,False,

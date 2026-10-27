@@ -1,0 +1,8 @@
+Figure 2 aggregation
+--------------------
+Each observation is the mean matched Mahalanobis distance for one
+(Dataset, Generator, Mapping_Method) from existing results.
+Panel (a): distribution of those means (log y-axis).
+Panel (b): median across those means with IQR whiskers
+(preferred over mean±CI because distances are right-skewed).
+Methods present: ['One-to-One Greedy', 'Hungarian']

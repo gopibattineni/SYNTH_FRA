@@ -1,0 +1,10 @@
+Figure 1 aggregation
+--------------------
+Each point / box observation is the mean cosine similarity for one
+(Dataset, Generator, Mapping_Method) extracted from existing results.
+Panel (a): distribution of those means by mapping method.
+Panel (b): unweighted mean of those means ± 95% CI (normal approx.).
+No remapping was performed.
+Methods present for cosine: ['Hungarian']
+Note: Greedy / One-to-One Greedy cosine aggregates were generally not
+persisted in notebooks; figure shows only methods with extracted means.

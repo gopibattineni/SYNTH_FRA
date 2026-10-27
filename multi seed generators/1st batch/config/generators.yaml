@@ -1,0 +1,22 @@
+# Exact 8 generators from SYNTH/docs/data/meta.json and generator notebooks.
+# Implementations are reused from the reference pipeline (not modified).
+generators:
+  - name: CTGAN
+    family: sdv
+  - name: CopulaGAN
+    family: sdv
+  - name: TVAE
+    family: sdv
+  - name: GaussianCopula
+    family: sdv
+  - name: CTABGAN
+    family: other_gans
+  - name: WGAN_GP
+    family: other_gans
+  - name: TabDDPM
+    family: diffusion
+  - name: ForestDiffusion
+    family: diffusion
+
+# Classifier seeds for utility TRTR/TSTR (existing dataleak convention).
+utility_classifier_seeds: [42, 43, 44, 45, 46, 47, 48, 49, 50, 51]

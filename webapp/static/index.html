@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SYNTH Benchmark — Results &amp; Generator</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/static/css/app.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="hero">
+      <div class="hero-content">
+        <p class="eyebrow">SYNTH Benchmark</p>
+        <h1>10-Seed Results Explorer</h1>
+        <p class="subtitle">
+          Browse Mean ± SD across <strong>10 generator-training seeds</strong> for
+          <strong>utility</strong>, <strong>fidelity</strong>, and <strong>privacy</strong>
+          — plus an interactive synthetic data generator.
+        </p>
+      </div>
+      <div class="hero-stats" id="hero-stats">
+        <div class="stat"><span class="stat-value" id="stat-datasets">—</span><span class="stat-label">Datasets</span></div>
+        <div class="stat"><span class="stat-value" id="stat-generators">8</span><span class="stat-label">Generators</span></div>
+        <div class="stat"><span class="stat-value" id="stat-seeds">10</span><span class="stat-label">Seeds</span></div>
+        <div class="stat"><span class="stat-value" id="stat-runs">—</span><span class="stat-label">Runs</span></div>
+      </div>
+    </header>
+
+    <nav class="view-tabs" role="tablist" aria-label="App views">
+      <button class="view-tab active" type="button" data-view="benchmark" role="tab" aria-selected="true">Benchmark results</button>
+      <button class="view-tab" type="button" data-view="generate" role="tab" aria-selected="false">Generate data</button>
+    </nav>
+
+    <!-- ========== BENCHMARK RESULTS ========== -->
+    <main class="layout" id="view-benchmark">
+      <section class="panel">
+        <div class="panel-header">
+          <h2>Filters</h2>
+          <p class="panel-note" id="benchmark-source">Loading merged 10-seed Excel…</p>
+        </div>
+        <div class="controls-row">
+          <label class="field">
+            <span>Task</span>
+            <select id="bm-task">
+              <option value="classification">Classification</option>
+              <option value="regression">Regression</option>
+            </select>
+          </label>
+          <label class="field">
+            <span>Pillar</span>
+            <select id="bm-category">
+              <option value="Utility">Utility</option>
+              <option value="Fidelity">Fidelity</option>
+              <option value="Privacy">Privacy</option>
+              <option value="Compute">Compute</option>
+            </select>
+          </label>
+          <label class="field">
+            <span>Metric (heatmap / ranking)</span>
+            <select id="bm-metric"></select>
+          </label>
+          <label class="field">
+            <span>Dataset</span>
+            <select id="bm-dataset">
+              <option value="">All datasets</option>
+            </select>
+          </label>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-header">
+          <h2 id="ranking-title">Generator ranking</h2>
+        </div>
+        <div class="ranking-list" id="ranking-list"></div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-header">
+          <h2 id="heatmap-title">Dataset × generator heatmap</h2>
+          <p class="panel-note">Cell colour = 10-seed mean; hover text shows Mean ± SD</p>
+        </div>
+        <div class="heatmap-wrap" id="heatmap"></div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-header">
+          <h2 id="table-title">Mean ± SD table</h2>
+        </div>
+        <div class="table-wrap table-wrap-tall">
+          <table id="bm-table">
+            <thead></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <!-- ========== GENERATE ========== -->
+    <main class="layout hidden" id="view-generate">
+      <section class="panel" aria-labelledby="datasets-heading">
+        <div class="panel-header">
+          <h2 id="datasets-heading">1. Choose a dataset</h2>
+          <div class="filter-tabs" role="tablist">
+            <button class="filter-tab active" data-filter="all" type="button">All</button>
+            <button class="filter-tab" data-filter="classification" type="button">Classification</button>
+            <button class="filter-tab" data-filter="regression" type="button">Regression</button>
+          </div>
+        </div>
+        <div class="dataset-grid" id="dataset-grid"></div>
+      </section>
+
+      <section class="panel" aria-labelledby="generators-heading">
+        <div class="panel-header">
+          <h2 id="generators-heading">2. Select generators</h2>
+          <div class="panel-actions">
+            <button class="btn btn-ghost" id="select-all-generators" type="button">Select all</button>
+            <button class="btn btn-ghost" id="clear-generators" type="button">Clear</button>
+          </div>
+        </div>
+        <div class="generator-groups" id="generator-groups"></div>
+      </section>
+
+      <section class="panel panel-settings" aria-labelledby="settings-heading">
+        <h2 id="settings-heading">3. Configure &amp; generate</h2>
+        <div class="settings-row">
+          <label class="field">
+            <span>Synthetic rows</span>
+            <input id="n-samples" type="number" min="10" max="10000" value="1000" />
+          </label>
+          <label class="field">
+            <span>Random seed</span>
+            <input id="seed" type="number" min="0" value="42" />
+          </label>
+          <button class="btn btn-primary" id="generate-btn" type="button" disabled>
+            Generate synthetic data
+          </button>
+        </div>
+        <p class="hint" id="selection-summary">Select a dataset and at least one generator.</p>
+      </section>
+
+      <section class="panel panel-results hidden" id="results-panel" aria-labelledby="results-heading">
+        <div class="panel-header">
+          <h2 id="results-heading">Results</h2>
+          <div class="status-chip" id="job-status-chip">Queued</div>
+        </div>
+        <div class="progress-wrap">
+          <div class="progress-bar" id="progress-bar"></div>
+        </div>
+        <p class="status-message" id="status-message"></p>
+        <div class="result-cards" id="result-cards"></div>
+        <div class="preview-section hidden" id="preview-section">
+          <div class="preview-header">
+            <h3 id="preview-title">Preview</h3>
+            <button class="btn btn-ghost" id="download-active" type="button">Download CSV</button>
+          </div>
+          <div class="table-wrap">
+            <table id="preview-table">
+              <thead></thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+        <div class="error-box hidden" id="error-box"></div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>
+        Results from <code>multi seed generators/merged 10 seeds</code> —
+        <a href="https://github.com/gopibattineni/SYNTH_BENCHMARK" target="_blank" rel="noopener">SYNTH Benchmark</a>
+      </p>
+    </footer>
+  </div>
+
+  <script src="/static/js/app.js" type="module"></script>
+</body>
+</html>

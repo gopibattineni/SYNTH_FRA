@@ -1,0 +1,5 @@
+Comparison,N,Mean_Difference_Greedy_minus_Hungarian,Effect_RankBiserial,Test,p_value,Conclusion
+Hungarian vs Greedy – Classification,9,0.1318162909020005,0.6000000000000001,Wilcoxon signed-rank (paired; H1: Greedy > Hungarian),0.064453125,No significant difference at α=0.05
+Hungarian vs Greedy – Regression,6,1.011525964235463,1.0,Wilcoxon signed-rank (paired; H1: Greedy > Hungarian),0.015625,Hungarian significantly better (lower distance)
+Overall (15 datasets),15,0.4837001602353856,0.7666666666666666,Wilcoxon signed-rank (paired; H1: Greedy > Hungarian),0.00335693359375,Hungarian significantly better (lower distance)
+Overall (dataset×generator units),120,0.48370016023522133,0.7727272727272727,Wilcoxon signed-rank (paired; H1: Greedy > Hungarian),2.4380318809185873e-16,Hungarian significantly better (lower distance)

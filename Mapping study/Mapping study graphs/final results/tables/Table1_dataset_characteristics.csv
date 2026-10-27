@@ -1,0 +1,16 @@
+Dataset,Type,Samples,Features,Classes,Task
+Cancer,Classification,569,30,2,Classification
+Alzheimer's,Classification,373,10,2,Classification
+Adult,Classification,1000,14,2,Classification
+Forest Cover,Classification,1000,10,7,Classification
+Bank Marketing,Classification,10000,13,2,Classification
+Wine Quality,Classification,1000,11,6,Classification
+CDC Diabetes,Classification,1000,21,2,Classification
+Mushroom,Classification,1000,20,2,Classification
+MAGIC Gamma,Classification,19020,10,2,Classification
+Metro Interstate,Regression,1000,12,–,Regression
+Online Shopping,Regression,1000,12,–,Regression
+Air Quality,Regression,1000,12,–,Regression
+Concrete,Regression,1000,8,–,Regression
+Energy Efficiency,Regression,768,8,–,Regression
+Real Estate,Regression,414,5,–,Regression

@@ -1,0 +1,9 @@
+No module named 'ucimlrepo'
+Traceback (most recent call last):
+  File "/home/gopi_b/SYNTH_BENCHMARK/multi seed generators/1st batch/src/experiment.py", line 144, in run_one
+    "error": "",
+  File "/home/gopi_b/SYNTH_BENCHMARK/multi seed generators/1st batch/src/datasets.py", line 116, in load_and_split
+    raw, cfg = load_raw(cfg)
+  File "/home/gopi_b/SYNTH_BENCHMARK/multi seed generators/1st batch/src/datasets.py", line 43, in load_raw
+    from ucimlrepo import fetch_ucirepo
+ModuleNotFoundError: No module named 'ucimlrepo'

@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.venv_figs/
+.local_python/
+.pydeps/
+.wheels/
+venv/
+.env
+
+# Web app runtime data
+webapp/data/sessions/
+webapp/data/CTAB-GAN-Plus/
+webapp/data/datasets/
+
+# Vendored third-party generator repos (cloned locally, not part of this repo)
+_vendor/
+**/CTAB-GAN-Plus/
+
+# Notebook / OS clutter
+**/.ipynb_checkpoints/
+.DS_Store
+
+# Multi-seed batch runtime artifacts
+multi seed generators/**/cache/
+multi seed generators/**/logs/
+multi seed generators/**/*.log
+multi seed generators/**/*.pid
+multi seed generators/**/excel.lock
+multi seed generators/**/*.stamp
+multi seed generators/**/__pycache__/
+**/synthetic_cache/
+*.bak_*
+**/*.lock

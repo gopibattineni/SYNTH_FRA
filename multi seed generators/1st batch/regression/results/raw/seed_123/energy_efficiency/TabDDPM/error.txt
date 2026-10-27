@@ -1,0 +1,25 @@
+The 'subsample' parameter of QuantileTransformer must be an int in the range [1, inf) or None. Got 1000000000.0 instead.
+Traceback (most recent call last):
+  File "/home/gopi_b/SYNTH_BENCHMARK/multi seed generators/1st batch/src/experiment.py", line 165, in run_one
+    synth = generate_synthetic(generator, train, target, n_samples, seed, task)
+  File "/home/gopi_b/SYNTH_BENCHMARK/multi seed generators/1st batch/src/generators/__init__.py", line 246, in generate_synthetic
+    return train_diffusion(generator, train, target, n_samples, seed, task)
+  File "/home/gopi_b/SYNTH_BENCHMARK/multi seed generators/1st batch/src/generators/__init__.py", line 224, in train_diffusion
+    return mod.train_tabddpm(train, target_col=target, n_samples=n_samples, seed=seed, is_regression=is_reg)
+  File "/home/gopi_b/SYNTH_BENCHMARK/Generators/Diffusion GANs/diffusion_generators.py", line 339, in train_tabddpm
+    tabddpm_train(
+  File "/home/gopi_b/SYNTH_BENCHMARK/_vendor/tab-ddpm/scripts/train.py", line 102, in train
+    dataset = make_dataset(
+  File "/home/gopi_b/SYNTH_BENCHMARK/_vendor/tab-ddpm/scripts/utils_train.py", line 89, in make_dataset
+    return lib.transform_dataset(D, T, None)
+  File "/home/gopi_b/SYNTH_BENCHMARK/_vendor/tab-ddpm/lib/data.py", line 400, in transform_dataset
+    X_num, num_transform = normalize(
+  File "/home/gopi_b/SYNTH_BENCHMARK/_vendor/tab-ddpm/lib/data.py", line 234, in normalize
+    normalizer.fit(X_train)
+  File "/home/gopi_b/SYNTH_BENCHMARK/.venv/lib/python3.10/site-packages/sklearn/base.py", line 1358, in wrapper
+    estimator._validate_params()
+  File "/home/gopi_b/SYNTH_BENCHMARK/.venv/lib/python3.10/site-packages/sklearn/base.py", line 471, in _validate_params
+    validate_parameter_constraints(
+  File "/home/gopi_b/SYNTH_BENCHMARK/.venv/lib/python3.10/site-packages/sklearn/utils/_param_validation.py", line 98, in validate_parameter_constraints
+    raise InvalidParameterError(
+sklearn.utils._param_validation.InvalidParameterError: The 'subsample' parameter of QuantileTransformer must be an int in the range [1, inf) or None. Got 1000000000.0 instead.

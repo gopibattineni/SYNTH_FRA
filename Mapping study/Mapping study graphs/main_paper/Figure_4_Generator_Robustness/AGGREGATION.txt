@@ -1,0 +1,5 @@
+Figure 4 aggregation
+--------------------
+For each generator, the boxplot pools all available dataset means
+for that generator under each mapping method.
+Thus variability reflects cross-dataset consistency of a generator.

@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "SYNTH Benchmark: Tabular Synthetic Data Generator Evaluation"
+version: 1.0.0
+date-released: 2026-07-15
+authors:
+  - family-names: Battineni
+    given-names: Gopi
+    email: gopi.chandu89@gmail.com
+repository-code: "https://github.com/gopibattineni/SYNTH_BENCHMARK"
+url: "https://github.com/gopibattineni/SYNTH_BENCHMARK"
+abstract: >-
+  A reproducible benchmark comparing eight tabular synthetic data generators
+  across fifteen datasets on utility (TRTR/TSTR), fidelity (distribution
+  similarity), and privacy (membership inference), with automated statistical
+  analysis and publication-ready figures.
+keywords:
+  - synthetic data
+  - tabular data
+  - benchmarking
+  - privacy
+  - fidelity
+  - utility
+  - generative models
