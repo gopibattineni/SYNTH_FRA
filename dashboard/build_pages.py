@@ -64,7 +64,7 @@ def build_pages(github_repo_url: str | None = None) -> Path:
 
     if github_repo_url:
         html = html.replace(
-            'href="https://github.com/gopibattineni/SYNTH_BENCHMARK"',
+            'href="https://github.com/gopibattineni/SYNTH_FRA"',
             f'href="{github_repo_url}"',
         )
 

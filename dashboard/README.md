@@ -4,8 +4,8 @@ Static GitHub Pages dashboard for browsing SYNTH **10-seed** benchmark results.
 
 ## Live site
 
-- **Plotly dashboard:** https://gopibattineni.github.io/SYNTH_BENCHMARK/
-- **10-Seed Results Explorer:** https://gopibattineni.github.io/SYNTH_BENCHMARK/explorer/
+- **Plotly dashboard:** https://gopibattineni.github.io/SYNTH_FRA/
+- **10-Seed Results Explorer:** https://gopibattineni.github.io/SYNTH_FRA/explorer/
 
 ## Data source
 
@@ -34,8 +34,7 @@ Output is written to `docs/` at the repository root (committed for GitHub Pages)
 
 ## Deployment (fix GitHub Pages 404)
 
-1. Open **https://github.com/gopibattineni/SYNTH_BENCHMARK/settings/pages**
-2. Under **Build and deployment → Source**, choose **Deploy from a branch**
-3. Branch: **main**, folder: **/docs**
-4. Save — the site updates within 1–2 minutes at  
-   **https://gopibattineni.github.io/SYNTH_BENCHMARK/**
+1. Open **https://github.com/gopibattineni/SYNTH_FRA/settings/pages**
+2. Under **Build and deployment → Source**, choose **GitHub Actions**
+3. Push to `main` (or run **Actions → Deploy Dashboard to GitHub Pages → Run workflow**)
+4. Site updates at **https://gopibattineni.github.io/SYNTH_FRA/**
