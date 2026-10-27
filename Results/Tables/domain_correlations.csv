@@ -1,0 +1,5 @@
+,Question,X,Y,N,Pearson_r,Pearson_p,Spearman_r,Spearman_p,Interpretation
+0,Higher fidelity → better utility?,Fidelity,Utility,176,0.3833868172289141,1.504204021773099e-07,0.3468451443545913,2.406924650983468e-06,moderate positive association — yes that fidelity predicts utility
+1,Stronger privacy reduces utility?,Privacy,Utility,176,-0.0659318905773219,0.38462883194894687,-0.021138802796078278,0.7806510192666698,weak negative association — privacy may not strongly reduce utility
+2,Fidelity–privacy trade-off,Fidelity,Privacy,176,0.020513583853551703,0.7869812370782382,0.06926531911750153,0.36100160920817437,weak positive correlation
+3,Utility–privacy trade-off,Utility,Privacy,176,-0.0659318905773219,0.38462883194894687,-0.021138802796078274,0.7806510192666699,weak negative correlation

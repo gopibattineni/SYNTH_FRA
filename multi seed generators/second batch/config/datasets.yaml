@@ -1,0 +1,215 @@
+# Exact 15 datasets from Generators/Experiment with utility data leak/python_scripts/hive/datasets.json
+# and the numbered generator notebooks. Paths are relative to SYNTH repo root.
+#
+# missing_strategy:
+#   train_fit — ALWAYS split first, then fit median/mode on Real-Train ONLY (leakage-safe)
+#   (complete_case-before-split is intentionally NOT used in Batch 1)
+#
+# group_col: if set, split is entity/participant-level (all rows of an entity stay together)
+
+datasets:
+  - id: cancer
+    name: Cancer
+    folder: "1. Cancer"
+    task: classification
+    uci_id: 17
+    local_csv: Datasets/Cancer.csv
+    target: diagnosis
+    n_samples: 1000
+    subsample: null
+    missing_strategy: train_fit
+    group_col: null
+    drop_cols: [id, "Unnamed: 32"]
+    notes: "id is unique per row; no entity leakage"
+
+  - id: alzhimers
+    name: Alzheimers
+    folder: "2. Alzhimers"
+    task: classification
+    local_xlsx: Datasets/Alzhimers.xlsx
+    target: Group
+    n_samples: 1000
+    subsample: null
+    missing_strategy: train_fit
+    group_col: "Subject ID"
+    drop_cols: ["MRI ID", "M/F", "Hand"]
+    label_map:
+      Demented: 1
+      Nondemented: 0
+      Converted: 1
+    notes: "OASIS — MUST use participant-level split on Subject ID"
+
+  - id: adult
+    name: Adult
+    folder: "3. Adult"
+    task: classification
+    uci_id: 2
+    local_csv: Datasets/adult_census.csv
+    target: income
+    n_samples: 1000
+    subsample: 1000
+    missing_strategy: train_fit
+    group_col: null
+    drop_cols: []
+    notes: "Uniform N=1000 subsample (split seed 42); '?' treated as missing"
+
+  - id: forest_cover
+    name: ForestCover
+    folder: "4. Forest cover dataset"
+    task: classification
+    uci_id: 31
+    target: Cover_Type
+    n_samples: 1000
+    subsample: 5000
+    missing_strategy: train_fit
+    group_col: null
+    drop_cols: []
+    notes: "Row-level stratified split"
+
+  - id: bank
+    name: Bank
+    folder: "5. Bank Markting"
+    task: classification
+    uci_id: 222
+    local_csv: Datasets/bank-full.csv
+    csv_sep: ";"
+    target: y
+    n_samples: 1000
+    subsample: 1000
+    missing_strategy: train_fit
+    group_col: null
+    drop_cols: []
+    notes: "Uniform N=1000 subsample (split seed 42); train-only impute"
+
+  - id: wine
+    name: Wine
+    folder: "6. Wine dataset"
+    task: classification
+    uci_id: 186
+    local_csv: Datasets/winequality-white.csv
+    csv_sep: ";"
+    target: quality
+    n_samples: 1000
+    subsample: null
+    missing_strategy: train_fit
+    group_col: null
+    drop_cols: []
+    notes: "Quality treated as classification labels (existing convention)"
+
+  - id: cdc_diabetes
+    name: CDC
+    folder: "7. CDC diabetes dataset"
+    task: classification
+    uci_id: 891
+    target: Diabetes_binary
+    n_samples: 1000
+    subsample: 5000
+    missing_strategy: train_fit
+    group_col: null
+    drop_cols: []
+    notes: "Row-level stratified split"
+
+  - id: mushroom
+    name: Mushroom
+    folder: "8. Mushroom dataset"
+    task: classification
+    uci_id: 848
+    target: class
+    n_samples: 1000
+    subsample: 5000
+    missing_strategy: train_fit
+    group_col: null
+    drop_cols: []
+    notes: "Reference used full-data median/mode fill; Batch 1 uses train_fit"
+
+  - id: magic
+    name: MAGIC
+    folder: "9. MAGIC Gamma Telescope"
+    task: classification
+    uci_id: 159
+    target: class
+    n_samples: 1000
+    subsample: 1000
+    missing_strategy: train_fit
+    group_col: null
+    drop_cols: []
+    notes: "Uniform N=1000 subsample (split seed 42); row-level stratified split"
+
+  - id: metro
+    name: Metro
+    folder: "10. Metro interstate"
+    task: regression
+    uci_id: 492
+    target: traffic_volume
+    n_samples: 1000
+    subsample: 5000
+    missing_strategy: train_fit
+    group_col: null
+    drop_cols: [date_time]
+    notes: "Regression; row-level split; date_time dropped"
+
+  - id: online_shopping
+    name: OnlineShop
+    folder: "11. online shopping"
+    task: regression
+    local_csv: Datasets/e-shop.csv
+    csv_sep: ";"
+    target: price
+    n_samples: 1000
+    subsample: 5000
+    missing_strategy: train_fit
+    group_col: "session ID"
+    drop_cols: []
+    notes: "Repeated rows per session ID — Batch 1 uses session-level split"
+
+  - id: air_quality
+    name: AirQuality
+    folder: "12. Air Quality"
+    task: regression
+    uci_id: 360
+    target: AH
+    n_samples: 1000
+    subsample: null
+    missing_strategy: train_fit
+    group_col: null
+    drop_cols: [Date, Time]
+    notes: "Regression; train-only imputation; Date/Time dropped"
+
+  - id: concrete
+    name: Concrete
+    folder: "13. Concrete Compressive Strength"
+    task: regression
+    uci_id: 165
+    target: Concrete_compressive_strength
+    n_samples: 1000
+    subsample: null
+    missing_strategy: train_fit
+    group_col: null
+    drop_cols: []
+    notes: "Regression; one row per mix — no entity ID"
+
+  - id: energy_efficiency
+    name: Energy
+    folder: "14. Energy Efficiency"
+    task: regression
+    uci_id: 242
+    target: Y1
+    n_samples: 1000
+    subsample: null
+    missing_strategy: train_fit
+    group_col: null
+    drop_cols: []
+    notes: "Regression target Y1 (heating load) per existing notebooks"
+
+  - id: real_estate
+    name: RealEstate
+    folder: "15. Real Estate Valuation"
+    task: regression
+    uci_id: 477
+    target: Y_house_price_of_unit_area
+    n_samples: 1000
+    subsample: null
+    missing_strategy: train_fit
+    group_col: null
+    drop_cols: ["X1 transaction date"]
+    notes: "Regression; row-level split; transaction date dropped"

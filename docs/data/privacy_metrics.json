@@ -1,0 +1,42 @@
+[
+  {
+    "id": "MIA_AUC",
+    "label": "MIA AUC",
+    "count": 120,
+    "lower_is_better": true,
+    "is_similarity": true,
+    "is_sample_size": false
+  },
+  {
+    "id": "Mahalanobis_Distance",
+    "label": "Mahalanobis Distance",
+    "count": 120,
+    "lower_is_better": false,
+    "is_similarity": false,
+    "is_sample_size": false
+  },
+  {
+    "id": "Mean_Distance",
+    "label": "Mean Distance",
+    "count": 120,
+    "lower_is_better": false,
+    "is_similarity": false,
+    "is_sample_size": false
+  },
+  {
+    "id": "Median_Distance",
+    "label": "Median Distance",
+    "count": 120,
+    "lower_is_better": false,
+    "is_similarity": false,
+    "is_sample_size": false
+  },
+  {
+    "id": "NNDR",
+    "label": "NNDR",
+    "count": 120,
+    "lower_is_better": false,
+    "is_similarity": false,
+    "is_sample_size": false
+  }
+]

@@ -1,0 +1,121 @@
+Dataset,Generator,Pairwise_Cosine,Hungarian_Cosine,Hungarian_Mahalanobis,Num_Matches,Dataset_Short
+1. Cancer,CTABGAN,-0.008807,0.998195,,569.0,Cancer
+1. Cancer,CTGAN,0.007301,0.94758,,569.0,Cancer
+1. Cancer,CopulaGAN,-0.042749,0.956947,,569.0,Cancer
+1. Cancer,ForestDiffusion,0.020406,0.999888,,569.0,Cancer
+1. Cancer,GaussianCopula,0.012774,0.999626,,569.0,Cancer
+1. Cancer,TVAE,0.043196,0.994255,,569.0,Cancer
+1. Cancer,TabDDPM,-0.05887,0.991305,,569.0,Cancer
+1. Cancer,WGAN-GP,0.021422,0.99984,,569.0,Cancer
+10. Metro interstate,CTABGAN,0.000365,0.9930134503165852,2.433241937847617,1000.0,Metro interstate
+10. Metro interstate,CTGAN,0.016607,0.9998118622548122,0.3998051798465409,5000.0,Metro interstate
+10. Metro interstate,CopulaGAN,0.006086,0.9999827423012392,0.482782449183865,5000.0,Metro interstate
+10. Metro interstate,ForestDiffusion,0.00882,0.9962714485893248,0.2975506383791378,1000.0,Metro interstate
+10. Metro interstate,GaussianCopula,-0.037933,0.992558973006293,27.79004060836873,5000.0,Metro interstate
+10. Metro interstate,TVAE,0.009913,0.9957562261949416,0.2912623971788529,5000.0,Metro interstate
+10. Metro interstate,TabDDPM,-0.037414,0.9498556148901524,13.54874748944148,1000.0,Metro interstate
+10. Metro interstate,WGAN-GP,0.003326,0.9897666683510477,3.055943100071951,1000.0,Metro interstate
+11. online shopping,CTABGAN,0.07272,,2.433241937847617,1000.0,online shopping
+11. online shopping,CTGAN,0.004921,0.9999978326412216,1.567793840720491,,online shopping
+11. online shopping,CopulaGAN,0.006996,0.9999985902043173,1.58151116938155,,online shopping
+11. online shopping,ForestDiffusion,0.015111,,1.816702233657161,1000.0,online shopping
+11. online shopping,GaussianCopula,0.004029,0.9999974157084122,1.587593292473918,,online shopping
+11. online shopping,TVAE,0.017064,0.9999769900404132,2.384211658479305,,online shopping
+11. online shopping,TabDDPM,-0.027586,,5.638238186073312,1000.0,online shopping
+11. online shopping,WGAN-GP,-0.007068,,3.055943100071951,1000.0,online shopping
+12. Air Quality,CTABGAN,0.006073,,,,Air Quality
+12. Air Quality,CTGAN,0.00592,0.9740564407359084,145.4258331068809,1000.0,Air Quality
+12. Air Quality,CopulaGAN,-0.007748,0.9658485018218728,42.25175791284352,1000.0,Air Quality
+12. Air Quality,ForestDiffusion,0.010261,0.998953,,1000.0,Air Quality
+12. Air Quality,GaussianCopula,0.00501,0.9978391067700032,18.53194361248073,1000.0,Air Quality
+12. Air Quality,TVAE,0.007304,0.9959795553323112,20.60500284182482,1000.0,Air Quality
+12. Air Quality,TabDDPM,-0.006147,0.957594,,1000.0,Air Quality
+12. Air Quality,WGAN-GP,-0.00211,,,,Air Quality
+13. Concrete Compressive Strength,CTABGAN,0.001184,0.980089,,1000.0,Concrete Compressive Strength
+13. Concrete Compressive Strength,CTGAN,-0.006918,0.9968473117249576,5.018744814748363,1000.0,Concrete Compressive Strength
+13. Concrete Compressive Strength,CopulaGAN,0.00665,0.9944795361352042,6.507187039173957,1000.0,Concrete Compressive Strength
+13. Concrete Compressive Strength,ForestDiffusion,0.003079,0.999365,,1000.0,Concrete Compressive Strength
+13. Concrete Compressive Strength,GaussianCopula,0.006954,0.9961556904529508,3.68576914499426,1000.0,Concrete Compressive Strength
+13. Concrete Compressive Strength,TVAE,0.010488,0.9972194728703944,3.145877314034491,1000.0,Concrete Compressive Strength
+13. Concrete Compressive Strength,TabDDPM,0.002792,0.998188,,1000.0,Concrete Compressive Strength
+13. Concrete Compressive Strength,WGAN-GP,0.013373,0.976834,,1000.0,Concrete Compressive Strength
+14. Energy Efficiency,CTABGAN,-0.003831,0.998061,,768.0,Energy Efficiency
+14. Energy Efficiency,CTGAN,0.002569,0.9966612583435426,45637.72490186258,768.0,Energy Efficiency
+14. Energy Efficiency,CopulaGAN,-0.001534,0.9967512227047748,51117.38255461063,768.0,Energy Efficiency
+14. Energy Efficiency,ForestDiffusion,0.000579,0.999999,,768.0,Energy Efficiency
+14. Energy Efficiency,GaussianCopula,0.001194,0.9993231090584036,21169.76852420071,768.0,Energy Efficiency
+14. Energy Efficiency,TVAE,0.00282,0.9991856395133506,18868.03098811942,768.0,Energy Efficiency
+14. Energy Efficiency,TabDDPM,0.001883,0.999033,,768.0,Energy Efficiency
+14. Energy Efficiency,WGAN-GP,0.000862,0.999045,,768.0,Energy Efficiency
+15. Real Estate Valuation,CTABGAN,0.016572,0.999655,,414.0,Real Estate Valuation
+15. Real Estate Valuation,CTGAN,-0.050747,0.9169089186365058,16692.75223370301,414.0,Real Estate Valuation
+15. Real Estate Valuation,CopulaGAN,-0.050764,0.8511433790000289,16693.83443314724,414.0,Real Estate Valuation
+15. Real Estate Valuation,ForestDiffusion,0.023181,0.999959,,414.0,Real Estate Valuation
+15. Real Estate Valuation,GaussianCopula,-0.050746,0.9033702266244976,16693.55375105767,414.0,Real Estate Valuation
+15. Real Estate Valuation,TVAE,-0.050741,0.923216777270658,16693.78910852161,414.0,Real Estate Valuation
+15. Real Estate Valuation,TabDDPM,-0.031771,0.999461,,414.0,Real Estate Valuation
+15. Real Estate Valuation,WGAN-GP,0.023284,0.998436,,414.0,Real Estate Valuation
+2. Alzhimers,CTABGAN,-0.009937,0.999852,,373.0,Alzhimers
+2. Alzhimers,CTGAN,-0.007544,0.995876,11.40768744000895,373.0,Alzhimers
+2. Alzhimers,CopulaGAN,-0.006982,0.969223,10.77991140315838,373.0,Alzhimers
+2. Alzhimers,ForestDiffusion,0.003124,0.999993,,373.0,Alzhimers
+2. Alzhimers,GaussianCopula,0.016283,0.92408,3.361963735016404,373.0,Alzhimers
+2. Alzhimers,TVAE,0.01326,0.985688,4.994363205689315,373.0,Alzhimers
+2. Alzhimers,TabDDPM,-0.02195,0.994789,,373.0,Alzhimers
+2. Alzhimers,WGAN-GP,0.006048,0.999784,,373.0,Alzhimers
+3. Adult,CTABGAN,-0.031479,0.9998866616845967,2.428502572522146,1000.0,Adult
+3. Adult,CTGAN,-0.000376,0.9996423581191255,0.312119816355832,1000.0,Adult
+3. Adult,CopulaGAN,-0.000428,0.9964779684956977,0.6750320130668681,1000.0,Adult
+3. Adult,ForestDiffusion,0.020289,0.9997905968172516,0.7604998920067207,1000.0,Adult
+3. Adult,GaussianCopula,-0.000576,0.9806849869684116,2.484689273011973,1000.0,Adult
+3. Adult,TVAE,0.005204,0.9994313165892008,0.1163703617203237,1000.0,Adult
+3. Adult,TabDDPM,-0.054662,0.7988756851244702,11.73058872994562,1000.0,Adult
+3. Adult,WGAN-GP,0.000121,0.996304476661821,1.647321943434293,1000.0,Adult
+4. Forest cover dataset,CTABGAN,0.002905,0.996078,,448.0,Forest cover dataset
+4. Forest cover dataset,CTGAN,0.000336,0.976664,,1000.0,Forest cover dataset
+4. Forest cover dataset,CopulaGAN,0.004608,0.954908,,1000.0,Forest cover dataset
+4. Forest cover dataset,ForestDiffusion,0.004782,0.997509,1.816702233657161,1000.0,Forest cover dataset
+4. Forest cover dataset,GaussianCopula,0.002111,0.997299,,1000.0,Forest cover dataset
+4. Forest cover dataset,TVAE,0.009101,0.985911,,1000.0,Forest cover dataset
+4. Forest cover dataset,TabDDPM,-0.020852,0.891484,5.638238186073312,1000.0,Forest cover dataset
+4. Forest cover dataset,WGAN-GP,0.004645,0.997355,,448.0,Forest cover dataset
+5. Bank Markting,CTABGAN,0.019165,0.939923,,1000.0,Bank Markting
+5. Bank Markting,CTGAN,0.016167,0.9996685798816864,,10000.0,Bank Markting
+5. Bank Markting,CopulaGAN,-0.004861,0.9994728773158172,,10000.0,Bank Markting
+5. Bank Markting,ForestDiffusion,0.028548,0.953458,,1000.0,Bank Markting
+5. Bank Markting,GaussianCopula,-0.020781,0.9931425769281476,,10000.0,Bank Markting
+5. Bank Markting,TVAE,0.047822,0.9989676630292432,,10000.0,Bank Markting
+5. Bank Markting,TabDDPM,-0.05826,0.357519,,1000.0,Bank Markting
+5. Bank Markting,WGAN-GP,0.030217,0.810998,,1000.0,Bank Markting
+6. Wine dataset,CTABGAN,0.00224,0.980089,,1000.0,Wine dataset
+6. Wine dataset,CTGAN,0.005918,,14.60013448951508,6497.0,Wine dataset
+6. Wine dataset,CopulaGAN,0.005261,,14.97249458978774,6497.0,Wine dataset
+6. Wine dataset,ForestDiffusion,0.009172,0.997669,,1000.0,Wine dataset
+6. Wine dataset,GaussianCopula,0.003519,,15.50733446018729,6497.0,Wine dataset
+6. Wine dataset,TVAE,0.014057,,13.65101514825886,6497.0,Wine dataset
+6. Wine dataset,TabDDPM,-0.000788,0.942491,,1000.0,Wine dataset
+6. Wine dataset,WGAN-GP,-6.3e-05,0.976834,,1000.0,Wine dataset
+7. CDC diabetes dataset,CTABGAN,-0.032389,0.986286,,1000.0,CDC diabetes dataset
+7. CDC diabetes dataset,CTGAN,-0.004886,0.9851661008568016,0.480346042408537,5000.0,CDC diabetes dataset
+7. CDC diabetes dataset,CopulaGAN,-0.000336,0.9945577524214452,0.577594273540177,5000.0,CDC diabetes dataset
+7. CDC diabetes dataset,ForestDiffusion,,0.995394,,1000.0,CDC diabetes dataset
+7. CDC diabetes dataset,GaussianCopula,-0.004156,0.9971737677781224,27.5822488054879,5000.0,CDC diabetes dataset
+7. CDC diabetes dataset,TVAE,0.02507,0.9983234912644736,0.6194033040135131,5000.0,CDC diabetes dataset
+7. CDC diabetes dataset,TabDDPM,,0.946035,,1000.0,CDC diabetes dataset
+7. CDC diabetes dataset,WGAN-GP,0.007307,0.982831,,1000.0,CDC diabetes dataset
+8. Mushroom dataset,CTABGAN,0.000778,0.9666,,1000.0,Mushroom dataset
+8. Mushroom dataset,CTGAN,0.028863,0.9887827505945156,0.4861690905004704,10000.0,Mushroom dataset
+8. Mushroom dataset,CopulaGAN,0.014609,0.989882442334801,0.5394674015084815,10000.0,Mushroom dataset
+8. Mushroom dataset,ForestDiffusion,-0.006439,0.988409,,1000.0,Mushroom dataset
+8. Mushroom dataset,GaussianCopula,0.026794,0.9944284213885014,0.3940570978261434,10000.0,Mushroom dataset
+8. Mushroom dataset,TVAE,0.038429,0.9835869904792532,0.4330184728020023,10000.0,Mushroom dataset
+8. Mushroom dataset,TabDDPM,-0.010754,0.810579,,1000.0,Mushroom dataset
+8. Mushroom dataset,WGAN-GP,-0.005969,0.864065,,1000.0,Mushroom dataset
+9. MAGIC Gamma Telescope,CTABGAN,0.013872,0.995642,1.864591197366024,1000.0,MAGIC Gamma Telescope
+9. MAGIC Gamma Telescope,CTGAN,0.028233,0.987115,3.259152594267476,19020.0,MAGIC Gamma Telescope
+9. MAGIC Gamma Telescope,CopulaGAN,0.017636,0.983916,2.898899999348318,19020.0,MAGIC Gamma Telescope
+9. MAGIC Gamma Telescope,ForestDiffusion,0.025724,0.992639,1.307832354805954,1000.0,MAGIC Gamma Telescope
+9. MAGIC Gamma Telescope,GaussianCopula,0.004072,0.946915,2.29071670862113,19020.0,MAGIC Gamma Telescope
+9. MAGIC Gamma Telescope,TVAE,0.033048,0.989433,1.871005046571554,19020.0,MAGIC Gamma Telescope
+9. MAGIC Gamma Telescope,TabDDPM,-0.002602,0.923839,4.284835835531674,1000.0,MAGIC Gamma Telescope
+9. MAGIC Gamma Telescope,WGAN-GP,0.028239,0.997771,1.17739482499675,1000.0,MAGIC Gamma Telescope

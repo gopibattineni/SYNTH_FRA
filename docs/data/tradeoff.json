@@ -1,0 +1,58 @@
+[
+  {
+    "Generator": "ForestDiffusion",
+    "Utility": 1.0,
+    "Privacy": 1.0,
+    "Fidelity": 0.6780731213,
+    "Dominated": false
+  },
+  {
+    "Generator": "TVAE",
+    "Utility": 0.8523895901,
+    "Privacy": 0.5335501673,
+    "Fidelity": 1.0,
+    "Dominated": false
+  },
+  {
+    "Generator": "GaussianCopula",
+    "Utility": 0.7557664639,
+    "Privacy": 0.5494981244,
+    "Fidelity": 0.9406741918,
+    "Dominated": false
+  },
+  {
+    "Generator": "WGAN_GP",
+    "Utility": 0.7515823016,
+    "Privacy": 0.7416570292,
+    "Fidelity": 0.2508684157,
+    "Dominated": true
+  },
+  {
+    "Generator": "CTGAN",
+    "Utility": 0.3904564128,
+    "Privacy": 0.5384868001,
+    "Fidelity": 0.7164842669,
+    "Dominated": true
+  },
+  {
+    "Generator": "CopulaGAN",
+    "Utility": 0.4311933191,
+    "Privacy": 0.3860184837,
+    "Fidelity": 0.6842230218,
+    "Dominated": true
+  },
+  {
+    "Generator": "TabDDPM",
+    "Utility": 0.5405415337,
+    "Privacy": 0.0,
+    "Fidelity": 0.0,
+    "Dominated": true
+  },
+  {
+    "Generator": "CTABGAN",
+    "Utility": 0.0,
+    "Privacy": 0.1491734902,
+    "Fidelity": 0.223043535,
+    "Dominated": true
+  }
+]

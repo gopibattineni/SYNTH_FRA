@@ -1,0 +1,49 @@
+Dataset,Generator,Task,QualityScore,MIA,R2
+Air Quality,ForestDiffusion,regression,0.919615,0.522064,0.841528
+Air Quality,TVAE,regression,0.927111,0.934148,0.170309
+Air Quality,CTABGAN,regression,0.873,0.987062,0.15347
+Air Quality,WGAN_GP,regression,0.841846,0.864221,0.736295
+Air Quality,GaussianCopula,regression,0.948563,0.587864,0.752866
+Air Quality,CopulaGAN,regression,0.671844,0.999291,0.005532
+Air Quality,CTGAN,regression,0.724395,0.997577,-0.039713
+Air Quality,TabDDPM,regression,0.773077,0.739836,-1.274907
+Concrete,ForestDiffusion,regression,0.877,0.562875,0.645952
+Concrete,TVAE,regression,0.894231,0.760375,0.358572
+Concrete,CTABGAN,regression,0.772333,0.464033,-0.102583
+Concrete,WGAN_GP,regression,0.744333,0.391144,0.328911
+Concrete,GaussianCopula,regression,0.847314,0.844161,0.466939
+Concrete,CopulaGAN,regression,0.724632,0.939605,-0.852332
+Concrete,CTGAN,regression,0.720855,0.904203,-0.575261
+Concrete,TabDDPM,regression,0.948889,0.572591,0.578242
+Energy Efficiency,ForestDiffusion,regression,0.708662,0.69319,0.917427
+Energy Efficiency,TVAE,regression,0.88622,0.999522,0.765985
+Energy Efficiency,CTABGAN,regression,0.704767,1.0,-1.177548
+Energy Efficiency,WGAN_GP,regression,0.626702,1.0,0.819414
+Energy Efficiency,GaussianCopula,regression,0.789355,1.0,0.609923
+Energy Efficiency,CopulaGAN,regression,0.686985,1.0,-0.395873
+Energy Efficiency,CTGAN,regression,0.677298,1.0,-0.13147
+Energy Efficiency,TabDDPM,regression,0.654671,0.986806,0.643088
+Metro Interstate,ForestDiffusion,regression,0.905327,0.372141,-0.156949
+Metro Interstate,TVAE,regression,0.852997,0.513421,-0.672635
+Metro Interstate,CTABGAN,regression,0.88219,0.520665,-0.101572
+Metro Interstate,WGAN_GP,regression,0.808212,0.393968,-2.017976
+Metro Interstate,GaussianCopula,regression,0.573533,0.997511,-0.315471
+Metro Interstate,CopulaGAN,regression,0.719811,0.522254,-0.1963
+Metro Interstate,CTGAN,regression,0.755272,0.548389,-0.234621
+Metro Interstate,TabDDPM,regression,0.824034,0.913416,-0.691435
+Online Shopping,ForestDiffusion,regression,0.915197,0.475357,0.599345
+Online Shopping,TVAE,regression,0.608031,0.587866,-0.478867
+Online Shopping,CTABGAN,regression,0.994625,0.684771,-0.060402
+Online Shopping,WGAN_GP,regression,0.010415,0.80346,-72.303658
+Online Shopping,GaussianCopula,regression,0.704185,0.744694,0.318837
+Online Shopping,CopulaGAN,regression,0.682,0.804891,-0.579695
+Online Shopping,CTGAN,regression,0.672431,0.80952,-0.260671
+Online Shopping,TabDDPM,regression,0.7817,0.965651,-2.053242
+Real Estate,ForestDiffusion,regression,0.944539,0.504819,0.572078
+Real Estate,TVAE,regression,0.92108,1.0,0.493764
+Real Estate,CTABGAN,regression,0.911592,0.661855,0.352657
+Real Estate,WGAN_GP,regression,0.734693,0.810978,0.481857
+Real Estate,GaussianCopula,regression,0.884307,1.0,0.51674
+Real Estate,CopulaGAN,regression,0.734702,1.0,-0.410392
+Real Estate,CTGAN,regression,0.764289,1.0,-1.242459
+Real Estate,TabDDPM,regression,0.65929,0.761111,0.279785

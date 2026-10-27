@@ -1,0 +1,4 @@
+Primary: Privacy vs Utility (F1, NNDR)
+No statistically significant association between nndr and utility (f1) (Pearson r = -0.56, p ≥ 0.05).
+WGAN_GP, ForestDiffusion, CTABGAN achieve a comparatively favourable privacy–utility balance.
+No statistically significant relationship (p ≥ 0.05). The pattern is consistent with the expected privacy–utility trade-off for synthetic tabular data.

@@ -1,0 +1,4 @@
+Privacy vs Utility (F1, NNDR)
+Higher nndr is associated with lower utility (f1) (Pearson r = -0.50).
+WGAN_GP, ForestDiffusion, CTABGAN achieve a comparatively favourable privacy–utility balance.
+Moderate negative correlation. The pattern is consistent with the expected privacy–utility trade-off for synthetic tabular data.

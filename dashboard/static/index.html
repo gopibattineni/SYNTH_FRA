@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SYNTH Benchmark — Interactive Results Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/style.css?v=50" />
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js" charset="utf-8"></script>
+</head>
+<body>
+  <header>
+    <h1>SYNTH Benchmark Dashboard</h1>
+    <p>
+      10-seed Mean ± SD results for 8 generators × 15 datasets ·
+      Utility · Fidelity · Privacy · Trade-offs
+    </p>
+    <p style="margin:0.75rem 0 0;font-size:0.95rem">
+      <a href="explorer/" style="color:#2563eb;font-weight:600">Open 10-Seed Results Explorer →</a>
+      &nbsp;·&nbsp;
+      <a href="https://gopibattineni.github.io/SYNTH_BENCHMARK/explorer/" style="color:#64748b">permalink</a>
+    </p>
+  </header>
+
+  <div id="app-loading" class="loading">Loading benchmark data…</div>
+
+  <div id="app-main" style="display:none">
+    <section class="metrics">
+      <div class="metric"><div class="label">Datasets</div><div class="value" id="metric-datasets">—</div></div>
+      <div class="metric"><div class="label">Generators</div><div class="value" id="metric-generators">8</div></div>
+      <div class="metric"><div class="label">Seeds</div><div class="value" id="metric-files">—</div></div>
+      <div class="metric"><div class="label">Utility rows</div><div class="value" id="metric-utility">—</div></div>
+    </section>
+
+    <nav class="tabs">
+      <button class="active" data-panel="panel-overview">Overview</button>
+      <button data-panel="panel-utility">Utility</button>
+      <button data-panel="panel-fidelity">Fidelity</button>
+      <button data-panel="panel-privacy">Privacy</button>
+      <button data-panel="panel-tradeoff">Trade-offs</button>
+      <button data-panel="panel-rankings">Rankings</button>
+      <button data-panel="panel-statistics">Statistics</button>
+    </nav>
+
+    <main>
+      <section id="panel-overview" class="panel active">
+        <div class="chart-grid two">
+          <div class="chart-card"><h3>Utility gap across datasets</h3><div id="overview-heatmap" class="plot"></div></div>
+          <div class="chart-card"><h3>Generator coverage</h3><div id="overview-coverage" class="plot"></div></div>
+        </div>
+      </section>
+
+      <section id="panel-utility" class="panel">
+        <div class="controls">
+          <div class="control"><label>Task</label><select id="filter-task"></select></div>
+          <div class="control"><label>Utility metric</label><select id="filter-metric"></select></div>
+          <div class="control"><label>Evaluation</label><select id="filter-utility-eval"></select></div>
+          <div class="control"><label>Dataset</label><select id="filter-dataset"></select></div>
+          <div class="control"><label>Generator</label><select id="filter-generator"></select></div>
+        </div>
+        <div class="chart-grid two">
+          <div class="chart-card"><h3 id="utility-bar-title">Utility by generator</h3><div id="utility-bar" class="plot"></div></div>
+          <div class="chart-card"><h3>TRTR vs TSTR</h3><div id="utility-trtr-tstr" class="plot"></div></div>
+        </div>
+        <div class="chart-grid one" style="margin-top:1.25rem">
+          <div class="chart-card"><h3 id="utility-heat-title">Utility heatmap (TSTR / TRTR)</h3><div id="utility-heatmap" class="plot"></div></div>
+        </div>
+        <div class="chart-grid two" style="margin-top:1.25rem">
+          <div class="chart-card"><h3 id="utility-detail-title">By classifier</h3><div id="utility-classifier" class="plot"></div></div>
+        </div>
+      </section>
+
+      <!-- Legacy dataleak panel removed: primary data is now 10-seed Mean±SD -->
+
+      <section id="panel-fidelity" class="panel">
+        <div class="controls">
+          <div class="control"><label>Problem type</label><select id="filter-fidelity-problem"></select></div>
+          <div class="control"><label>Fidelity metric</label><select id="filter-fidelity-metric"></select></div>
+          <div class="control"><label>Dataset</label><select id="filter-fidelity-dataset"></select></div>
+        </div>
+        <div class="chart-grid two">
+          <div class="chart-card"><h3 id="fidelity-bar-title">Fidelity by generator</h3><div id="fidelity-bar" class="plot"></div></div>
+          <div class="chart-card"><h3>Dataset heatmap</h3><div id="fidelity-heatmap" class="plot"></div></div>
+        </div>
+      </section>
+
+      <section id="panel-privacy" class="panel">
+        <div class="controls">
+          <div class="control"><label>Problem type</label><select id="filter-privacy-problem"></select></div>
+          <div class="control"><label>Privacy metric</label><select id="filter-privacy-metric"></select></div>
+          <div class="control"><label>Dataset</label><select id="filter-privacy-dataset"></select></div>
+        </div>
+        <div class="chart-grid two">
+          <div class="chart-card"><h3 id="privacy-bar-title">Privacy by generator</h3><div id="privacy-bar" class="plot"></div></div>
+          <div class="chart-card"><h3>Dataset heatmap</h3><div id="privacy-heatmap" class="plot"></div></div>
+        </div>
+      </section>
+
+      <section id="panel-tradeoff" class="panel">
+        <div class="controls">
+          <div class="control"><label>Problem type</label><select id="filter-tradeoff-problem"></select></div>
+          <div class="control"><label>Utility metric</label><select id="filter-tradeoff-utility"></select></div>
+          <div class="control"><label>Fidelity metric</label><select id="filter-tradeoff-fidelity"></select></div>
+          <div class="control"><label>Privacy metric</label><select id="filter-tradeoff-privacy"></select></div>
+        </div>
+        <div class="tradeoff-picker" aria-label="Dataset comparison picker">
+          <div class="ds-pane">
+            <div class="ds-pane-head">
+              <span>Available datasets</span>
+              <span class="ds-count" id="tradeoff-avail-count">0</span>
+            </div>
+            <div id="tradeoff-available" class="ds-chip-list" data-list="available"></div>
+            <p class="ds-hint">Click or drag into Compare</p>
+          </div>
+          <div class="ds-arrow" aria-hidden="true">⇄</div>
+          <div class="ds-pane ds-pane-compare">
+            <div class="ds-pane-head">
+              <span>Compare</span>
+              <span class="ds-count" id="tradeoff-selected-count">0</span>
+            </div>
+            <div id="tradeoff-selected" class="ds-chip-list" data-list="selected"></div>
+            <p class="ds-hint">Drag to reorder · drop here to add (2+) · click to remove</p>
+          </div>
+        </div>
+        <p class="section-title" id="tradeoff-subtitle" style="margin-top:0">
+          Generator means across selected datasets — numbered markers; values in the table
+        </p>
+        <p id="tradeoff-dataset-list" style="color:var(--muted);font-size:0.9rem;margin:-0.35rem 0 1rem;padding:0 0.25rem"></p>
+        <div class="chart-grid two">
+          <div class="chart-card"><h3 id="tradeoff-fidelity-utility-title">Fidelity vs Utility</h3><div id="tradeoff-fidelity-utility" class="plot"></div></div>
+          <div class="chart-card"><h3 id="tradeoff-privacy-utility-title">Privacy vs Utility</h3><div id="tradeoff-privacy-utility" class="plot"></div></div>
+        </div>
+        <div class="chart-grid two" style="margin-top:1.25rem">
+          <div class="chart-card"><h3 id="tradeoff-fidelity-privacy-title">Fidelity vs Privacy</h3><div id="tradeoff-fidelity-privacy" class="plot"></div></div>
+          <div class="table-wrap" style="margin-top:0">
+            <h3 class="section-title">Generator values (mean over selected datasets)</h3>
+            <table id="tradeoff-values-table">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Generator</th>
+                  <th>Utility</th>
+                  <th>Fidelity</th>
+                  <th>Privacy</th>
+                  <th>N ds</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <section id="panel-rankings" class="panel">
+        <div class="chart-grid two">
+          <div class="chart-card"><h3>Weighted ranking</h3><div id="rankings-weighted" class="plot"></div></div>
+          <div class="chart-card"><h3>Borda count</h3><div id="rankings-borda" class="plot"></div></div>
+        </div>
+      </section>
+
+      <section id="panel-statistics" class="panel">
+        <div class="controls">
+          <div class="control"><label>Dataset</label><select id="filter-stats-dataset"></select></div>
+          <div class="control"><label>Statistic</label><select id="filter-stats-metric"></select></div>
+        </div>
+        <div class="chart-grid two">
+          <div class="chart-card"><h3 id="stats-bar-title">Average error by model</h3><div id="stats-error-bar" class="plot"></div></div>
+          <div class="chart-card"><h3 id="stats-heat-title">Error heatmap (datasets × generators)</h3><div id="stats-error-heatmap" class="plot"></div></div>
+        </div>
+        <div class="table-wrap">
+          <h3 class="section-title">Average error by model</h3>
+          <table id="stats-error-table">
+            <thead>
+              <tr>
+                <th>Model</th>
+                <th>Mean Error %</th>
+                <th>Median Error %</th>
+                <th>Std Error %</th>
+                <th>Source</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <h3 class="section-title">Pairwise significance (Wilcoxon)</h3>
+        <div class="chart-grid two">
+          <div class="chart-card"><div id="stats-heat-0" class="plot"></div></div>
+          <div class="chart-card"><div id="stats-heat-1" class="plot"></div></div>
+          <div class="chart-card"><div id="stats-heat-2" class="plot"></div></div>
+          <div class="chart-card"><div id="stats-heat-3" class="plot"></div></div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <footer>
+    SYNTH Benchmark · Synthetic Tabular Data Generation ·
+    <a href="https://github.com/gopibattineni/SYNTH_BENCHMARK">View on GitHub</a>
+  </footer>
+
+  <script src="assets/app.js?v=50"></script>
+</body>
+</html>

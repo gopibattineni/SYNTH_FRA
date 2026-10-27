@@ -1,0 +1,1051 @@
+Dataset,Generator,Seed,Experiment,Metric,Value,Mean,Std,Classifier,RegressionModel,Regressor,Leakage,LeakageLevel,TrainingPercentage,EvaluationType,Category,MetricValue,SourceFile
+,TVAE,,privacy,Mean_Distance,0.2293317570974291,0.2293317570974291,,,,,0.0,0.0,100.0,Score,Privacy,0.2293317570974291,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/10. Metro interstate/fidelity_privacy_metrics.xlsx
+,TVAE,,privacy,Median_Distance,0.022035754525118,0.022035754525118,,,,,0.0,0.0,100.0,Score,Privacy,0.022035754525118,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/10. Metro interstate/fidelity_privacy_metrics.xlsx
+,TVAE,,privacy,Std_Distance,1.389130632070223,1.389130632070223,,,,,0.0,0.0,100.0,Score,Privacy,1.389130632070223,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/10. Metro interstate/fidelity_privacy_metrics.xlsx
+,TVAE,,privacy,Min_Distance,4.635155626047929e-07,4.635155626047929e-07,,,,,0.0,0.0,100.0,Score,Privacy,4.635155626047929e-07,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/10. Metro interstate/fidelity_privacy_metrics.xlsx
+,TVAE,,privacy,Max_Distance,37.0159897858797,37.0159897858797,,,,,0.0,0.0,100.0,Score,Privacy,37.0159897858797,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/10. Metro interstate/fidelity_privacy_metrics.xlsx
+,CopulaGAN,,privacy,Mean_Distance,0.4004089346444876,0.4004089346444876,,,,,0.0,0.0,100.0,Score,Privacy,0.4004089346444876,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/10. Metro interstate/fidelity_privacy_metrics.xlsx
+,CopulaGAN,,privacy,Median_Distance,0.2571878797960432,0.2571878797960432,,,,,0.0,0.0,100.0,Score,Privacy,0.2571878797960432,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/10. Metro interstate/fidelity_privacy_metrics.xlsx
+,CopulaGAN,,privacy,Std_Distance,1.155162117865425,1.155162117865425,,,,,0.0,0.0,100.0,Score,Privacy,1.155162117865425,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/10. Metro interstate/fidelity_privacy_metrics.xlsx
+,CopulaGAN,,privacy,Min_Distance,2.968725728847451e-05,2.968725728847451e-05,,,,,0.0,0.0,100.0,Score,Privacy,2.968725728847451e-05,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/10. Metro interstate/fidelity_privacy_metrics.xlsx
+,CopulaGAN,,privacy,Max_Distance,38.74996097999503,38.74996097999503,,,,,0.0,0.0,100.0,Score,Privacy,38.74996097999503,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/10. Metro interstate/fidelity_privacy_metrics.xlsx
+,CTGAN,,privacy,Mean_Distance,0.5035159578153979,0.5035159578153979,,,,,0.0,0.0,100.0,Score,Privacy,0.5035159578153979,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/10. Metro interstate/fidelity_privacy_metrics.xlsx
+,CTGAN,,privacy,Median_Distance,0.0781060834032303,0.0781060834032303,,,,,0.0,0.0,100.0,Score,Privacy,0.0781060834032303,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/10. Metro interstate/fidelity_privacy_metrics.xlsx
+,CTGAN,,privacy,Std_Distance,1.485877391716603,1.485877391716603,,,,,0.0,0.0,100.0,Score,Privacy,1.485877391716603,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/10. Metro interstate/fidelity_privacy_metrics.xlsx
+,CTGAN,,privacy,Min_Distance,1.091659106627168e-06,1.091659106627168e-06,,,,,0.0,0.0,100.0,Score,Privacy,1.091659106627168e-06,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/10. Metro interstate/fidelity_privacy_metrics.xlsx
+,CTGAN,,privacy,Max_Distance,37.55117519896112,37.55117519896112,,,,,0.0,0.0,100.0,Score,Privacy,37.55117519896112,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/10. Metro interstate/fidelity_privacy_metrics.xlsx
+,GaussianCopula,,privacy,Mean_Distance,27.57770093164357,27.57770093164357,,,,,0.0,0.0,100.0,Score,Privacy,27.57770093164357,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/10. Metro interstate/fidelity_privacy_metrics.xlsx
+,GaussianCopula,,privacy,Median_Distance,32.72182784096612,32.72182784096612,,,,,0.0,0.0,100.0,Score,Privacy,32.72182784096612,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/10. Metro interstate/fidelity_privacy_metrics.xlsx
+,GaussianCopula,,privacy,Std_Distance,11.11708582569364,11.11708582569364,,,,,0.0,0.0,100.0,Score,Privacy,11.11708582569364,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/10. Metro interstate/fidelity_privacy_metrics.xlsx
+,GaussianCopula,,privacy,Min_Distance,0.1325027378798853,0.1325027378798853,,,,,0.0,0.0,100.0,Score,Privacy,0.1325027378798853,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/10. Metro interstate/fidelity_privacy_metrics.xlsx
+,GaussianCopula,,privacy,Max_Distance,41.08458599787649,41.08458599787649,,,,,0.0,0.0,100.0,Score,Privacy,41.08458599787649,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/10. Metro interstate/fidelity_privacy_metrics.xlsx
+,WGAN_GP,,privacy,Mean_Distance,1.872853483265076,1.872853483265076,,,,,0.0,0.0,100.0,Score,Privacy,1.872853483265076,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/3. Adult/fidelity_privacy_metrics.xlsx
+,WGAN_GP,,privacy,Median_Distance,1.720587185328645,1.720587185328645,,,,,0.0,0.0,100.0,Score,Privacy,1.720587185328645,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/3. Adult/fidelity_privacy_metrics.xlsx
+,WGAN_GP,,privacy,Std_Distance,1.099480401568784,1.099480401568784,,,,,0.0,0.0,100.0,Score,Privacy,1.099480401568784,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/3. Adult/fidelity_privacy_metrics.xlsx
+,WGAN_GP,,privacy,Min_Distance,0.29133330675486,0.29133330675486,,,,,0.0,0.0,100.0,Score,Privacy,0.29133330675486,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/3. Adult/fidelity_privacy_metrics.xlsx
+,WGAN_GP,,privacy,Max_Distance,22.67444544813118,22.67444544813118,,,,,0.0,0.0,100.0,Score,Privacy,22.67444544813118,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/3. Adult/fidelity_privacy_metrics.xlsx
+,CTABGAN,,privacy,Mean_Distance,1.900368703607661,1.900368703607661,,,,,0.0,0.0,100.0,Score,Privacy,1.900368703607661,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/3. Adult/fidelity_privacy_metrics.xlsx
+,CTABGAN,,privacy,Median_Distance,1.392402170617326,1.392402170617326,,,,,0.0,0.0,100.0,Score,Privacy,1.392402170617326,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/3. Adult/fidelity_privacy_metrics.xlsx
+,CTABGAN,,privacy,Std_Distance,1.586734710131236,1.586734710131236,,,,,0.0,0.0,100.0,Score,Privacy,1.586734710131236,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/3. Adult/fidelity_privacy_metrics.xlsx
+,CTABGAN,,privacy,Min_Distance,0.0103349665593093,0.0103349665593093,,,,,0.0,0.0,100.0,Score,Privacy,0.0103349665593093,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/3. Adult/fidelity_privacy_metrics.xlsx
+,CTABGAN,,privacy,Max_Distance,21.70332989594829,21.70332989594829,,,,,0.0,0.0,100.0,Score,Privacy,21.70332989594829,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/3. Adult/fidelity_privacy_metrics.xlsx
+,CTABGAN,,privacy,Num_Matches,1000.0,1000.0,,,,,0.0,0.0,100.0,Score,Privacy,1000.0,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/3. Adult/fidelity_privacy_metrics.xlsx
+,WGAN_GP,,privacy,Num_Matches,1000.0,1000.0,,,,,0.0,0.0,100.0,Score,Privacy,1000.0,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/3. Adult/fidelity_privacy_metrics.xlsx
+,ForestDiffusion,,privacy,Mean_Distance,1.307832354805954,1.307832354805954,,,,,0.0,0.0,100.0,Score,Privacy,1.307832354805954,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/4. Forest cover dataset/fidelity_privacy_metrics.xlsx
+,ForestDiffusion,,privacy,Median_Distance,1.066825168324087,1.066825168324087,,,,,0.0,0.0,100.0,Score,Privacy,1.066825168324087,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/4. Forest cover dataset/fidelity_privacy_metrics.xlsx
+,ForestDiffusion,,privacy,Std_Distance,0.9476315639008812,0.9476315639008812,,,,,0.0,0.0,100.0,Score,Privacy,0.9476315639008812,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/4. Forest cover dataset/fidelity_privacy_metrics.xlsx
+,ForestDiffusion,,privacy,Min_Distance,0.093491416033872,0.093491416033872,,,,,0.0,0.0,100.0,Score,Privacy,0.093491416033872,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/4. Forest cover dataset/fidelity_privacy_metrics.xlsx
+,ForestDiffusion,,privacy,Max_Distance,10.0115325475975,10.0115325475975,,,,,0.0,0.0,100.0,Score,Privacy,10.0115325475975,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/4. Forest cover dataset/fidelity_privacy_metrics.xlsx
+,TabDDPM,,privacy,Mean_Distance,4.284835835531674,4.284835835531674,,,,,0.0,0.0,100.0,Score,Privacy,4.284835835531674,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/4. Forest cover dataset/fidelity_privacy_metrics.xlsx
+,TabDDPM,,privacy,Median_Distance,1.84800977120466,1.84800977120466,,,,,0.0,0.0,100.0,Score,Privacy,1.84800977120466,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/4. Forest cover dataset/fidelity_privacy_metrics.xlsx
+,TabDDPM,,privacy,Std_Distance,4.1557624865573,4.1557624865573,,,,,0.0,0.0,100.0,Score,Privacy,4.1557624865573,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/4. Forest cover dataset/fidelity_privacy_metrics.xlsx
+,TabDDPM,,privacy,Min_Distance,0.4711859159299238,0.4711859159299238,,,,,0.0,0.0,100.0,Score,Privacy,0.4711859159299238,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/4. Forest cover dataset/fidelity_privacy_metrics.xlsx
+,TabDDPM,,privacy,Max_Distance,21.36590514528754,21.36590514528754,,,,,0.0,0.0,100.0,Score,Privacy,21.36590514528754,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/4. Forest cover dataset/fidelity_privacy_metrics.xlsx
+,ForestDiffusion,,privacy,Num_Matches,1000.0,1000.0,,,,,0.0,0.0,100.0,Score,Privacy,1000.0,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/4. Forest cover dataset/fidelity_privacy_metrics.xlsx
+,TabDDPM,,privacy,Num_Matches,1000.0,1000.0,,,,,0.0,0.0,100.0,Score,Privacy,1000.0,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/4. Forest cover dataset/fidelity_privacy_metrics.xlsx
+,GaussianCopula,,privacy,Num_Matches,10000.0,10000.0,,,,,0.0,0.0,100.0,Score,Privacy,10000.0,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/8. Mushroom dataset/fidelity_privacy_metrics.xlsx
+,CopulaGAN,,privacy,Num_Matches,10000.0,10000.0,,,,,0.0,0.0,100.0,Score,Privacy,10000.0,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/8. Mushroom dataset/fidelity_privacy_metrics.xlsx
+,CTGAN,,privacy,Num_Matches,10000.0,10000.0,,,,,0.0,0.0,100.0,Score,Privacy,10000.0,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/8. Mushroom dataset/fidelity_privacy_metrics.xlsx
+,TVAE,,privacy,Num_Matches,10000.0,10000.0,,,,,0.0,0.0,100.0,Score,Privacy,10000.0,/home/gopi.battineni/SYNTH_BENCHMARK/paper results/8. Mushroom dataset/fidelity_privacy_metrics.xlsx
+4. Forest cover dataset,ForestDiffusion,,privacy,Median_Distance,1.699339086465347,1.699339086465347,,,,,0.0,0.0,100.0,Score,Privacy,1.699339086465347,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/ForestCover_Hungarian_Mahalanobis.xlsx
+4. Forest cover dataset,ForestDiffusion,,privacy,Std_Distance,62.4925559907472,62.4925559907472,,,,,0.0,0.0,100.0,Score,Privacy,62.4925559907472,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/ForestCover_Hungarian_Mahalanobis.xlsx
+4. Forest cover dataset,ForestDiffusion,,privacy,Min_Distance,0.0581099134678629,0.0581099134678629,,,,,0.0,0.0,100.0,Score,Privacy,0.0581099134678629,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/ForestCover_Hungarian_Mahalanobis.xlsx
+4. Forest cover dataset,ForestDiffusion,,privacy,Max_Distance,500.0924309394063,500.0924309394063,,,,,0.0,0.0,100.0,Score,Privacy,500.0924309394063,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/ForestCover_Hungarian_Mahalanobis.xlsx
+4. Forest cover dataset,TabDDPM,,privacy,Median_Distance,502.1413146161954,502.1413146161954,,,,,0.0,0.0,100.0,Score,Privacy,502.1413146161954,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/ForestCover_Hungarian_Mahalanobis.xlsx
+4. Forest cover dataset,TabDDPM,,privacy,Std_Distance,409.4536736894076,409.4536736894076,,,,,0.0,0.0,100.0,Score,Privacy,409.4536736894076,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/ForestCover_Hungarian_Mahalanobis.xlsx
+4. Forest cover dataset,TabDDPM,,privacy,Min_Distance,12.10694845771648,12.10694845771648,,,,,0.0,0.0,100.0,Score,Privacy,12.10694845771648,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/ForestCover_Hungarian_Mahalanobis.xlsx
+4. Forest cover dataset,TabDDPM,,privacy,Max_Distance,1505.667604378023,1505.667604378023,,,,,0.0,0.0,100.0,Score,Privacy,1505.667604378023,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/ForestCover_Hungarian_Mahalanobis.xlsx
+9. MAGIC Gamma Telescope,ForestDiffusion,,privacy,Median_Distance,1.066825168324087,1.066825168324087,,,,,0.0,0.0,100.0,Score,Privacy,1.066825168324087,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_MAGIC_TabDDPM_ForestDiffusion.xlsx
+9. MAGIC Gamma Telescope,ForestDiffusion,,privacy,Std_Distance,0.9476315639008812,0.9476315639008812,,,,,0.0,0.0,100.0,Score,Privacy,0.9476315639008812,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_MAGIC_TabDDPM_ForestDiffusion.xlsx
+9. MAGIC Gamma Telescope,ForestDiffusion,,privacy,Min_Distance,0.093491416033872,0.093491416033872,,,,,0.0,0.0,100.0,Score,Privacy,0.093491416033872,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_MAGIC_TabDDPM_ForestDiffusion.xlsx
+9. MAGIC Gamma Telescope,ForestDiffusion,,privacy,Max_Distance,10.0115325475975,10.0115325475975,,,,,0.0,0.0,100.0,Score,Privacy,10.0115325475975,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_MAGIC_TabDDPM_ForestDiffusion.xlsx
+9. MAGIC Gamma Telescope,TabDDPM,,privacy,Median_Distance,1.84800977120466,1.84800977120466,,,,,0.0,0.0,100.0,Score,Privacy,1.84800977120466,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_MAGIC_TabDDPM_ForestDiffusion.xlsx
+9. MAGIC Gamma Telescope,TabDDPM,,privacy,Std_Distance,4.1557624865573,4.1557624865573,,,,,0.0,0.0,100.0,Score,Privacy,4.1557624865573,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_MAGIC_TabDDPM_ForestDiffusion.xlsx
+9. MAGIC Gamma Telescope,TabDDPM,,privacy,Min_Distance,0.4711859159299238,0.4711859159299238,,,,,0.0,0.0,100.0,Score,Privacy,0.4711859159299238,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_MAGIC_TabDDPM_ForestDiffusion.xlsx
+9. MAGIC Gamma Telescope,TabDDPM,,privacy,Max_Distance,21.36590514528754,21.36590514528754,,,,,0.0,0.0,100.0,Score,Privacy,21.36590514528754,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_MAGIC_TabDDPM_ForestDiffusion.xlsx
+10. Metro interstate,ForestDiffusion,,privacy,Median_Distance,1.654405815807491,1.654405815807491,,,,,0.0,0.0,100.0,Score,Privacy,1.654405815807491,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_TabDDPM_ForestDiffusion_Online shopping.xlsx
+10. Metro interstate,ForestDiffusion,,privacy,Std_Distance,0.9207155559561222,0.9207155559561222,,,,,0.0,0.0,100.0,Score,Privacy,0.9207155559561222,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_TabDDPM_ForestDiffusion_Online shopping.xlsx
+10. Metro interstate,ForestDiffusion,,privacy,Min_Distance,0.110700606241123,0.110700606241123,,,,,0.0,0.0,100.0,Score,Privacy,0.110700606241123,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_TabDDPM_ForestDiffusion_Online shopping.xlsx
+10. Metro interstate,ForestDiffusion,,privacy,Max_Distance,6.083313832407932,6.083313832407932,,,,,0.0,0.0,100.0,Score,Privacy,6.083313832407932,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_TabDDPM_ForestDiffusion_Online shopping.xlsx
+10. Metro interstate,TabDDPM,,privacy,Median_Distance,5.732618047667283,5.732618047667283,,,,,0.0,0.0,100.0,Score,Privacy,5.732618047667283,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_TabDDPM_ForestDiffusion_Online shopping.xlsx
+10. Metro interstate,TabDDPM,,privacy,Std_Distance,2.359367707938793,2.359367707938793,,,,,0.0,0.0,100.0,Score,Privacy,2.359367707938793,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_TabDDPM_ForestDiffusion_Online shopping.xlsx
+10. Metro interstate,TabDDPM,,privacy,Min_Distance,0.143010376448748,0.143010376448748,,,,,0.0,0.0,100.0,Score,Privacy,0.143010376448748,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_TabDDPM_ForestDiffusion_Online shopping.xlsx
+10. Metro interstate,TabDDPM,,privacy,Max_Distance,9.734178388317511,9.734178388317511,,,,,0.0,0.0,100.0,Score,Privacy,9.734178388317511,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_TabDDPM_ForestDiffusion_Online shopping.xlsx
+Hungarian_Mahalanobis_WGAN_TabDDPM,ForestDiffusion,,privacy,Mean_Distance,0.5275544018602734,0.5275544018602734,,,,,0.0,0.0,100.0,Score,Privacy,0.5275544018602734,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_WGAN_TabDDPM.xlsx
+Hungarian_Mahalanobis_WGAN_TabDDPM,ForestDiffusion,,privacy,Median_Distance,0.3181082842339501,0.3181082842339501,,,,,0.0,0.0,100.0,Score,Privacy,0.3181082842339501,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_WGAN_TabDDPM.xlsx
+Hungarian_Mahalanobis_WGAN_TabDDPM,ForestDiffusion,,privacy,Std_Distance,0.6590300099463086,0.6590300099463086,,,,,0.0,0.0,100.0,Score,Privacy,0.6590300099463086,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_WGAN_TabDDPM.xlsx
+Hungarian_Mahalanobis_WGAN_TabDDPM,ForestDiffusion,,privacy,Min_Distance,0.0126897505109941,0.0126897505109941,,,,,0.0,0.0,100.0,Score,Privacy,0.0126897505109941,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_WGAN_TabDDPM.xlsx
+Hungarian_Mahalanobis_WGAN_TabDDPM,ForestDiffusion,,privacy,Max_Distance,7.081095993589278,7.081095993589278,,,,,0.0,0.0,100.0,Score,Privacy,7.081095993589278,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_WGAN_TabDDPM.xlsx
+Hungarian_Mahalanobis_WGAN_TabDDPM,ForestDiffusion,,privacy,Num_Matches,1000.0,1000.0,,,,,0.0,0.0,100.0,Score,Privacy,1000.0,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_WGAN_TabDDPM.xlsx
+Hungarian_Mahalanobis_WGAN_TabDDPM,TabDDPM,,privacy,Mean_Distance,9.243276702877894,9.243276702877894,,,,,0.0,0.0,100.0,Score,Privacy,9.243276702877894,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_WGAN_TabDDPM.xlsx
+Hungarian_Mahalanobis_WGAN_TabDDPM,TabDDPM,,privacy,Median_Distance,9.906804305564036,9.906804305564036,,,,,0.0,0.0,100.0,Score,Privacy,9.906804305564036,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_WGAN_TabDDPM.xlsx
+Hungarian_Mahalanobis_WGAN_TabDDPM,TabDDPM,,privacy,Std_Distance,4.867982943279253,4.867982943279253,,,,,0.0,0.0,100.0,Score,Privacy,4.867982943279253,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_WGAN_TabDDPM.xlsx
+Hungarian_Mahalanobis_WGAN_TabDDPM,TabDDPM,,privacy,Min_Distance,0.4274292842517395,0.4274292842517395,,,,,0.0,0.0,100.0,Score,Privacy,0.4274292842517395,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_WGAN_TabDDPM.xlsx
+Hungarian_Mahalanobis_WGAN_TabDDPM,TabDDPM,,privacy,Max_Distance,17.30136120664193,17.30136120664193,,,,,0.0,0.0,100.0,Score,Privacy,17.30136120664193,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_WGAN_TabDDPM.xlsx
+Hungarian_Mahalanobis_WGAN_TabDDPM,TabDDPM,,privacy,Num_Matches,1000.0,1000.0,,,,,0.0,0.0,100.0,Score,Privacy,1000.0,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_WGAN_TabDDPM.xlsx
+Hungarian_Matchings_All_Models,ForestDiffusion,,privacy,Num_Matches,1000.0,1000.0,,,,,0.0,0.0,100.0,Score,Privacy,1000.0,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Matchings_All_Models.xlsx
+Hungarian_Matchings_All_Models,TabDDPM,,privacy,Num_Matches,1000.0,1000.0,,,,,0.0,0.0,100.0,Score,Privacy,1000.0,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Matchings_All_Models.xlsx
+10. Metro interstate,CTABGAN,,privacy,Median_Distance,2.18865295183662,2.18865295183662,,,,,0.0,0.0,100.0,Score,Privacy,2.18865295183662,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_CTABGAN_WGAN_GP_Online shopping.xlsx
+10. Metro interstate,CTABGAN,,privacy,Std_Distance,1.246927700892049,1.246927700892049,,,,,0.0,0.0,100.0,Score,Privacy,1.246927700892049,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_CTABGAN_WGAN_GP_Online shopping.xlsx
+10. Metro interstate,CTABGAN,,privacy,Min_Distance,0.2052085027418037,0.2052085027418037,,,,,0.0,0.0,100.0,Score,Privacy,0.2052085027418037,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_CTABGAN_WGAN_GP_Online shopping.xlsx
+10. Metro interstate,CTABGAN,,privacy,Max_Distance,6.783075256148769,6.783075256148769,,,,,0.0,0.0,100.0,Score,Privacy,6.783075256148769,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_CTABGAN_WGAN_GP_Online shopping.xlsx
+10. Metro interstate,WGAN_GP,,privacy,Median_Distance,3.011558095334109,3.011558095334109,,,,,0.0,0.0,100.0,Score,Privacy,3.011558095334109,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_CTABGAN_WGAN_GP_Online shopping.xlsx
+10. Metro interstate,WGAN_GP,,privacy,Std_Distance,1.193018101731685,1.193018101731685,,,,,0.0,0.0,100.0,Score,Privacy,1.193018101731685,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_CTABGAN_WGAN_GP_Online shopping.xlsx
+10. Metro interstate,WGAN_GP,,privacy,Min_Distance,0.4950530136508738,0.4950530136508738,,,,,0.0,0.0,100.0,Score,Privacy,0.4950530136508738,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_CTABGAN_WGAN_GP_Online shopping.xlsx
+10. Metro interstate,WGAN_GP,,privacy,Max_Distance,8.024027544085847,8.024027544085847,,,,,0.0,0.0,100.0,Score,Privacy,8.024027544085847,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_CTABGAN_WGAN_GP_Online shopping.xlsx
+9. MAGIC Gamma Telescope,WGAN_GP,,privacy,Median_Distance,0.975070796979838,0.975070796979838,,,,,0.0,0.0,100.0,Score,Privacy,0.975070796979838,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_MAGIC_CTABGAN_WGAN_GP.xlsx
+9. MAGIC Gamma Telescope,WGAN_GP,,privacy,Std_Distance,0.7000939723363695,0.7000939723363695,,,,,0.0,0.0,100.0,Score,Privacy,0.7000939723363695,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_MAGIC_CTABGAN_WGAN_GP.xlsx
+9. MAGIC Gamma Telescope,WGAN_GP,,privacy,Min_Distance,0.3332220675422414,0.3332220675422414,,,,,0.0,0.0,100.0,Score,Privacy,0.3332220675422414,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_MAGIC_CTABGAN_WGAN_GP.xlsx
+9. MAGIC Gamma Telescope,WGAN_GP,,privacy,Max_Distance,6.606256437427121,6.606256437427121,,,,,0.0,0.0,100.0,Score,Privacy,6.606256437427121,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_MAGIC_CTABGAN_WGAN_GP.xlsx
+9. MAGIC Gamma Telescope,CTABGAN,,privacy,Median_Distance,1.525678056446776,1.525678056446776,,,,,0.0,0.0,100.0,Score,Privacy,1.525678056446776,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_MAGIC_CTABGAN_WGAN_GP.xlsx
+9. MAGIC Gamma Telescope,CTABGAN,,privacy,Std_Distance,1.096268332963922,1.096268332963922,,,,,0.0,0.0,100.0,Score,Privacy,1.096268332963922,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_MAGIC_CTABGAN_WGAN_GP.xlsx
+9. MAGIC Gamma Telescope,CTABGAN,,privacy,Min_Distance,0.4534331576141509,0.4534331576141509,,,,,0.0,0.0,100.0,Score,Privacy,0.4534331576141509,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_MAGIC_CTABGAN_WGAN_GP.xlsx
+9. MAGIC Gamma Telescope,CTABGAN,,privacy,Max_Distance,9.963537586192702,9.963537586192702,,,,,0.0,0.0,100.0,Score,Privacy,9.963537586192702,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_MAGIC_CTABGAN_WGAN_GP.xlsx
+Hungarian_Mahalanobis_WGAN_CTABGAN,CTABGAN,,privacy,Mean_Distance,0.8723136582428854,0.8723136582428854,,,,,0.0,0.0,100.0,Score,Privacy,0.8723136582428854,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_WGAN_CTABGAN.xlsx
+Hungarian_Mahalanobis_WGAN_CTABGAN,CTABGAN,,privacy,Median_Distance,0.6827322048380942,0.6827322048380942,,,,,0.0,0.0,100.0,Score,Privacy,0.6827322048380942,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_WGAN_CTABGAN.xlsx
+Hungarian_Mahalanobis_WGAN_CTABGAN,CTABGAN,,privacy,Std_Distance,0.5840192786373132,0.5840192786373132,,,,,0.0,0.0,100.0,Score,Privacy,0.5840192786373132,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_WGAN_CTABGAN.xlsx
+Hungarian_Mahalanobis_WGAN_CTABGAN,CTABGAN,,privacy,Min_Distance,0.131327569109697,0.131327569109697,,,,,0.0,0.0,100.0,Score,Privacy,0.131327569109697,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_WGAN_CTABGAN.xlsx
+Hungarian_Mahalanobis_WGAN_CTABGAN,CTABGAN,,privacy,Max_Distance,4.158747457345152,4.158747457345152,,,,,0.0,0.0,100.0,Score,Privacy,4.158747457345152,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_WGAN_CTABGAN.xlsx
+Hungarian_Mahalanobis_WGAN_CTABGAN,CTABGAN,,privacy,Num_Matches,414.0,414.0,,,,,0.0,0.0,100.0,Score,Privacy,414.0,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_WGAN_CTABGAN.xlsx
+Hungarian_Mahalanobis_WGAN_CTABGAN,WGAN_GP,,privacy,Mean_Distance,1.396493432567981,1.396493432567981,,,,,0.0,0.0,100.0,Score,Privacy,1.396493432567981,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_WGAN_CTABGAN.xlsx
+Hungarian_Mahalanobis_WGAN_CTABGAN,WGAN_GP,,privacy,Median_Distance,1.21619661645027,1.21619661645027,,,,,0.0,0.0,100.0,Score,Privacy,1.21619661645027,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_WGAN_CTABGAN.xlsx
+Hungarian_Mahalanobis_WGAN_CTABGAN,WGAN_GP,,privacy,Std_Distance,0.7385384950797921,0.7385384950797921,,,,,0.0,0.0,100.0,Score,Privacy,0.7385384950797921,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_WGAN_CTABGAN.xlsx
+Hungarian_Mahalanobis_WGAN_CTABGAN,WGAN_GP,,privacy,Min_Distance,0.2294429832177732,0.2294429832177732,,,,,0.0,0.0,100.0,Score,Privacy,0.2294429832177732,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_WGAN_CTABGAN.xlsx
+Hungarian_Mahalanobis_WGAN_CTABGAN,WGAN_GP,,privacy,Max_Distance,4.937628973599307,4.937628973599307,,,,,0.0,0.0,100.0,Score,Privacy,4.937628973599307,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_WGAN_CTABGAN.xlsx
+Hungarian_Mahalanobis_WGAN_CTABGAN,WGAN_GP,,privacy,Num_Matches,414.0,414.0,,,,,0.0,0.0,100.0,Score,Privacy,414.0,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_WGAN_CTABGAN.xlsx
+Hungarian_Matchings_All_Models,CTABGAN,,privacy,Num_Matches,414.0,414.0,,,,,0.0,0.0,100.0,Score,Privacy,414.0,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Matchings_All_Models.xlsx
+Hungarian_Matchings_All_Models,WGAN_GP,,privacy,Num_Matches,414.0,414.0,,,,,0.0,0.0,100.0,Score,Privacy,414.0,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Matchings_All_Models.xlsx
+11. online shopping,CTGAN,,privacy,Mean_Distance,1.567793840720491,1.567793840720491,,,,,0.0,0.0,100.0,Score,Privacy,1.567793840720491,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Eshop_Price_Regression_Hungarian_Mahalanobis.xlsx
+11. online shopping,CTGAN,,privacy,Median_Distance,1.384052566056652,1.384052566056652,,,,,0.0,0.0,100.0,Score,Privacy,1.384052566056652,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Eshop_Price_Regression_Hungarian_Mahalanobis.xlsx
+11. online shopping,CTGAN,,privacy,Std_Distance,0.9170862031344548,0.9170862031344548,,,,,0.0,0.0,100.0,Score,Privacy,0.9170862031344548,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Eshop_Price_Regression_Hungarian_Mahalanobis.xlsx
+11. online shopping,CopulaGAN,,privacy,Mean_Distance,1.58151116938155,1.58151116938155,,,,,0.0,0.0,100.0,Score,Privacy,1.58151116938155,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Eshop_Price_Regression_Hungarian_Mahalanobis.xlsx
+11. online shopping,CopulaGAN,,privacy,Median_Distance,1.419676639904599,1.419676639904599,,,,,0.0,0.0,100.0,Score,Privacy,1.419676639904599,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Eshop_Price_Regression_Hungarian_Mahalanobis.xlsx
+11. online shopping,CopulaGAN,,privacy,Std_Distance,0.8999751943643071,0.8999751943643071,,,,,0.0,0.0,100.0,Score,Privacy,0.8999751943643071,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Eshop_Price_Regression_Hungarian_Mahalanobis.xlsx
+11. online shopping,GaussianCopula,,privacy,Mean_Distance,1.587593292473918,1.587593292473918,,,,,0.0,0.0,100.0,Score,Privacy,1.587593292473918,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Eshop_Price_Regression_Hungarian_Mahalanobis.xlsx
+11. online shopping,GaussianCopula,,privacy,Median_Distance,1.508970339687003,1.508970339687003,,,,,0.0,0.0,100.0,Score,Privacy,1.508970339687003,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Eshop_Price_Regression_Hungarian_Mahalanobis.xlsx
+11. online shopping,GaussianCopula,,privacy,Std_Distance,0.6858824511791198,0.6858824511791198,,,,,0.0,0.0,100.0,Score,Privacy,0.6858824511791198,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Eshop_Price_Regression_Hungarian_Mahalanobis.xlsx
+11. online shopping,TVAE,,privacy,Mean_Distance,2.384211658479305,2.384211658479305,,,,,0.0,0.0,100.0,Score,Privacy,2.384211658479305,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Eshop_Price_Regression_Hungarian_Mahalanobis.xlsx
+11. online shopping,TVAE,,privacy,Median_Distance,2.208123544672407,2.208123544672407,,,,,0.0,0.0,100.0,Score,Privacy,2.208123544672407,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Eshop_Price_Regression_Hungarian_Mahalanobis.xlsx
+11. online shopping,TVAE,,privacy,Std_Distance,1.47827420655867,1.47827420655867,,,,,0.0,0.0,100.0,Score,Privacy,1.47827420655867,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Eshop_Price_Regression_Hungarian_Mahalanobis.xlsx
+1. Cancer,GaussianCopula,,privacy,Median_Distance,5.455853609420996,5.455853609420996,,,,,0.0,0.0,100.0,Score,Privacy,5.455853609420996,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models.xlsx
+1. Cancer,GaussianCopula,,privacy,Std_Distance,2.229809634333889,2.229809634333889,,,,,0.0,0.0,100.0,Score,Privacy,2.229809634333889,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models.xlsx
+1. Cancer,GaussianCopula,,privacy,Min_Distance,2.98864040475122,2.98864040475122,,,,,0.0,0.0,100.0,Score,Privacy,2.98864040475122,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models.xlsx
+1. Cancer,GaussianCopula,,privacy,Max_Distance,22.00424531028987,22.00424531028987,,,,,0.0,0.0,100.0,Score,Privacy,22.00424531028987,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models.xlsx
+1. Cancer,TVAE,,privacy,Median_Distance,33.13567064522416,33.13567064522416,,,,,0.0,0.0,100.0,Score,Privacy,33.13567064522416,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models.xlsx
+1. Cancer,TVAE,,privacy,Std_Distance,32.50966032276904,32.50966032276904,,,,,0.0,0.0,100.0,Score,Privacy,32.50966032276904,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models.xlsx
+1. Cancer,TVAE,,privacy,Min_Distance,8.444834969028067,8.444834969028067,,,,,0.0,0.0,100.0,Score,Privacy,8.444834969028067,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models.xlsx
+1. Cancer,TVAE,,privacy,Max_Distance,170.1715718576419,170.1715718576419,,,,,0.0,0.0,100.0,Score,Privacy,170.1715718576419,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models.xlsx
+1. Cancer,CTGAN,,privacy,Median_Distance,94.34770805130503,94.34770805130503,,,,,0.0,0.0,100.0,Score,Privacy,94.34770805130503,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models.xlsx
+1. Cancer,CTGAN,,privacy,Std_Distance,57.07331412932883,57.07331412932883,,,,,0.0,0.0,100.0,Score,Privacy,57.07331412932883,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models.xlsx
+1. Cancer,CTGAN,,privacy,Min_Distance,25.33626767737993,25.33626767737993,,,,,0.0,0.0,100.0,Score,Privacy,25.33626767737993,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models.xlsx
+1. Cancer,CTGAN,,privacy,Max_Distance,349.5339478916002,349.5339478916002,,,,,0.0,0.0,100.0,Score,Privacy,349.5339478916002,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models.xlsx
+1. Cancer,CopulaGAN,,privacy,Median_Distance,121.8004469268097,121.8004469268097,,,,,0.0,0.0,100.0,Score,Privacy,121.8004469268097,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models.xlsx
+1. Cancer,CopulaGAN,,privacy,Std_Distance,65.13365889698537,65.13365889698537,,,,,0.0,0.0,100.0,Score,Privacy,65.13365889698537,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models.xlsx
+1. Cancer,CopulaGAN,,privacy,Min_Distance,24.77390350464789,24.77390350464789,,,,,0.0,0.0,100.0,Score,Privacy,24.77390350464789,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models.xlsx
+1. Cancer,CopulaGAN,,privacy,Max_Distance,355.5887680751471,355.5887680751471,,,,,0.0,0.0,100.0,Score,Privacy,355.5887680751471,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models.xlsx
+2. Alzhimers,GaussianCopula,,privacy,Median_Distance,3.152748807173761,3.152748807173761,,,,,0.0,0.0,100.0,Score,Privacy,3.152748807173761,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_AD.xlsx
+2. Alzhimers,GaussianCopula,,privacy,Std_Distance,1.827276674196851,1.827276674196851,,,,,0.0,0.0,100.0,Score,Privacy,1.827276674196851,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_AD.xlsx
+2. Alzhimers,GaussianCopula,,privacy,Min_Distance,0.3961408961381592,0.3961408961381592,,,,,0.0,0.0,100.0,Score,Privacy,0.3961408961381592,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_AD.xlsx
+2. Alzhimers,GaussianCopula,,privacy,Max_Distance,10.60283679300884,10.60283679300884,,,,,0.0,0.0,100.0,Score,Privacy,10.60283679300884,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_AD.xlsx
+2. Alzhimers,TVAE,,privacy,Median_Distance,4.641280028128194,4.641280028128194,,,,,0.0,0.0,100.0,Score,Privacy,4.641280028128194,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_AD.xlsx
+2. Alzhimers,TVAE,,privacy,Std_Distance,3.143144526878578,3.143144526878578,,,,,0.0,0.0,100.0,Score,Privacy,3.143144526878578,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_AD.xlsx
+2. Alzhimers,TVAE,,privacy,Min_Distance,0.8561937945579629,0.8561937945579629,,,,,0.0,0.0,100.0,Score,Privacy,0.8561937945579629,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_AD.xlsx
+2. Alzhimers,TVAE,,privacy,Max_Distance,19.34413630459631,19.34413630459631,,,,,0.0,0.0,100.0,Score,Privacy,19.34413630459631,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_AD.xlsx
+2. Alzhimers,CTGAN,,privacy,Median_Distance,9.12731634663088,9.12731634663088,,,,,0.0,0.0,100.0,Score,Privacy,9.12731634663088,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_AD.xlsx
+2. Alzhimers,CTGAN,,privacy,Std_Distance,6.142516538596981,6.142516538596981,,,,,0.0,0.0,100.0,Score,Privacy,6.142516538596981,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_AD.xlsx
+2. Alzhimers,CTGAN,,privacy,Min_Distance,1.915498998897557,1.915498998897557,,,,,0.0,0.0,100.0,Score,Privacy,1.915498998897557,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_AD.xlsx
+2. Alzhimers,CTGAN,,privacy,Max_Distance,32.11019255742176,32.11019255742176,,,,,0.0,0.0,100.0,Score,Privacy,32.11019255742176,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_AD.xlsx
+2. Alzhimers,CopulaGAN,,privacy,Median_Distance,9.999813640409233,9.999813640409233,,,,,0.0,0.0,100.0,Score,Privacy,9.999813640409233,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_AD.xlsx
+2. Alzhimers,CopulaGAN,,privacy,Std_Distance,5.722821361799541,5.722821361799541,,,,,0.0,0.0,100.0,Score,Privacy,5.722821361799541,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_AD.xlsx
+2. Alzhimers,CopulaGAN,,privacy,Min_Distance,0.9256352215715488,0.9256352215715488,,,,,0.0,0.0,100.0,Score,Privacy,0.9256352215715488,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_AD.xlsx
+2. Alzhimers,CopulaGAN,,privacy,Max_Distance,36.61948828588556,36.61948828588556,,,,,0.0,0.0,100.0,Score,Privacy,36.61948828588556,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_AD.xlsx
+7. CDC diabetes dataset,CTGAN,,privacy,Median_Distance,0.1805994642218849,0.1805994642218849,,,,,0.0,0.0,100.0,Score,Privacy,0.1805994642218849,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Heart.xlsx
+7. CDC diabetes dataset,CTGAN,,privacy,Std_Distance,1.341432956530183,1.341432956530183,,,,,0.0,0.0,100.0,Score,Privacy,1.341432956530183,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Heart.xlsx
+7. CDC diabetes dataset,CTGAN,,privacy,Min_Distance,0.0010636841599736,0.0010636841599736,,,,,0.0,0.0,100.0,Score,Privacy,0.0010636841599736,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Heart.xlsx
+7. CDC diabetes dataset,CTGAN,,privacy,Max_Distance,37.54945569581285,37.54945569581285,,,,,0.0,0.0,100.0,Score,Privacy,37.54945569581285,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Heart.xlsx
+7. CDC diabetes dataset,CopulaGAN,,privacy,Median_Distance,0.3759023286410815,0.3759023286410815,,,,,0.0,0.0,100.0,Score,Privacy,0.3759023286410815,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Heart.xlsx
+7. CDC diabetes dataset,CopulaGAN,,privacy,Std_Distance,1.2321273420155,1.2321273420155,,,,,0.0,0.0,100.0,Score,Privacy,1.2321273420155,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Heart.xlsx
+7. CDC diabetes dataset,CopulaGAN,,privacy,Min_Distance,0.0083628030938186,0.0083628030938186,,,,,0.0,0.0,100.0,Score,Privacy,0.0083628030938186,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Heart.xlsx
+7. CDC diabetes dataset,CopulaGAN,,privacy,Max_Distance,39.64637634678828,39.64637634678828,,,,,0.0,0.0,100.0,Score,Privacy,39.64637634678828,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Heart.xlsx
+7. CDC diabetes dataset,TVAE,,privacy,Median_Distance,0.2703953409054879,0.2703953409054879,,,,,0.0,0.0,100.0,Score,Privacy,0.2703953409054879,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Heart.xlsx
+7. CDC diabetes dataset,TVAE,,privacy,Std_Distance,1.427624428470201,1.427624428470201,,,,,0.0,0.0,100.0,Score,Privacy,1.427624428470201,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Heart.xlsx
+7. CDC diabetes dataset,TVAE,,privacy,Min_Distance,0.0004593816000292,0.0004593816000292,,,,,0.0,0.0,100.0,Score,Privacy,0.0004593816000292,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Heart.xlsx
+7. CDC diabetes dataset,TVAE,,privacy,Max_Distance,37.01822390008621,37.01822390008621,,,,,0.0,0.0,100.0,Score,Privacy,37.01822390008621,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Heart.xlsx
+7. CDC diabetes dataset,GaussianCopula,,privacy,Median_Distance,32.72403383844063,32.72403383844063,,,,,0.0,0.0,100.0,Score,Privacy,32.72403383844063,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Heart.xlsx
+7. CDC diabetes dataset,GaussianCopula,,privacy,Std_Distance,11.11133392048021,11.11133392048021,,,,,0.0,0.0,100.0,Score,Privacy,11.11133392048021,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Heart.xlsx
+7. CDC diabetes dataset,GaussianCopula,,privacy,Min_Distance,0.205365153352864,0.205365153352864,,,,,0.0,0.0,100.0,Score,Privacy,0.205365153352864,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Heart.xlsx
+7. CDC diabetes dataset,GaussianCopula,,privacy,Max_Distance,41.09900355733253,41.09900355733253,,,,,0.0,0.0,100.0,Score,Privacy,41.09900355733253,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Heart.xlsx
+10. Metro interstate,TVAE,,privacy,Median_Distance,0.0368892018715096,0.0368892018715096,,,,,0.0,0.0,100.0,Score,Privacy,0.0368892018715096,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Metro.xlsx
+10. Metro interstate,TVAE,,privacy,Std_Distance,1.533998053978772,1.533998053978772,,,,,0.0,0.0,100.0,Score,Privacy,1.533998053978772,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Metro.xlsx
+10. Metro interstate,TVAE,,privacy,Min_Distance,3.165161448812744e-06,3.165161448812744e-06,,,,,0.0,0.0,100.0,Score,Privacy,3.165161448812744e-06,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Metro.xlsx
+10. Metro interstate,TVAE,,privacy,Max_Distance,28.33104350322847,28.33104350322847,,,,,0.0,0.0,100.0,Score,Privacy,28.33104350322847,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Metro.xlsx
+10. Metro interstate,CTGAN,,privacy,Median_Distance,0.0804209354081768,0.0804209354081768,,,,,0.0,0.0,100.0,Score,Privacy,0.0804209354081768,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Metro.xlsx
+10. Metro interstate,CTGAN,,privacy,Std_Distance,1.43604132976484,1.43604132976484,,,,,0.0,0.0,100.0,Score,Privacy,1.43604132976484,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Metro.xlsx
+10. Metro interstate,CTGAN,,privacy,Min_Distance,6.105367996739974e-06,6.105367996739974e-06,,,,,0.0,0.0,100.0,Score,Privacy,6.105367996739974e-06,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Metro.xlsx
+10. Metro interstate,CTGAN,,privacy,Max_Distance,28.91585727656612,28.91585727656612,,,,,0.0,0.0,100.0,Score,Privacy,28.91585727656612,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Metro.xlsx
+10. Metro interstate,CopulaGAN,,privacy,Median_Distance,0.2633293588838103,0.2633293588838103,,,,,0.0,0.0,100.0,Score,Privacy,0.2633293588838103,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Metro.xlsx
+10. Metro interstate,CopulaGAN,,privacy,Std_Distance,1.455107324901258,1.455107324901258,,,,,0.0,0.0,100.0,Score,Privacy,1.455107324901258,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Metro.xlsx
+10. Metro interstate,CopulaGAN,,privacy,Min_Distance,1.371504355484685e-05,1.371504355484685e-05,,,,,0.0,0.0,100.0,Score,Privacy,1.371504355484685e-05,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Metro.xlsx
+10. Metro interstate,CopulaGAN,,privacy,Max_Distance,31.67549403199714,31.67549403199714,,,,,0.0,0.0,100.0,Score,Privacy,31.67549403199714,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Metro.xlsx
+10. Metro interstate,GaussianCopula,,privacy,Median_Distance,32.75906280612629,32.75906280612629,,,,,0.0,0.0,100.0,Score,Privacy,32.75906280612629,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Metro.xlsx
+10. Metro interstate,GaussianCopula,,privacy,Std_Distance,11.04759450345281,11.04759450345281,,,,,0.0,0.0,100.0,Score,Privacy,11.04759450345281,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Metro.xlsx
+10. Metro interstate,GaussianCopula,,privacy,Min_Distance,0.1325027378798853,0.1325027378798853,,,,,0.0,0.0,100.0,Score,Privacy,0.1325027378798853,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Metro.xlsx
+10. Metro interstate,GaussianCopula,,privacy,Max_Distance,41.08458599787649,41.08458599787649,,,,,0.0,0.0,100.0,Score,Privacy,41.08458599787649,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Metro.xlsx
+8. Mushroom dataset,GaussianCopula,,privacy,Median_Distance,0.2254726919414616,0.2254726919414616,,,,,0.0,0.0,100.0,Score,Privacy,0.2254726919414616,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Secondary_Mushroom.xlsx
+8. Mushroom dataset,GaussianCopula,,privacy,Std_Distance,0.6656111910637376,0.6656111910637376,,,,,0.0,0.0,100.0,Score,Privacy,0.6656111910637376,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Secondary_Mushroom.xlsx
+8. Mushroom dataset,GaussianCopula,,privacy,Min_Distance,0.0021460868289912,0.0021460868289912,,,,,0.0,0.0,100.0,Score,Privacy,0.0021460868289912,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Secondary_Mushroom.xlsx
+8. Mushroom dataset,GaussianCopula,,privacy,Max_Distance,8.674030931532393,8.674030931532393,,,,,0.0,0.0,100.0,Score,Privacy,8.674030931532393,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Secondary_Mushroom.xlsx
+8. Mushroom dataset,TVAE,,privacy,Median_Distance,0.2391303192908091,0.2391303192908091,,,,,0.0,0.0,100.0,Score,Privacy,0.2391303192908091,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Secondary_Mushroom.xlsx
+8. Mushroom dataset,TVAE,,privacy,Std_Distance,0.5819500932247141,0.5819500932247141,,,,,0.0,0.0,100.0,Score,Privacy,0.5819500932247141,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Secondary_Mushroom.xlsx
+8. Mushroom dataset,TVAE,,privacy,Min_Distance,0.002386147886231,0.002386147886231,,,,,0.0,0.0,100.0,Score,Privacy,0.002386147886231,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Secondary_Mushroom.xlsx
+8. Mushroom dataset,TVAE,,privacy,Max_Distance,7.677494416667606,7.677494416667606,,,,,0.0,0.0,100.0,Score,Privacy,7.677494416667606,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Secondary_Mushroom.xlsx
+8. Mushroom dataset,CTGAN,,privacy,Median_Distance,0.2672439677717343,0.2672439677717343,,,,,0.0,0.0,100.0,Score,Privacy,0.2672439677717343,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Secondary_Mushroom.xlsx
+8. Mushroom dataset,CTGAN,,privacy,Std_Distance,0.6432292575753934,0.6432292575753934,,,,,0.0,0.0,100.0,Score,Privacy,0.6432292575753934,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Secondary_Mushroom.xlsx
+8. Mushroom dataset,CTGAN,,privacy,Min_Distance,0.0,0.0,,,,,0.0,0.0,100.0,Score,Privacy,0.0,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Secondary_Mushroom.xlsx
+8. Mushroom dataset,CTGAN,,privacy,Max_Distance,7.073248842283225,7.073248842283225,,,,,0.0,0.0,100.0,Score,Privacy,7.073248842283225,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Secondary_Mushroom.xlsx
+8. Mushroom dataset,CopulaGAN,,privacy,Median_Distance,0.2874242337085394,0.2874242337085394,,,,,0.0,0.0,100.0,Score,Privacy,0.2874242337085394,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Secondary_Mushroom.xlsx
+8. Mushroom dataset,CopulaGAN,,privacy,Std_Distance,0.7106181738402562,0.7106181738402562,,,,,0.0,0.0,100.0,Score,Privacy,0.7106181738402562,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Secondary_Mushroom.xlsx
+8. Mushroom dataset,CopulaGAN,,privacy,Min_Distance,0.0,0.0,,,,,0.0,0.0,100.0,Score,Privacy,0.0,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Secondary_Mushroom.xlsx
+8. Mushroom dataset,CopulaGAN,,privacy,Max_Distance,7.220497162081333,7.220497162081333,,,,,0.0,0.0,100.0,Score,Privacy,7.220497162081333,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Secondary_Mushroom.xlsx
+6. Wine dataset,TVAE,,privacy,Median_Distance,11.33892539905282,11.33892539905282,,,,,0.0,0.0,100.0,Score,Privacy,11.33892539905282,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_WineQuality.xlsx
+6. Wine dataset,TVAE,,privacy,Std_Distance,10.05140374261778,10.05140374261778,,,,,0.0,0.0,100.0,Score,Privacy,10.05140374261778,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_WineQuality.xlsx
+6. Wine dataset,TVAE,,privacy,Min_Distance,0.0551548671494448,0.0551548671494448,,,,,0.0,0.0,100.0,Score,Privacy,0.0551548671494448,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_WineQuality.xlsx
+6. Wine dataset,TVAE,,privacy,Max_Distance,126.0816665247742,126.0816665247742,,,,,0.0,0.0,100.0,Score,Privacy,126.0816665247742,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_WineQuality.xlsx
+6. Wine dataset,CTGAN,,privacy,Median_Distance,12.45429771701559,12.45429771701559,,,,,0.0,0.0,100.0,Score,Privacy,12.45429771701559,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_WineQuality.xlsx
+6. Wine dataset,CTGAN,,privacy,Std_Distance,10.25483030861619,10.25483030861619,,,,,0.0,0.0,100.0,Score,Privacy,10.25483030861619,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_WineQuality.xlsx
+6. Wine dataset,CTGAN,,privacy,Min_Distance,0.2036261828610333,0.2036261828610333,,,,,0.0,0.0,100.0,Score,Privacy,0.2036261828610333,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_WineQuality.xlsx
+6. Wine dataset,CTGAN,,privacy,Max_Distance,101.6373590977898,101.6373590977898,,,,,0.0,0.0,100.0,Score,Privacy,101.6373590977898,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_WineQuality.xlsx
+6. Wine dataset,CopulaGAN,,privacy,Median_Distance,12.78855197305502,12.78855197305502,,,,,0.0,0.0,100.0,Score,Privacy,12.78855197305502,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_WineQuality.xlsx
+6. Wine dataset,CopulaGAN,,privacy,Std_Distance,10.42739006638191,10.42739006638191,,,,,0.0,0.0,100.0,Score,Privacy,10.42739006638191,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_WineQuality.xlsx
+6. Wine dataset,CopulaGAN,,privacy,Min_Distance,0.0774256616440867,0.0774256616440867,,,,,0.0,0.0,100.0,Score,Privacy,0.0774256616440867,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_WineQuality.xlsx
+6. Wine dataset,CopulaGAN,,privacy,Max_Distance,112.1514251040038,112.1514251040038,,,,,0.0,0.0,100.0,Score,Privacy,112.1514251040038,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_WineQuality.xlsx
+6. Wine dataset,GaussianCopula,,privacy,Median_Distance,13.0742878004751,13.0742878004751,,,,,0.0,0.0,100.0,Score,Privacy,13.0742878004751,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_WineQuality.xlsx
+6. Wine dataset,GaussianCopula,,privacy,Std_Distance,11.63042857905484,11.63042857905484,,,,,0.0,0.0,100.0,Score,Privacy,11.63042857905484,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_WineQuality.xlsx
+6. Wine dataset,GaussianCopula,,privacy,Min_Distance,0.0653767389131421,0.0653767389131421,,,,,0.0,0.0,100.0,Score,Privacy,0.0653767389131421,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_WineQuality.xlsx
+6. Wine dataset,GaussianCopula,,privacy,Max_Distance,219.9021686915835,219.9021686915835,,,,,0.0,0.0,100.0,Score,Privacy,219.9021686915835,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_WineQuality.xlsx
+Hungarian_Matchings_All_Models,TVAE,,privacy,Num_Matches,5000.0,5000.0,,,,,0.0,0.0,100.0,Score,Privacy,5000.0,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Matchings_All_Models.xlsx
+Hungarian_Matchings_All_Models,CopulaGAN,,privacy,Num_Matches,5000.0,5000.0,,,,,0.0,0.0,100.0,Score,Privacy,5000.0,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Matchings_All_Models.xlsx
+Hungarian_Matchings_All_Models,GaussianCopula,,privacy,Num_Matches,5000.0,5000.0,,,,,0.0,0.0,100.0,Score,Privacy,5000.0,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Matchings_All_Models.xlsx
+Hungarian_Matchings_All_Models,CTGAN,,privacy,Num_Matches,5000.0,5000.0,,,,,0.0,0.0,100.0,Score,Privacy,5000.0,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Matchings_All_Models.xlsx
+Hungarian_Matchings_All_Models_AD,CTGAN,,privacy,Num_Matches,373.0,373.0,,,,,0.0,0.0,100.0,Score,Privacy,373.0,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Matchings_All_Models_AD.xlsx
+Hungarian_Matchings_All_Models_AD,TVAE,,privacy,Num_Matches,373.0,373.0,,,,,0.0,0.0,100.0,Score,Privacy,373.0,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Matchings_All_Models_AD.xlsx
+Hungarian_Matchings_All_Models_AD,CopulaGAN,,privacy,Num_Matches,373.0,373.0,,,,,0.0,0.0,100.0,Score,Privacy,373.0,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Matchings_All_Models_AD.xlsx
+Hungarian_Matchings_All_Models_AD,GaussianCopula,,privacy,Num_Matches,373.0,373.0,,,,,0.0,0.0,100.0,Score,Privacy,373.0,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Matchings_All_Models_AD.xlsx
+12. Air Quality,GaussianCopula,,privacy,Median_Distance,14.14205360573295,14.14205360573295,,,,,0.0,0.0,100.0,Score,Privacy,14.14205360573295,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_AirQuality.xlsx
+12. Air Quality,GaussianCopula,,privacy,Std_Distance,20.51828447876321,20.51828447876321,,,,,0.0,0.0,100.0,Score,Privacy,20.51828447876321,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_AirQuality.xlsx
+12. Air Quality,GaussianCopula,,privacy,Min_Distance,0.0306102560193599,0.0306102560193599,,,,,0.0,0.0,100.0,Score,Privacy,0.0306102560193599,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_AirQuality.xlsx
+12. Air Quality,GaussianCopula,,privacy,Max_Distance,236.3365387328331,236.3365387328331,,,,,0.0,0.0,100.0,Score,Privacy,236.3365387328331,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_AirQuality.xlsx
+12. Air Quality,TVAE,,privacy,Median_Distance,16.21327998067885,16.21327998067885,,,,,0.0,0.0,100.0,Score,Privacy,16.21327998067885,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_AirQuality.xlsx
+12. Air Quality,TVAE,,privacy,Std_Distance,19.75701051960114,19.75701051960114,,,,,0.0,0.0,100.0,Score,Privacy,19.75701051960114,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_AirQuality.xlsx
+12. Air Quality,TVAE,,privacy,Min_Distance,0.8544464882895672,0.8544464882895672,,,,,0.0,0.0,100.0,Score,Privacy,0.8544464882895672,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_AirQuality.xlsx
+12. Air Quality,TVAE,,privacy,Max_Distance,245.3039008844068,245.3039008844068,,,,,0.0,0.0,100.0,Score,Privacy,245.3039008844068,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_AirQuality.xlsx
+12. Air Quality,CopulaGAN,,privacy,Median_Distance,32.09349378292053,32.09349378292053,,,,,0.0,0.0,100.0,Score,Privacy,32.09349378292053,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_AirQuality.xlsx
+12. Air Quality,CopulaGAN,,privacy,Std_Distance,38.98403143773134,38.98403143773134,,,,,0.0,0.0,100.0,Score,Privacy,38.98403143773134,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_AirQuality.xlsx
+12. Air Quality,CopulaGAN,,privacy,Min_Distance,1.115993466345588,1.115993466345588,,,,,0.0,0.0,100.0,Score,Privacy,1.115993466345588,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_AirQuality.xlsx
+12. Air Quality,CopulaGAN,,privacy,Max_Distance,341.5978979982923,341.5978979982923,,,,,0.0,0.0,100.0,Score,Privacy,341.5978979982923,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_AirQuality.xlsx
+12. Air Quality,CTGAN,,privacy,Median_Distance,51.13250143845033,51.13250143845033,,,,,0.0,0.0,100.0,Score,Privacy,51.13250143845033,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_AirQuality.xlsx
+12. Air Quality,CTGAN,,privacy,Std_Distance,273.4387842080232,273.4387842080232,,,,,0.0,0.0,100.0,Score,Privacy,273.4387842080232,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_AirQuality.xlsx
+12. Air Quality,CTGAN,,privacy,Min_Distance,0.6236647882930503,0.6236647882930503,,,,,0.0,0.0,100.0,Score,Privacy,0.6236647882930503,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_AirQuality.xlsx
+12. Air Quality,CTGAN,,privacy,Max_Distance,1631.648555219604,1631.648555219604,,,,,0.0,0.0,100.0,Score,Privacy,1631.648555219604,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_AirQuality.xlsx
+13. Concrete Compressive Strength,TVAE,,privacy,Median_Distance,2.591223379637454,2.591223379637454,,,,,0.0,0.0,100.0,Score,Privacy,2.591223379637454,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_Concrete.xlsx
+13. Concrete Compressive Strength,TVAE,,privacy,Std_Distance,2.176961567635944,2.176961567635944,,,,,0.0,0.0,100.0,Score,Privacy,2.176961567635944,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_Concrete.xlsx
+13. Concrete Compressive Strength,TVAE,,privacy,Min_Distance,0.1708559120302635,0.1708559120302635,,,,,0.0,0.0,100.0,Score,Privacy,0.1708559120302635,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_Concrete.xlsx
+13. Concrete Compressive Strength,TVAE,,privacy,Max_Distance,15.59087513821607,15.59087513821607,,,,,0.0,0.0,100.0,Score,Privacy,15.59087513821607,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_Concrete.xlsx
+13. Concrete Compressive Strength,GaussianCopula,,privacy,Median_Distance,3.344362097052171,3.344362097052171,,,,,0.0,0.0,100.0,Score,Privacy,3.344362097052171,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_Concrete.xlsx
+13. Concrete Compressive Strength,GaussianCopula,,privacy,Std_Distance,1.862690496487484,1.862690496487484,,,,,0.0,0.0,100.0,Score,Privacy,1.862690496487484,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_Concrete.xlsx
+13. Concrete Compressive Strength,GaussianCopula,,privacy,Min_Distance,0.709740688442712,0.709740688442712,,,,,0.0,0.0,100.0,Score,Privacy,0.709740688442712,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_Concrete.xlsx
+13. Concrete Compressive Strength,GaussianCopula,,privacy,Max_Distance,11.44347005756497,11.44347005756497,,,,,0.0,0.0,100.0,Score,Privacy,11.44347005756497,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_Concrete.xlsx
+13. Concrete Compressive Strength,CTGAN,,privacy,Median_Distance,4.188352080310691,4.188352080310691,,,,,0.0,0.0,100.0,Score,Privacy,4.188352080310691,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_Concrete.xlsx
+13. Concrete Compressive Strength,CTGAN,,privacy,Std_Distance,3.17729807383716,3.17729807383716,,,,,0.0,0.0,100.0,Score,Privacy,3.17729807383716,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_Concrete.xlsx
+13. Concrete Compressive Strength,CTGAN,,privacy,Min_Distance,0.4807200150378232,0.4807200150378232,,,,,0.0,0.0,100.0,Score,Privacy,0.4807200150378232,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_Concrete.xlsx
+13. Concrete Compressive Strength,CTGAN,,privacy,Max_Distance,19.38115293828775,19.38115293828775,,,,,0.0,0.0,100.0,Score,Privacy,19.38115293828775,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_Concrete.xlsx
+13. Concrete Compressive Strength,CopulaGAN,,privacy,Median_Distance,5.487956188098216,5.487956188098216,,,,,0.0,0.0,100.0,Score,Privacy,5.487956188098216,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_Concrete.xlsx
+13. Concrete Compressive Strength,CopulaGAN,,privacy,Std_Distance,4.199989167007964,4.199989167007964,,,,,0.0,0.0,100.0,Score,Privacy,4.199989167007964,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_Concrete.xlsx
+13. Concrete Compressive Strength,CopulaGAN,,privacy,Min_Distance,0.6220992977117284,0.6220992977117284,,,,,0.0,0.0,100.0,Score,Privacy,0.6220992977117284,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_Concrete.xlsx
+13. Concrete Compressive Strength,CopulaGAN,,privacy,Max_Distance,32.87737528060236,32.87737528060236,,,,,0.0,0.0,100.0,Score,Privacy,32.87737528060236,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_Concrete.xlsx
+14. Energy Efficiency,TVAE,,privacy,Median_Distance,14472.38954821747,14472.38954821747,,,,,0.0,0.0,100.0,Score,Privacy,14472.38954821747,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_EnergyEfficiency.xlsx
+14. Energy Efficiency,TVAE,,privacy,Std_Distance,16774.04993850178,16774.04993850178,,,,,0.0,0.0,100.0,Score,Privacy,16774.04993850178,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_EnergyEfficiency.xlsx
+14. Energy Efficiency,TVAE,,privacy,Min_Distance,41.0074285257206,41.0074285257206,,,,,0.0,0.0,100.0,Score,Privacy,41.0074285257206,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_EnergyEfficiency.xlsx
+14. Energy Efficiency,TVAE,,privacy,Max_Distance,99800.2871555502,99800.2871555502,,,,,0.0,0.0,100.0,Score,Privacy,99800.2871555502,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_EnergyEfficiency.xlsx
+14. Energy Efficiency,GaussianCopula,,privacy,Median_Distance,19420.35551369582,19420.35551369582,,,,,0.0,0.0,100.0,Score,Privacy,19420.35551369582,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_EnergyEfficiency.xlsx
+14. Energy Efficiency,GaussianCopula,,privacy,Std_Distance,15140.18999856453,15140.18999856453,,,,,0.0,0.0,100.0,Score,Privacy,15140.18999856453,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_EnergyEfficiency.xlsx
+14. Energy Efficiency,GaussianCopula,,privacy,Min_Distance,10.04690247607567,10.04690247607567,,,,,0.0,0.0,100.0,Score,Privacy,10.04690247607567,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_EnergyEfficiency.xlsx
+14. Energy Efficiency,GaussianCopula,,privacy,Max_Distance,78628.54817660141,78628.54817660141,,,,,0.0,0.0,100.0,Score,Privacy,78628.54817660141,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_EnergyEfficiency.xlsx
+14. Energy Efficiency,CTGAN,,privacy,Median_Distance,40179.76135793436,40179.76135793436,,,,,0.0,0.0,100.0,Score,Privacy,40179.76135793436,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_EnergyEfficiency.xlsx
+14. Energy Efficiency,CTGAN,,privacy,Std_Distance,31959.10235550683,31959.10235550683,,,,,0.0,0.0,100.0,Score,Privacy,31959.10235550683,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_EnergyEfficiency.xlsx
+14. Energy Efficiency,CTGAN,,privacy,Min_Distance,163.3012710646189,163.3012710646189,,,,,0.0,0.0,100.0,Score,Privacy,163.3012710646189,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_EnergyEfficiency.xlsx
+14. Energy Efficiency,CTGAN,,privacy,Max_Distance,139212.5424813092,139212.5424813092,,,,,0.0,0.0,100.0,Score,Privacy,139212.5424813092,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_EnergyEfficiency.xlsx
+14. Energy Efficiency,CopulaGAN,,privacy,Median_Distance,45687.0266223065,45687.0266223065,,,,,0.0,0.0,100.0,Score,Privacy,45687.0266223065,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_EnergyEfficiency.xlsx
+14. Energy Efficiency,CopulaGAN,,privacy,Std_Distance,34907.20709496645,34907.20709496645,,,,,0.0,0.0,100.0,Score,Privacy,34907.20709496645,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_EnergyEfficiency.xlsx
+14. Energy Efficiency,CopulaGAN,,privacy,Min_Distance,83.18681620943852,83.18681620943852,,,,,0.0,0.0,100.0,Score,Privacy,83.18681620943852,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_EnergyEfficiency.xlsx
+14. Energy Efficiency,CopulaGAN,,privacy,Max_Distance,136673.2393047267,136673.2393047267,,,,,0.0,0.0,100.0,Score,Privacy,136673.2393047267,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_EnergyEfficiency.xlsx
+9. MAGIC Gamma Telescope,TVAE,,privacy,Median_Distance,1.369735020107463,1.369735020107463,,,,,0.0,0.0,100.0,Score,Privacy,1.369735020107463,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_MAGIC.xlsx
+9. MAGIC Gamma Telescope,TVAE,,privacy,Std_Distance,1.490388141630735,1.490388141630735,,,,,0.0,0.0,100.0,Score,Privacy,1.490388141630735,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_MAGIC.xlsx
+9. MAGIC Gamma Telescope,TVAE,,privacy,Min_Distance,0.2972114037303104,0.2972114037303104,,,,,0.0,0.0,100.0,Score,Privacy,0.2972114037303104,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_MAGIC.xlsx
+9. MAGIC Gamma Telescope,TVAE,,privacy,Max_Distance,16.06201246985735,16.06201246985735,,,,,0.0,0.0,100.0,Score,Privacy,16.06201246985735,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_MAGIC.xlsx
+9. MAGIC Gamma Telescope,GaussianCopula,,privacy,Median_Distance,2.08297953700324,2.08297953700324,,,,,0.0,0.0,100.0,Score,Privacy,2.08297953700324,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_MAGIC.xlsx
+9. MAGIC Gamma Telescope,GaussianCopula,,privacy,Std_Distance,1.088666745851257,1.088666745851257,,,,,0.0,0.0,100.0,Score,Privacy,1.088666745851257,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_MAGIC.xlsx
+9. MAGIC Gamma Telescope,GaussianCopula,,privacy,Min_Distance,0.6353894370960613,0.6353894370960613,,,,,0.0,0.0,100.0,Score,Privacy,0.6353894370960613,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_MAGIC.xlsx
+9. MAGIC Gamma Telescope,GaussianCopula,,privacy,Max_Distance,13.44809366406328,13.44809366406328,,,,,0.0,0.0,100.0,Score,Privacy,13.44809366406328,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_MAGIC.xlsx
+9. MAGIC Gamma Telescope,CopulaGAN,,privacy,Median_Distance,2.391325575484585,2.391325575484585,,,,,0.0,0.0,100.0,Score,Privacy,2.391325575484585,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_MAGIC.xlsx
+9. MAGIC Gamma Telescope,CopulaGAN,,privacy,Std_Distance,1.778071804471669,1.778071804471669,,,,,0.0,0.0,100.0,Score,Privacy,1.778071804471669,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_MAGIC.xlsx
+9. MAGIC Gamma Telescope,CopulaGAN,,privacy,Min_Distance,0.4286060370303149,0.4286060370303149,,,,,0.0,0.0,100.0,Score,Privacy,0.4286060370303149,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_MAGIC.xlsx
+9. MAGIC Gamma Telescope,CopulaGAN,,privacy,Max_Distance,12.68116421088336,12.68116421088336,,,,,0.0,0.0,100.0,Score,Privacy,12.68116421088336,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_MAGIC.xlsx
+9. MAGIC Gamma Telescope,CTGAN,,privacy,Median_Distance,2.659895112319814,2.659895112319814,,,,,0.0,0.0,100.0,Score,Privacy,2.659895112319814,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_MAGIC.xlsx
+9. MAGIC Gamma Telescope,CTGAN,,privacy,Std_Distance,2.091672048885322,2.091672048885322,,,,,0.0,0.0,100.0,Score,Privacy,2.091672048885322,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_MAGIC.xlsx
+9. MAGIC Gamma Telescope,CTGAN,,privacy,Min_Distance,0.4484124343792382,0.4484124343792382,,,,,0.0,0.0,100.0,Score,Privacy,0.4484124343792382,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_MAGIC.xlsx
+9. MAGIC Gamma Telescope,CTGAN,,privacy,Max_Distance,15.04432745329383,15.04432745329383,,,,,0.0,0.0,100.0,Score,Privacy,15.04432745329383,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_MAGIC.xlsx
+15. Real Estate Valuation,CTGAN,,privacy,Median_Distance,14914.35317514412,14914.35317514412,,,,,0.0,0.0,100.0,Score,Privacy,14914.35317514412,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_RealEstate.xlsx
+15. Real Estate Valuation,CTGAN,,privacy,Std_Distance,9654.142646979984,9654.142646979984,,,,,0.0,0.0,100.0,Score,Privacy,9654.142646979984,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_RealEstate.xlsx
+15. Real Estate Valuation,CTGAN,,privacy,Min_Distance,967.5565466665817,967.5565466665817,,,,,0.0,0.0,100.0,Score,Privacy,967.5565466665817,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_RealEstate.xlsx
+15. Real Estate Valuation,CTGAN,,privacy,Max_Distance,34799.95070839091,34799.95070839091,,,,,0.0,0.0,100.0,Score,Privacy,34799.95070839091,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_RealEstate.xlsx
+15. Real Estate Valuation,GaussianCopula,,privacy,Median_Distance,14913.68004610379,14913.68004610379,,,,,0.0,0.0,100.0,Score,Privacy,14913.68004610379,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_RealEstate.xlsx
+15. Real Estate Valuation,GaussianCopula,,privacy,Std_Distance,9654.578142422311,9654.578142422311,,,,,0.0,0.0,100.0,Score,Privacy,9654.578142422311,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_RealEstate.xlsx
+15. Real Estate Valuation,GaussianCopula,,privacy,Min_Distance,966.9756943318248,966.9756943318248,,,,,0.0,0.0,100.0,Score,Privacy,966.9756943318248,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_RealEstate.xlsx
+15. Real Estate Valuation,GaussianCopula,,privacy,Max_Distance,34803.0004263523,34803.0004263523,,,,,0.0,0.0,100.0,Score,Privacy,34803.0004263523,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_RealEstate.xlsx
+15. Real Estate Valuation,TVAE,,privacy,Median_Distance,14913.64803848199,14913.64803848199,,,,,0.0,0.0,100.0,Score,Privacy,14913.64803848199,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_RealEstate.xlsx
+15. Real Estate Valuation,TVAE,,privacy,Std_Distance,9654.601567840991,9654.601567840991,,,,,0.0,0.0,100.0,Score,Privacy,9654.601567840991,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_RealEstate.xlsx
+15. Real Estate Valuation,TVAE,,privacy,Min_Distance,967.339248023518,967.339248023518,,,,,0.0,0.0,100.0,Score,Privacy,967.339248023518,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_RealEstate.xlsx
+15. Real Estate Valuation,TVAE,,privacy,Max_Distance,34800.98809171184,34800.98809171184,,,,,0.0,0.0,100.0,Score,Privacy,34800.98809171184,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_RealEstate.xlsx
+15. Real Estate Valuation,CopulaGAN,,privacy,Median_Distance,14909.91509159214,14909.91509159214,,,,,0.0,0.0,100.0,Score,Privacy,14909.91509159214,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_RealEstate.xlsx
+15. Real Estate Valuation,CopulaGAN,,privacy,Std_Distance,9654.691532386054,9654.691532386054,,,,,0.0,0.0,100.0,Score,Privacy,9654.691532386054,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_RealEstate.xlsx
+15. Real Estate Valuation,CopulaGAN,,privacy,Min_Distance,966.9373535151608,966.9373535151608,,,,,0.0,0.0,100.0,Score,Privacy,966.9373535151608,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_RealEstate.xlsx
+15. Real Estate Valuation,CopulaGAN,,privacy,Max_Distance,34802.39736587837,34802.39736587837,,,,,0.0,0.0,100.0,Score,Privacy,34802.39736587837,/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_RealEstate.xlsx
+1. Cancer,CopulaGAN,,,NNDR,,8.754585,,,,,,0.0,,Score,Privacy,8.754585,Generators/SDV models/1. Cancer.ipynb
+1. Cancer,CTGAN,,,NNDR,,6.264304,,,,,,0.0,,Score,Privacy,6.264304,Generators/SDV models/1. Cancer.ipynb
+1. Cancer,TVAE,,,NNDR,,2.786137,,,,,,0.0,,Score,Privacy,2.786137,Generators/SDV models/1. Cancer.ipynb
+1. Cancer,GaussianCopula,,,NNDR,,2.722936,,,,,,0.0,,Score,Privacy,2.722936,Generators/SDV models/1. Cancer.ipynb
+1. Cancer,GaussianCopula,,,Hungarian_Cosine_Similarity,,0.999626,,,,,,0.0,,Score,Privacy,0.999626,Generators/SDV models/1. Cancer.ipynb
+1. Cancer,GaussianCopula,,,Num_Matches,,569.0,,,,,,0.0,,Score,Privacy,569.0,Generators/SDV models/1. Cancer.ipynb
+1. Cancer,TVAE,,,Hungarian_Cosine_Similarity,,0.994255,,,,,,0.0,,Score,Privacy,0.994255,Generators/SDV models/1. Cancer.ipynb
+1. Cancer,TVAE,,,Num_Matches,,569.0,,,,,,0.0,,Score,Privacy,569.0,Generators/SDV models/1. Cancer.ipynb
+1. Cancer,CopulaGAN,,,Hungarian_Cosine_Similarity,,0.956947,,,,,,0.0,,Score,Privacy,0.956947,Generators/SDV models/1. Cancer.ipynb
+1. Cancer,CopulaGAN,,,Num_Matches,,569.0,,,,,,0.0,,Score,Privacy,569.0,Generators/SDV models/1. Cancer.ipynb
+1. Cancer,CTGAN,,,Hungarian_Cosine_Similarity,,0.94758,,,,,,0.0,,Score,Privacy,0.94758,Generators/SDV models/1. Cancer.ipynb
+1. Cancer,CTGAN,,,Num_Matches,,569.0,,,,,,0.0,,Score,Privacy,569.0,Generators/SDV models/1. Cancer.ipynb
+1. Cancer,GaussianCopula,,,Mean_Distance,,6.265554,,,,,,0.0,,Score,Privacy,6.265554,Generators/SDV models/1. Cancer.ipynb
+1. Cancer,TVAE,,,Mean_Distance,,43.786276,,,,,,0.0,,Score,Privacy,43.786276,Generators/SDV models/1. Cancer.ipynb
+1. Cancer,CTGAN,,,Mean_Distance,,110.561526,,,,,,0.0,,Score,Privacy,110.561526,Generators/SDV models/1. Cancer.ipynb
+1. Cancer,CopulaGAN,,,Mean_Distance,,133.996058,,,,,,0.0,,Score,Privacy,133.996058,Generators/SDV models/1. Cancer.ipynb
+1. Cancer,TVAE,,,Mahalanobis_Distance,,0.982851,,,,,,0.0,,Score,Privacy,0.982851,Generators/SDV models/1. Cancer.ipynb
+1. Cancer,GaussianCopula,,,Mahalanobis_Distance,,1.170214,,,,,,0.0,,Score,Privacy,1.170214,Generators/SDV models/1. Cancer.ipynb
+1. Cancer,CTGAN,,,Mahalanobis_Distance,,1.205707,,,,,,0.0,,Score,Privacy,1.205707,Generators/SDV models/1. Cancer.ipynb
+1. Cancer,CopulaGAN,,,Mahalanobis_Distance,,1.783988,,,,,,0.0,,Score,Privacy,1.783988,Generators/SDV models/1. Cancer.ipynb
+1. Cancer,CTGAN,,,MIA_AUC,,1.0,,,,,,0.0,,Score,Privacy,1.0,Generators/SDV models/1. Cancer.ipynb
+1. Cancer,CopulaGAN,,,MIA_AUC,,1.0,,,,,,0.0,,Score,Privacy,1.0,Generators/SDV models/1. Cancer.ipynb
+1. Cancer,TVAE,,,MIA_AUC,,0.998391,,,,,,0.0,,Score,Privacy,0.998391,Generators/SDV models/1. Cancer.ipynb
+1. Cancer,GaussianCopula,,,MIA_AUC,,0.792606,,,,,,0.0,,Score,Privacy,0.792606,Generators/SDV models/1. Cancer.ipynb
+1. Cancer,CTABGAN,,,NNDR,,4.696354,,,,,,0.0,,Score,Privacy,4.696354,Generators/Other GANS/1. Cancer_other GAN.ipynb
+1. Cancer,WGAN_GP,,,NNDR,,2.333268,,,,,,0.0,,Score,Privacy,2.333268,Generators/Other GANS/1. Cancer_other GAN.ipynb
+1. Cancer,WGAN_GP,,,Hungarian_Cosine_Similarity,,0.99984,,,,,,0.0,,Score,Privacy,0.99984,Generators/Other GANS/1. Cancer_other GAN.ipynb
+1. Cancer,WGAN_GP,,,Num_Matches,,569.0,,,,,,0.0,,Score,Privacy,569.0,Generators/Other GANS/1. Cancer_other GAN.ipynb
+1. Cancer,CTABGAN,,,Hungarian_Cosine_Similarity,,0.998195,,,,,,0.0,,Score,Privacy,0.998195,Generators/Other GANS/1. Cancer_other GAN.ipynb
+1. Cancer,CTABGAN,,,Num_Matches,,569.0,,,,,,0.0,,Score,Privacy,569.0,Generators/Other GANS/1. Cancer_other GAN.ipynb
+1. Cancer,CTABGAN,,,Mahalanobis_Distance,,0.96297,,,,,,0.0,,Score,Privacy,0.96297,Generators/Other GANS/1. Cancer_other GAN.ipynb
+1. Cancer,WGAN_GP,,,Mahalanobis_Distance,,1.147123,,,,,,0.0,,Score,Privacy,1.147123,Generators/Other GANS/1. Cancer_other GAN.ipynb
+1. Cancer,WGAN_GP,,,Mean_Distance,,6.218621,,,,,,0.0,,Score,Privacy,6.218621,Generators/Other GANS/1. Cancer_other GAN.ipynb
+1. Cancer,CTABGAN,,,Mean_Distance,,49.904281,,,,,,0.0,,Score,Privacy,49.904281,Generators/Other GANS/1. Cancer_other GAN.ipynb
+1. Cancer,WGAN_GP,,,MIA_AUC,,0.556715,,,,,,0.0,,Score,Privacy,0.556715,Generators/Other GANS/1. Cancer_other GAN.ipynb
+1. Cancer,CTABGAN,,,MIA_AUC,,0.624091,,,,,,0.0,,Score,Privacy,0.624091,Generators/Other GANS/1. Cancer_other GAN.ipynb
+1. Cancer,TabDDPM,,,NNDR,,17.765025,,,,,,0.0,,Score,Privacy,17.765025,Generators/Diffusion GANs/1. Cancer_diffusion.ipynb
+1. Cancer,ForestDiffusion,,,NNDR,,1.873807,,,,,,0.0,,Score,Privacy,1.873807,Generators/Diffusion GANs/1. Cancer_diffusion.ipynb
+1. Cancer,ForestDiffusion,,,Hungarian_Cosine_Similarity,,0.999888,,,,,,0.0,,Score,Privacy,0.999888,Generators/Diffusion GANs/1. Cancer_diffusion.ipynb
+1. Cancer,ForestDiffusion,,,Num_Matches,,569.0,,,,,,0.0,,Score,Privacy,569.0,Generators/Diffusion GANs/1. Cancer_diffusion.ipynb
+1. Cancer,TabDDPM,,,Hungarian_Cosine_Similarity,,0.991305,,,,,,0.0,,Score,Privacy,0.991305,Generators/Diffusion GANs/1. Cancer_diffusion.ipynb
+1. Cancer,TabDDPM,,,Num_Matches,,569.0,,,,,,0.0,,Score,Privacy,569.0,Generators/Diffusion GANs/1. Cancer_diffusion.ipynb
+1. Cancer,ForestDiffusion,,,Mahalanobis_Distance,,1.110723,,,,,,0.0,,Score,Privacy,1.110723,Generators/Diffusion GANs/1. Cancer_diffusion.ipynb
+1. Cancer,TabDDPM,,,Mahalanobis_Distance,,9.926277,,,,,,0.0,,Score,Privacy,9.926277,Generators/Diffusion GANs/1. Cancer_diffusion.ipynb
+1. Cancer,ForestDiffusion,,,Mean_Distance,,3.883779,,,,,,0.0,,Score,Privacy,3.883779,Generators/Diffusion GANs/1. Cancer_diffusion.ipynb
+1. Cancer,TabDDPM,,,Mean_Distance,,34.433394,,,,,,0.0,,Score,Privacy,34.433394,Generators/Diffusion GANs/1. Cancer_diffusion.ipynb
+1. Cancer,TabDDPM,,,MIA_AUC,,0.309536,,,,,,0.0,,Score,Privacy,0.309536,Generators/Diffusion GANs/1. Cancer_diffusion.ipynb
+1. Cancer,ForestDiffusion,,,MIA_AUC,,0.546859,,,,,,0.0,,Score,Privacy,0.546859,Generators/Diffusion GANs/1. Cancer_diffusion.ipynb
+2. Alzhimers,CopulaGAN,,,NNDR,,2.890977,,,,,,0.0,,Score,Privacy,2.890977,Generators/SDV models/2. Alzhimers.ipynb
+2. Alzhimers,CTGAN,,,NNDR,,2.712646,,,,,,0.0,,Score,Privacy,2.712646,Generators/SDV models/2. Alzhimers.ipynb
+2. Alzhimers,GaussianCopula,,,NNDR,,1.497391,,,,,,0.0,,Score,Privacy,1.497391,Generators/SDV models/2. Alzhimers.ipynb
+2. Alzhimers,TVAE,,,NNDR,,1.453595,,,,,,0.0,,Score,Privacy,1.453595,Generators/SDV models/2. Alzhimers.ipynb
+2. Alzhimers,CTGAN,,,Hungarian_Cosine_Similarity,,0.995876,,,,,,0.0,,Score,Privacy,0.995876,Generators/SDV models/2. Alzhimers.ipynb
+2. Alzhimers,CTGAN,,,Num_Matches,,373.0,,,,,,0.0,,Score,Privacy,373.0,Generators/SDV models/2. Alzhimers.ipynb
+2. Alzhimers,TVAE,,,Hungarian_Cosine_Similarity,,0.985688,,,,,,0.0,,Score,Privacy,0.985688,Generators/SDV models/2. Alzhimers.ipynb
+2. Alzhimers,TVAE,,,Num_Matches,,373.0,,,,,,0.0,,Score,Privacy,373.0,Generators/SDV models/2. Alzhimers.ipynb
+2. Alzhimers,CopulaGAN,,,Hungarian_Cosine_Similarity,,0.969223,,,,,,0.0,,Score,Privacy,0.969223,Generators/SDV models/2. Alzhimers.ipynb
+2. Alzhimers,CopulaGAN,,,Num_Matches,,373.0,,,,,,0.0,,Score,Privacy,373.0,Generators/SDV models/2. Alzhimers.ipynb
+2. Alzhimers,GaussianCopula,,,Hungarian_Cosine_Similarity,,0.92408,,,,,,0.0,,Score,Privacy,0.92408,Generators/SDV models/2. Alzhimers.ipynb
+2. Alzhimers,GaussianCopula,,,Num_Matches,,373.0,,,,,,0.0,,Score,Privacy,373.0,Generators/SDV models/2. Alzhimers.ipynb
+2. Alzhimers,GaussianCopula,,,Mean_Distance,,3.64572,,,,,,0.0,,Score,Privacy,3.64572,Generators/SDV models/2. Alzhimers.ipynb
+2. Alzhimers,TVAE,,,Mean_Distance,,5.391572,,,,,,0.0,,Score,Privacy,5.391572,Generators/SDV models/2. Alzhimers.ipynb
+2. Alzhimers,CTGAN,,,Mean_Distance,,10.895524,,,,,,0.0,,Score,Privacy,10.895524,Generators/SDV models/2. Alzhimers.ipynb
+2. Alzhimers,CopulaGAN,,,Mean_Distance,,11.505781,,,,,,0.0,,Score,Privacy,11.505781,Generators/SDV models/2. Alzhimers.ipynb
+2. Alzhimers,CTGAN,,,Mahalanobis_Distance,,1.178543,,,,,,0.0,,Score,Privacy,1.178543,Generators/SDV models/2. Alzhimers.ipynb
+2. Alzhimers,GaussianCopula,,,Mahalanobis_Distance,,1.204426,,,,,,0.0,,Score,Privacy,1.204426,Generators/SDV models/2. Alzhimers.ipynb
+2. Alzhimers,TVAE,,,Mahalanobis_Distance,,1.291743,,,,,,0.0,,Score,Privacy,1.291743,Generators/SDV models/2. Alzhimers.ipynb
+2. Alzhimers,CopulaGAN,,,Mahalanobis_Distance,,1.745332,,,,,,0.0,,Score,Privacy,1.745332,Generators/SDV models/2. Alzhimers.ipynb
+2. Alzhimers,CopulaGAN,,,MIA_AUC,,0.992992,,,,,,0.0,,Score,Privacy,0.992992,Generators/SDV models/2. Alzhimers.ipynb
+2. Alzhimers,CTGAN,,,MIA_AUC,,0.987156,,,,,,0.0,,Score,Privacy,0.987156,Generators/SDV models/2. Alzhimers.ipynb
+2. Alzhimers,TVAE,,,MIA_AUC,,0.892402,,,,,,0.0,,Score,Privacy,0.892402,Generators/SDV models/2. Alzhimers.ipynb
+2. Alzhimers,GaussianCopula,,,MIA_AUC,,0.693572,,,,,,0.0,,Score,Privacy,0.693572,Generators/SDV models/2. Alzhimers.ipynb
+2. Alzhimers,CTABGAN,,,NNDR,,1.918357,,,,,,0.0,,Score,Privacy,1.918357,Generators/Other GANS/2. Alzhimers_other GAN.ipynb
+2. Alzhimers,WGAN_GP,,,NNDR,,1.428207,,,,,,0.0,,Score,Privacy,1.428207,Generators/Other GANS/2. Alzhimers_other GAN.ipynb
+2. Alzhimers,CTABGAN,,,Hungarian_Cosine_Similarity,,0.999852,,,,,,0.0,,Score,Privacy,0.999852,Generators/Other GANS/2. Alzhimers_other GAN.ipynb
+2. Alzhimers,CTABGAN,,,Num_Matches,,373.0,,,,,,0.0,,Score,Privacy,373.0,Generators/Other GANS/2. Alzhimers_other GAN.ipynb
+2. Alzhimers,WGAN_GP,,,Hungarian_Cosine_Similarity,,0.999784,,,,,,0.0,,Score,Privacy,0.999784,Generators/Other GANS/2. Alzhimers_other GAN.ipynb
+2. Alzhimers,WGAN_GP,,,Num_Matches,,373.0,,,,,,0.0,,Score,Privacy,373.0,Generators/Other GANS/2. Alzhimers_other GAN.ipynb
+2. Alzhimers,CTABGAN,,,Mahalanobis_Distance,,1.038339,,,,,,0.0,,Score,Privacy,1.038339,Generators/Other GANS/2. Alzhimers_other GAN.ipynb
+2. Alzhimers,WGAN_GP,,,Mahalanobis_Distance,,1.228502,,,,,,0.0,,Score,Privacy,1.228502,Generators/Other GANS/2. Alzhimers_other GAN.ipynb
+2. Alzhimers,WGAN_GP,,,Mean_Distance,,1.724848,,,,,,0.0,,Score,Privacy,1.724848,Generators/Other GANS/2. Alzhimers_other GAN.ipynb
+2. Alzhimers,CTABGAN,,,Mean_Distance,,3.092248,,,,,,0.0,,Score,Privacy,3.092248,Generators/Other GANS/2. Alzhimers_other GAN.ipynb
+2. Alzhimers,CTABGAN,,,MIA_AUC,,0.505147,,,,,,0.0,,Score,Privacy,0.505147,Generators/Other GANS/2. Alzhimers_other GAN.ipynb
+2. Alzhimers,WGAN_GP,,,MIA_AUC,,0.608032,,,,,,0.0,,Score,Privacy,0.608032,Generators/Other GANS/2. Alzhimers_other GAN.ipynb
+2. Alzhimers,TabDDPM,,,NNDR,,3.987964,,,,,,0.0,,Score,Privacy,3.987964,Generators/Diffusion GANs/2. Alzhimers_diffusion.ipynb
+2. Alzhimers,ForestDiffusion,,,NNDR,,0.936677,,,,,,0.0,,Score,Privacy,0.936677,Generators/Diffusion GANs/2. Alzhimers_diffusion.ipynb
+2. Alzhimers,ForestDiffusion,,,Hungarian_Cosine_Similarity,,0.999993,,,,,,0.0,,Score,Privacy,0.999993,Generators/Diffusion GANs/2. Alzhimers_diffusion.ipynb
+2. Alzhimers,ForestDiffusion,,,Num_Matches,,373.0,,,,,,0.0,,Score,Privacy,373.0,Generators/Diffusion GANs/2. Alzhimers_diffusion.ipynb
+2. Alzhimers,TabDDPM,,,Hungarian_Cosine_Similarity,,0.994789,,,,,,0.0,,Score,Privacy,0.994789,Generators/Diffusion GANs/2. Alzhimers_diffusion.ipynb
+2. Alzhimers,TabDDPM,,,Num_Matches,,373.0,,,,,,0.0,,Score,Privacy,373.0,Generators/Diffusion GANs/2. Alzhimers_diffusion.ipynb
+2. Alzhimers,ForestDiffusion,,,Mahalanobis_Distance,,1.22756,,,,,,0.0,,Score,Privacy,1.22756,Generators/Diffusion GANs/2. Alzhimers_diffusion.ipynb
+2. Alzhimers,TabDDPM,,,Mahalanobis_Distance,,4.248045,,,,,,0.0,,Score,Privacy,4.248045,Generators/Diffusion GANs/2. Alzhimers_diffusion.ipynb
+2. Alzhimers,ForestDiffusion,,,Mean_Distance,,1.015673,,,,,,0.0,,Score,Privacy,1.015673,Generators/Diffusion GANs/2. Alzhimers_diffusion.ipynb
+2. Alzhimers,TabDDPM,,,Mean_Distance,,2.721656,,,,,,0.0,,Score,Privacy,2.721656,Generators/Diffusion GANs/2. Alzhimers_diffusion.ipynb
+2. Alzhimers,TabDDPM,,,MIA_AUC,,0.878029,,,,,,0.0,,Score,Privacy,0.878029,Generators/Diffusion GANs/2. Alzhimers_diffusion.ipynb
+2. Alzhimers,ForestDiffusion,,,MIA_AUC,,0.432609,,,,,,0.0,,Score,Privacy,0.432609,Generators/Diffusion GANs/2. Alzhimers_diffusion.ipynb
+3. Adult,WGAN_GP,,,MIA_AUC,,0.40917,,,,,,0.0,,Score,Privacy,0.40917,Generators/Other GANS/3. Adult census_other GAN.ipynb
+3. Adult,CTABGAN,,,MIA_AUC,,0.732016,,,,,,0.0,,Score,Privacy,0.732016,Generators/Other GANS/3. Adult census_other GAN.ipynb
+3. Adult,ForestDiffusion,,,MIA_AUC,,0.519265,,,,,,0.0,,Score,Privacy,0.519265,Generators/Diffusion GANs/3. Adult census_diffusion.ipynb
+3. Adult,TabDDPM,,,MIA_AUC,,0.666547,,,,,,0.0,,Score,Privacy,0.666547,Generators/Diffusion GANs/3. Adult census_diffusion.ipynb
+4. Forest cover dataset,CopulaGAN,,,NNDR,,4.903505,,,,,,0.0,,Score,Privacy,4.903505,Generators/SDV models/4.Forest cover.ipynb
+4. Forest cover dataset,CTGAN,,,NNDR,,4.821889,,,,,,0.0,,Score,Privacy,4.821889,Generators/SDV models/4.Forest cover.ipynb
+4. Forest cover dataset,GaussianCopula,,,NNDR,,3.999924,,,,,,0.0,,Score,Privacy,3.999924,Generators/SDV models/4.Forest cover.ipynb
+4. Forest cover dataset,TVAE,,,NNDR,,3.254261,,,,,,0.0,,Score,Privacy,3.254261,Generators/SDV models/4.Forest cover.ipynb
+4. Forest cover dataset,GaussianCopula,,,Hungarian_Cosine_Similarity,,0.997299,,,,,,0.0,,Score,Privacy,0.997299,Generators/SDV models/4.Forest cover.ipynb
+4. Forest cover dataset,GaussianCopula,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/SDV models/4.Forest cover.ipynb
+4. Forest cover dataset,TVAE,,,Hungarian_Cosine_Similarity,,0.985911,,,,,,0.0,,Score,Privacy,0.985911,Generators/SDV models/4.Forest cover.ipynb
+4. Forest cover dataset,TVAE,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/SDV models/4.Forest cover.ipynb
+4. Forest cover dataset,CTGAN,,,Hungarian_Cosine_Similarity,,0.976664,,,,,,0.0,,Score,Privacy,0.976664,Generators/SDV models/4.Forest cover.ipynb
+4. Forest cover dataset,CTGAN,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/SDV models/4.Forest cover.ipynb
+4. Forest cover dataset,CopulaGAN,,,Hungarian_Cosine_Similarity,,0.954908,,,,,,0.0,,Score,Privacy,0.954908,Generators/SDV models/4.Forest cover.ipynb
+4. Forest cover dataset,CopulaGAN,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/SDV models/4.Forest cover.ipynb
+4. Forest cover dataset,CopulaGAN,,,Mahalanobis_Distance,,0.66901,,,,,,0.0,,Score,Privacy,0.66901,Generators/SDV models/4.Forest cover.ipynb
+4. Forest cover dataset,CTGAN,,,Mahalanobis_Distance,,0.684989,,,,,,0.0,,Score,Privacy,0.684989,Generators/SDV models/4.Forest cover.ipynb
+4. Forest cover dataset,GaussianCopula,,,Mahalanobis_Distance,,1.078889,,,,,,0.0,,Score,Privacy,1.078889,Generators/SDV models/4.Forest cover.ipynb
+4. Forest cover dataset,TVAE,,,Mahalanobis_Distance,,1.112009,,,,,,0.0,,Score,Privacy,1.112009,Generators/SDV models/4.Forest cover.ipynb
+4. Forest cover dataset,TVAE,,,Mean_Distance,,191.531331,,,,,,0.0,,Score,Privacy,191.531331,Generators/SDV models/4.Forest cover.ipynb
+4. Forest cover dataset,GaussianCopula,,,Mean_Distance,,283.63126,,,,,,0.0,,Score,Privacy,283.63126,Generators/SDV models/4.Forest cover.ipynb
+4. Forest cover dataset,CTGAN,,,Mean_Distance,,387.931106,,,,,,0.0,,Score,Privacy,387.931106,Generators/SDV models/4.Forest cover.ipynb
+4. Forest cover dataset,CopulaGAN,,,Mean_Distance,,391.836018,,,,,,0.0,,Score,Privacy,391.836018,Generators/SDV models/4.Forest cover.ipynb
+4. Forest cover dataset,TVAE,,,MIA_AUC,,0.582294,,,,,,0.0,,Score,Privacy,0.582294,Generators/SDV models/4.Forest cover.ipynb
+4. Forest cover dataset,GaussianCopula,,,MIA_AUC,,0.704147,,,,,,0.0,,Score,Privacy,0.704147,Generators/SDV models/4.Forest cover.ipynb
+4. Forest cover dataset,CopulaGAN,,,MIA_AUC,,0.76328,,,,,,0.0,,Score,Privacy,0.76328,Generators/SDV models/4.Forest cover.ipynb
+4. Forest cover dataset,CTGAN,,,MIA_AUC,,0.847734,,,,,,0.0,,Score,Privacy,0.847734,Generators/SDV models/4.Forest cover.ipynb
+4. Forest cover dataset,CTABGAN,,,NNDR,,4.257824,,,,,,0.0,,Score,Privacy,4.257824,Generators/Other GANS/4_Forest_Cover_other_GAN.ipynb
+4. Forest cover dataset,WGAN_GP,,,NNDR,,3.646722,,,,,,0.0,,Score,Privacy,3.646722,Generators/Other GANS/4_Forest_Cover_other_GAN.ipynb
+4. Forest cover dataset,WGAN_GP,,,Hungarian_Cosine_Similarity,,0.997355,,,,,,0.0,,Score,Privacy,0.997355,Generators/Other GANS/4_Forest_Cover_other_GAN.ipynb
+4. Forest cover dataset,WGAN_GP,,,Num_Matches,,448.0,,,,,,0.0,,Score,Privacy,448.0,Generators/Other GANS/4_Forest_Cover_other_GAN.ipynb
+4. Forest cover dataset,CTABGAN,,,Hungarian_Cosine_Similarity,,0.996078,,,,,,0.0,,Score,Privacy,0.996078,Generators/Other GANS/4_Forest_Cover_other_GAN.ipynb
+4. Forest cover dataset,CTABGAN,,,Num_Matches,,448.0,,,,,,0.0,,Score,Privacy,448.0,Generators/Other GANS/4_Forest_Cover_other_GAN.ipynb
+4. Forest cover dataset,CTABGAN,,,Mahalanobis_Distance,,0.858028,,,,,,0.0,,Score,Privacy,0.858028,Generators/Other GANS/4_Forest_Cover_other_GAN.ipynb
+4. Forest cover dataset,WGAN_GP,,,Mahalanobis_Distance,,1.607914,,,,,,0.0,,Score,Privacy,1.607914,Generators/Other GANS/4_Forest_Cover_other_GAN.ipynb
+4. Forest cover dataset,CTABGAN,,,Mean_Distance,,194.878063,,,,,,0.0,,Score,Privacy,194.878063,Generators/Other GANS/4_Forest_Cover_other_GAN.ipynb
+4. Forest cover dataset,WGAN_GP,,,Mean_Distance,,910.964022,,,,,,0.0,,Score,Privacy,910.964022,Generators/Other GANS/4_Forest_Cover_other_GAN.ipynb
+4. Forest cover dataset,CTABGAN,,,MIA_AUC,,0.702351,,,,,,0.0,,Score,Privacy,0.702351,Generators/Other GANS/4_Forest_Cover_other_GAN.ipynb
+4. Forest cover dataset,WGAN_GP,,,MIA_AUC,,0.752183,,,,,,0.0,,Score,Privacy,0.752183,Generators/Other GANS/4_Forest_Cover_other_GAN.ipynb
+4. Forest cover dataset,TabDDPM,,,NNDR,,43.762868,,,,,,0.0,,Score,Privacy,43.762868,Generators/Diffusion GANs/4_Forest_Cover_diffusion.ipynb
+4. Forest cover dataset,ForestDiffusion,,,NNDR,,1.936433,,,,,,0.0,,Score,Privacy,1.936433,Generators/Diffusion GANs/4_Forest_Cover_diffusion.ipynb
+4. Forest cover dataset,ForestDiffusion,,,Hungarian_Cosine_Similarity,,0.997509,,,,,,0.0,,Score,Privacy,0.997509,Generators/Diffusion GANs/4_Forest_Cover_diffusion.ipynb
+4. Forest cover dataset,ForestDiffusion,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Diffusion GANs/4_Forest_Cover_diffusion.ipynb
+4. Forest cover dataset,TabDDPM,,,Hungarian_Cosine_Similarity,,0.891484,,,,,,0.0,,Score,Privacy,0.891484,Generators/Diffusion GANs/4_Forest_Cover_diffusion.ipynb
+4. Forest cover dataset,TabDDPM,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Diffusion GANs/4_Forest_Cover_diffusion.ipynb
+4. Forest cover dataset,ForestDiffusion,,,Mahalanobis_Distance,,1.167135,,,,,,0.0,,Score,Privacy,1.167135,Generators/Diffusion GANs/4_Forest_Cover_diffusion.ipynb
+4. Forest cover dataset,TabDDPM,,,Mahalanobis_Distance,,5.072992,,,,,,0.0,,Score,Privacy,5.072992,Generators/Diffusion GANs/4_Forest_Cover_diffusion.ipynb
+4. Forest cover dataset,ForestDiffusion,,,Mean_Distance,,10.213563,,,,,,0.0,,Score,Privacy,10.213563,Generators/Diffusion GANs/4_Forest_Cover_diffusion.ipynb
+4. Forest cover dataset,TabDDPM,,,Mean_Distance,,636.119261,,,,,,0.0,,Score,Privacy,636.119261,Generators/Diffusion GANs/4_Forest_Cover_diffusion.ipynb
+4. Forest cover dataset,ForestDiffusion,,,MIA_AUC,,0.480298,,,,,,0.0,,Score,Privacy,0.480298,Generators/Diffusion GANs/4_Forest_Cover_diffusion.ipynb
+4. Forest cover dataset,TabDDPM,,,MIA_AUC,,0.940729,,,,,,0.0,,Score,Privacy,0.940729,Generators/Diffusion GANs/4_Forest_Cover_diffusion.ipynb
+5. Bank Markting,GaussianCopula,,,NNDR,,0.874767,,,,,,0.0,,Score,Privacy,0.874767,Generators/SDV models/5. Bank Marketing.ipynb
+5. Bank Markting,CopulaGAN,,,NNDR,,0.671442,,,,,,0.0,,Score,Privacy,0.671442,Generators/SDV models/5. Bank Marketing.ipynb
+5. Bank Markting,CTGAN,,,NNDR,,0.438439,,,,,,0.0,,Score,Privacy,0.438439,Generators/SDV models/5. Bank Marketing.ipynb
+5. Bank Markting,TVAE,,,NNDR,,0.247332,,,,,,0.0,,Score,Privacy,0.247332,Generators/SDV models/5. Bank Marketing.ipynb
+5. Bank Markting,CTGAN,,,Hungarian_Cosine_Similarity,,0.999669,,,,,,0.0,,Score,Privacy,0.999669,Generators/SDV models/5. Bank Marketing.ipynb
+5. Bank Markting,CTGAN,,,Num_Matches,,10000.0,,,,,,0.0,,Score,Privacy,10000.0,Generators/SDV models/5. Bank Marketing.ipynb
+5. Bank Markting,CopulaGAN,,,Hungarian_Cosine_Similarity,,0.999473,,,,,,0.0,,Score,Privacy,0.999473,Generators/SDV models/5. Bank Marketing.ipynb
+5. Bank Markting,CopulaGAN,,,Num_Matches,,10000.0,,,,,,0.0,,Score,Privacy,10000.0,Generators/SDV models/5. Bank Marketing.ipynb
+5. Bank Markting,TVAE,,,Hungarian_Cosine_Similarity,,0.998968,,,,,,0.0,,Score,Privacy,0.998968,Generators/SDV models/5. Bank Marketing.ipynb
+5. Bank Markting,TVAE,,,Num_Matches,,10000.0,,,,,,0.0,,Score,Privacy,10000.0,Generators/SDV models/5. Bank Marketing.ipynb
+5. Bank Markting,GaussianCopula,,,Hungarian_Cosine_Similarity,,0.993143,,,,,,0.0,,Score,Privacy,0.993143,Generators/SDV models/5. Bank Marketing.ipynb
+5. Bank Markting,GaussianCopula,,,Num_Matches,,10000.0,,,,,,0.0,,Score,Privacy,10000.0,Generators/SDV models/5. Bank Marketing.ipynb
+5. Bank Markting,CTGAN,,,Mean_Distance,,0.721561,,,,,,0.0,,Score,Privacy,0.721561,Generators/SDV models/5. Bank Marketing.ipynb
+5. Bank Markting,CopulaGAN,,,Mean_Distance,,0.973256,,,,,,0.0,,Score,Privacy,0.973256,Generators/SDV models/5. Bank Marketing.ipynb
+5. Bank Markting,TVAE,,,Mean_Distance,,1.065509,,,,,,0.0,,Score,Privacy,1.065509,Generators/SDV models/5. Bank Marketing.ipynb
+5. Bank Markting,GaussianCopula,,,Mean_Distance,,1.536039,,,,,,0.0,,Score,Privacy,1.536039,Generators/SDV models/5. Bank Marketing.ipynb
+5. Bank Markting,TVAE,,,Mahalanobis_Distance,,1.015078,,,,,,0.0,,Score,Privacy,1.015078,Generators/SDV models/5. Bank Marketing.ipynb
+5. Bank Markting,GaussianCopula,,,Mahalanobis_Distance,,1.058052,,,,,,0.0,,Score,Privacy,1.058052,Generators/SDV models/5. Bank Marketing.ipynb
+5. Bank Markting,CTGAN,,,Mahalanobis_Distance,,1.075318,,,,,,0.0,,Score,Privacy,1.075318,Generators/SDV models/5. Bank Marketing.ipynb
+5. Bank Markting,CopulaGAN,,,Mahalanobis_Distance,,1.100806,,,,,,0.0,,Score,Privacy,1.100806,Generators/SDV models/5. Bank Marketing.ipynb
+5. Bank Markting,GaussianCopula,,,MIA_AUC,,0.579011,,,,,,0.0,,Score,Privacy,0.579011,Generators/SDV models/5. Bank Marketing.ipynb
+5. Bank Markting,CopulaGAN,,,MIA_AUC,,0.540008,,,,,,0.0,,Score,Privacy,0.540008,Generators/SDV models/5. Bank Marketing.ipynb
+5. Bank Markting,CTGAN,,,MIA_AUC,,0.524211,,,,,,0.0,,Score,Privacy,0.524211,Generators/SDV models/5. Bank Marketing.ipynb
+5. Bank Markting,TVAE,,,MIA_AUC,,0.45781,,,,,,0.0,,Score,Privacy,0.45781,Generators/SDV models/5. Bank Marketing.ipynb
+5. Bank Markting,WGAN_GP,,,NNDR,,1.659787,,,,,,0.0,,Score,Privacy,1.659787,Generators/Other GANS/5. Bank marketing_other GAN.ipynb
+5. Bank Markting,CTABGAN,,,NNDR,,0.69484,,,,,,0.0,,Score,Privacy,0.69484,Generators/Other GANS/5. Bank marketing_other GAN.ipynb
+5. Bank Markting,CTABGAN,,,Hungarian_Cosine_Similarity,,0.939923,,,,,,0.0,,Score,Privacy,0.939923,Generators/Other GANS/5. Bank marketing_other GAN.ipynb
+5. Bank Markting,CTABGAN,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Other GANS/5. Bank marketing_other GAN.ipynb
+5. Bank Markting,WGAN_GP,,,Hungarian_Cosine_Similarity,,0.810998,,,,,,0.0,,Score,Privacy,0.810998,Generators/Other GANS/5. Bank marketing_other GAN.ipynb
+5. Bank Markting,WGAN_GP,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Other GANS/5. Bank marketing_other GAN.ipynb
+5. Bank Markting,CTABGAN,,,Mahalanobis_Distance,,1.228133,,,,,,0.0,,Score,Privacy,1.228133,Generators/Other GANS/5. Bank marketing_other GAN.ipynb
+5. Bank Markting,WGAN_GP,,,Mahalanobis_Distance,,1.666194,,,,,,0.0,,Score,Privacy,1.666194,Generators/Other GANS/5. Bank marketing_other GAN.ipynb
+5. Bank Markting,CTABGAN,,,Mean_Distance,,1.171598,,,,,,0.0,,Score,Privacy,1.171598,Generators/Other GANS/5. Bank marketing_other GAN.ipynb
+5. Bank Markting,WGAN_GP,,,Mean_Distance,,2.078134,,,,,,0.0,,Score,Privacy,2.078134,Generators/Other GANS/5. Bank marketing_other GAN.ipynb
+5. Bank Markting,WGAN_GP,,,MIA_AUC,,0.532177,,,,,,0.0,,Score,Privacy,0.532177,Generators/Other GANS/5. Bank marketing_other GAN.ipynb
+5. Bank Markting,CTABGAN,,,MIA_AUC,,0.581475,,,,,,0.0,,Score,Privacy,0.581475,Generators/Other GANS/5. Bank marketing_other GAN.ipynb
+5. Bank Markting,TabDDPM,,,NNDR,,5.706968,,,,,,0.0,,Score,Privacy,5.706968,Generators/Diffusion GANs/5. Bank marketing_diffusion.ipynb
+5. Bank Markting,ForestDiffusion,,,NNDR,,0.499839,,,,,,0.0,,Score,Privacy,0.499839,Generators/Diffusion GANs/5. Bank marketing_diffusion.ipynb
+5. Bank Markting,ForestDiffusion,,,Hungarian_Cosine_Similarity,,0.953458,,,,,,0.0,,Score,Privacy,0.953458,Generators/Diffusion GANs/5. Bank marketing_diffusion.ipynb
+5. Bank Markting,ForestDiffusion,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Diffusion GANs/5. Bank marketing_diffusion.ipynb
+5. Bank Markting,TabDDPM,,,Hungarian_Cosine_Similarity,,0.357519,,,,,,0.0,,Score,Privacy,0.357519,Generators/Diffusion GANs/5. Bank marketing_diffusion.ipynb
+5. Bank Markting,TabDDPM,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Diffusion GANs/5. Bank marketing_diffusion.ipynb
+5. Bank Markting,ForestDiffusion,,,Mahalanobis_Distance,,1.034385,,,,,,0.0,,Score,Privacy,1.034385,Generators/Diffusion GANs/5. Bank marketing_diffusion.ipynb
+5. Bank Markting,TabDDPM,,,Mahalanobis_Distance,,9.526495,,,,,,0.0,,Score,Privacy,9.526495,Generators/Diffusion GANs/5. Bank marketing_diffusion.ipynb
+5. Bank Markting,ForestDiffusion,,,Mean_Distance,,0.808527,,,,,,0.0,,Score,Privacy,0.808527,Generators/Diffusion GANs/5. Bank marketing_diffusion.ipynb
+5. Bank Markting,TabDDPM,,,Mean_Distance,,10.559144,,,,,,0.0,,Score,Privacy,10.559144,Generators/Diffusion GANs/5. Bank marketing_diffusion.ipynb
+5. Bank Markting,ForestDiffusion,,,MIA_AUC,,0.507649,,,,,,0.0,,Score,Privacy,0.507649,Generators/Diffusion GANs/5. Bank marketing_diffusion.ipynb
+5. Bank Markting,TabDDPM,,,MIA_AUC,,0.549238,,,,,,0.0,,Score,Privacy,0.549238,Generators/Diffusion GANs/5. Bank marketing_diffusion.ipynb
+6. Wine dataset,CTGAN,,,NNDR,,1.562531,,,,,,0.0,,Score,Privacy,1.562531,Generators/SDV models/6. Wine quality.ipynb
+6. Wine dataset,GaussianCopula,,,NNDR,,1.482607,,,,,,0.0,,Score,Privacy,1.482607,Generators/SDV models/6. Wine quality.ipynb
+6. Wine dataset,CopulaGAN,,,NNDR,,1.399824,,,,,,0.0,,Score,Privacy,1.399824,Generators/SDV models/6. Wine quality.ipynb
+6. Wine dataset,TVAE,,,NNDR,,0.998589,,,,,,0.0,,Score,Privacy,0.998589,Generators/SDV models/6. Wine quality.ipynb
+6. Wine dataset,TVAE,,,Hungarian_Cosine_Similarity,,0.998323,,,,,,0.0,,Score,Privacy,0.998323,Generators/SDV models/6. Wine quality.ipynb
+6. Wine dataset,TVAE,,,Num_Matches,,6497.0,,,,,,0.0,,Score,Privacy,6497.0,Generators/SDV models/6. Wine quality.ipynb
+6. Wine dataset,GaussianCopula,,,Hungarian_Cosine_Similarity,,0.997174,,,,,,0.0,,Score,Privacy,0.997174,Generators/SDV models/6. Wine quality.ipynb
+6. Wine dataset,GaussianCopula,,,Num_Matches,,6497.0,,,,,,0.0,,Score,Privacy,6497.0,Generators/SDV models/6. Wine quality.ipynb
+6. Wine dataset,CopulaGAN,,,Hungarian_Cosine_Similarity,,0.994558,,,,,,0.0,,Score,Privacy,0.994558,Generators/SDV models/6. Wine quality.ipynb
+6. Wine dataset,CopulaGAN,,,Num_Matches,,6497.0,,,,,,0.0,,Score,Privacy,6497.0,Generators/SDV models/6. Wine quality.ipynb
+6. Wine dataset,CTGAN,,,Hungarian_Cosine_Similarity,,0.985166,,,,,,0.0,,Score,Privacy,0.985166,Generators/SDV models/6. Wine quality.ipynb
+6. Wine dataset,CTGAN,,,Num_Matches,,6497.0,,,,,,0.0,,Score,Privacy,6497.0,Generators/SDV models/6. Wine quality.ipynb
+6. Wine dataset,TVAE,,,Mean_Distance,,13.651015,,,,,,0.0,,Score,Privacy,13.651015,Generators/SDV models/6. Wine quality.ipynb
+6. Wine dataset,CTGAN,,,Mean_Distance,,14.600134,,,,,,0.0,,Score,Privacy,14.600134,Generators/SDV models/6. Wine quality.ipynb
+6. Wine dataset,CopulaGAN,,,Mean_Distance,,14.972495,,,,,,0.0,,Score,Privacy,14.972495,Generators/SDV models/6. Wine quality.ipynb
+6. Wine dataset,GaussianCopula,,,Mean_Distance,,15.507334,,,,,,0.0,,Score,Privacy,15.507334,Generators/SDV models/6. Wine quality.ipynb
+6. Wine dataset,CTGAN,,,Mahalanobis_Distance,,1.185716,,,,,,0.0,,Score,Privacy,1.185716,Generators/SDV models/6. Wine quality.ipynb
+6. Wine dataset,TVAE,,,Mahalanobis_Distance,,1.250268,,,,,,0.0,,Score,Privacy,1.250268,Generators/SDV models/6. Wine quality.ipynb
+6. Wine dataset,GaussianCopula,,,Mahalanobis_Distance,,1.25217,,,,,,0.0,,Score,Privacy,1.25217,Generators/SDV models/6. Wine quality.ipynb
+6. Wine dataset,CopulaGAN,,,Mahalanobis_Distance,,1.383828,,,,,,0.0,,Score,Privacy,1.383828,Generators/SDV models/6. Wine quality.ipynb
+6. Wine dataset,CTGAN,,,MIA_AUC,,0.843152,,,,,,0.0,,Score,Privacy,0.843152,Generators/SDV models/6. Wine quality.ipynb
+6. Wine dataset,CopulaGAN,,,MIA_AUC,,0.792671,,,,,,0.0,,Score,Privacy,0.792671,Generators/SDV models/6. Wine quality.ipynb
+6. Wine dataset,GaussianCopula,,,MIA_AUC,,0.640882,,,,,,0.0,,Score,Privacy,0.640882,Generators/SDV models/6. Wine quality.ipynb
+6. Wine dataset,TVAE,,,MIA_AUC,,0.491295,,,,,,0.0,,Score,Privacy,0.491295,Generators/SDV models/6. Wine quality.ipynb
+6. Wine dataset,WGAN_GP,,,NNDR,,2.047727,,,,,,0.0,,Score,Privacy,2.047727,Generators/Other GANS/6. Winequality_other GAN.ipynb
+6. Wine dataset,CTABGAN,,,NNDR,,1.867741,,,,,,0.0,,Score,Privacy,1.867741,Generators/Other GANS/6. Winequality_other GAN.ipynb
+6. Wine dataset,CTABGAN,,,Hungarian_Cosine_Similarity,,0.980089,,,,,,0.0,,Score,Privacy,0.980089,Generators/Other GANS/6. Winequality_other GAN.ipynb
+6. Wine dataset,CTABGAN,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Other GANS/6. Winequality_other GAN.ipynb
+6. Wine dataset,WGAN_GP,,,Hungarian_Cosine_Similarity,,0.976834,,,,,,0.0,,Score,Privacy,0.976834,Generators/Other GANS/6. Winequality_other GAN.ipynb
+6. Wine dataset,WGAN_GP,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Other GANS/6. Winequality_other GAN.ipynb
+6. Wine dataset,CTABGAN,,,Mahalanobis_Distance,,1.01648,,,,,,0.0,,Score,Privacy,1.01648,Generators/Other GANS/6. Winequality_other GAN.ipynb
+6. Wine dataset,WGAN_GP,,,Mahalanobis_Distance,,1.426213,,,,,,0.0,,Score,Privacy,1.426213,Generators/Other GANS/6. Winequality_other GAN.ipynb
+6. Wine dataset,CTABGAN,,,Mean_Distance,,3.120268,,,,,,0.0,,Score,Privacy,3.120268,Generators/Other GANS/6. Winequality_other GAN.ipynb
+6. Wine dataset,WGAN_GP,,,Mean_Distance,,3.389107,,,,,,0.0,,Score,Privacy,3.389107,Generators/Other GANS/6. Winequality_other GAN.ipynb
+6. Wine dataset,WGAN_GP,,,MIA_AUC,,0.391144,,,,,,0.0,,Score,Privacy,0.391144,Generators/Other GANS/6. Winequality_other GAN.ipynb
+6. Wine dataset,CTABGAN,,,MIA_AUC,,0.464033,,,,,,0.0,,Score,Privacy,0.464033,Generators/Other GANS/6. Winequality_other GAN.ipynb
+6. Wine dataset,TabDDPM,,,NNDR,,3.517023,,,,,,0.0,,Score,Privacy,3.517023,Generators/Diffusion GANs/6. Winequality_diffusion.ipynb
+6. Wine dataset,ForestDiffusion,,,NNDR,,1.054236,,,,,,0.0,,Score,Privacy,1.054236,Generators/Diffusion GANs/6. Winequality_diffusion.ipynb
+6. Wine dataset,ForestDiffusion,,,Hungarian_Cosine_Similarity,,0.997669,,,,,,0.0,,Score,Privacy,0.997669,Generators/Diffusion GANs/6. Winequality_diffusion.ipynb
+6. Wine dataset,ForestDiffusion,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Diffusion GANs/6. Winequality_diffusion.ipynb
+6. Wine dataset,TabDDPM,,,Hungarian_Cosine_Similarity,,0.942491,,,,,,0.0,,Score,Privacy,0.942491,Generators/Diffusion GANs/6. Winequality_diffusion.ipynb
+6. Wine dataset,TabDDPM,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Diffusion GANs/6. Winequality_diffusion.ipynb
+6. Wine dataset,ForestDiffusion,,,Mahalanobis_Distance,,1.151814,,,,,,0.0,,Score,Privacy,1.151814,Generators/Diffusion GANs/6. Winequality_diffusion.ipynb
+6. Wine dataset,TabDDPM,,,Mahalanobis_Distance,,3.410704,,,,,,0.0,,Score,Privacy,3.410704,Generators/Diffusion GANs/6. Winequality_diffusion.ipynb
+6. Wine dataset,ForestDiffusion,,,Mean_Distance,,1.516669,,,,,,0.0,,Score,Privacy,1.516669,Generators/Diffusion GANs/6. Winequality_diffusion.ipynb
+6. Wine dataset,TabDDPM,,,Mean_Distance,,5.184156,,,,,,0.0,,Score,Privacy,5.184156,Generators/Diffusion GANs/6. Winequality_diffusion.ipynb
+6. Wine dataset,TabDDPM,,,MIA_AUC,,0.719241,,,,,,0.0,,Score,Privacy,0.719241,Generators/Diffusion GANs/6. Winequality_diffusion.ipynb
+6. Wine dataset,ForestDiffusion,,,MIA_AUC,,0.394825,,,,,,0.0,,Score,Privacy,0.394825,Generators/Diffusion GANs/6. Winequality_diffusion.ipynb
+7. CDC diabetes dataset,GaussianCopula,,,NNDR,,2.623425,,,,,,0.0,,Score,Privacy,2.623425,Generators/SDV models/7. Heart.ipynb
+7. CDC diabetes dataset,CTGAN,,,NNDR,,2.294401,,,,,,0.0,,Score,Privacy,2.294401,Generators/SDV models/7. Heart.ipynb
+7. CDC diabetes dataset,CopulaGAN,,,NNDR,,2.158009,,,,,,0.0,,Score,Privacy,2.158009,Generators/SDV models/7. Heart.ipynb
+7. CDC diabetes dataset,TVAE,,,NNDR,,1.030506,,,,,,0.0,,Score,Privacy,1.030506,Generators/SDV models/7. Heart.ipynb
+7. CDC diabetes dataset,CTGAN,,,Hungarian_Cosine_Similarity,,0.993087,,,,,,0.0,,Score,Privacy,0.993087,Generators/SDV models/7. Heart.ipynb
+7. CDC diabetes dataset,CTGAN,,,Num_Matches,,5000.0,,,,,,0.0,,Score,Privacy,5000.0,Generators/SDV models/7. Heart.ipynb
+7. CDC diabetes dataset,TVAE,,,Hungarian_Cosine_Similarity,,0.992665,,,,,,0.0,,Score,Privacy,0.992665,Generators/SDV models/7. Heart.ipynb
+7. CDC diabetes dataset,TVAE,,,Num_Matches,,5000.0,,,,,,0.0,,Score,Privacy,5000.0,Generators/SDV models/7. Heart.ipynb
+7. CDC diabetes dataset,CopulaGAN,,,Hungarian_Cosine_Similarity,,0.989224,,,,,,0.0,,Score,Privacy,0.989224,Generators/SDV models/7. Heart.ipynb
+7. CDC diabetes dataset,CopulaGAN,,,Num_Matches,,5000.0,,,,,,0.0,,Score,Privacy,5000.0,Generators/SDV models/7. Heart.ipynb
+7. CDC diabetes dataset,GaussianCopula,,,Hungarian_Cosine_Similarity,,0.920753,,,,,,0.0,,Score,Privacy,0.920753,Generators/SDV models/7. Heart.ipynb
+7. CDC diabetes dataset,GaussianCopula,,,Num_Matches,,5000.0,,,,,,0.0,,Score,Privacy,5000.0,Generators/SDV models/7. Heart.ipynb
+7. CDC diabetes dataset,TVAE,,,Mean_Distance,,2.801934,,,,,,0.0,,Score,Privacy,2.801934,Generators/SDV models/7. Heart.ipynb
+7. CDC diabetes dataset,CTGAN,,,Mean_Distance,,3.072402,,,,,,0.0,,Score,Privacy,3.072402,Generators/SDV models/7. Heart.ipynb
+7. CDC diabetes dataset,CopulaGAN,,,Mean_Distance,,3.345442,,,,,,0.0,,Score,Privacy,3.345442,Generators/SDV models/7. Heart.ipynb
+7. CDC diabetes dataset,GaussianCopula,,,Mean_Distance,,3.569087,,,,,,0.0,,Score,Privacy,3.569087,Generators/SDV models/7. Heart.ipynb
+7. CDC diabetes dataset,CTGAN,,,Mahalanobis_Distance,,1.294559,,,,,,0.0,,Score,Privacy,1.294559,Generators/SDV models/7. Heart.ipynb
+7. CDC diabetes dataset,TVAE,,,Mahalanobis_Distance,,1.333968,,,,,,0.0,,Score,Privacy,1.333968,Generators/SDV models/7. Heart.ipynb
+7. CDC diabetes dataset,CopulaGAN,,,Mahalanobis_Distance,,1.599497,,,,,,0.0,,Score,Privacy,1.599497,Generators/SDV models/7. Heart.ipynb
+7. CDC diabetes dataset,GaussianCopula,,,Mahalanobis_Distance,,1.744718,,,,,,0.0,,Score,Privacy,1.744718,Generators/SDV models/7. Heart.ipynb
+7. CDC diabetes dataset,GaussianCopula,,,MIA_AUC,,0.700504,,,,,,0.0,,Score,Privacy,0.700504,Generators/SDV models/7. Heart.ipynb
+7. CDC diabetes dataset,CopulaGAN,,,MIA_AUC,,0.646885,,,,,,0.0,,Score,Privacy,0.646885,Generators/SDV models/7. Heart.ipynb
+7. CDC diabetes dataset,CTGAN,,,MIA_AUC,,0.613632,,,,,,0.0,,Score,Privacy,0.613632,Generators/SDV models/7. Heart.ipynb
+7. CDC diabetes dataset,TVAE,,,MIA_AUC,,0.298611,,,,,,0.0,,Score,Privacy,0.298611,Generators/SDV models/7. Heart.ipynb
+7. CDC diabetes dataset,CTABGAN,,,NNDR,,5.162041,,,,,,0.0,,Score,Privacy,5.162041,Generators/Other GANS/7_CDC_diabetes_other_GAN.ipynb
+7. CDC diabetes dataset,WGAN_GP,,,NNDR,,2.994547,,,,,,0.0,,Score,Privacy,2.994547,Generators/Other GANS/7_CDC_diabetes_other_GAN.ipynb
+7. CDC diabetes dataset,CTABGAN,,,Hungarian_Cosine_Similarity,,0.986286,,,,,,0.0,,Score,Privacy,0.986286,Generators/Other GANS/7_CDC_diabetes_other_GAN.ipynb
+7. CDC diabetes dataset,CTABGAN,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Other GANS/7_CDC_diabetes_other_GAN.ipynb
+7. CDC diabetes dataset,WGAN_GP,,,Hungarian_Cosine_Similarity,,0.982831,,,,,,0.0,,Score,Privacy,0.982831,Generators/Other GANS/7_CDC_diabetes_other_GAN.ipynb
+7. CDC diabetes dataset,WGAN_GP,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Other GANS/7_CDC_diabetes_other_GAN.ipynb
+7. CDC diabetes dataset,WGAN_GP,,,Mahalanobis_Distance,,1.626245,,,,,,0.0,,Score,Privacy,1.626245,Generators/Other GANS/7_CDC_diabetes_other_GAN.ipynb
+7. CDC diabetes dataset,CTABGAN,,,Mahalanobis_Distance,,4.485765,,,,,,0.0,,Score,Privacy,4.485765,Generators/Other GANS/7_CDC_diabetes_other_GAN.ipynb
+7. CDC diabetes dataset,WGAN_GP,,,Mean_Distance,,3.812117,,,,,,0.0,,Score,Privacy,3.812117,Generators/Other GANS/7_CDC_diabetes_other_GAN.ipynb
+7. CDC diabetes dataset,CTABGAN,,,Mean_Distance,,6.701426,,,,,,0.0,,Score,Privacy,6.701426,Generators/Other GANS/7_CDC_diabetes_other_GAN.ipynb
+7. CDC diabetes dataset,CTABGAN,,,MIA_AUC,,0.489558,,,,,,0.0,,Score,Privacy,0.489558,Generators/Other GANS/7_CDC_diabetes_other_GAN.ipynb
+7. CDC diabetes dataset,WGAN_GP,,,MIA_AUC,,0.494883,,,,,,0.0,,Score,Privacy,0.494883,Generators/Other GANS/7_CDC_diabetes_other_GAN.ipynb
+7. CDC diabetes dataset,TabDDPM,,,NNDR,,6.116135,,,,,,0.0,,Score,Privacy,6.116135,Generators/Diffusion GANs/7_CDC_diabetes_diffusion.ipynb
+7. CDC diabetes dataset,ForestDiffusion,,,NNDR,,1.96547,,,,,,0.0,,Score,Privacy,1.96547,Generators/Diffusion GANs/7_CDC_diabetes_diffusion.ipynb
+7. CDC diabetes dataset,ForestDiffusion,,,Hungarian_Cosine_Similarity,,0.995394,,,,,,0.0,,Score,Privacy,0.995394,Generators/Diffusion GANs/7_CDC_diabetes_diffusion.ipynb
+7. CDC diabetes dataset,ForestDiffusion,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Diffusion GANs/7_CDC_diabetes_diffusion.ipynb
+7. CDC diabetes dataset,TabDDPM,,,Hungarian_Cosine_Similarity,,0.946035,,,,,,0.0,,Score,Privacy,0.946035,Generators/Diffusion GANs/7_CDC_diabetes_diffusion.ipynb
+7. CDC diabetes dataset,TabDDPM,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Diffusion GANs/7_CDC_diabetes_diffusion.ipynb
+7. CDC diabetes dataset,ForestDiffusion,,,Mahalanobis_Distance,,1.15095,,,,,,0.0,,Score,Privacy,1.15095,Generators/Diffusion GANs/7_CDC_diabetes_diffusion.ipynb
+7. CDC diabetes dataset,TabDDPM,,,Mahalanobis_Distance,,5.810915,,,,,,0.0,,Score,Privacy,5.810915,Generators/Diffusion GANs/7_CDC_diabetes_diffusion.ipynb
+7. CDC diabetes dataset,ForestDiffusion,,,Mean_Distance,,2.545426,,,,,,0.0,,Score,Privacy,2.545426,Generators/Diffusion GANs/7_CDC_diabetes_diffusion.ipynb
+7. CDC diabetes dataset,TabDDPM,,,Mean_Distance,,8.385336,,,,,,0.0,,Score,Privacy,8.385336,Generators/Diffusion GANs/7_CDC_diabetes_diffusion.ipynb
+7. CDC diabetes dataset,ForestDiffusion,,,MIA_AUC,,0.499108,,,,,,0.0,,Score,Privacy,0.499108,Generators/Diffusion GANs/7_CDC_diabetes_diffusion.ipynb
+7. CDC diabetes dataset,TabDDPM,,,MIA_AUC,,0.772757,,,,,,0.0,,Score,Privacy,0.772757,Generators/Diffusion GANs/7_CDC_diabetes_diffusion.ipynb
+8. Mushroom dataset,CopulaGAN,,,NNDR,,0.168347,,,,,,0.0,,Score,Privacy,0.168347,Generators/SDV models/8. Mushroom.ipynb
+8. Mushroom dataset,CTGAN,,,NNDR,,0.159398,,,,,,0.0,,Score,Privacy,0.159398,Generators/SDV models/8. Mushroom.ipynb
+8. Mushroom dataset,GaussianCopula,,,NNDR,,0.132641,,,,,,0.0,,Score,Privacy,0.132641,Generators/SDV models/8. Mushroom.ipynb
+8. Mushroom dataset,TVAE,,,NNDR,,0.082171,,,,,,0.0,,Score,Privacy,0.082171,Generators/SDV models/8. Mushroom.ipynb
+8. Mushroom dataset,GaussianCopula,,,Hungarian_Cosine_Similarity,,0.994428,,,,,,0.0,,Score,Privacy,0.994428,Generators/SDV models/8. Mushroom.ipynb
+8. Mushroom dataset,GaussianCopula,,,Num_Matches,,10000.0,,,,,,0.0,,Score,Privacy,10000.0,Generators/SDV models/8. Mushroom.ipynb
+8. Mushroom dataset,CopulaGAN,,,Hungarian_Cosine_Similarity,,0.989882,,,,,,0.0,,Score,Privacy,0.989882,Generators/SDV models/8. Mushroom.ipynb
+8. Mushroom dataset,CopulaGAN,,,Num_Matches,,10000.0,,,,,,0.0,,Score,Privacy,10000.0,Generators/SDV models/8. Mushroom.ipynb
+8. Mushroom dataset,CTGAN,,,Hungarian_Cosine_Similarity,,0.988783,,,,,,0.0,,Score,Privacy,0.988783,Generators/SDV models/8. Mushroom.ipynb
+8. Mushroom dataset,CTGAN,,,Num_Matches,,10000.0,,,,,,0.0,,Score,Privacy,10000.0,Generators/SDV models/8. Mushroom.ipynb
+8. Mushroom dataset,TVAE,,,Hungarian_Cosine_Similarity,,0.983587,,,,,,0.0,,Score,Privacy,0.983587,Generators/SDV models/8. Mushroom.ipynb
+8. Mushroom dataset,TVAE,,,Num_Matches,,10000.0,,,,,,0.0,,Score,Privacy,10000.0,Generators/SDV models/8. Mushroom.ipynb
+8. Mushroom dataset,GaussianCopula,,,Mean_Distance,,0.394057,,,,,,0.0,,Score,Privacy,0.394057,Generators/SDV models/8. Mushroom.ipynb
+8. Mushroom dataset,TVAE,,,Mean_Distance,,0.433018,,,,,,0.0,,Score,Privacy,0.433018,Generators/SDV models/8. Mushroom.ipynb
+8. Mushroom dataset,CTGAN,,,Mean_Distance,,0.486169,,,,,,0.0,,Score,Privacy,0.486169,Generators/SDV models/8. Mushroom.ipynb
+8. Mushroom dataset,CopulaGAN,,,Mean_Distance,,0.539467,,,,,,0.0,,Score,Privacy,0.539467,Generators/SDV models/8. Mushroom.ipynb
+8. Mushroom dataset,TVAE,,,Mahalanobis_Distance,,0.796929,,,,,,0.0,,Score,Privacy,0.796929,Generators/SDV models/8. Mushroom.ipynb
+8. Mushroom dataset,CopulaGAN,,,Mahalanobis_Distance,,1.115481,,,,,,0.0,,Score,Privacy,1.115481,Generators/SDV models/8. Mushroom.ipynb
+8. Mushroom dataset,GaussianCopula,,,Mahalanobis_Distance,,1.124839,,,,,,0.0,,Score,Privacy,1.124839,Generators/SDV models/8. Mushroom.ipynb
+8. Mushroom dataset,CTGAN,,,Mahalanobis_Distance,,1.213082,,,,,,0.0,,Score,Privacy,1.213082,Generators/SDV models/8. Mushroom.ipynb
+8. Mushroom dataset,CopulaGAN,,,MIA_AUC,,0.601795,,,,,,0.0,,Score,Privacy,0.601795,Generators/SDV models/8. Mushroom.ipynb
+8. Mushroom dataset,GaussianCopula,,,MIA_AUC,,0.593068,,,,,,0.0,,Score,Privacy,0.593068,Generators/SDV models/8. Mushroom.ipynb
+8. Mushroom dataset,CTGAN,,,MIA_AUC,,0.589119,,,,,,0.0,,Score,Privacy,0.589119,Generators/SDV models/8. Mushroom.ipynb
+8. Mushroom dataset,TVAE,,,MIA_AUC,,0.393628,,,,,,0.0,,Score,Privacy,0.393628,Generators/SDV models/8. Mushroom.ipynb
+8. Mushroom dataset,WGAN_GP,,,NNDR,,19.131607,,,,,,0.0,,Score,Privacy,19.131607,Generators/Other GANS/8. Mushroom_other GAN.ipynb
+8. Mushroom dataset,CTABGAN,,,NNDR,,10.347531,,,,,,0.0,,Score,Privacy,10.347531,Generators/Other GANS/8. Mushroom_other GAN.ipynb
+8. Mushroom dataset,CTABGAN,,,Hungarian_Cosine_Similarity,,0.9666,,,,,,0.0,,Score,Privacy,0.9666,Generators/Other GANS/8. Mushroom_other GAN.ipynb
+8. Mushroom dataset,CTABGAN,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Other GANS/8. Mushroom_other GAN.ipynb
+8. Mushroom dataset,WGAN_GP,,,Hungarian_Cosine_Similarity,,0.864065,,,,,,0.0,,Score,Privacy,0.864065,Generators/Other GANS/8. Mushroom_other GAN.ipynb
+8. Mushroom dataset,WGAN_GP,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Other GANS/8. Mushroom_other GAN.ipynb
+8. Mushroom dataset,WGAN_GP,,,Mahalanobis_Distance,,1.508143,,,,,,0.0,,Score,Privacy,1.508143,Generators/Other GANS/8. Mushroom_other GAN.ipynb
+8. Mushroom dataset,CTABGAN,,,Mahalanobis_Distance,,2.030192,,,,,,0.0,,Score,Privacy,2.030192,Generators/Other GANS/8. Mushroom_other GAN.ipynb
+8. Mushroom dataset,WGAN_GP,,,Mean_Distance,,1.040747,,,,,,0.0,,Score,Privacy,1.040747,Generators/Other GANS/8. Mushroom_other GAN.ipynb
+8. Mushroom dataset,CTABGAN,,,Mean_Distance,,1.817611,,,,,,0.0,,Score,Privacy,1.817611,Generators/Other GANS/8. Mushroom_other GAN.ipynb
+8. Mushroom dataset,CTABGAN,,,MIA_AUC,,0.493407,,,,,,0.0,,Score,Privacy,0.493407,Generators/Other GANS/8. Mushroom_other GAN.ipynb
+8. Mushroom dataset,WGAN_GP,,,MIA_AUC,,0.539532,,,,,,0.0,,Score,Privacy,0.539532,Generators/Other GANS/8. Mushroom_other GAN.ipynb
+8. Mushroom dataset,TabDDPM,,,NNDR,,26.552123,,,,,,0.0,,Score,Privacy,26.552123,Generators/Diffusion GANs/8. Mushroom_diffusion.ipynb
+8. Mushroom dataset,ForestDiffusion,,,NNDR,,13.218077,,,,,,0.0,,Score,Privacy,13.218077,Generators/Diffusion GANs/8. Mushroom_diffusion.ipynb
+8. Mushroom dataset,ForestDiffusion,,,Hungarian_Cosine_Similarity,,0.988409,,,,,,0.0,,Score,Privacy,0.988409,Generators/Diffusion GANs/8. Mushroom_diffusion.ipynb
+8. Mushroom dataset,ForestDiffusion,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Diffusion GANs/8. Mushroom_diffusion.ipynb
+8. Mushroom dataset,TabDDPM,,,Hungarian_Cosine_Similarity,,0.810579,,,,,,0.0,,Score,Privacy,0.810579,Generators/Diffusion GANs/8. Mushroom_diffusion.ipynb
+8. Mushroom dataset,TabDDPM,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Diffusion GANs/8. Mushroom_diffusion.ipynb
+8. Mushroom dataset,ForestDiffusion,,,Mahalanobis_Distance,,0.710741,,,,,,0.0,,Score,Privacy,0.710741,Generators/Diffusion GANs/8. Mushroom_diffusion.ipynb
+8. Mushroom dataset,TabDDPM,,,Mahalanobis_Distance,,7.135189,,,,,,0.0,,Score,Privacy,7.135189,Generators/Diffusion GANs/8. Mushroom_diffusion.ipynb
+8. Mushroom dataset,ForestDiffusion,,,Mean_Distance,,0.527554,,,,,,0.0,,Score,Privacy,0.527554,Generators/Diffusion GANs/8. Mushroom_diffusion.ipynb
+8. Mushroom dataset,TabDDPM,,,Mean_Distance,,9.243277,,,,,,0.0,,Score,Privacy,9.243277,Generators/Diffusion GANs/8. Mushroom_diffusion.ipynb
+8. Mushroom dataset,ForestDiffusion,,,MIA_AUC,,0.50757,,,,,,0.0,,Score,Privacy,0.50757,Generators/Diffusion GANs/8. Mushroom_diffusion.ipynb
+8. Mushroom dataset,TabDDPM,,,MIA_AUC,,0.52337,,,,,,0.0,,Score,Privacy,0.52337,Generators/Diffusion GANs/8. Mushroom_diffusion.ipynb
+9. MAGIC Gamma Telescope,GaussianCopula,,,NNDR,,1.49707,,,,,,0.0,,Score,Privacy,1.49707,Generators/SDV models/9. MAGIC Gamma Telescope.ipynb
+9. MAGIC Gamma Telescope,CopulaGAN,,,NNDR,,1.191008,,,,,,0.0,,Score,Privacy,1.191008,Generators/SDV models/9. MAGIC Gamma Telescope.ipynb
+9. MAGIC Gamma Telescope,CTGAN,,,NNDR,,1.064176,,,,,,0.0,,Score,Privacy,1.064176,Generators/SDV models/9. MAGIC Gamma Telescope.ipynb
+9. MAGIC Gamma Telescope,TVAE,,,NNDR,,0.604633,,,,,,0.0,,Score,Privacy,0.604633,Generators/SDV models/9. MAGIC Gamma Telescope.ipynb
+9. MAGIC Gamma Telescope,TVAE,,,Hungarian_Cosine_Similarity,,0.989433,,,,,,0.0,,Score,Privacy,0.989433,Generators/SDV models/9. MAGIC Gamma Telescope.ipynb
+9. MAGIC Gamma Telescope,TVAE,,,Num_Matches,,19020.0,,,,,,0.0,,Score,Privacy,19020.0,Generators/SDV models/9. MAGIC Gamma Telescope.ipynb
+9. MAGIC Gamma Telescope,CTGAN,,,Hungarian_Cosine_Similarity,,0.987115,,,,,,0.0,,Score,Privacy,0.987115,Generators/SDV models/9. MAGIC Gamma Telescope.ipynb
+9. MAGIC Gamma Telescope,CTGAN,,,Num_Matches,,19020.0,,,,,,0.0,,Score,Privacy,19020.0,Generators/SDV models/9. MAGIC Gamma Telescope.ipynb
+9. MAGIC Gamma Telescope,CopulaGAN,,,Hungarian_Cosine_Similarity,,0.983916,,,,,,0.0,,Score,Privacy,0.983916,Generators/SDV models/9. MAGIC Gamma Telescope.ipynb
+9. MAGIC Gamma Telescope,CopulaGAN,,,Num_Matches,,19020.0,,,,,,0.0,,Score,Privacy,19020.0,Generators/SDV models/9. MAGIC Gamma Telescope.ipynb
+9. MAGIC Gamma Telescope,GaussianCopula,,,Hungarian_Cosine_Similarity,,0.946915,,,,,,0.0,,Score,Privacy,0.946915,Generators/SDV models/9. MAGIC Gamma Telescope.ipynb
+9. MAGIC Gamma Telescope,GaussianCopula,,,Num_Matches,,19020.0,,,,,,0.0,,Score,Privacy,19020.0,Generators/SDV models/9. MAGIC Gamma Telescope.ipynb
+9. MAGIC Gamma Telescope,TVAE,,,Mean_Distance,,2.000846,,,,,,0.0,,Score,Privacy,2.000846,Generators/SDV models/9. MAGIC Gamma Telescope.ipynb
+9. MAGIC Gamma Telescope,GaussianCopula,,,Mean_Distance,,2.490962,,,,,,0.0,,Score,Privacy,2.490962,Generators/SDV models/9. MAGIC Gamma Telescope.ipynb
+9. MAGIC Gamma Telescope,CopulaGAN,,,Mean_Distance,,3.055436,,,,,,0.0,,Score,Privacy,3.055436,Generators/SDV models/9. MAGIC Gamma Telescope.ipynb
+9. MAGIC Gamma Telescope,CTGAN,,,Mean_Distance,,3.383397,,,,,,0.0,,Score,Privacy,3.383397,Generators/SDV models/9. MAGIC Gamma Telescope.ipynb
+9. MAGIC Gamma Telescope,TVAE,,,Mahalanobis_Distance,,1.11066,,,,,,0.0,,Score,Privacy,1.11066,Generators/SDV models/9. MAGIC Gamma Telescope.ipynb
+9. MAGIC Gamma Telescope,CTGAN,,,Mahalanobis_Distance,,1.157158,,,,,,0.0,,Score,Privacy,1.157158,Generators/SDV models/9. MAGIC Gamma Telescope.ipynb
+9. MAGIC Gamma Telescope,CopulaGAN,,,Mahalanobis_Distance,,1.241461,,,,,,0.0,,Score,Privacy,1.241461,Generators/SDV models/9. MAGIC Gamma Telescope.ipynb
+9. MAGIC Gamma Telescope,GaussianCopula,,,Mahalanobis_Distance,,1.551412,,,,,,0.0,,Score,Privacy,1.551412,Generators/SDV models/9. MAGIC Gamma Telescope.ipynb
+9. MAGIC Gamma Telescope,CTGAN,,,MIA_AUC,,0.778286,,,,,,0.0,,Score,Privacy,0.778286,Generators/SDV models/9. MAGIC Gamma Telescope.ipynb
+9. MAGIC Gamma Telescope,CopulaGAN,,,MIA_AUC,,0.759973,,,,,,0.0,,Score,Privacy,0.759973,Generators/SDV models/9. MAGIC Gamma Telescope.ipynb
+9. MAGIC Gamma Telescope,GaussianCopula,,,MIA_AUC,,0.727197,,,,,,0.0,,Score,Privacy,0.727197,Generators/SDV models/9. MAGIC Gamma Telescope.ipynb
+9. MAGIC Gamma Telescope,TVAE,,,MIA_AUC,,0.496098,,,,,,0.0,,Score,Privacy,0.496098,Generators/SDV models/9. MAGIC Gamma Telescope.ipynb
+9. MAGIC Gamma Telescope,CTABGAN,,,NNDR,,1.096554,,,,,,0.0,,Score,Privacy,1.096554,Generators/Other GANS/9. MAGIC Gamma Telescope_other GAN.ipynb
+9. MAGIC Gamma Telescope,WGAN_GP,,,NNDR,,0.832702,,,,,,0.0,,Score,Privacy,0.832702,Generators/Other GANS/9. MAGIC Gamma Telescope_other GAN.ipynb
+9. MAGIC Gamma Telescope,WGAN_GP,,,Hungarian_Cosine_Similarity,,0.997771,,,,,,0.0,,Score,Privacy,0.997771,Generators/Other GANS/9. MAGIC Gamma Telescope_other GAN.ipynb
+9. MAGIC Gamma Telescope,WGAN_GP,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Other GANS/9. MAGIC Gamma Telescope_other GAN.ipynb
+9. MAGIC Gamma Telescope,CTABGAN,,,Hungarian_Cosine_Similarity,,0.995642,,,,,,0.0,,Score,Privacy,0.995642,Generators/Other GANS/9. MAGIC Gamma Telescope_other GAN.ipynb
+9. MAGIC Gamma Telescope,CTABGAN,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Other GANS/9. MAGIC Gamma Telescope_other GAN.ipynb
+9. MAGIC Gamma Telescope,WGAN_GP,,,Mahalanobis_Distance,,1.077445,,,,,,0.0,,Score,Privacy,1.077445,Generators/Other GANS/9. MAGIC Gamma Telescope_other GAN.ipynb
+9. MAGIC Gamma Telescope,CTABGAN,,,Mahalanobis_Distance,,1.204265,,,,,,0.0,,Score,Privacy,1.204265,Generators/Other GANS/9. MAGIC Gamma Telescope_other GAN.ipynb
+9. MAGIC Gamma Telescope,WGAN_GP,,,Mean_Distance,,1.177395,,,,,,0.0,,Score,Privacy,1.177395,Generators/Other GANS/9. MAGIC Gamma Telescope_other GAN.ipynb
+9. MAGIC Gamma Telescope,CTABGAN,,,Mean_Distance,,1.864591,,,,,,0.0,,Score,Privacy,1.864591,Generators/Other GANS/9. MAGIC Gamma Telescope_other GAN.ipynb
+9. MAGIC Gamma Telescope,WGAN_GP,,,MIA_AUC,,0.506651,,,,,,0.0,,Score,Privacy,0.506651,Generators/Other GANS/9. MAGIC Gamma Telescope_other GAN.ipynb
+9. MAGIC Gamma Telescope,CTABGAN,,,MIA_AUC,,0.528235,,,,,,0.0,,Score,Privacy,0.528235,Generators/Other GANS/9. MAGIC Gamma Telescope_other GAN.ipynb
+9. MAGIC Gamma Telescope,TabDDPM,,,NNDR,,2.539461,,,,,,0.0,,Score,Privacy,2.539461,Generators/Diffusion GANs/9. MAGIC Gamma Telescope_diffusion.ipynb
+9. MAGIC Gamma Telescope,ForestDiffusion,,,NNDR,,0.746161,,,,,,0.0,,Score,Privacy,0.746161,Generators/Diffusion GANs/9. MAGIC Gamma Telescope_diffusion.ipynb
+9. MAGIC Gamma Telescope,ForestDiffusion,,,Hungarian_Cosine_Similarity,,0.992639,,,,,,0.0,,Score,Privacy,0.992639,Generators/Diffusion GANs/9. MAGIC Gamma Telescope_diffusion.ipynb
+9. MAGIC Gamma Telescope,ForestDiffusion,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Diffusion GANs/9. MAGIC Gamma Telescope_diffusion.ipynb
+9. MAGIC Gamma Telescope,TabDDPM,,,Hungarian_Cosine_Similarity,,0.923839,,,,,,0.0,,Score,Privacy,0.923839,Generators/Diffusion GANs/9. MAGIC Gamma Telescope_diffusion.ipynb
+9. MAGIC Gamma Telescope,TabDDPM,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Diffusion GANs/9. MAGIC Gamma Telescope_diffusion.ipynb
+9. MAGIC Gamma Telescope,ForestDiffusion,,,Mahalanobis_Distance,,1.091032,,,,,,0.0,,Score,Privacy,1.091032,Generators/Diffusion GANs/9. MAGIC Gamma Telescope_diffusion.ipynb
+9. MAGIC Gamma Telescope,TabDDPM,,,Mahalanobis_Distance,,3.025691,,,,,,0.0,,Score,Privacy,3.025691,Generators/Diffusion GANs/9. MAGIC Gamma Telescope_diffusion.ipynb
+9. MAGIC Gamma Telescope,ForestDiffusion,,,Mean_Distance,,1.307832,,,,,,0.0,,Score,Privacy,1.307832,Generators/Diffusion GANs/9. MAGIC Gamma Telescope_diffusion.ipynb
+9. MAGIC Gamma Telescope,TabDDPM,,,Mean_Distance,,4.284836,,,,,,0.0,,Score,Privacy,4.284836,Generators/Diffusion GANs/9. MAGIC Gamma Telescope_diffusion.ipynb
+9. MAGIC Gamma Telescope,ForestDiffusion,,,MIA_AUC,,0.492859,,,,,,0.0,,Score,Privacy,0.492859,Generators/Diffusion GANs/9. MAGIC Gamma Telescope_diffusion.ipynb
+9. MAGIC Gamma Telescope,TabDDPM,,,MIA_AUC,,0.638859,,,,,,0.0,,Score,Privacy,0.638859,Generators/Diffusion GANs/9. MAGIC Gamma Telescope_diffusion.ipynb
+10. Metro interstate,GaussianCopula,,,NNDR,,4.08278,,,,,,0.0,,Score,Privacy,4.08278,Generators/SDV models/10. Metro Interstate Traffic Volume.ipynb
+10. Metro interstate,CopulaGAN,,,NNDR,,0.105516,,,,,,0.0,,Score,Privacy,0.105516,Generators/SDV models/10. Metro Interstate Traffic Volume.ipynb
+10. Metro interstate,CTGAN,,,NNDR,,0.036714,,,,,,0.0,,Score,Privacy,0.036714,Generators/SDV models/10. Metro Interstate Traffic Volume.ipynb
+10. Metro interstate,TVAE,,,NNDR,,0.020325,,,,,,0.0,,Score,Privacy,0.020325,Generators/SDV models/10. Metro Interstate Traffic Volume.ipynb
+10. Metro interstate,CopulaGAN,,,Hungarian_Cosine_Similarity,,0.999983,,,,,,0.0,,Score,Privacy,0.999983,Generators/SDV models/10. Metro Interstate Traffic Volume.ipynb
+10. Metro interstate,CopulaGAN,,,Num_Matches,,2000.0,,,,,,0.0,,Score,Privacy,2000.0,Generators/SDV models/10. Metro Interstate Traffic Volume.ipynb
+10. Metro interstate,CTGAN,,,Hungarian_Cosine_Similarity,,0.999812,,,,,,0.0,,Score,Privacy,0.999812,Generators/SDV models/10. Metro Interstate Traffic Volume.ipynb
+10. Metro interstate,CTGAN,,,Num_Matches,,2000.0,,,,,,0.0,,Score,Privacy,2000.0,Generators/SDV models/10. Metro Interstate Traffic Volume.ipynb
+10. Metro interstate,TVAE,,,Hungarian_Cosine_Similarity,,0.995756,,,,,,0.0,,Score,Privacy,0.995756,Generators/SDV models/10. Metro Interstate Traffic Volume.ipynb
+10. Metro interstate,TVAE,,,Num_Matches,,2000.0,,,,,,0.0,,Score,Privacy,2000.0,Generators/SDV models/10. Metro Interstate Traffic Volume.ipynb
+10. Metro interstate,GaussianCopula,,,Hungarian_Cosine_Similarity,,0.992559,,,,,,0.0,,Score,Privacy,0.992559,Generators/SDV models/10. Metro Interstate Traffic Volume.ipynb
+10. Metro interstate,GaussianCopula,,,Num_Matches,,2000.0,,,,,,0.0,,Score,Privacy,2000.0,Generators/SDV models/10. Metro Interstate Traffic Volume.ipynb
+10. Metro interstate,TVAE,,,Mean_Distance,,0.291262,,,,,,0.0,,Score,Privacy,0.291262,Generators/SDV models/10. Metro Interstate Traffic Volume.ipynb
+10. Metro interstate,CTGAN,,,Mean_Distance,,0.399805,,,,,,0.0,,Score,Privacy,0.399805,Generators/SDV models/10. Metro Interstate Traffic Volume.ipynb
+10. Metro interstate,CopulaGAN,,,Mean_Distance,,0.482782,,,,,,0.0,,Score,Privacy,0.482782,Generators/SDV models/10. Metro Interstate Traffic Volume.ipynb
+10. Metro interstate,GaussianCopula,,,Mean_Distance,,27.790041,,,,,,0.0,,Score,Privacy,27.790041,Generators/SDV models/10. Metro Interstate Traffic Volume.ipynb
+10. Metro interstate,CopulaGAN,,,Mahalanobis_Distance,,1.13037,,,,,,0.0,,Score,Privacy,1.13037,Generators/SDV models/10. Metro Interstate Traffic Volume.ipynb
+10. Metro interstate,CTGAN,,,Mahalanobis_Distance,,1.20792,,,,,,0.0,,Score,Privacy,1.20792,Generators/SDV models/10. Metro Interstate Traffic Volume.ipynb
+10. Metro interstate,TVAE,,,Mahalanobis_Distance,,1.29121,,,,,,0.0,,Score,Privacy,1.29121,Generators/SDV models/10. Metro Interstate Traffic Volume.ipynb
+10. Metro interstate,GaussianCopula,,,Mahalanobis_Distance,,28.494858,,,,,,0.0,,Score,Privacy,28.494858,Generators/SDV models/10. Metro Interstate Traffic Volume.ipynb
+10. Metro interstate,GaussianCopula,,,MIA_AUC,,0.997511,,,,,,0.0,,Score,Privacy,0.997511,Generators/SDV models/10. Metro Interstate Traffic Volume.ipynb
+10. Metro interstate,CTGAN,,,MIA_AUC,,0.548389,,,,,,0.0,,Score,Privacy,0.548389,Generators/SDV models/10. Metro Interstate Traffic Volume.ipynb
+10. Metro interstate,CopulaGAN,,,MIA_AUC,,0.522254,,,,,,0.0,,Score,Privacy,0.522254,Generators/SDV models/10. Metro Interstate Traffic Volume.ipynb
+10. Metro interstate,TVAE,,,MIA_AUC,,0.513421,,,,,,0.0,,Score,Privacy,0.513421,Generators/SDV models/10. Metro Interstate Traffic Volume.ipynb
+10. Metro interstate,WGAN_GP,,,NNDR,,1.132352,,,,,,0.0,,Score,Privacy,1.132352,Generators/Other GANS/10. Metro Interstate_other GAN.ipynb
+10. Metro interstate,CTABGAN,,,NNDR,,1.131128,,,,,,0.0,,Score,Privacy,1.131128,Generators/Other GANS/10. Metro Interstate_other GAN.ipynb
+10. Metro interstate,WGAN_GP,,,Hungarian_Cosine_Similarity,,0.999962,,,,,,0.0,,Score,Privacy,0.999962,Generators/Other GANS/10. Metro Interstate_other GAN.ipynb
+10. Metro interstate,WGAN_GP,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Other GANS/10. Metro Interstate_other GAN.ipynb
+10. Metro interstate,CTABGAN,,,Hungarian_Cosine_Similarity,,0.999934,,,,,,0.0,,Score,Privacy,0.999934,Generators/Other GANS/10. Metro Interstate_other GAN.ipynb
+10. Metro interstate,CTABGAN,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Other GANS/10. Metro Interstate_other GAN.ipynb
+10. Metro interstate,WGAN_GP,,,Mean_Distance,,1.410562,,,,,,0.0,,Score,Privacy,1.410562,Generators/Other GANS/10. Metro Interstate_other GAN.ipynb
+10. Metro interstate,CTABGAN,,,Mean_Distance,,1.468671,,,,,,0.0,,Score,Privacy,1.468671,Generators/Other GANS/10. Metro Interstate_other GAN.ipynb
+10. Metro interstate,WGAN_GP,,,Mahalanobis_Distance,,1.198161,,,,,,0.0,,Score,Privacy,1.198161,Generators/Other GANS/10. Metro Interstate_other GAN.ipynb
+10. Metro interstate,CTABGAN,,,Mahalanobis_Distance,,1.223886,,,,,,0.0,,Score,Privacy,1.223886,Generators/Other GANS/10. Metro Interstate_other GAN.ipynb
+10. Metro interstate,CTABGAN,,,MIA_AUC,,0.520665,,,,,,0.0,,Score,Privacy,0.520665,Generators/Other GANS/10. Metro Interstate_other GAN.ipynb
+10. Metro interstate,WGAN_GP,,,MIA_AUC,,0.393968,,,,,,0.0,,Score,Privacy,0.393968,Generators/Other GANS/10. Metro Interstate_other GAN.ipynb
+10. Metro interstate,TabDDPM,,,NNDR,,4.362703,,,,,,0.0,,Score,Privacy,4.362703,Generators/Diffusion GANs/10. Metro Interstate_diffusion.ipynb
+10. Metro interstate,ForestDiffusion,,,NNDR,,0.125404,,,,,,0.0,,Score,Privacy,0.125404,Generators/Diffusion GANs/10. Metro Interstate_diffusion.ipynb
+10. Metro interstate,ForestDiffusion,,,Hungarian_Cosine_Similarity,,0.999776,,,,,,0.0,,Score,Privacy,0.999776,Generators/Diffusion GANs/10. Metro Interstate_diffusion.ipynb
+10. Metro interstate,ForestDiffusion,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Diffusion GANs/10. Metro Interstate_diffusion.ipynb
+10. Metro interstate,TabDDPM,,,Hungarian_Cosine_Similarity,,0.997919,,,,,,0.0,,Score,Privacy,0.997919,Generators/Diffusion GANs/10. Metro Interstate_diffusion.ipynb
+10. Metro interstate,TabDDPM,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Diffusion GANs/10. Metro Interstate_diffusion.ipynb
+10. Metro interstate,ForestDiffusion,,,Mean_Distance,,0.297551,,,,,,0.0,,Score,Privacy,0.297551,Generators/Diffusion GANs/10. Metro Interstate_diffusion.ipynb
+10. Metro interstate,TabDDPM,,,Mean_Distance,,13.548747,,,,,,0.0,,Score,Privacy,13.548747,Generators/Diffusion GANs/10. Metro Interstate_diffusion.ipynb
+10. Metro interstate,ForestDiffusion,,,Mahalanobis_Distance,,1.058616,,,,,,0.0,,Score,Privacy,1.058616,Generators/Diffusion GANs/10. Metro Interstate_diffusion.ipynb
+10. Metro interstate,TabDDPM,,,Mahalanobis_Distance,,13.378406,,,,,,0.0,,Score,Privacy,13.378406,Generators/Diffusion GANs/10. Metro Interstate_diffusion.ipynb
+10. Metro interstate,TabDDPM,,,MIA_AUC,,0.913416,,,,,,0.0,,Score,Privacy,0.913416,Generators/Diffusion GANs/10. Metro Interstate_diffusion.ipynb
+10. Metro interstate,ForestDiffusion,,,MIA_AUC,,0.372141,,,,,,0.0,,Score,Privacy,0.372141,Generators/Diffusion GANs/10. Metro Interstate_diffusion.ipynb
+11. online shopping,GaussianCopula,,,NNDR,,1.304125,,,,,,0.0,,Score,Privacy,1.304125,Generators/SDV models/11. Online Shopping.ipynb
+11. online shopping,CTGAN,,,NNDR,,1.128394,,,,,,0.0,,Score,Privacy,1.128394,Generators/SDV models/11. Online Shopping.ipynb
+11. online shopping,CopulaGAN,,,NNDR,,1.090239,,,,,,0.0,,Score,Privacy,1.090239,Generators/SDV models/11. Online Shopping.ipynb
+11. online shopping,TVAE,,,NNDR,,0.568803,,,,,,0.0,,Score,Privacy,0.568803,Generators/SDV models/11. Online Shopping.ipynb
+11. online shopping,TVAE,,,Hungarian_Cosine_Similarity,,0.999939,,,,,,0.0,,Score,Privacy,0.999939,Generators/SDV models/11. Online Shopping.ipynb
+11. online shopping,CTGAN,,,Hungarian_Cosine_Similarity,,0.999933,,,,,,0.0,,Score,Privacy,0.999933,Generators/SDV models/11. Online Shopping.ipynb
+11. online shopping,GaussianCopula,,,Hungarian_Cosine_Similarity,,0.999929,,,,,,0.0,,Score,Privacy,0.999929,Generators/SDV models/11. Online Shopping.ipynb
+11. online shopping,CopulaGAN,,,Hungarian_Cosine_Similarity,,0.999926,,,,,,0.0,,Score,Privacy,0.999926,Generators/SDV models/11. Online Shopping.ipynb
+11. online shopping,GaussianCopula,,,Mahalanobis_Distance,,1.099056,,,,,,0.0,,Score,Privacy,1.099056,Generators/SDV models/11. Online Shopping.ipynb
+11. online shopping,CopulaGAN,,,Mahalanobis_Distance,,1.123467,,,,,,0.0,,Score,Privacy,1.123467,Generators/SDV models/11. Online Shopping.ipynb
+11. online shopping,CTGAN,,,Mahalanobis_Distance,,1.197885,,,,,,0.0,,Score,Privacy,1.197885,Generators/SDV models/11. Online Shopping.ipynb
+11. online shopping,TVAE,,,Mahalanobis_Distance,,1.663541,,,,,,0.0,,Score,Privacy,1.663541,Generators/SDV models/11. Online Shopping.ipynb
+11. online shopping,CTGAN,,,MIA_AUC,,0.80952,,,,,,0.0,,Score,Privacy,0.80952,Generators/SDV models/11. Online Shopping.ipynb
+11. online shopping,CopulaGAN,,,MIA_AUC,,0.804891,,,,,,0.0,,Score,Privacy,0.804891,Generators/SDV models/11. Online Shopping.ipynb
+11. online shopping,GaussianCopula,,,MIA_AUC,,0.744694,,,,,,0.0,,Score,Privacy,0.744694,Generators/SDV models/11. Online Shopping.ipynb
+11. online shopping,TVAE,,,MIA_AUC,,0.587866,,,,,,0.0,,Score,Privacy,0.587866,Generators/SDV models/11. Online Shopping.ipynb
+11. online shopping,WGAN_GP,,,NNDR,,2.178101,,,,,,0.0,,Score,Privacy,2.178101,Generators/Other GANS/11. Online shopping_other GAN.ipynb
+11. online shopping,CTABGAN,,,NNDR,,0.003791,,,,,,0.0,,Score,Privacy,0.003791,Generators/Other GANS/11. Online shopping_other GAN.ipynb
+11. online shopping,CTABGAN,,,Hungarian_Cosine_Similarity,,0.993013,,,,,,0.0,,Score,Privacy,0.993013,Generators/Other GANS/11. Online shopping_other GAN.ipynb
+11. online shopping,CTABGAN,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Other GANS/11. Online shopping_other GAN.ipynb
+11. online shopping,WGAN_GP,,,Hungarian_Cosine_Similarity,,0.989767,,,,,,0.0,,Score,Privacy,0.989767,Generators/Other GANS/11. Online shopping_other GAN.ipynb
+11. online shopping,WGAN_GP,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Other GANS/11. Online shopping_other GAN.ipynb
+11. online shopping,CTABGAN,,,Mean_Distance,,2.433242,,,,,,0.0,,Score,Privacy,2.433242,Generators/Other GANS/11. Online shopping_other GAN.ipynb
+11. online shopping,WGAN_GP,,,Mean_Distance,,3.055943,,,,,,0.0,,Score,Privacy,3.055943,Generators/Other GANS/11. Online shopping_other GAN.ipynb
+11. online shopping,CTABGAN,,,Mahalanobis_Distance,,1.224142,,,,,,0.0,,Score,Privacy,1.224142,Generators/Other GANS/11. Online shopping_other GAN.ipynb
+11. online shopping,WGAN_GP,,,Mahalanobis_Distance,,1.898986,,,,,,0.0,,Score,Privacy,1.898986,Generators/Other GANS/11. Online shopping_other GAN.ipynb
+11. online shopping,WGAN_GP,,,MIA_AUC,,0.80346,,,,,,0.0,,Score,Privacy,0.80346,Generators/Other GANS/11. Online shopping_other GAN.ipynb
+11. online shopping,CTABGAN,,,MIA_AUC,,0.684771,,,,,,0.0,,Score,Privacy,0.684771,Generators/Other GANS/11. Online shopping_other GAN.ipynb
+11. online shopping,TabDDPM,,,NNDR,,1.505081,,,,,,0.0,,Score,Privacy,1.505081,Generators/Diffusion GANs/11. Online shopping_diffusion.ipynb
+11. online shopping,ForestDiffusion,,,NNDR,,0.437066,,,,,,0.0,,Score,Privacy,0.437066,Generators/Diffusion GANs/11. Online shopping_diffusion.ipynb
+11. online shopping,ForestDiffusion,,,Hungarian_Cosine_Similarity,,0.996271,,,,,,0.0,,Score,Privacy,0.996271,Generators/Diffusion GANs/11. Online shopping_diffusion.ipynb
+11. online shopping,ForestDiffusion,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Diffusion GANs/11. Online shopping_diffusion.ipynb
+11. online shopping,TabDDPM,,,Hungarian_Cosine_Similarity,,0.949856,,,,,,0.0,,Score,Privacy,0.949856,Generators/Diffusion GANs/11. Online shopping_diffusion.ipynb
+11. online shopping,TabDDPM,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Diffusion GANs/11. Online shopping_diffusion.ipynb
+11. online shopping,ForestDiffusion,,,Mean_Distance,,1.816702,,,,,,0.0,,Score,Privacy,1.816702,Generators/Diffusion GANs/11. Online shopping_diffusion.ipynb
+11. online shopping,TabDDPM,,,Mean_Distance,,5.638238,,,,,,0.0,,Score,Privacy,5.638238,Generators/Diffusion GANs/11. Online shopping_diffusion.ipynb
+11. online shopping,ForestDiffusion,,,Mahalanobis_Distance,,1.292518,,,,,,0.0,,Score,Privacy,1.292518,Generators/Diffusion GANs/11. Online shopping_diffusion.ipynb
+11. online shopping,TabDDPM,,,Mahalanobis_Distance,,4.727384,,,,,,0.0,,Score,Privacy,4.727384,Generators/Diffusion GANs/11. Online shopping_diffusion.ipynb
+11. online shopping,TabDDPM,,,MIA_AUC,,0.965651,,,,,,0.0,,Score,Privacy,0.965651,Generators/Diffusion GANs/11. Online shopping_diffusion.ipynb
+11. online shopping,ForestDiffusion,,,MIA_AUC,,0.475357,,,,,,0.0,,Score,Privacy,0.475357,Generators/Diffusion GANs/11. Online shopping_diffusion.ipynb
+12. Air Quality,CopulaGAN,,,NNDR,,3.773073,,,,,,0.0,,Score,Privacy,3.773073,Generators/SDV models/12. Air Quality.ipynb
+12. Air Quality,CTGAN,,,NNDR,,3.074167,,,,,,0.0,,Score,Privacy,3.074167,Generators/SDV models/12. Air Quality.ipynb
+12. Air Quality,TVAE,,,NNDR,,1.516592,,,,,,0.0,,Score,Privacy,1.516592,Generators/SDV models/12. Air Quality.ipynb
+12. Air Quality,GaussianCopula,,,NNDR,,1.258695,,,,,,0.0,,Score,Privacy,1.258695,Generators/SDV models/12. Air Quality.ipynb
+12. Air Quality,GaussianCopula,,,Hungarian_Cosine_Similarity,,0.997839,,,,,,0.0,,Score,Privacy,0.997839,Generators/SDV models/12. Air Quality.ipynb
+12. Air Quality,GaussianCopula,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/SDV models/12. Air Quality.ipynb
+12. Air Quality,TVAE,,,Hungarian_Cosine_Similarity,,0.99598,,,,,,0.0,,Score,Privacy,0.99598,Generators/SDV models/12. Air Quality.ipynb
+12. Air Quality,TVAE,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/SDV models/12. Air Quality.ipynb
+12. Air Quality,CTGAN,,,Hungarian_Cosine_Similarity,,0.974056,,,,,,0.0,,Score,Privacy,0.974056,Generators/SDV models/12. Air Quality.ipynb
+12. Air Quality,CTGAN,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/SDV models/12. Air Quality.ipynb
+12. Air Quality,CopulaGAN,,,Hungarian_Cosine_Similarity,,0.965849,,,,,,0.0,,Score,Privacy,0.965849,Generators/SDV models/12. Air Quality.ipynb
+12. Air Quality,CopulaGAN,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/SDV models/12. Air Quality.ipynb
+12. Air Quality,GaussianCopula,,,Mean_Distance,,18.531944,,,,,,0.0,,Score,Privacy,18.531944,Generators/SDV models/12. Air Quality.ipynb
+12. Air Quality,TVAE,,,Mean_Distance,,20.605003,,,,,,0.0,,Score,Privacy,20.605003,Generators/SDV models/12. Air Quality.ipynb
+12. Air Quality,CopulaGAN,,,Mean_Distance,,42.251758,,,,,,0.0,,Score,Privacy,42.251758,Generators/SDV models/12. Air Quality.ipynb
+12. Air Quality,CTGAN,,,Mean_Distance,,145.425833,,,,,,0.0,,Score,Privacy,145.425833,Generators/SDV models/12. Air Quality.ipynb
+12. Air Quality,CTGAN,,,Mahalanobis_Distance,,0.983945,,,,,,0.0,,Score,Privacy,0.983945,Generators/SDV models/12. Air Quality.ipynb
+12. Air Quality,TVAE,,,Mahalanobis_Distance,,1.117069,,,,,,0.0,,Score,Privacy,1.117069,Generators/SDV models/12. Air Quality.ipynb
+12. Air Quality,CopulaGAN,,,Mahalanobis_Distance,,1.209952,,,,,,0.0,,Score,Privacy,1.209952,Generators/SDV models/12. Air Quality.ipynb
+12. Air Quality,GaussianCopula,,,Mahalanobis_Distance,,1.237823,,,,,,0.0,,Score,Privacy,1.237823,Generators/SDV models/12. Air Quality.ipynb
+12. Air Quality,CopulaGAN,,,MIA_AUC,,0.999291,,,,,,0.0,,Score,Privacy,0.999291,Generators/SDV models/12. Air Quality.ipynb
+12. Air Quality,CTGAN,,,MIA_AUC,,0.997577,,,,,,0.0,,Score,Privacy,0.997577,Generators/SDV models/12. Air Quality.ipynb
+12. Air Quality,TVAE,,,MIA_AUC,,0.934148,,,,,,0.0,,Score,Privacy,0.934148,Generators/SDV models/12. Air Quality.ipynb
+12. Air Quality,GaussianCopula,,,MIA_AUC,,0.587864,,,,,,0.0,,Score,Privacy,0.587864,Generators/SDV models/12. Air Quality.ipynb
+12. Air Quality,CTABGAN,,,NNDR,,2.07764,,,,,,0.0,,Score,Privacy,2.07764,Generators/Other GANS/12. Air Quality_other GAN.ipynb
+12. Air Quality,WGAN_GP,,,NNDR,,1.63082,,,,,,0.0,,Score,Privacy,1.63082,Generators/Other GANS/12. Air Quality_other GAN.ipynb
+12. Air Quality,WGAN_GP,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Other GANS/12. Air Quality_other GAN.ipynb
+12. Air Quality,CTABGAN,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Other GANS/12. Air Quality_other GAN.ipynb
+12. Air Quality,CTABGAN,,,Mahalanobis_Distance,,0.875131,,,,,,0.0,,Score,Privacy,0.875131,Generators/Other GANS/12. Air Quality_other GAN.ipynb
+12. Air Quality,WGAN_GP,,,Mahalanobis_Distance,,1.223739,,,,,,0.0,,Score,Privacy,1.223739,Generators/Other GANS/12. Air Quality_other GAN.ipynb
+12. Air Quality,WGAN_GP,,,Mean_Distance,,4.618922,,,,,,0.0,,Score,Privacy,4.618922,Generators/Other GANS/12. Air Quality_other GAN.ipynb
+12. Air Quality,CTABGAN,,,Mean_Distance,,9.01997,,,,,,0.0,,Score,Privacy,9.01997,Generators/Other GANS/12. Air Quality_other GAN.ipynb
+12. Air Quality,CTABGAN,,,MIA_AUC,,0.987062,,,,,,0.0,,Score,Privacy,0.987062,Generators/Other GANS/12. Air Quality_other GAN.ipynb
+12. Air Quality,WGAN_GP,,,MIA_AUC,,0.864221,,,,,,0.0,,Score,Privacy,0.864221,Generators/Other GANS/12. Air Quality_other GAN.ipynb
+12. Air Quality,TabDDPM,,,NNDR,,2.536592,,,,,,0.0,,Score,Privacy,2.536592,Generators/Diffusion GANs/12. Air Quality_diffusion.ipynb
+12. Air Quality,ForestDiffusion,,,NNDR,,0.574922,,,,,,0.0,,Score,Privacy,0.574922,Generators/Diffusion GANs/12. Air Quality_diffusion.ipynb
+12. Air Quality,ForestDiffusion,,,Hungarian_Cosine_Similarity,,0.998953,,,,,,0.0,,Score,Privacy,0.998953,Generators/Diffusion GANs/12. Air Quality_diffusion.ipynb
+12. Air Quality,ForestDiffusion,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Diffusion GANs/12. Air Quality_diffusion.ipynb
+12. Air Quality,TabDDPM,,,Hungarian_Cosine_Similarity,,0.957594,,,,,,0.0,,Score,Privacy,0.957594,Generators/Diffusion GANs/12. Air Quality_diffusion.ipynb
+12. Air Quality,TabDDPM,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Diffusion GANs/12. Air Quality_diffusion.ipynb
+12. Air Quality,ForestDiffusion,,,Mahalanobis_Distance,,1.226571,,,,,,0.0,,Score,Privacy,1.226571,Generators/Diffusion GANs/12. Air Quality_diffusion.ipynb
+12. Air Quality,TabDDPM,,,Mahalanobis_Distance,,3.116048,,,,,,0.0,,Score,Privacy,3.116048,Generators/Diffusion GANs/12. Air Quality_diffusion.ipynb
+12. Air Quality,ForestDiffusion,,,Mean_Distance,,1.638907,,,,,,0.0,,Score,Privacy,1.638907,Generators/Diffusion GANs/12. Air Quality_diffusion.ipynb
+12. Air Quality,TabDDPM,,,Mean_Distance,,6.105469,,,,,,0.0,,Score,Privacy,6.105469,Generators/Diffusion GANs/12. Air Quality_diffusion.ipynb
+12. Air Quality,TabDDPM,,,MIA_AUC,,0.739836,,,,,,0.0,,Score,Privacy,0.739836,Generators/Diffusion GANs/12. Air Quality_diffusion.ipynb
+12. Air Quality,ForestDiffusion,,,MIA_AUC,,0.522064,,,,,,0.0,,Score,Privacy,0.522064,Generators/Diffusion GANs/12. Air Quality_diffusion.ipynb
+13. Concrete Compressive Strength,CopulaGAN,,,NNDR,,2.011499,,,,,,0.0,,Score,Privacy,2.011499,Generators/SDV models/13. Concrete Compressive Strength.ipynb
+13. Concrete Compressive Strength,CTGAN,,,NNDR,,1.892018,,,,,,0.0,,Score,Privacy,1.892018,Generators/SDV models/13. Concrete Compressive Strength.ipynb
+13. Concrete Compressive Strength,GaussianCopula,,,NNDR,,1.649632,,,,,,0.0,,Score,Privacy,1.649632,Generators/SDV models/13. Concrete Compressive Strength.ipynb
+13. Concrete Compressive Strength,TVAE,,,NNDR,,1.055962,,,,,,0.0,,Score,Privacy,1.055962,Generators/SDV models/13. Concrete Compressive Strength.ipynb
+13. Concrete Compressive Strength,TVAE,,,Hungarian_Cosine_Similarity,,0.997219,,,,,,0.0,,Score,Privacy,0.997219,Generators/SDV models/13. Concrete Compressive Strength.ipynb
+13. Concrete Compressive Strength,TVAE,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/SDV models/13. Concrete Compressive Strength.ipynb
+13. Concrete Compressive Strength,CTGAN,,,Hungarian_Cosine_Similarity,,0.996847,,,,,,0.0,,Score,Privacy,0.996847,Generators/SDV models/13. Concrete Compressive Strength.ipynb
+13. Concrete Compressive Strength,CTGAN,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/SDV models/13. Concrete Compressive Strength.ipynb
+13. Concrete Compressive Strength,GaussianCopula,,,Hungarian_Cosine_Similarity,,0.996156,,,,,,0.0,,Score,Privacy,0.996156,Generators/SDV models/13. Concrete Compressive Strength.ipynb
+13. Concrete Compressive Strength,GaussianCopula,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/SDV models/13. Concrete Compressive Strength.ipynb
+13. Concrete Compressive Strength,CopulaGAN,,,Hungarian_Cosine_Similarity,,0.99448,,,,,,0.0,,Score,Privacy,0.99448,Generators/SDV models/13. Concrete Compressive Strength.ipynb
+13. Concrete Compressive Strength,CopulaGAN,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/SDV models/13. Concrete Compressive Strength.ipynb
+13. Concrete Compressive Strength,TVAE,,,Mean_Distance,,3.145877,,,,,,0.0,,Score,Privacy,3.145877,Generators/SDV models/13. Concrete Compressive Strength.ipynb
+13. Concrete Compressive Strength,GaussianCopula,,,Mean_Distance,,3.685769,,,,,,0.0,,Score,Privacy,3.685769,Generators/SDV models/13. Concrete Compressive Strength.ipynb
+13. Concrete Compressive Strength,CTGAN,,,Mean_Distance,,5.018745,,,,,,0.0,,Score,Privacy,5.018745,Generators/SDV models/13. Concrete Compressive Strength.ipynb
+13. Concrete Compressive Strength,CopulaGAN,,,Mean_Distance,,6.507187,,,,,,0.0,,Score,Privacy,6.507187,Generators/SDV models/13. Concrete Compressive Strength.ipynb
+13. Concrete Compressive Strength,TVAE,,,Mahalanobis_Distance,,1.192463,,,,,,0.0,,Score,Privacy,1.192463,Generators/SDV models/13. Concrete Compressive Strength.ipynb
+13. Concrete Compressive Strength,CTGAN,,,Mahalanobis_Distance,,1.242343,,,,,,0.0,,Score,Privacy,1.242343,Generators/SDV models/13. Concrete Compressive Strength.ipynb
+13. Concrete Compressive Strength,GaussianCopula,,,Mahalanobis_Distance,,1.570797,,,,,,0.0,,Score,Privacy,1.570797,Generators/SDV models/13. Concrete Compressive Strength.ipynb
+13. Concrete Compressive Strength,CopulaGAN,,,Mahalanobis_Distance,,1.624552,,,,,,0.0,,Score,Privacy,1.624552,Generators/SDV models/13. Concrete Compressive Strength.ipynb
+13. Concrete Compressive Strength,CopulaGAN,,,MIA_AUC,,0.939605,,,,,,0.0,,Score,Privacy,0.939605,Generators/SDV models/13. Concrete Compressive Strength.ipynb
+13. Concrete Compressive Strength,CTGAN,,,MIA_AUC,,0.904203,,,,,,0.0,,Score,Privacy,0.904203,Generators/SDV models/13. Concrete Compressive Strength.ipynb
+13. Concrete Compressive Strength,GaussianCopula,,,MIA_AUC,,0.844161,,,,,,0.0,,Score,Privacy,0.844161,Generators/SDV models/13. Concrete Compressive Strength.ipynb
+13. Concrete Compressive Strength,TVAE,,,MIA_AUC,,0.760375,,,,,,0.0,,Score,Privacy,0.760375,Generators/SDV models/13. Concrete Compressive Strength.ipynb
+13. Concrete Compressive Strength,WGAN_GP,,,NNDR,,2.006543,,,,,,0.0,,Score,Privacy,2.006543,Generators/Other GANS/13. Concrete Compressive Strength_other GAN.ipynb
+13. Concrete Compressive Strength,CTABGAN,,,NNDR,,1.510459,,,,,,0.0,,Score,Privacy,1.510459,Generators/Other GANS/13. Concrete Compressive Strength_other GAN.ipynb
+13. Concrete Compressive Strength,CTABGAN,,,Hungarian_Cosine_Similarity,,0.980089,,,,,,0.0,,Score,Privacy,0.980089,Generators/Other GANS/13. Concrete Compressive Strength_other GAN.ipynb
+13. Concrete Compressive Strength,CTABGAN,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Other GANS/13. Concrete Compressive Strength_other GAN.ipynb
+13. Concrete Compressive Strength,WGAN_GP,,,Hungarian_Cosine_Similarity,,0.976834,,,,,,0.0,,Score,Privacy,0.976834,Generators/Other GANS/13. Concrete Compressive Strength_other GAN.ipynb
+13. Concrete Compressive Strength,WGAN_GP,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Other GANS/13. Concrete Compressive Strength_other GAN.ipynb
+13. Concrete Compressive Strength,CTABGAN,,,Mahalanobis_Distance,,1.01648,,,,,,0.0,,Score,Privacy,1.01648,Generators/Other GANS/13. Concrete Compressive Strength_other GAN.ipynb
+13. Concrete Compressive Strength,WGAN_GP,,,Mahalanobis_Distance,,1.426213,,,,,,0.0,,Score,Privacy,1.426213,Generators/Other GANS/13. Concrete Compressive Strength_other GAN.ipynb
+13. Concrete Compressive Strength,CTABGAN,,,Mean_Distance,,3.120268,,,,,,0.0,,Score,Privacy,3.120268,Generators/Other GANS/13. Concrete Compressive Strength_other GAN.ipynb
+13. Concrete Compressive Strength,WGAN_GP,,,Mean_Distance,,3.389107,,,,,,0.0,,Score,Privacy,3.389107,Generators/Other GANS/13. Concrete Compressive Strength_other GAN.ipynb
+13. Concrete Compressive Strength,WGAN_GP,,,MIA_AUC,,0.391144,,,,,,0.0,,Score,Privacy,0.391144,Generators/Other GANS/13. Concrete Compressive Strength_other GAN.ipynb
+13. Concrete Compressive Strength,CTABGAN,,,MIA_AUC,,0.464033,,,,,,0.0,,Score,Privacy,0.464033,Generators/Other GANS/13. Concrete Compressive Strength_other GAN.ipynb
+13. Concrete Compressive Strength,TabDDPM,,,NNDR,,0.962766,,,,,,0.0,,Score,Privacy,0.962766,Generators/Diffusion GANs/13. Concrete Compressive Strength_diffusion.ipynb
+13. Concrete Compressive Strength,ForestDiffusion,,,NNDR,,0.228674,,,,,,0.0,,Score,Privacy,0.228674,Generators/Diffusion GANs/13. Concrete Compressive Strength_diffusion.ipynb
+13. Concrete Compressive Strength,ForestDiffusion,,,Hungarian_Cosine_Similarity,,0.999365,,,,,,0.0,,Score,Privacy,0.999365,Generators/Diffusion GANs/13. Concrete Compressive Strength_diffusion.ipynb
+13. Concrete Compressive Strength,ForestDiffusion,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Diffusion GANs/13. Concrete Compressive Strength_diffusion.ipynb
+13. Concrete Compressive Strength,TabDDPM,,,Hungarian_Cosine_Similarity,,0.998188,,,,,,0.0,,Score,Privacy,0.998188,Generators/Diffusion GANs/13. Concrete Compressive Strength_diffusion.ipynb
+13. Concrete Compressive Strength,TabDDPM,,,Num_Matches,,1000.0,,,,,,0.0,,Score,Privacy,1000.0,Generators/Diffusion GANs/13. Concrete Compressive Strength_diffusion.ipynb
+13. Concrete Compressive Strength,ForestDiffusion,,,Mahalanobis_Distance,,1.291034,,,,,,0.0,,Score,Privacy,1.291034,Generators/Diffusion GANs/13. Concrete Compressive Strength_diffusion.ipynb
+13. Concrete Compressive Strength,TabDDPM,,,Mahalanobis_Distance,,1.34362,,,,,,0.0,,Score,Privacy,1.34362,Generators/Diffusion GANs/13. Concrete Compressive Strength_diffusion.ipynb
+13. Concrete Compressive Strength,ForestDiffusion,,,Mean_Distance,,0.848878,,,,,,0.0,,Score,Privacy,0.848878,Generators/Diffusion GANs/13. Concrete Compressive Strength_diffusion.ipynb
+13. Concrete Compressive Strength,TabDDPM,,,Mean_Distance,,1.622655,,,,,,0.0,,Score,Privacy,1.622655,Generators/Diffusion GANs/13. Concrete Compressive Strength_diffusion.ipynb
+13. Concrete Compressive Strength,TabDDPM,,,MIA_AUC,,0.572591,,,,,,0.0,,Score,Privacy,0.572591,Generators/Diffusion GANs/13. Concrete Compressive Strength_diffusion.ipynb
+13. Concrete Compressive Strength,ForestDiffusion,,,MIA_AUC,,0.562875,,,,,,0.0,,Score,Privacy,0.562875,Generators/Diffusion GANs/13. Concrete Compressive Strength_diffusion.ipynb
+14. Energy Efficiency,CopulaGAN,,,NNDR,,2.194717,,,,,,0.0,,Score,Privacy,2.194717,Generators/SDV models/14. Energy Efficiency.ipynb
+14. Energy Efficiency,CTGAN,,,NNDR,,2.024912,,,,,,0.0,,Score,Privacy,2.024912,Generators/SDV models/14. Energy Efficiency.ipynb
+14. Energy Efficiency,GaussianCopula,,,NNDR,,1.319213,,,,,,0.0,,Score,Privacy,1.319213,Generators/SDV models/14. Energy Efficiency.ipynb
+14. Energy Efficiency,TVAE,,,NNDR,,0.680908,,,,,,0.0,,Score,Privacy,0.680908,Generators/SDV models/14. Energy Efficiency.ipynb
+14. Energy Efficiency,GaussianCopula,,,Hungarian_Cosine_Similarity,,0.999323,,,,,,0.0,,Score,Privacy,0.999323,Generators/SDV models/14. Energy Efficiency.ipynb
+14. Energy Efficiency,GaussianCopula,,,Num_Matches,,768.0,,,,,,0.0,,Score,Privacy,768.0,Generators/SDV models/14. Energy Efficiency.ipynb
+14. Energy Efficiency,TVAE,,,Hungarian_Cosine_Similarity,,0.999186,,,,,,0.0,,Score,Privacy,0.999186,Generators/SDV models/14. Energy Efficiency.ipynb
+14. Energy Efficiency,TVAE,,,Num_Matches,,768.0,,,,,,0.0,,Score,Privacy,768.0,Generators/SDV models/14. Energy Efficiency.ipynb
+14. Energy Efficiency,CopulaGAN,,,Hungarian_Cosine_Similarity,,0.996751,,,,,,0.0,,Score,Privacy,0.996751,Generators/SDV models/14. Energy Efficiency.ipynb
+14. Energy Efficiency,CopulaGAN,,,Num_Matches,,768.0,,,,,,0.0,,Score,Privacy,768.0,Generators/SDV models/14. Energy Efficiency.ipynb
+14. Energy Efficiency,CTGAN,,,Hungarian_Cosine_Similarity,,0.996661,,,,,,0.0,,Score,Privacy,0.996661,Generators/SDV models/14. Energy Efficiency.ipynb
+14. Energy Efficiency,CTGAN,,,Num_Matches,,768.0,,,,,,0.0,,Score,Privacy,768.0,Generators/SDV models/14. Energy Efficiency.ipynb
+14. Energy Efficiency,TVAE,,,Mean_Distance,,18868.030988,,,,,,0.0,,Score,Privacy,18868.030988,Generators/SDV models/14. Energy Efficiency.ipynb
+14. Energy Efficiency,GaussianCopula,,,Mean_Distance,,21169.768524,,,,,,0.0,,Score,Privacy,21169.768524,Generators/SDV models/14. Energy Efficiency.ipynb
+14. Energy Efficiency,CTGAN,,,Mean_Distance,,45637.724902,,,,,,0.0,,Score,Privacy,45637.724902,Generators/SDV models/14. Energy Efficiency.ipynb
+14. Energy Efficiency,CopulaGAN,,,Mean_Distance,,51117.382555,,,,,,0.0,,Score,Privacy,51117.382555,Generators/SDV models/14. Energy Efficiency.ipynb
+14. Energy Efficiency,CTGAN,,,Mahalanobis_Distance,,0.995713,,,,,,0.0,,Score,Privacy,0.995713,Generators/SDV models/14. Energy Efficiency.ipynb
+14. Energy Efficiency,TVAE,,,Mahalanobis_Distance,,1.213086,,,,,,0.0,,Score,Privacy,1.213086,Generators/SDV models/14. Energy Efficiency.ipynb
+14. Energy Efficiency,CopulaGAN,,,Mahalanobis_Distance,,1.214706,,,,,,0.0,,Score,Privacy,1.214706,Generators/SDV models/14. Energy Efficiency.ipynb
+14. Energy Efficiency,GaussianCopula,,,Mahalanobis_Distance,,1.310923,,,,,,0.0,,Score,Privacy,1.310923,Generators/SDV models/14. Energy Efficiency.ipynb
+14. Energy Efficiency,CTGAN,,,MIA_AUC,,1.0,,,,,,0.0,,Score,Privacy,1.0,Generators/SDV models/14. Energy Efficiency.ipynb
+14. Energy Efficiency,CopulaGAN,,,MIA_AUC,,1.0,,,,,,0.0,,Score,Privacy,1.0,Generators/SDV models/14. Energy Efficiency.ipynb
+14. Energy Efficiency,GaussianCopula,,,MIA_AUC,,1.0,,,,,,0.0,,Score,Privacy,1.0,Generators/SDV models/14. Energy Efficiency.ipynb
+14. Energy Efficiency,TVAE,,,MIA_AUC,,0.999522,,,,,,0.0,,Score,Privacy,0.999522,Generators/SDV models/14. Energy Efficiency.ipynb
+14. Energy Efficiency,WGAN_GP,,,NNDR,,1.787645,,,,,,0.0,,Score,Privacy,1.787645,Generators/Other GANS/14. Energy Efficiency_other GAN.ipynb
+14. Energy Efficiency,CTABGAN,,,NNDR,,1.263318,,,,,,0.0,,Score,Privacy,1.263318,Generators/Other GANS/14. Energy Efficiency_other GAN.ipynb
+14. Energy Efficiency,WGAN_GP,,,Hungarian_Cosine_Similarity,,0.999045,,,,,,0.0,,Score,Privacy,0.999045,Generators/Other GANS/14. Energy Efficiency_other GAN.ipynb
+14. Energy Efficiency,WGAN_GP,,,Num_Matches,,768.0,,,,,,0.0,,Score,Privacy,768.0,Generators/Other GANS/14. Energy Efficiency_other GAN.ipynb
+14. Energy Efficiency,CTABGAN,,,Hungarian_Cosine_Similarity,,0.998061,,,,,,0.0,,Score,Privacy,0.998061,Generators/Other GANS/14. Energy Efficiency_other GAN.ipynb
+14. Energy Efficiency,CTABGAN,,,Num_Matches,,768.0,,,,,,0.0,,Score,Privacy,768.0,Generators/Other GANS/14. Energy Efficiency_other GAN.ipynb
+14. Energy Efficiency,CTABGAN,,,Mahalanobis_Distance,,1.008192,,,,,,0.0,,Score,Privacy,1.008192,Generators/Other GANS/14. Energy Efficiency_other GAN.ipynb
+14. Energy Efficiency,WGAN_GP,,,Mahalanobis_Distance,,1.91567,,,,,,0.0,,Score,Privacy,1.91567,Generators/Other GANS/14. Energy Efficiency_other GAN.ipynb
+14. Energy Efficiency,CTABGAN,,,Mean_Distance,,21021.190546,,,,,,0.0,,Score,Privacy,21021.190546,Generators/Other GANS/14. Energy Efficiency_other GAN.ipynb
+14. Energy Efficiency,WGAN_GP,,,Mean_Distance,,23616.348271,,,,,,0.0,,Score,Privacy,23616.348271,Generators/Other GANS/14. Energy Efficiency_other GAN.ipynb
+14. Energy Efficiency,WGAN_GP,,,MIA_AUC,,1.0,,,,,,0.0,,Score,Privacy,1.0,Generators/Other GANS/14. Energy Efficiency_other GAN.ipynb
+14. Energy Efficiency,CTABGAN,,,MIA_AUC,,1.0,,,,,,0.0,,Score,Privacy,1.0,Generators/Other GANS/14. Energy Efficiency_other GAN.ipynb
+14. Energy Efficiency,TabDDPM,,,NNDR,,1.141839,,,,,,0.0,,Score,Privacy,1.141839,Generators/Diffusion GANs/14. Energy Efficiency_diffusion.ipynb
+14. Energy Efficiency,ForestDiffusion,,,NNDR,,0.107591,,,,,,0.0,,Score,Privacy,0.107591,Generators/Diffusion GANs/14. Energy Efficiency_diffusion.ipynb
+14. Energy Efficiency,ForestDiffusion,,,Hungarian_Cosine_Similarity,,0.999999,,,,,,0.0,,Score,Privacy,0.999999,Generators/Diffusion GANs/14. Energy Efficiency_diffusion.ipynb
+14. Energy Efficiency,ForestDiffusion,,,Num_Matches,,768.0,,,,,,0.0,,Score,Privacy,768.0,Generators/Diffusion GANs/14. Energy Efficiency_diffusion.ipynb
+14. Energy Efficiency,TabDDPM,,,Hungarian_Cosine_Similarity,,0.999033,,,,,,0.0,,Score,Privacy,0.999033,Generators/Diffusion GANs/14. Energy Efficiency_diffusion.ipynb
+14. Energy Efficiency,TabDDPM,,,Num_Matches,,768.0,,,,,,0.0,,Score,Privacy,768.0,Generators/Diffusion GANs/14. Energy Efficiency_diffusion.ipynb
+14. Energy Efficiency,ForestDiffusion,,,Mahalanobis_Distance,,1.324814,,,,,,0.0,,Score,Privacy,1.324814,Generators/Diffusion GANs/14. Energy Efficiency_diffusion.ipynb
+14. Energy Efficiency,TabDDPM,,,Mahalanobis_Distance,,1.926603,,,,,,0.0,,Score,Privacy,1.926603,Generators/Diffusion GANs/14. Energy Efficiency_diffusion.ipynb
+14. Energy Efficiency,ForestDiffusion,,,Mean_Distance,,41.20894,,,,,,0.0,,Score,Privacy,41.20894,Generators/Diffusion GANs/14. Energy Efficiency_diffusion.ipynb
+14. Energy Efficiency,TabDDPM,,,Mean_Distance,,15946.481516,,,,,,0.0,,Score,Privacy,15946.481516,Generators/Diffusion GANs/14. Energy Efficiency_diffusion.ipynb
+14. Energy Efficiency,TabDDPM,,,MIA_AUC,,0.986806,,,,,,0.0,,Score,Privacy,0.986806,Generators/Diffusion GANs/14. Energy Efficiency_diffusion.ipynb
+14. Energy Efficiency,ForestDiffusion,,,MIA_AUC,,0.69319,,,,,,0.0,,Score,Privacy,0.69319,Generators/Diffusion GANs/14. Energy Efficiency_diffusion.ipynb
+15. Real Estate Valuation,TVAE,,,NNDR,,10329.257934,,,,,,0.0,,Score,Privacy,10329.257934,Generators/SDV models/15. Real Estate Valuation.ipynb
+15. Real Estate Valuation,GaussianCopula,,,NNDR,,10329.257821,,,,,,0.0,,Score,Privacy,10329.257821,Generators/SDV models/15. Real Estate Valuation.ipynb
+15. Real Estate Valuation,CTGAN,,,NNDR,,10329.257782,,,,,,0.0,,Score,Privacy,10329.257782,Generators/SDV models/15. Real Estate Valuation.ipynb
+15. Real Estate Valuation,CopulaGAN,,,NNDR,,10329.257717,,,,,,0.0,,Score,Privacy,10329.257717,Generators/SDV models/15. Real Estate Valuation.ipynb
+15. Real Estate Valuation,TVAE,,,Hungarian_Cosine_Similarity,,0.923217,,,,,,0.0,,Score,Privacy,0.923217,Generators/SDV models/15. Real Estate Valuation.ipynb
+15. Real Estate Valuation,TVAE,,,Num_Matches,,414.0,,,,,,0.0,,Score,Privacy,414.0,Generators/SDV models/15. Real Estate Valuation.ipynb
+15. Real Estate Valuation,CTGAN,,,Hungarian_Cosine_Similarity,,0.916909,,,,,,0.0,,Score,Privacy,0.916909,Generators/SDV models/15. Real Estate Valuation.ipynb
+15. Real Estate Valuation,CTGAN,,,Num_Matches,,414.0,,,,,,0.0,,Score,Privacy,414.0,Generators/SDV models/15. Real Estate Valuation.ipynb
+15. Real Estate Valuation,GaussianCopula,,,Hungarian_Cosine_Similarity,,0.90337,,,,,,0.0,,Score,Privacy,0.90337,Generators/SDV models/15. Real Estate Valuation.ipynb
+15. Real Estate Valuation,GaussianCopula,,,Num_Matches,,414.0,,,,,,0.0,,Score,Privacy,414.0,Generators/SDV models/15. Real Estate Valuation.ipynb
+15. Real Estate Valuation,CopulaGAN,,,Hungarian_Cosine_Similarity,,0.851143,,,,,,0.0,,Score,Privacy,0.851143,Generators/SDV models/15. Real Estate Valuation.ipynb
+15. Real Estate Valuation,CopulaGAN,,,Num_Matches,,414.0,,,,,,0.0,,Score,Privacy,414.0,Generators/SDV models/15. Real Estate Valuation.ipynb
+15. Real Estate Valuation,CTGAN,,,Mean_Distance,,16692.752234,,,,,,0.0,,Score,Privacy,16692.752234,Generators/SDV models/15. Real Estate Valuation.ipynb
+15. Real Estate Valuation,GaussianCopula,,,Mean_Distance,,16693.553751,,,,,,0.0,,Score,Privacy,16693.553751,Generators/SDV models/15. Real Estate Valuation.ipynb
+15. Real Estate Valuation,TVAE,,,Mean_Distance,,16693.789109,,,,,,0.0,,Score,Privacy,16693.789109,Generators/SDV models/15. Real Estate Valuation.ipynb
+15. Real Estate Valuation,CopulaGAN,,,Mean_Distance,,16693.834433,,,,,,0.0,,Score,Privacy,16693.834433,Generators/SDV models/15. Real Estate Valuation.ipynb
+15. Real Estate Valuation,CTGAN,,,Mahalanobis_Distance,,10686.394424,,,,,,0.0,,Score,Privacy,10686.394424,Generators/SDV models/15. Real Estate Valuation.ipynb
+15. Real Estate Valuation,GaussianCopula,,,Mahalanobis_Distance,,10686.502796,,,,,,0.0,,Score,Privacy,10686.502796,Generators/SDV models/15. Real Estate Valuation.ipynb
+15. Real Estate Valuation,TVAE,,,Mahalanobis_Distance,,10686.620082,,,,,,0.0,,Score,Privacy,10686.620082,Generators/SDV models/15. Real Estate Valuation.ipynb
+15. Real Estate Valuation,CopulaGAN,,,Mahalanobis_Distance,,10686.660855,,,,,,0.0,,Score,Privacy,10686.660855,Generators/SDV models/15. Real Estate Valuation.ipynb
+15. Real Estate Valuation,CTGAN,,,MIA_AUC,,1.0,,,,,,0.0,,Score,Privacy,1.0,Generators/SDV models/15. Real Estate Valuation.ipynb
+15. Real Estate Valuation,CopulaGAN,,,MIA_AUC,,1.0,,,,,,0.0,,Score,Privacy,1.0,Generators/SDV models/15. Real Estate Valuation.ipynb
+15. Real Estate Valuation,TVAE,,,MIA_AUC,,1.0,,,,,,0.0,,Score,Privacy,1.0,Generators/SDV models/15. Real Estate Valuation.ipynb
+15. Real Estate Valuation,GaussianCopula,,,MIA_AUC,,1.0,,,,,,0.0,,Score,Privacy,1.0,Generators/SDV models/15. Real Estate Valuation.ipynb
+15. Real Estate Valuation,WGAN_GP,,,NNDR,,1.307642,,,,,,0.0,,Score,Privacy,1.307642,Generators/Other GANS/15. Real Estate Valuation_other GAN.ipynb
+15. Real Estate Valuation,CTABGAN,,,NNDR,,0.877992,,,,,,0.0,,Score,Privacy,0.877992,Generators/Other GANS/15. Real Estate Valuation_other GAN.ipynb
+15. Real Estate Valuation,CTABGAN,,,Hungarian_Cosine_Similarity,,0.999655,,,,,,0.0,,Score,Privacy,0.999655,Generators/Other GANS/15. Real Estate Valuation_other GAN.ipynb
+15. Real Estate Valuation,CTABGAN,,,Num_Matches,,414.0,,,,,,0.0,,Score,Privacy,414.0,Generators/Other GANS/15. Real Estate Valuation_other GAN.ipynb
+15. Real Estate Valuation,WGAN_GP,,,Hungarian_Cosine_Similarity,,0.998436,,,,,,0.0,,Score,Privacy,0.998436,Generators/Other GANS/15. Real Estate Valuation_other GAN.ipynb
+15. Real Estate Valuation,WGAN_GP,,,Num_Matches,,414.0,,,,,,0.0,,Score,Privacy,414.0,Generators/Other GANS/15. Real Estate Valuation_other GAN.ipynb
+15. Real Estate Valuation,CTABGAN,,,Mahalanobis_Distance,,1.128725,,,,,,0.0,,Score,Privacy,1.128725,Generators/Other GANS/15. Real Estate Valuation_other GAN.ipynb
+15. Real Estate Valuation,WGAN_GP,,,Mahalanobis_Distance,,1.736126,,,,,,0.0,,Score,Privacy,1.736126,Generators/Other GANS/15. Real Estate Valuation_other GAN.ipynb
+15. Real Estate Valuation,CTABGAN,,,Mean_Distance,,0.872314,,,,,,0.0,,Score,Privacy,0.872314,Generators/Other GANS/15. Real Estate Valuation_other GAN.ipynb
+15. Real Estate Valuation,WGAN_GP,,,Mean_Distance,,1.396493,,,,,,0.0,,Score,Privacy,1.396493,Generators/Other GANS/15. Real Estate Valuation_other GAN.ipynb
+15. Real Estate Valuation,WGAN_GP,,,MIA_AUC,,0.810978,,,,,,0.0,,Score,Privacy,0.810978,Generators/Other GANS/15. Real Estate Valuation_other GAN.ipynb
+15. Real Estate Valuation,CTABGAN,,,MIA_AUC,,0.661855,,,,,,0.0,,Score,Privacy,0.661855,Generators/Other GANS/15. Real Estate Valuation_other GAN.ipynb
+15. Real Estate Valuation,TabDDPM,,,NNDR,,1.799631,,,,,,0.0,,Score,Privacy,1.799631,Generators/Diffusion GANs/15. Real Estate Valuation_diffusion.ipynb
+15. Real Estate Valuation,ForestDiffusion,,,NNDR,,0.11836,,,,,,0.0,,Score,Privacy,0.11836,Generators/Diffusion GANs/15. Real Estate Valuation_diffusion.ipynb
+15. Real Estate Valuation,ForestDiffusion,,,Hungarian_Cosine_Similarity,,0.999959,,,,,,0.0,,Score,Privacy,0.999959,Generators/Diffusion GANs/15. Real Estate Valuation_diffusion.ipynb
+15. Real Estate Valuation,ForestDiffusion,,,Num_Matches,,414.0,,,,,,0.0,,Score,Privacy,414.0,Generators/Diffusion GANs/15. Real Estate Valuation_diffusion.ipynb
+15. Real Estate Valuation,TabDDPM,,,Hungarian_Cosine_Similarity,,0.999461,,,,,,0.0,,Score,Privacy,0.999461,Generators/Diffusion GANs/15. Real Estate Valuation_diffusion.ipynb
+15. Real Estate Valuation,TabDDPM,,,Num_Matches,,414.0,,,,,,0.0,,Score,Privacy,414.0,Generators/Diffusion GANs/15. Real Estate Valuation_diffusion.ipynb
+15. Real Estate Valuation,ForestDiffusion,,,Mahalanobis_Distance,,1.243099,,,,,,0.0,,Score,Privacy,1.243099,Generators/Diffusion GANs/15. Real Estate Valuation_diffusion.ipynb
+15. Real Estate Valuation,TabDDPM,,,Mahalanobis_Distance,,3.595588,,,,,,0.0,,Score,Privacy,3.595588,Generators/Diffusion GANs/15. Real Estate Valuation_diffusion.ipynb
+15. Real Estate Valuation,ForestDiffusion,,,Mean_Distance,,0.077098,,,,,,0.0,,Score,Privacy,0.077098,Generators/Diffusion GANs/15. Real Estate Valuation_diffusion.ipynb
+15. Real Estate Valuation,TabDDPM,,,Mean_Distance,,0.87433,,,,,,0.0,,Score,Privacy,0.87433,Generators/Diffusion GANs/15. Real Estate Valuation_diffusion.ipynb
+15. Real Estate Valuation,TabDDPM,,,MIA_AUC,,0.761111,,,,,,0.0,,Score,Privacy,0.761111,Generators/Diffusion GANs/15. Real Estate Valuation_diffusion.ipynb
+15. Real Estate Valuation,ForestDiffusion,,,MIA_AUC,,0.504819,,,,,,0.0,,Score,Privacy,0.504819,Generators/Diffusion GANs/15. Real Estate Valuation_diffusion.ipynb
+3. Adult,GaussianCopula,,,NNDR,0.134497,0.134497,,,,,,,,,,0.134497,
+3. Adult,CopulaGAN,,,NNDR,0.001684,0.001684,,,,,,,,,,0.001684,
+3. Adult,CTGAN,,,NNDR,0.00229,0.00229,,,,,,,,,,0.00229,
+3. Adult,TVAE,,,NNDR,0.002106,0.002106,,,,,,,,,,0.002106,
+3. Adult,WGAN_GP,,,NNDR,0.598683,0.598683,,,,,,,,,,0.598683,
+3. Adult,CTABGAN,,,NNDR,0.174893,0.174893,,,,,,,,,,0.174893,
+3. Adult,TabDDPM,,,NNDR,2.67559,2.67559,,,,,,,,,,2.67559,
+3. Adult,ForestDiffusion,,,NNDR,0.055781,0.055781,,,,,,,,,,0.055781,
+3. Adult,CTGAN,,,Hungarian_Cosine_Similarity,,0.9996423581191255,,,,,,,,,,0.9996423581191255,
+3. Adult,CTGAN,,,Num_Matches,,1000.0,,,,,,,,,,1000.0,
+3. Adult,CopulaGAN,,,Hungarian_Cosine_Similarity,,0.9964779684956977,,,,,,,,,,0.9964779684956977,
+3. Adult,CopulaGAN,,,Num_Matches,,1000.0,,,,,,,,,,1000.0,
+3. Adult,TVAE,,,Hungarian_Cosine_Similarity,,0.9994313165892008,,,,,,,,,,0.9994313165892008,
+3. Adult,TVAE,,,Num_Matches,,1000.0,,,,,,,,,,1000.0,
+3. Adult,GaussianCopula,,,Hungarian_Cosine_Similarity,,0.9806849869684116,,,,,,,,,,0.9806849869684116,
+3. Adult,GaussianCopula,,,Num_Matches,,1000.0,,,,,,,,,,1000.0,
+3. Adult,WGAN_GP,,,Hungarian_Cosine_Similarity,,0.996304476661821,,,,,,,,,,0.996304476661821,
+3. Adult,WGAN_GP,,,Num_Matches,,1000.0,,,,,,,,,,1000.0,
+3. Adult,CTABGAN,,,Hungarian_Cosine_Similarity,,0.9998866616845967,,,,,,,,,,0.9998866616845967,
+3. Adult,CTABGAN,,,Num_Matches,,1000.0,,,,,,,,,,1000.0,
+3. Adult,TabDDPM,,,Hungarian_Cosine_Similarity,,0.7988756851244702,,,,,,,,,,0.7988756851244702,
+3. Adult,TabDDPM,,,Num_Matches,,1000.0,,,,,,,,,,1000.0,
+3. Adult,ForestDiffusion,,,Hungarian_Cosine_Similarity,,0.9997905968172516,,,,,,,,,,0.9997905968172516,
+3. Adult,ForestDiffusion,,,Num_Matches,,1000.0,,,,,,,,,,1000.0,
+3. Adult,CTGAN,,,Mean_Distance,,0.312119816355832,,,,,,,,,,0.312119816355832,
+3. Adult,CTGAN,,,Median_Distance,,0.1954141904211065,,,,,,,,,,0.1954141904211065,
+3. Adult,CTGAN,,,Std_Distance,,0.300203714018637,,,,,,,,,,0.300203714018637,
+3. Adult,CTGAN,,,Min_Distance,,0.0003989093519426483,,,,,,,,,,0.0003989093519426483,
+3. Adult,CTGAN,,,Max_Distance,,2.583930394688821,,,,,,,,,,2.583930394688821,
+3. Adult,CTGAN,,,Mahalanobis_Distance,,0.312119816355832,,,,,,,,,,0.312119816355832,
+3. Adult,CopulaGAN,,,Mean_Distance,,0.6750320130668681,,,,,,,,,,0.6750320130668681,
+3. Adult,CopulaGAN,,,Median_Distance,,0.4763211668968664,,,,,,,,,,0.4763211668968664,
+3. Adult,CopulaGAN,,,Std_Distance,,0.6521044157973658,,,,,,,,,,0.6521044157973658,
+3. Adult,CopulaGAN,,,Min_Distance,,0.1854891104378175,,,,,,,,,,0.1854891104378175,
+3. Adult,CopulaGAN,,,Max_Distance,,8.220181635324542,,,,,,,,,,8.220181635324542,
+3. Adult,CopulaGAN,,,Mahalanobis_Distance,,0.6750320130668681,,,,,,,,,,0.6750320130668681,
+3. Adult,TVAE,,,Mean_Distance,,0.1163703617203237,,,,,,,,,,0.1163703617203237,
+3. Adult,TVAE,,,Median_Distance,,0.07547425967796056,,,,,,,,,,0.07547425967796056,
+3. Adult,TVAE,,,Std_Distance,,0.1357133670873385,,,,,,,,,,0.1357133670873385,
+3. Adult,TVAE,,,Min_Distance,,0.0,,,,,,,,,,0.0,
+3. Adult,TVAE,,,Max_Distance,,0.4553987594311926,,,,,,,,,,0.4553987594311926,
+3. Adult,TVAE,,,Mahalanobis_Distance,,0.1163703617203237,,,,,,,,,,0.1163703617203237,
+3. Adult,GaussianCopula,,,Mean_Distance,,2.484689273011973,,,,,,,,,,2.484689273011973,
+3. Adult,GaussianCopula,,,Median_Distance,,1.805734567791119,,,,,,,,,,1.805734567791119,
+3. Adult,GaussianCopula,,,Std_Distance,,1.825003303729841,,,,,,,,,,1.825003303729841,
+3. Adult,GaussianCopula,,,Min_Distance,,0.1904726928515296,,,,,,,,,,0.1904726928515296,
+3. Adult,GaussianCopula,,,Max_Distance,,8.069579335274454,,,,,,,,,,8.069579335274454,
+3. Adult,GaussianCopula,,,Mahalanobis_Distance,,2.484689273011973,,,,,,,,,,2.484689273011973,
+3. Adult,WGAN_GP,,,Mean_Distance,,1.647321943434293,,,,,,,,,,1.647321943434293,
+3. Adult,WGAN_GP,,,Median_Distance,,1.444232565363539,,,,,,,,,,1.444232565363539,
+3. Adult,WGAN_GP,,,Std_Distance,,1.127138505094519,,,,,,,,,,1.127138505094519,
+3. Adult,WGAN_GP,,,Min_Distance,,0.216403273056022,,,,,,,,,,0.216403273056022,
+3. Adult,WGAN_GP,,,Max_Distance,,11.82267051101156,,,,,,,,,,11.82267051101156,
+3. Adult,WGAN_GP,,,Mahalanobis_Distance,,1.647321943434293,,,,,,,,,,1.647321943434293,
+3. Adult,CTABGAN,,,Mean_Distance,,2.428502572522146,,,,,,,,,,2.428502572522146,
+3. Adult,CTABGAN,,,Median_Distance,,1.569826037322659,,,,,,,,,,1.569826037322659,
+3. Adult,CTABGAN,,,Std_Distance,,1.875059400758238,,,,,,,,,,1.875059400758238,
+3. Adult,CTABGAN,,,Min_Distance,,0.01872974709854498,,,,,,,,,,0.01872974709854498,
+3. Adult,CTABGAN,,,Max_Distance,,9.035898188363687,,,,,,,,,,9.035898188363687,
+3. Adult,CTABGAN,,,Mahalanobis_Distance,,2.428502572522146,,,,,,,,,,2.428502572522146,
+3. Adult,TabDDPM,,,Mean_Distance,,11.73058872994562,,,,,,,,,,11.73058872994562,
+3. Adult,TabDDPM,,,Median_Distance,,15.22000746123599,,,,,,,,,,15.22000746123599,
+3. Adult,TabDDPM,,,Std_Distance,,5.566590407713151,,,,,,,,,,5.566590407713151,
+3. Adult,TabDDPM,,,Min_Distance,,1.319195370450432,,,,,,,,,,1.319195370450432,
+3. Adult,TabDDPM,,,Max_Distance,,18.66373973516059,,,,,,,,,,18.66373973516059,
+3. Adult,TabDDPM,,,Mahalanobis_Distance,,11.73058872994562,,,,,,,,,,11.73058872994562,
+3. Adult,ForestDiffusion,,,Mean_Distance,,0.7604998920067207,,,,,,,,,,0.7604998920067207,
+3. Adult,ForestDiffusion,,,Median_Distance,,0.5621513394615805,,,,,,,,,,0.5621513394615805,
+3. Adult,ForestDiffusion,,,Std_Distance,,0.7817288564274226,,,,,,,,,,0.7817288564274226,
+3. Adult,ForestDiffusion,,,Min_Distance,,0.03654705566858059,,,,,,,,,,0.03654705566858059,
+3. Adult,ForestDiffusion,,,Max_Distance,,9.719050040269963,,,,,,,,,,9.719050040269963,
+3. Adult,ForestDiffusion,,,Mahalanobis_Distance,,0.7604998920067207,,,,,,,,,,0.7604998920067207,

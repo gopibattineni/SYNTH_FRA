@@ -1,0 +1,73 @@
+Dataset,Generator,UtilityGap,Rank
+1. Cancer,CTABGAN,0.1148567576,4.0
+1. Cancer,CTGAN,0.2507556489,6.0
+1. Cancer,CopulaGAN,0.5328189355,7.0
+1. Cancer,ForestDiffusion,0.0002867068,1.0
+1. Cancer,GaussianCopula,0.1535866237,5.0
+1. Cancer,TVAE,0.0433445649,3.0
+1. Cancer,TabDDPM,0.663683727,8.0
+1. Cancer,WGAN-GP,0.0346133132,2.0
+2. Alzhimers,CTABGAN,0.1023290302,4.0
+2. Alzhimers,CTGAN,0.3553197143,6.0
+2. Alzhimers,CopulaGAN,0.4946172489,7.0
+2. Alzhimers,ForestDiffusion,-0.0116882635,1.0
+2. Alzhimers,GaussianCopula,0.1094287977,5.0
+2. Alzhimers,TVAE,0.0608644747,2.0
+2. Alzhimers,TabDDPM,0.564316853,8.0
+2. Alzhimers,WGAN-GP,0.0809920465,3.0
+3. Adult,CTABGAN,0.2383125094,6.0
+3. Adult,CTGAN,0.1680863509,3.0
+3. Adult,CopulaGAN,0.1733386803,4.0
+3. Adult,ForestDiffusion,0.070768711,1.0
+3. Adult,GaussianCopula,0.1843461872,5.0
+3. Adult,TVAE,0.1534676764,2.0
+3. Adult,TabDDPM,0.3715135722,7.0
+3. Adult,WGAN-GP,0.5004025122,8.0
+4. Forest cover dataset,CTABGAN,0.2895507893,6.0
+4. Forest cover dataset,CTGAN,0.4468849493,7.0
+4. Forest cover dataset,CopulaGAN,0.4963703928,8.0
+4. Forest cover dataset,ForestDiffusion,-0.0616913272,1.0
+4. Forest cover dataset,GaussianCopula,0.1870013885,2.0
+4. Forest cover dataset,TVAE,0.2557809254,5.0
+4. Forest cover dataset,TabDDPM,0.2487419442,4.0
+4. Forest cover dataset,WGAN-GP,0.2336867939,3.0
+5. Bank Markting,CTABGAN,0.0219338453,3.0
+5. Bank Markting,CTGAN,0.0322262241,5.0
+5. Bank Markting,CopulaGAN,0.0087410672,2.0
+5. Bank Markting,ForestDiffusion,-0.0050246647,1.0
+5. Bank Markting,GaussianCopula,0.034591539,7.0
+5. Bank Markting,TVAE,0.0281020922,4.0
+5. Bank Markting,TabDDPM,0.0387162178,8.0
+5. Bank Markting,WGAN-GP,0.0341273941,6.0
+6. Wine dataset,CTABGAN,0.1338878672,5.0
+6. Wine dataset,CTGAN,0.2195677419,8.0
+6. Wine dataset,CopulaGAN,0.1717712905,7.0
+6. Wine dataset,ForestDiffusion,-0.0915028307,1.0
+6. Wine dataset,GaussianCopula,0.1333370841,4.0
+6. Wine dataset,TVAE,0.0363421037,2.0
+6. Wine dataset,TabDDPM,0.1419558557,6.0
+6. Wine dataset,WGAN-GP,0.0541266134,3.0
+7. CDC diabetes dataset,CTABGAN,-0.0614478005,3.0
+7. CDC diabetes dataset,CTGAN,0.1100257967,7.0
+7. CDC diabetes dataset,CopulaGAN,-0.0768028364,1.0
+7. CDC diabetes dataset,ForestDiffusion,0.0171589094,4.0
+7. CDC diabetes dataset,GaussianCopula,0.183897334,8.0
+7. CDC diabetes dataset,TVAE,-0.0623113621,2.0
+7. CDC diabetes dataset,TabDDPM,0.0438472919,5.0
+7. CDC diabetes dataset,WGAN-GP,0.0477643099,6.0
+8. Mushroom dataset,CTABGAN,0.1812783297,4.0
+8. Mushroom dataset,CTGAN,0.2715652055,7.0
+8. Mushroom dataset,CopulaGAN,0.1682264301,3.0
+8. Mushroom dataset,ForestDiffusion,0.0849400725,1.0
+8. Mushroom dataset,GaussianCopula,0.2066698448,6.0
+8. Mushroom dataset,TVAE,0.1999140755,5.0
+8. Mushroom dataset,TabDDPM,0.3840214666,8.0
+8. Mushroom dataset,WGAN-GP,0.1308425921,2.0
+9. MAGIC Gamma Telescope,CTABGAN,0.0317329955,3.0
+9. MAGIC Gamma Telescope,CTGAN,0.0928708188,7.0
+9. MAGIC Gamma Telescope,CopulaGAN,0.0775803344,5.0
+9. MAGIC Gamma Telescope,ForestDiffusion,0.0159894694,1.0
+9. MAGIC Gamma Telescope,GaussianCopula,0.0636876333,4.0
+9. MAGIC Gamma Telescope,TVAE,0.0780877872,6.0
+9. MAGIC Gamma Telescope,TabDDPM,0.1611382114,8.0
+9. MAGIC Gamma Telescope,WGAN-GP,0.0292643556,2.0

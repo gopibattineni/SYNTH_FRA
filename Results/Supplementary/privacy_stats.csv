@@ -1,0 +1,843 @@
+Dataset,Generator,Metric,Mean,Std,Count,CI_Low,CI_High,NormalizedScore
+1. Cancer,CTABGAN,Hungarian_Cosine_Similarity,,,0,,,
+1. Cancer,CTABGAN,MIA_AUC,,,0,,,
+1. Cancer,CTABGAN,Mahalanobis_Distance,,,0,,,
+1. Cancer,CTABGAN,NNDR,,,0,,,
+1. Cancer,CTGAN,Hungarian_Cosine_Similarity,,,0,,,
+1. Cancer,CTGAN,MIA_AUC,,,0,,,
+1. Cancer,CTGAN,Mahalanobis_Distance,,,0,,,
+1. Cancer,CTGAN,NNDR,,,0,,,
+1. Cancer,CopulaGAN,Hungarian_Cosine_Similarity,,,0,,,
+1. Cancer,CopulaGAN,MIA_AUC,,,0,,,
+1. Cancer,CopulaGAN,Mahalanobis_Distance,,,0,,,
+1. Cancer,CopulaGAN,NNDR,,,0,,,
+1. Cancer,ForestDiffusion,Hungarian_Cosine_Similarity,,,0,,,
+1. Cancer,ForestDiffusion,MIA_AUC,,,0,,,
+1. Cancer,ForestDiffusion,Mahalanobis_Distance,,,0,,,
+1. Cancer,ForestDiffusion,NNDR,,,0,,,
+1. Cancer,GaussianCopula,Hungarian_Cosine_Similarity,,,0,,,
+1. Cancer,GaussianCopula,MIA_AUC,,,0,,,
+1. Cancer,GaussianCopula,Mahalanobis_Distance,,,0,,,
+1. Cancer,GaussianCopula,NNDR,,,0,,,
+1. Cancer,TVAE,Hungarian_Cosine_Similarity,,,0,,,
+1. Cancer,TVAE,MIA_AUC,,,0,,,
+1. Cancer,TVAE,Mahalanobis_Distance,,,0,,,
+1. Cancer,TVAE,NNDR,,,0,,,
+1. Cancer,TabDDPM,Hungarian_Cosine_Similarity,,,0,,,
+1. Cancer,TabDDPM,MIA_AUC,,,0,,,
+1. Cancer,TabDDPM,Mahalanobis_Distance,,,0,,,
+1. Cancer,TabDDPM,NNDR,,,0,,,
+1. Cancer,WGAN_GP,Hungarian_Cosine_Similarity,,,0,,,
+1. Cancer,WGAN_GP,MIA_AUC,,,0,,,
+1. Cancer,WGAN_GP,Mahalanobis_Distance,,,0,,,
+1. Cancer,WGAN_GP,NNDR,,,0,,,
+10. Metro interstate,CTABGAN,MIA_AUC,,,0,,,
+10. Metro interstate,CTABGAN,Mahalanobis_Distance,,,0,,,
+10. Metro interstate,CTABGAN,Max_Distance,6.783075256148769,,1,6.783075256148769,6.783075256148769,0.9999811482058163
+10. Metro interstate,CTABGAN,Mean_Distance,2.433241937847617,,1,2.433241937847617,2.433241937847617,0.9999580966074845
+10. Metro interstate,CTABGAN,Median_Distance,2.18865295183662,,1,2.18865295183662,2.18865295183662,0.9999529020458005
+10. Metro interstate,CTABGAN,Min_Distance,0.2052085027418037,,1,0.2052085027418037,0.2052085027418037,0.999787910584194
+10. Metro interstate,CTABGAN,NNDR,,,0,,,
+10. Metro interstate,CTABGAN,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+10. Metro interstate,CTABGAN,Std_Distance,1.246927700892049,,1,1.246927700892049,1.246927700892049,0.9999809498166922
+10. Metro interstate,CTGAN,MIA_AUC,,,0,,,
+10. Metro interstate,CTGAN,Mahalanobis_Distance,,,0,,,
+10. Metro interstate,CTGAN,Max_Distance,28.91585727656612,,1,28.91585727656612,28.91585727656612,0.9998221579106431
+10. Metro interstate,CTGAN,Mean_Distance,0.3998051798465409,,1,0.3998051798465409,0.3998051798465409,0.9999978765853079
+10. Metro interstate,CTGAN,Median_Distance,0.0804209354081768,,1,0.0804209354081768,0.0804209354081768,0.9999990471743971
+10. Metro interstate,CTGAN,Min_Distance,6.105367996739974e-06,,1,6.105367996739974e-06,6.105367996739974e-06,0.9999999936899109
+10. Metro interstate,CTGAN,NNDR,,,0,,,
+10. Metro interstate,CTGAN,Num_Matches,2000.0,,1,2000.0,2000.0,0.08725264117552421
+10. Metro interstate,CTGAN,Std_Distance,1.43604132976484,,1,1.43604132976484,1.43604132976484,0.9999755321165253
+10. Metro interstate,CopulaGAN,MIA_AUC,,,0,,,
+10. Metro interstate,CopulaGAN,Mahalanobis_Distance,,,0,,,
+10. Metro interstate,CopulaGAN,Max_Distance,31.67549403199714,,1,31.67549403199714,31.67549403199714,0.9998023341278981
+10. Metro interstate,CopulaGAN,Mean_Distance,0.482782449183865,,1,0.482782449183865,0.482782449183865,0.9999962533069241
+10. Metro interstate,CopulaGAN,Median_Distance,0.2633293588838103,,1,0.2633293588838103,0.2633293588838103,0.9999950436621381
+10. Metro interstate,CopulaGAN,Min_Distance,1.371504355484685e-05,,1,1.371504355484685e-05,1.371504355484685e-05,0.9999999858250729
+10. Metro interstate,CopulaGAN,NNDR,,,0,,,
+10. Metro interstate,CopulaGAN,Num_Matches,2000.0,,1,2000.0,2000.0,0.08725264117552421
+10. Metro interstate,CopulaGAN,Std_Distance,1.455107324901258,,1,1.455107324901258,1.455107324901258,0.999974985916626
+10. Metro interstate,ForestDiffusion,MIA_AUC,,,0,,,
+10. Metro interstate,ForestDiffusion,Mahalanobis_Distance,,,0,,,
+10. Metro interstate,ForestDiffusion,Max_Distance,6.083313832407932,,1,6.083313832407932,6.083313832407932,0.9999861749247895
+10. Metro interstate,ForestDiffusion,Mean_Distance,1.816702233657161,,1,1.816702233657161,1.816702233657161,0.99997015792961
+10. Metro interstate,ForestDiffusion,Median_Distance,1.654405815807491,,1,1.654405815807491,1.654405815807491,0.9999645956841677
+10. Metro interstate,ForestDiffusion,Min_Distance,0.110700606241123,,1,0.110700606241123,0.110700606241123,0.9998855874557177
+10. Metro interstate,ForestDiffusion,NNDR,,,0,,,
+10. Metro interstate,ForestDiffusion,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+10. Metro interstate,ForestDiffusion,Std_Distance,0.9207155559561222,,1,0.9207155559561222,0.9207155559561222,0.9999902950955205
+10. Metro interstate,GaussianCopula,MIA_AUC,,,0,,,
+10. Metro interstate,GaussianCopula,Mahalanobis_Distance,,,0,,,
+10. Metro interstate,GaussianCopula,Max_Distance,41.08458599787649,,1,41.08458599787649,41.08458599787649,0.9997347441472266
+10. Metro interstate,GaussianCopula,Mean_Distance,27.79004060836873,,1,27.79004060836873,27.79004060836873,0.9994620433691348
+10. Metro interstate,GaussianCopula,Median_Distance,32.75906280612629,,1,32.75906280612629,32.75906280612629,0.9992837747946316
+10. Metro interstate,GaussianCopula,Min_Distance,0.1325027378798853,,1,0.1325027378798853,0.1325027378798853,0.9998630542697102
+10. Metro interstate,GaussianCopula,NNDR,,,0,,,
+10. Metro interstate,GaussianCopula,Num_Matches,2000.0,,1,2000.0,2000.0,0.08725264117552421
+10. Metro interstate,GaussianCopula,Std_Distance,11.04759450345281,,1,11.04759450345281,11.04759450345281,0.9997001817171728
+10. Metro interstate,TVAE,MIA_AUC,,,0,,,
+10. Metro interstate,TVAE,Mahalanobis_Distance,,,0,,,
+10. Metro interstate,TVAE,Max_Distance,28.33104350322847,,1,28.33104350322847,28.33104350322847,0.9998263589059974
+10. Metro interstate,TVAE,Mean_Distance,0.2912623971788529,,1,0.2912623971788529,0.2912623971788529,1.0
+10. Metro interstate,TVAE,Median_Distance,0.03688920187150963,,1,0.03688920187150963,0.03688920187150963,1.0
+10. Metro interstate,TVAE,Min_Distance,3.165161448812744e-06,,1,3.165161448812744e-06,3.165161448812744e-06,0.9999999967287065
+10. Metro interstate,TVAE,NNDR,,,0,,,
+10. Metro interstate,TVAE,Num_Matches,2000.0,,1,2000.0,2000.0,0.08725264117552421
+10. Metro interstate,TVAE,Std_Distance,1.533998053978772,,1,1.533998053978772,1.533998053978772,0.9999727258663133
+10. Metro interstate,TabDDPM,MIA_AUC,,,0,,,
+10. Metro interstate,TabDDPM,Mahalanobis_Distance,,,0,,,
+10. Metro interstate,TabDDPM,Max_Distance,9.734178388317511,,1,9.734178388317511,9.734178388317511,0.999959949029064
+10. Metro interstate,TabDDPM,Mean_Distance,5.638238186073312,,1,5.638238186073312,5.638238186073312,0.999895397495168
+10. Metro interstate,TabDDPM,Median_Distance,5.732618047667283,,1,5.732618047667283,5.732618047667283,0.9998753314919834
+10. Metro interstate,TabDDPM,Min_Distance,0.143010376448748,,1,0.143010376448748,0.143010376448748,0.9998521942960942
+10. Metro interstate,TabDDPM,NNDR,,,0,,,
+10. Metro interstate,TabDDPM,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+10. Metro interstate,TabDDPM,Std_Distance,2.359367707938793,,1,2.359367707938793,2.359367707938793,0.9999490807946246
+10. Metro interstate,WGAN_GP,MIA_AUC,,,0,,,
+10. Metro interstate,WGAN_GP,Mahalanobis_Distance,,,0,,,
+10. Metro interstate,WGAN_GP,Max_Distance,8.024027544085847,,1,8.024027544085847,8.024027544085847,0.9999722338555835
+10. Metro interstate,WGAN_GP,Mean_Distance,3.055943100071951,,1,3.055943100071951,3.055943100071951,0.9999459147491964
+10. Metro interstate,WGAN_GP,Median_Distance,3.011558095334109,,1,3.011558095334109,3.011558095334109,0.9999348902409452
+10. Metro interstate,WGAN_GP,Min_Distance,0.4950530136508738,,1,0.4950530136508738,0.4950530136508738,0.9994883472026969
+10. Metro interstate,WGAN_GP,NNDR,,,0,,,
+10. Metro interstate,WGAN_GP,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+10. Metro interstate,WGAN_GP,Std_Distance,1.193018101731685,,1,1.193018101731685,1.193018101731685,0.9999824942111714
+11. online shopping,CTABGAN,MIA_AUC,,,0,,,
+11. online shopping,CTABGAN,Mahalanobis_Distance,,,0,,,
+11. online shopping,CTABGAN,NNDR,,,0,,,
+11. online shopping,CTGAN,MIA_AUC,,,0,,,
+11. online shopping,CTGAN,Mahalanobis_Distance,,,0,,,
+11. online shopping,CTGAN,NNDR,,,0,,,
+11. online shopping,CopulaGAN,MIA_AUC,,,0,,,
+11. online shopping,CopulaGAN,Mahalanobis_Distance,,,0,,,
+11. online shopping,CopulaGAN,NNDR,,,0,,,
+11. online shopping,ForestDiffusion,MIA_AUC,,,0,,,
+11. online shopping,ForestDiffusion,Mahalanobis_Distance,,,0,,,
+11. online shopping,ForestDiffusion,NNDR,,,0,,,
+11. online shopping,GaussianCopula,MIA_AUC,,,0,,,
+11. online shopping,GaussianCopula,Mahalanobis_Distance,,,0,,,
+11. online shopping,GaussianCopula,NNDR,,,0,,,
+11. online shopping,TVAE,MIA_AUC,,,0,,,
+11. online shopping,TVAE,Mahalanobis_Distance,,,0,,,
+11. online shopping,TVAE,NNDR,,,0,,,
+11. online shopping,TabDDPM,MIA_AUC,,,0,,,
+11. online shopping,TabDDPM,Mahalanobis_Distance,,,0,,,
+11. online shopping,TabDDPM,NNDR,,,0,,,
+11. online shopping,WGAN_GP,MIA_AUC,,,0,,,
+11. online shopping,WGAN_GP,Mahalanobis_Distance,,,0,,,
+11. online shopping,WGAN_GP,NNDR,,,0,,,
+12. Air Quality,CTABGAN,MIA_AUC,,,0,,,
+12. Air Quality,CTABGAN,Mahalanobis_Distance,,,0,,,
+12. Air Quality,CTABGAN,NNDR,,,0,,,
+12. Air Quality,CTGAN,MIA_AUC,,,0,,,
+12. Air Quality,CTGAN,Mahalanobis_Distance,,,0,,,
+12. Air Quality,CTGAN,Max_Distance,1631.648555219604,,1,1631.648555219604,1631.648555219604,0.9883089670024917
+12. Air Quality,CTGAN,Mean_Distance,145.4258331068809,,1,145.4258331068809,145.4258331068809,0.9971607427762266
+12. Air Quality,CTGAN,Median_Distance,51.13250143845033,,1,51.13250143845033,51.13250143845033,0.998881615695517
+12. Air Quality,CTGAN,Min_Distance,0.6236647882930503,,1,0.6236647882930503,0.6236647882930503,0.999355422904799
+12. Air Quality,CTGAN,NNDR,,,0,,,
+12. Air Quality,CTGAN,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+12. Air Quality,CTGAN,Std_Distance,273.4387842080232,,1,273.4387842080232,273.4387842080232,0.9921832364778217
+12. Air Quality,CopulaGAN,MIA_AUC,,,0,,,
+12. Air Quality,CopulaGAN,Mahalanobis_Distance,,,0,,,
+12. Air Quality,CopulaGAN,Max_Distance,341.5978979982923,,1,341.5978979982923,341.5978979982923,0.997576014163155
+12. Air Quality,CopulaGAN,Mean_Distance,42.25175791284352,,1,42.25175791284352,42.25175791284352,0.9991791298281079
+12. Air Quality,CopulaGAN,Median_Distance,32.09349378292053,,1,32.09349378292053,32.09349378292053,0.9992983428155736
+12. Air Quality,CopulaGAN,Min_Distance,1.115993466345588,,1,1.115993466345588,1.115993466345588,0.9988465857936775
+12. Air Quality,CopulaGAN,NNDR,,,0,,,
+12. Air Quality,CopulaGAN,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+12. Air Quality,CopulaGAN,Std_Distance,38.98403143773134,,1,38.98403143773134,38.98403143773134,0.9988998626711942
+12. Air Quality,ForestDiffusion,Hungarian_Cosine_Similarity,,,0,,,
+12. Air Quality,ForestDiffusion,MIA_AUC,,,0,,,
+12. Air Quality,ForestDiffusion,Mahalanobis_Distance,,,0,,,
+12. Air Quality,ForestDiffusion,NNDR,,,0,,,
+12. Air Quality,GaussianCopula,MIA_AUC,,,0,,,
+12. Air Quality,GaussianCopula,Mahalanobis_Distance,,,0,,,
+12. Air Quality,GaussianCopula,Max_Distance,236.3365387328331,,1,236.3365387328331,236.3365387328331,0.9983321565479893
+12. Air Quality,GaussianCopula,Mean_Distance,18.53194361248073,,1,18.53194361248073,18.53194361248073,0.9996431588583351
+12. Air Quality,GaussianCopula,Median_Distance,14.14205360573295,,1,14.14205360573295,14.14205360573295,0.9996912651832335
+12. Air Quality,GaussianCopula,Min_Distance,0.03061025601935997,,1,0.03061025601935997,0.03061025601935997,0.9999683633415278
+12. Air Quality,GaussianCopula,NNDR,,,0,,,
+12. Air Quality,GaussianCopula,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+12. Air Quality,GaussianCopula,Std_Distance,20.51828447876321,,1,20.51828447876321,20.51828447876321,0.9994288667465618
+12. Air Quality,TVAE,MIA_AUC,,,0,,,
+12. Air Quality,TVAE,Mahalanobis_Distance,,,0,,,
+12. Air Quality,TVAE,Max_Distance,245.3039008844068,,1,245.3039008844068,245.3039008844068,0.9982677397225723
+12. Air Quality,TVAE,Mean_Distance,20.60500284182482,,1,20.60500284182482,20.60500284182482,0.9996026037489394
+12. Air Quality,TVAE,Median_Distance,16.21327998067885,,1,16.21327998067885,16.21327998067885,0.9996459300366842
+12. Air Quality,TVAE,Min_Distance,0.8544464882895672,,1,0.8544464882895672,0.8544464882895672,0.9991169027885416
+12. Air Quality,TVAE,NNDR,,,0,,,
+12. Air Quality,TVAE,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+12. Air Quality,TVAE,Std_Distance,19.75701051960114,,1,19.75701051960114,19.75701051960114,0.9994506756139617
+12. Air Quality,TabDDPM,Hungarian_Cosine_Similarity,,,0,,,
+12. Air Quality,TabDDPM,MIA_AUC,,,0,,,
+12. Air Quality,TabDDPM,Mahalanobis_Distance,,,0,,,
+12. Air Quality,TabDDPM,NNDR,,,0,,,
+12. Air Quality,WGAN_GP,MIA_AUC,,,0,,,
+12. Air Quality,WGAN_GP,Mahalanobis_Distance,,,0,,,
+12. Air Quality,WGAN_GP,NNDR,,,0,,,
+13. Concrete Compressive Strength,CTABGAN,Hungarian_Cosine_Similarity,,,0,,,
+13. Concrete Compressive Strength,CTABGAN,MIA_AUC,,,0,,,
+13. Concrete Compressive Strength,CTABGAN,Mahalanobis_Distance,,,0,,,
+13. Concrete Compressive Strength,CTABGAN,NNDR,,,0,,,
+13. Concrete Compressive Strength,CTGAN,MIA_AUC,,,0,,,
+13. Concrete Compressive Strength,CTGAN,Mahalanobis_Distance,,,0,,,
+13. Concrete Compressive Strength,CTGAN,Max_Distance,19.38115293828775,,1,19.38115293828775,19.38115293828775,0.9998906502247017
+13. Concrete Compressive Strength,CTGAN,Mean_Distance,5.018744814748363,,1,5.018744814748363,5.018744814748363,0.9999075165996723
+13. Concrete Compressive Strength,CTGAN,Median_Distance,4.188352080310691,,1,4.188352080310691,4.188352080310691,0.9999091324925828
+13. Concrete Compressive Strength,CTGAN,Min_Distance,0.4807200150378232,,1,0.4807200150378232,0.4807200150378232,0.9995031608057493
+13. Concrete Compressive Strength,CTGAN,NNDR,,,0,,,
+13. Concrete Compressive Strength,CTGAN,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+13. Concrete Compressive Strength,CTGAN,Std_Distance,3.17729807383716,,1,3.17729807383716,3.17729807383716,0.9999256488425953
+13. Concrete Compressive Strength,CopulaGAN,MIA_AUC,,,0,,,
+13. Concrete Compressive Strength,CopulaGAN,Mahalanobis_Distance,,,0,,,
+13. Concrete Compressive Strength,CopulaGAN,Max_Distance,32.87737528060236,,1,32.87737528060236,32.87737528060236,0.9997937004435152
+13. Concrete Compressive Strength,CopulaGAN,Mean_Distance,6.507187039173957,,1,6.507187039173957,6.507187039173957,0.9998783983109198
+13. Concrete Compressive Strength,CopulaGAN,Median_Distance,5.487956188098216,,1,5.487956188098216,5.487956188098216,0.9998806866677347
+13. Concrete Compressive Strength,CopulaGAN,Min_Distance,0.6220992977117284,,1,0.6220992977117284,0.6220992977117284,0.9993570408883543
+13. Concrete Compressive Strength,CopulaGAN,NNDR,,,0,,,
+13. Concrete Compressive Strength,CopulaGAN,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+13. Concrete Compressive Strength,CopulaGAN,Std_Distance,4.199989167007964,,1,4.199989167007964,4.199989167007964,0.9998963509345642
+13. Concrete Compressive Strength,ForestDiffusion,Hungarian_Cosine_Similarity,,,0,,,
+13. Concrete Compressive Strength,ForestDiffusion,MIA_AUC,,,0,,,
+13. Concrete Compressive Strength,ForestDiffusion,Mahalanobis_Distance,,,0,,,
+13. Concrete Compressive Strength,ForestDiffusion,NNDR,,,0,,,
+13. Concrete Compressive Strength,GaussianCopula,MIA_AUC,,,0,,,
+13. Concrete Compressive Strength,GaussianCopula,Mahalanobis_Distance,,,0,,,
+13. Concrete Compressive Strength,GaussianCopula,Max_Distance,11.44347005756497,,1,11.44347005756497,11.44347005756497,0.9999476703744069
+13. Concrete Compressive Strength,GaussianCopula,Mean_Distance,3.68576914499426,,1,3.68576914499426,3.68576914499426,0.9999335935073377
+13. Concrete Compressive Strength,GaussianCopula,Median_Distance,3.344362097052171,,1,3.344362097052171,3.344362097052171,0.9999276058038732
+13. Concrete Compressive Strength,GaussianCopula,Min_Distance,0.709740688442712,,1,0.709740688442712,0.709740688442712,0.9992664607656391
+13. Concrete Compressive Strength,GaussianCopula,NNDR,,,0,,,
+13. Concrete Compressive Strength,GaussianCopula,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+13. Concrete Compressive Strength,GaussianCopula,Std_Distance,1.862690496487484,,1,1.862690496487484,1.862690496487484,0.9999633095322751
+13. Concrete Compressive Strength,TVAE,MIA_AUC,,,0,,,
+13. Concrete Compressive Strength,TVAE,Mahalanobis_Distance,,,0,,,
+13. Concrete Compressive Strength,TVAE,Max_Distance,15.59087513821607,,1,15.59087513821607,15.59087513821607,0.999917877592037
+13. Concrete Compressive Strength,TVAE,Mean_Distance,3.145877314034491,,1,3.145877314034491,3.145877314034491,0.9999441553726025
+13. Concrete Compressive Strength,TVAE,Median_Distance,2.591223379637454,,1,2.591223379637454,2.591223379637454,0.9999440905563556
+13. Concrete Compressive Strength,TVAE,Min_Distance,0.1708559120302635,,1,0.1708559120302635,0.1708559120302635,0.9998234150628004
+13. Concrete Compressive Strength,TVAE,NNDR,,,0,,,
+13. Concrete Compressive Strength,TVAE,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+13. Concrete Compressive Strength,TVAE,Std_Distance,2.176961567635944,,1,2.176961567635944,2.176961567635944,0.9999543063396191
+13. Concrete Compressive Strength,TabDDPM,Hungarian_Cosine_Similarity,,,0,,,
+13. Concrete Compressive Strength,TabDDPM,MIA_AUC,,,0,,,
+13. Concrete Compressive Strength,TabDDPM,Mahalanobis_Distance,,,0,,,
+13. Concrete Compressive Strength,TabDDPM,NNDR,,,0,,,
+13. Concrete Compressive Strength,WGAN_GP,Hungarian_Cosine_Similarity,,,0,,,
+13. Concrete Compressive Strength,WGAN_GP,MIA_AUC,,,0,,,
+13. Concrete Compressive Strength,WGAN_GP,Mahalanobis_Distance,,,0,,,
+13. Concrete Compressive Strength,WGAN_GP,NNDR,,,0,,,
+14. Energy Efficiency,CTABGAN,Hungarian_Cosine_Similarity,,,0,,,
+14. Energy Efficiency,CTABGAN,MIA_AUC,,,0,,,
+14. Energy Efficiency,CTABGAN,Mahalanobis_Distance,,,0,,,
+14. Energy Efficiency,CTABGAN,NNDR,,,0,,,
+14. Energy Efficiency,CTGAN,MIA_AUC,,,0,,,
+14. Energy Efficiency,CTGAN,Mahalanobis_Distance,,,0,,,
+14. Energy Efficiency,CTGAN,Max_Distance,139212.5424813092,,1,139212.5424813092,139212.5424813092,0.0
+14. Energy Efficiency,CTGAN,Mean_Distance,45637.72490186258,,1,45637.72490186258,45637.72490186258,0.10719815064247906
+14. Energy Efficiency,CTGAN,Median_Distance,40179.76135793436,,1,40179.76135793436,40179.76135793436,0.12054340407509045
+14. Energy Efficiency,CTGAN,Min_Distance,163.3012710646189,,1,163.3012710646189,163.3012710646189,0.8312230208898661
+14. Energy Efficiency,CTGAN,NNDR,,,0,,,
+14. Energy Efficiency,CTGAN,Num_Matches,768.0,,1,768.0,768.0,0.021183032123129726
+14. Energy Efficiency,CTGAN,Std_Distance,31959.10235550683,,1,31959.10235550683,31959.10235550683,0.08445688253230077
+14. Energy Efficiency,CopulaGAN,MIA_AUC,,,0,,,
+14. Energy Efficiency,CopulaGAN,Mahalanobis_Distance,,,0,,,
+14. Energy Efficiency,CopulaGAN,Max_Distance,136673.2393047267,,1,136673.2393047267,136673.2393047267,0.018241021901650112
+14. Energy Efficiency,CopulaGAN,Mean_Distance,51117.38255461063,,1,51117.38255461063,51117.38255461063,0.0
+14. Energy Efficiency,CopulaGAN,Median_Distance,45687.0266223065,,1,45687.0266223065,45687.0266223065,0.0
+14. Energy Efficiency,CopulaGAN,Min_Distance,83.18681620943852,,1,83.18681620943852,83.18681620943852,0.9140238195937663
+14. Energy Efficiency,CopulaGAN,NNDR,,,0,,,
+14. Energy Efficiency,CopulaGAN,Num_Matches,768.0,,1,768.0,768.0,0.021183032123129726
+14. Energy Efficiency,CopulaGAN,Std_Distance,34907.20709496645,,1,34907.20709496645,34907.20709496645,0.0
+14. Energy Efficiency,ForestDiffusion,Hungarian_Cosine_Similarity,,,0,,,
+14. Energy Efficiency,ForestDiffusion,MIA_AUC,,,0,,,
+14. Energy Efficiency,ForestDiffusion,Mahalanobis_Distance,,,0,,,
+14. Energy Efficiency,ForestDiffusion,NNDR,,,0,,,
+14. Energy Efficiency,GaussianCopula,MIA_AUC,,,0,,,
+14. Energy Efficiency,GaussianCopula,Mahalanobis_Distance,,,0,,,
+14. Energy Efficiency,GaussianCopula,Max_Distance,78628.54817660141,,1,78628.54817660141,78628.54817660141,0.43520363271034335
+14. Energy Efficiency,GaussianCopula,Mean_Distance,21169.76852420071,,1,21169.76852420071,21169.76852420071,0.5858630308053496
+14. Energy Efficiency,GaussianCopula,Median_Distance,19420.35551369582,,1,19420.35551369582,19420.35551369582,0.5749267190081018
+14. Energy Efficiency,GaussianCopula,Min_Distance,10.04690247607567,,1,10.04690247607567,10.04690247607567,0.9896162115685236
+14. Energy Efficiency,GaussianCopula,NNDR,,,0,,,
+14. Energy Efficiency,GaussianCopula,Num_Matches,768.0,,1,768.0,768.0,0.021183032123129726
+14. Energy Efficiency,GaussianCopula,Std_Distance,15140.18999856453,,1,15140.18999856453,15140.18999856453,0.566282675978062
+14. Energy Efficiency,TVAE,MIA_AUC,,,0,,,
+14. Energy Efficiency,TVAE,Mahalanobis_Distance,,,0,,,
+14. Energy Efficiency,TVAE,Max_Distance,99800.2871555502,,1,99800.2871555502,99800.2871555502,0.28311696658378027
+14. Energy Efficiency,TVAE,Mean_Distance,18868.03098811942,,1,18868.03098811942,18868.03098811942,0.630891757555925
+14. Energy Efficiency,TVAE,Median_Distance,14472.38954821747,,1,14472.38954821747,14472.38954821747,0.6832281412375703
+14. Energy Efficiency,TVAE,Min_Distance,41.0074285257206,,1,41.0074285257206,41.0074285257206,0.957617538047777
+14. Energy Efficiency,TVAE,NNDR,,,0,,,
+14. Energy Efficiency,TVAE,Num_Matches,768.0,,1,768.0,768.0,0.021183032123129726
+14. Energy Efficiency,TVAE,Std_Distance,16774.04993850178,,1,16774.04993850178,16774.04993850178,0.5194760903182846
+14. Energy Efficiency,TabDDPM,Hungarian_Cosine_Similarity,,,0,,,
+14. Energy Efficiency,TabDDPM,MIA_AUC,,,0,,,
+14. Energy Efficiency,TabDDPM,Mahalanobis_Distance,,,0,,,
+14. Energy Efficiency,TabDDPM,NNDR,,,0,,,
+14. Energy Efficiency,WGAN_GP,Hungarian_Cosine_Similarity,,,0,,,
+14. Energy Efficiency,WGAN_GP,MIA_AUC,,,0,,,
+14. Energy Efficiency,WGAN_GP,Mahalanobis_Distance,,,0,,,
+14. Energy Efficiency,WGAN_GP,NNDR,,,0,,,
+15. Real Estate Valuation,CTABGAN,Hungarian_Cosine_Similarity,,,0,,,
+15. Real Estate Valuation,CTABGAN,MIA_AUC,,,0,,,
+15. Real Estate Valuation,CTABGAN,Mahalanobis_Distance,,,0,,,
+15. Real Estate Valuation,CTABGAN,NNDR,,,0,,,
+15. Real Estate Valuation,CTGAN,MIA_AUC,,,0,,,
+15. Real Estate Valuation,CTGAN,Mahalanobis_Distance,,,0,,,
+15. Real Estate Valuation,CTGAN,Max_Distance,34799.95070839091,,1,34799.95070839091,34799.95070839091,0.750045284431586
+15. Real Estate Valuation,CTGAN,Mean_Distance,16692.75223370301,,1,16692.75223370301,16692.75223370301,0.6734465802077327
+15. Real Estate Valuation,CTGAN,Median_Distance,14914.35317514412,,1,14914.35317514412,14914.35317514412,0.6735544107180389
+15. Real Estate Valuation,CTGAN,Min_Distance,967.5565466665817,,1,967.5565466665817,967.5565466665817,0.0
+15. Real Estate Valuation,CTGAN,NNDR,,,0,,,
+15. Real Estate Valuation,CTGAN,Num_Matches,414.0,,1,414.0,414.0,0.00219874510645144
+15. Real Estate Valuation,CTGAN,Std_Distance,9654.142646979984,,1,9654.142646979984,9654.142646979984,0.7234461751366248
+15. Real Estate Valuation,CopulaGAN,MIA_AUC,,,0,,,
+15. Real Estate Valuation,CopulaGAN,Mahalanobis_Distance,,,0,,,
+15. Real Estate Valuation,CopulaGAN,Max_Distance,34802.39736587837,,1,34802.39736587837,34802.39736587837,0.7500277089277131
+15. Real Estate Valuation,CopulaGAN,Mean_Distance,16693.83443314724,,1,16693.83443314724,16693.83443314724,0.6734254092174264
+15. Real Estate Valuation,CopulaGAN,Median_Distance,14909.91509159214,,1,14909.91509159214,14909.91509159214,0.6736515517986377
+15. Real Estate Valuation,CopulaGAN,Min_Distance,966.9373535151608,,1,966.9373535151608,966.9373535151608,0.0006399555184181116
+15. Real Estate Valuation,CopulaGAN,NNDR,,,0,,,
+15. Real Estate Valuation,CopulaGAN,Num_Matches,414.0,,1,414.0,414.0,0.00219874510645144
+15. Real Estate Valuation,CopulaGAN,Std_Distance,9654.691532386054,,1,9654.691532386054,9654.691532386054,0.7234304507460888
+15. Real Estate Valuation,ForestDiffusion,Hungarian_Cosine_Similarity,,,0,,,
+15. Real Estate Valuation,ForestDiffusion,MIA_AUC,,,0,,,
+15. Real Estate Valuation,ForestDiffusion,Mahalanobis_Distance,,,0,,,
+15. Real Estate Valuation,ForestDiffusion,NNDR,,,0,,,
+15. Real Estate Valuation,GaussianCopula,MIA_AUC,,,0,,,
+15. Real Estate Valuation,GaussianCopula,Mahalanobis_Distance,,,0,,,
+15. Real Estate Valuation,GaussianCopula,Max_Distance,34803.0004263523,,1,34803.0004263523,34803.0004263523,0.7500233768576341
+15. Real Estate Valuation,GaussianCopula,Mean_Distance,16693.55375105767,,1,16693.55375105767,16693.55375105767,0.6734309001810646
+15. Real Estate Valuation,GaussianCopula,Median_Distance,14913.68004610379,,1,14913.68004610379,14913.68004610379,0.6735691442131599
+15. Real Estate Valuation,GaussianCopula,Min_Distance,966.9756943318247,,1,966.9756943318247,966.9756943318247,0.0006003290833576092
+15. Real Estate Valuation,GaussianCopula,NNDR,,,0,,,
+15. Real Estate Valuation,GaussianCopula,Num_Matches,414.0,,1,414.0,414.0,0.00219874510645144
+15. Real Estate Valuation,GaussianCopula,Std_Distance,9654.578142422311,,1,9654.578142422311,9654.578142422311,0.7234336991255375
+15. Real Estate Valuation,TVAE,MIA_AUC,,,0,,,
+15. Real Estate Valuation,TVAE,Mahalanobis_Distance,,,0,,,
+15. Real Estate Valuation,TVAE,Max_Distance,34800.98809171184,,1,34800.98809171184,34800.98809171184,0.75003783241402
+15. Real Estate Valuation,TVAE,Mean_Distance,16693.78910852161,,1,16693.78910852161,16693.78910852161,0.6734262958998352
+15. Real Estate Valuation,TVAE,Median_Distance,14913.64803848199,,1,14913.64803848199,14913.64803848199,0.6735698447982059
+15. Real Estate Valuation,TVAE,Min_Distance,967.339248023518,,1,967.339248023518,967.339248023518,0.00022458495455612848
+15. Real Estate Valuation,TVAE,NNDR,,,0,,,
+15. Real Estate Valuation,TVAE,Num_Matches,414.0,,1,414.0,414.0,0.00219874510645144
+15. Real Estate Valuation,TVAE,Std_Distance,9654.601567840991,,1,9654.601567840991,9654.601567840991,0.7234330280374967
+15. Real Estate Valuation,TabDDPM,Hungarian_Cosine_Similarity,,,0,,,
+15. Real Estate Valuation,TabDDPM,MIA_AUC,,,0,,,
+15. Real Estate Valuation,TabDDPM,Mahalanobis_Distance,,,0,,,
+15. Real Estate Valuation,TabDDPM,NNDR,,,0,,,
+15. Real Estate Valuation,WGAN_GP,Hungarian_Cosine_Similarity,,,0,,,
+15. Real Estate Valuation,WGAN_GP,MIA_AUC,,,0,,,
+15. Real Estate Valuation,WGAN_GP,Mahalanobis_Distance,,,0,,,
+15. Real Estate Valuation,WGAN_GP,NNDR,,,0,,,
+2. Alzhimers,CTABGAN,Hungarian_Cosine_Similarity,,,0,,,
+2. Alzhimers,CTABGAN,MIA_AUC,,,0,,,
+2. Alzhimers,CTABGAN,Mahalanobis_Distance,,,0,,,
+2. Alzhimers,CTABGAN,NNDR,,,0,,,
+2. Alzhimers,CTGAN,Hungarian_Cosine_Similarity,,,0,,,
+2. Alzhimers,CTGAN,MIA_AUC,,,0,,,
+2. Alzhimers,CTGAN,Mahalanobis_Distance,,,0,,,
+2. Alzhimers,CTGAN,NNDR,,,0,,,
+2. Alzhimers,CopulaGAN,Hungarian_Cosine_Similarity,,,0,,,
+2. Alzhimers,CopulaGAN,MIA_AUC,,,0,,,
+2. Alzhimers,CopulaGAN,Mahalanobis_Distance,,,0,,,
+2. Alzhimers,CopulaGAN,NNDR,,,0,,,
+2. Alzhimers,ForestDiffusion,Hungarian_Cosine_Similarity,,,0,,,
+2. Alzhimers,ForestDiffusion,MIA_AUC,,,0,,,
+2. Alzhimers,ForestDiffusion,Mahalanobis_Distance,,,0,,,
+2. Alzhimers,ForestDiffusion,NNDR,,,0,,,
+2. Alzhimers,GaussianCopula,Hungarian_Cosine_Similarity,,,0,,,
+2. Alzhimers,GaussianCopula,MIA_AUC,,,0,,,
+2. Alzhimers,GaussianCopula,Mahalanobis_Distance,,,0,,,
+2. Alzhimers,GaussianCopula,NNDR,,,0,,,
+2. Alzhimers,TVAE,Hungarian_Cosine_Similarity,,,0,,,
+2. Alzhimers,TVAE,MIA_AUC,,,0,,,
+2. Alzhimers,TVAE,Mahalanobis_Distance,,,0,,,
+2. Alzhimers,TVAE,NNDR,,,0,,,
+2. Alzhimers,TabDDPM,Hungarian_Cosine_Similarity,,,0,,,
+2. Alzhimers,TabDDPM,MIA_AUC,,,0,,,
+2. Alzhimers,TabDDPM,Mahalanobis_Distance,,,0,,,
+2. Alzhimers,TabDDPM,NNDR,,,0,,,
+2. Alzhimers,WGAN_GP,Hungarian_Cosine_Similarity,,,0,,,
+2. Alzhimers,WGAN_GP,MIA_AUC,,,0,,,
+2. Alzhimers,WGAN_GP,Mahalanobis_Distance,,,0,,,
+2. Alzhimers,WGAN_GP,NNDR,,,0,,,
+3. Adult,CTABGAN,Hungarian_Cosine_Similarity,,,0,,,
+3. Adult,CTABGAN,MIA_AUC,,,0,,,
+3. Adult,CTABGAN,Mahalanobis_Distance,,,0,,,
+3. Adult,CTABGAN,Max_Distance,21.70332989594829,,1,21.70332989594829,21.70332989594829,0.9998739689236523
+3. Adult,CTABGAN,Mean_Distance,1.900368703607661,,1,1.900368703607661,1.900368703607661,0.9999685211684438
+3. Adult,CTABGAN,Median_Distance,1.392402170617326,,1,1.392402170617326,1.392402170617326,0.9999703304381256
+3. Adult,CTABGAN,Min_Distance,0.01033496655930939,,1,0.01033496655930939,0.01033496655930939,0.9999893184883148
+3. Adult,CTABGAN,NNDR,,,0,,,
+3. Adult,CTABGAN,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+3. Adult,CTABGAN,Std_Distance,1.586734710131236,,1,1.586734710131236,1.586734710131236,0.9999712150741374
+3. Adult,CTGAN,Max_Distance,15.06108094376583,,1,15.06108094376583,15.06108094376583,0.9999216833555997
+3. Adult,CTGAN,Mean_Distance,0.5670428276435363,,1,0.5670428276435363,0.5670428276435363,0.9999946049271683
+3. Adult,CTGAN,Median_Distance,0.4104469153772259,,1,0.4104469153772259,0.4104469153772259,0.9999918235428579
+3. Adult,CTGAN,Min_Distance,0.0002868563845508005,,1,0.0002868563845508005,0.0002868563845508005,0.9999997035249407
+3. Adult,CTGAN,NNDR,,,0,,,
+3. Adult,CTGAN,Num_Matches,5000.0,,1,5000.0,5000.0,0.24813642945245884
+3. Adult,CTGAN,Std_Distance,1.060589317432464,,1,1.060589317432464,1.060589317432464,0.9999862880120257
+3. Adult,CopulaGAN,Max_Distance,13.66738856504855,,1,13.66738856504855,13.66738856504855,0.9999316949105171
+3. Adult,CopulaGAN,Mean_Distance,0.7419051147945169,,1,0.7419051147945169,0.7419051147945169,0.9999911841087545
+3. Adult,CopulaGAN,Median_Distance,0.4170754458190325,,1,0.4170754458190325,0.4170754458190325,0.9999916784571238
+3. Adult,CopulaGAN,Min_Distance,4.780939742513341e-05,,1,4.780939742513341e-05,4.780939742513341e-05,0.9999999505874901
+3. Adult,CopulaGAN,NNDR,,,0,,,
+3. Adult,CopulaGAN,Num_Matches,5000.0,,1,5000.0,5000.0,0.24813642945245884
+3. Adult,CopulaGAN,Std_Distance,1.305542782528225,,1,1.305542782528225,1.305542782528225,0.9999792706202246
+3. Adult,ForestDiffusion,Hungarian_Cosine_Similarity,,,0,,,
+3. Adult,ForestDiffusion,MIA_AUC,,,0,,,
+3. Adult,ForestDiffusion,Mahalanobis_Distance,,,0,,,
+3. Adult,ForestDiffusion,Max_Distance,10.6774785096172,,1,10.6774785096172,10.6774785096172,0.999953172855848
+3. Adult,ForestDiffusion,Mean_Distance,0.6835758842400371,,1,0.6835758842400371,0.6835758842400371,0.999992325199319
+3. Adult,ForestDiffusion,Median_Distance,0.4777613417881171,,1,0.4777613417881171,0.4777613417881171,0.9999903501600238
+3. Adult,ForestDiffusion,Min_Distance,0.01137725233505915,,1,0.01137725233505915,0.01137725233505915,0.9999882412533156
+3. Adult,ForestDiffusion,NNDR,,,0,,,
+3. Adult,ForestDiffusion,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+3. Adult,ForestDiffusion,Std_Distance,0.8741509346586925,,1,0.8741509346586925,0.8741509346586925,0.9999916290721254
+3. Adult,GaussianCopula,Max_Distance,17.36278146274149,,1,17.36278146274149,17.36278146274149,0.9999051491465439
+3. Adult,GaussianCopula,Mean_Distance,4.19803643203102,,1,4.19803643203102,4.19803643203102,0.9999235720590494
+3. Adult,GaussianCopula,Median_Distance,2.38561017088838,,1,2.38561017088838,2.38561017088838,0.9999485910325294
+3. Adult,GaussianCopula,Min_Distance,0.01736510564811326,,1,0.01736510564811326,0.01736510564811326,0.9999820526193451
+3. Adult,GaussianCopula,NNDR,,,0,,,
+3. Adult,GaussianCopula,Num_Matches,5000.0,,1,5000.0,5000.0,0.24813642945245884
+3. Adult,GaussianCopula,Std_Distance,4.239239230471852,,1,4.239239230471852,4.239239230471852,0.999895226504365
+3. Adult,TVAE,Max_Distance,13.33098738568946,,1,13.33098738568946,13.33098738568946,0.9999341114401136
+3. Adult,TVAE,Mean_Distance,0.9101013588357215,,1,0.9101013588357215,0.9101013588357215,0.9999878936976653
+3. Adult,TVAE,Median_Distance,0.5371962923456648,,1,0.5371962923456648,0.5371962923456648,0.9999890492437038
+3. Adult,TVAE,Min_Distance,9.561879485026683e-06,,1,9.561879485026683e-06,9.561879485026683e-06,0.9999999901174981
+3. Adult,TVAE,NNDR,,,0,,,
+3. Adult,TVAE,Num_Matches,5000.0,,1,5000.0,5000.0,0.24813642945245884
+3. Adult,TVAE,Std_Distance,1.279057538934729,,1,1.279057538934729,1.279057538934729,0.9999800293656915
+3. Adult,TabDDPM,Hungarian_Cosine_Similarity,,,0,,,
+3. Adult,TabDDPM,MIA_AUC,,,0,,,
+3. Adult,TabDDPM,Mahalanobis_Distance,,,0,,,
+3. Adult,TabDDPM,Max_Distance,16.15190096990098,,1,16.15190096990098,16.15190096990098,0.9999138474767764
+3. Adult,TabDDPM,Mean_Distance,10.02406682273864,,1,10.02406682273864,10.02406682273864,0.9998095978433139
+3. Adult,TabDDPM,Median_Distance,9.18572714180181,,1,9.18572714180181,9.18572714180181,0.999799749600633
+3. Adult,TabDDPM,Min_Distance,1.828476870313239,,1,1.828476870313239,1.828476870313239,0.9981102118769051
+3. Adult,TabDDPM,NNDR,,,0,,,
+3. Adult,TabDDPM,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+3. Adult,TabDDPM,Std_Distance,3.99460171230777,,1,3.99460171230777,3.99460171230777,0.9999022348449637
+3. Adult,WGAN_GP,Hungarian_Cosine_Similarity,,,0,,,
+3. Adult,WGAN_GP,MIA_AUC,,,0,,,
+3. Adult,WGAN_GP,Mahalanobis_Distance,,,0,,,
+3. Adult,WGAN_GP,Max_Distance,22.67444544813118,,1,22.67444544813118,22.67444544813118,0.9998669929389729
+3. Adult,WGAN_GP,Mean_Distance,1.872853483265076,,1,1.872853483265076,1.872853483265076,0.999969059446731
+3. Adult,WGAN_GP,Median_Distance,1.720587185328645,,1,1.720587185328645,1.720587185328645,0.9999631471017615
+3. Adult,WGAN_GP,Min_Distance,0.29133330675486,,1,0.29133330675486,0.29133330675486,0.9996988979013594
+3. Adult,WGAN_GP,NNDR,,,0,,,
+3. Adult,WGAN_GP,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+3. Adult,WGAN_GP,Std_Distance,1.099480401568784,,1,1.099480401568784,1.099480401568784,0.999985173865815
+4. Forest cover dataset,CTABGAN,Hungarian_Cosine_Similarity,,,0,,,
+4. Forest cover dataset,CTABGAN,MIA_AUC,,,0,,,
+4. Forest cover dataset,CTABGAN,Mahalanobis_Distance,,,0,,,
+4. Forest cover dataset,CTABGAN,NNDR,,,0,,,
+4. Forest cover dataset,CTGAN,Hungarian_Cosine_Similarity,,,0,,,
+4. Forest cover dataset,CTGAN,MIA_AUC,,,0,,,
+4. Forest cover dataset,CTGAN,Mahalanobis_Distance,,,0,,,
+4. Forest cover dataset,CTGAN,NNDR,,,0,,,
+4. Forest cover dataset,CopulaGAN,Hungarian_Cosine_Similarity,,,0,,,
+4. Forest cover dataset,CopulaGAN,MIA_AUC,,,0,,,
+4. Forest cover dataset,CopulaGAN,Mahalanobis_Distance,,,0,,,
+4. Forest cover dataset,CopulaGAN,NNDR,,,0,,,
+4. Forest cover dataset,ForestDiffusion,Hungarian_Cosine_Similarity,,,0,,,
+4. Forest cover dataset,ForestDiffusion,MIA_AUC,,,0,,,
+4. Forest cover dataset,ForestDiffusion,Mahalanobis_Distance,,,0,,,
+4. Forest cover dataset,ForestDiffusion,Max_Distance,500.0924309394063,,1,500.0924309394063,500.0924309394063,0.9964374725847674
+4. Forest cover dataset,ForestDiffusion,Mean_Distance,10.21356345113765,,1,10.21356345113765,10.21356345113765,0.9998058907343292
+4. Forest cover dataset,ForestDiffusion,Median_Distance,1.699339086465347,,1,1.699339086465347,1.699339086465347,0.9999636121816231
+4. Forest cover dataset,ForestDiffusion,Min_Distance,0.05810991346786293,,1,0.05810991346786293,0.05810991346786293,0.9999399415841193
+4. Forest cover dataset,ForestDiffusion,NNDR,,,0,,,
+4. Forest cover dataset,ForestDiffusion,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+4. Forest cover dataset,ForestDiffusion,Std_Distance,62.4925559907472,,1,62.4925559907472,62.4925559907472,0.9982263938252245
+4. Forest cover dataset,GaussianCopula,Hungarian_Cosine_Similarity,,,0,,,
+4. Forest cover dataset,GaussianCopula,MIA_AUC,,,0,,,
+4. Forest cover dataset,GaussianCopula,Mahalanobis_Distance,,,0,,,
+4. Forest cover dataset,GaussianCopula,NNDR,,,0,,,
+4. Forest cover dataset,TVAE,Hungarian_Cosine_Similarity,,,0,,,
+4. Forest cover dataset,TVAE,MIA_AUC,,,0,,,
+4. Forest cover dataset,TVAE,Mahalanobis_Distance,,,0,,,
+4. Forest cover dataset,TVAE,NNDR,,,0,,,
+4. Forest cover dataset,TabDDPM,Hungarian_Cosine_Similarity,,,0,,,
+4. Forest cover dataset,TabDDPM,MIA_AUC,,,0,,,
+4. Forest cover dataset,TabDDPM,Mahalanobis_Distance,,,0,,,
+4. Forest cover dataset,TabDDPM,Max_Distance,1505.667604378023,,1,1505.667604378023,1505.667604378023,0.9892139480637074
+4. Forest cover dataset,TabDDPM,Mean_Distance,636.1192608076418,,1,636.1192608076418,636.1192608076418,0.9875613423546399
+4. Forest cover dataset,TabDDPM,Median_Distance,502.1413146161954,,1,502.1413146161954,502.1413146161954,0.9890099035119729
+4. Forest cover dataset,TabDDPM,Min_Distance,12.10694845771648,,1,12.10694845771648,12.10694845771648,0.9874870895148947
+4. Forest cover dataset,TabDDPM,NNDR,,,0,,,
+4. Forest cover dataset,TabDDPM,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+4. Forest cover dataset,TabDDPM,Std_Distance,409.4536736894076,,1,409.4536736894076,409.4536736894076,0.9882867013955305
+4. Forest cover dataset,WGAN_GP,Hungarian_Cosine_Similarity,,,0,,,
+4. Forest cover dataset,WGAN_GP,MIA_AUC,,,0,,,
+4. Forest cover dataset,WGAN_GP,Mahalanobis_Distance,,,0,,,
+4. Forest cover dataset,WGAN_GP,NNDR,,,0,,,
+5. Bank Markting,CTABGAN,Hungarian_Cosine_Similarity,,,0,,,
+5. Bank Markting,CTABGAN,MIA_AUC,,,0,,,
+5. Bank Markting,CTABGAN,Mahalanobis_Distance,,,0,,,
+5. Bank Markting,CTABGAN,NNDR,,,0,,,
+5. Bank Markting,CTGAN,MIA_AUC,,,0,,,
+5. Bank Markting,CTGAN,Mahalanobis_Distance,,,0,,,
+5. Bank Markting,CTGAN,NNDR,,,0,,,
+5. Bank Markting,CTGAN,Num_Matches,10000.0,,1,10000.0,10000.0,0.5162760765806832
+5. Bank Markting,CopulaGAN,MIA_AUC,,,0,,,
+5. Bank Markting,CopulaGAN,Mahalanobis_Distance,,,0,,,
+5. Bank Markting,CopulaGAN,NNDR,,,0,,,
+5. Bank Markting,CopulaGAN,Num_Matches,10000.0,,1,10000.0,10000.0,0.5162760765806832
+5. Bank Markting,ForestDiffusion,Hungarian_Cosine_Similarity,,,0,,,
+5. Bank Markting,ForestDiffusion,MIA_AUC,,,0,,,
+5. Bank Markting,ForestDiffusion,Mahalanobis_Distance,,,0,,,
+5. Bank Markting,ForestDiffusion,NNDR,,,0,,,
+5. Bank Markting,GaussianCopula,MIA_AUC,,,0,,,
+5. Bank Markting,GaussianCopula,Mahalanobis_Distance,,,0,,,
+5. Bank Markting,GaussianCopula,NNDR,,,0,,,
+5. Bank Markting,GaussianCopula,Num_Matches,10000.0,,1,10000.0,10000.0,0.5162760765806832
+5. Bank Markting,TVAE,MIA_AUC,,,0,,,
+5. Bank Markting,TVAE,Mahalanobis_Distance,,,0,,,
+5. Bank Markting,TVAE,NNDR,,,0,,,
+5. Bank Markting,TVAE,Num_Matches,10000.0,,1,10000.0,10000.0,0.5162760765806832
+5. Bank Markting,TabDDPM,Hungarian_Cosine_Similarity,,,0,,,
+5. Bank Markting,TabDDPM,MIA_AUC,,,0,,,
+5. Bank Markting,TabDDPM,Mahalanobis_Distance,,,0,,,
+5. Bank Markting,TabDDPM,NNDR,,,0,,,
+5. Bank Markting,WGAN_GP,Hungarian_Cosine_Similarity,,,0,,,
+5. Bank Markting,WGAN_GP,MIA_AUC,,,0,,,
+5. Bank Markting,WGAN_GP,Mahalanobis_Distance,,,0,,,
+5. Bank Markting,WGAN_GP,NNDR,,,0,,,
+6. Wine dataset,CTABGAN,Hungarian_Cosine_Similarity,,,0,,,
+6. Wine dataset,CTABGAN,MIA_AUC,,,0,,,
+6. Wine dataset,CTABGAN,Mahalanobis_Distance,,,0,,,
+6. Wine dataset,CTABGAN,NNDR,,,0,,,
+6. Wine dataset,CTGAN,MIA_AUC,,,0,,,
+6. Wine dataset,CTGAN,Mahalanobis_Distance,,,0,,,
+6. Wine dataset,CTGAN,Max_Distance,101.6373590977898,,1,101.6373590977898,101.6373590977898,0.9992997647912728
+6. Wine dataset,CTGAN,Mean_Distance,14.60013448951508,,1,14.60013448951508,14.60013448951508,0.9997200765589236
+6. Wine dataset,CTGAN,Median_Distance,12.45429771701559,,1,12.45429771701559,12.45429771701559,0.9997282069011838
+6. Wine dataset,CTGAN,Min_Distance,0.2036261828610333,,1,0.2036261828610333,0.2036261828610333,0.9997895459613574
+6. Wine dataset,CTGAN,NNDR,,,0,,,
+6. Wine dataset,CTGAN,Num_Matches,6497.0,,1,6497.0,6497.0,0.3284174398026492
+6. Wine dataset,CTGAN,Std_Distance,10.25483030861619,,1,10.25483030861619,10.25483030861619,0.9997228927123363
+6. Wine dataset,CopulaGAN,MIA_AUC,,,0,,,
+6. Wine dataset,CopulaGAN,Mahalanobis_Distance,,,0,,,
+6. Wine dataset,CopulaGAN,Max_Distance,112.1514251040038,,1,112.1514251040038,112.1514251040038,0.9992242372567651
+6. Wine dataset,CopulaGAN,Mean_Distance,14.97249458978774,,1,14.97249458978774,14.97249458978774,0.9997127921049208
+6. Wine dataset,CopulaGAN,Median_Distance,12.78855197305502,,1,12.78855197305502,12.78855197305502,0.9997208907208447
+6. Wine dataset,CopulaGAN,Min_Distance,0.07742566164408675,,1,0.07742566164408675,0.07742566164408675,0.9999199781533071
+6. Wine dataset,CopulaGAN,NNDR,,,0,,,
+6. Wine dataset,CopulaGAN,Num_Matches,6497.0,,1,6497.0,6497.0,0.3284174398026492
+6. Wine dataset,CopulaGAN,Std_Distance,10.42739006638191,,1,10.42739006638191,10.42739006638191,0.999717949245099
+6. Wine dataset,ForestDiffusion,Hungarian_Cosine_Similarity,,,0,,,
+6. Wine dataset,ForestDiffusion,MIA_AUC,,,0,,,
+6. Wine dataset,ForestDiffusion,Mahalanobis_Distance,,,0,,,
+6. Wine dataset,ForestDiffusion,NNDR,,,0,,,
+6. Wine dataset,GaussianCopula,MIA_AUC,,,0,,,
+6. Wine dataset,GaussianCopula,Mahalanobis_Distance,,,0,,,
+6. Wine dataset,GaussianCopula,Max_Distance,219.9021686915835,,1,219.9021686915835,219.9021686915835,0.9984502124408922
+6. Wine dataset,GaussianCopula,Mean_Distance,15.50733446018729,,1,15.50733446018729,15.50733446018729,0.9997023290707989
+6. Wine dataset,GaussianCopula,Median_Distance,13.0742878004751,,1,13.0742878004751,13.0742878004751,0.9997146365152363
+6. Wine dataset,GaussianCopula,Min_Distance,0.0653767389131421,,1,0.0653767389131421,0.0653767389131421,0.9999324310923859
+6. Wine dataset,GaussianCopula,NNDR,,,0,,,
+6. Wine dataset,GaussianCopula,Num_Matches,6497.0,,1,6497.0,6497.0,0.3284174398026492
+6. Wine dataset,GaussianCopula,Std_Distance,11.63042857905484,,1,11.63042857905484,11.63042857905484,0.9996834847700121
+6. Wine dataset,TVAE,MIA_AUC,,,0,,,
+6. Wine dataset,TVAE,Mahalanobis_Distance,,,0,,,
+6. Wine dataset,TVAE,Max_Distance,126.0816665247742,,1,126.0816665247742,126.0816665247742,0.9991241697102056
+6. Wine dataset,TVAE,Mean_Distance,13.65101514825886,,1,13.65101514825886,13.65101514825886,0.999738644112696
+6. Wine dataset,TVAE,Median_Distance,11.33892539905282,,1,11.33892539905282,11.33892539905282,0.9997526202478385
+6. Wine dataset,TVAE,Min_Distance,0.05515486714944483,,1,0.05515486714944483,0.05515486714944483,0.9999429957170571
+6. Wine dataset,TVAE,NNDR,,,0,,,
+6. Wine dataset,TVAE,Num_Matches,6497.0,,1,6497.0,6497.0,0.3284174398026492
+6. Wine dataset,TVAE,Std_Distance,10.05140374261778,,1,10.05140374261778,10.05140374261778,0.9997287204474768
+6. Wine dataset,TabDDPM,Hungarian_Cosine_Similarity,,,0,,,
+6. Wine dataset,TabDDPM,MIA_AUC,,,0,,,
+6. Wine dataset,TabDDPM,Mahalanobis_Distance,,,0,,,
+6. Wine dataset,TabDDPM,NNDR,,,0,,,
+6. Wine dataset,WGAN_GP,Hungarian_Cosine_Similarity,,,0,,,
+6. Wine dataset,WGAN_GP,MIA_AUC,,,0,,,
+6. Wine dataset,WGAN_GP,Mahalanobis_Distance,,,0,,,
+6. Wine dataset,WGAN_GP,NNDR,,,0,,,
+7. CDC diabetes dataset,CTABGAN,Hungarian_Cosine_Similarity,,,0,,,
+7. CDC diabetes dataset,CTABGAN,MIA_AUC,,,0,,,
+7. CDC diabetes dataset,CTABGAN,Mahalanobis_Distance,,,0,,,
+7. CDC diabetes dataset,CTABGAN,NNDR,,,0,,,
+7. CDC diabetes dataset,CTGAN,MIA_AUC,,,0,,,
+7. CDC diabetes dataset,CTGAN,Mahalanobis_Distance,,,0,,,
+7. CDC diabetes dataset,CTGAN,Max_Distance,37.54945569581285,,1,37.54945569581285,37.54945569581285,0.9997601386687865
+7. CDC diabetes dataset,CTGAN,Mean_Distance,0.480346042408537,,1,0.480346042408537,0.480346042408537,0.9999963009701756
+7. CDC diabetes dataset,CTGAN,Median_Distance,0.1805994642218849,,1,0.1805994642218849,0.1805994642218849,0.9999968544598103
+7. CDC diabetes dataset,CTGAN,Min_Distance,0.001063684159973615,,1,0.001063684159973615,0.001063684159973615,0.9999989006491005
+7. CDC diabetes dataset,CTGAN,NNDR,,,0,,,
+7. CDC diabetes dataset,CTGAN,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+7. CDC diabetes dataset,CTGAN,Std_Distance,1.341432956530183,,1,1.341432956530183,1.341432956530183,0.9999782424436578
+7. CDC diabetes dataset,CopulaGAN,MIA_AUC,,,0,,,
+7. CDC diabetes dataset,CopulaGAN,Mahalanobis_Distance,,,0,,,
+7. CDC diabetes dataset,CopulaGAN,Max_Distance,39.64637634678828,,1,39.64637634678828,39.64637634678828,0.999745075490875
+7. CDC diabetes dataset,CopulaGAN,Mean_Distance,0.577594273540177,,1,0.577594273540177,0.577594273540177,0.9999943985099871
+7. CDC diabetes dataset,CopulaGAN,Median_Distance,0.3759023286410815,,1,0.3759023286410815,0.3759023286410815,0.9999925796571683
+7. CDC diabetes dataset,CopulaGAN,Min_Distance,0.008362803093818622,,1,0.008362803093818622,0.008362803093818622,0.999991356781035
+7. CDC diabetes dataset,CopulaGAN,NNDR,,,0,,,
+7. CDC diabetes dataset,CopulaGAN,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+7. CDC diabetes dataset,CopulaGAN,Std_Distance,1.2321273420155,,1,1.2321273420155,1.2321273420155,0.9999813738152545
+7. CDC diabetes dataset,ForestDiffusion,Hungarian_Cosine_Similarity,,,0,,,
+7. CDC diabetes dataset,ForestDiffusion,MIA_AUC,,,0,,,
+7. CDC diabetes dataset,ForestDiffusion,Mahalanobis_Distance,,,0,,,
+7. CDC diabetes dataset,ForestDiffusion,NNDR,,,0,,,
+7. CDC diabetes dataset,GaussianCopula,MIA_AUC,,,0,,,
+7. CDC diabetes dataset,GaussianCopula,Mahalanobis_Distance,,,0,,,
+7. CDC diabetes dataset,GaussianCopula,Max_Distance,41.09900355733253,,1,41.09900355733253,41.09900355733253,0.9997346405790429
+7. CDC diabetes dataset,GaussianCopula,Mean_Distance,27.5822488054879,,1,27.5822488054879,27.5822488054879,0.9994661083853089
+7. CDC diabetes dataset,GaussianCopula,Median_Distance,32.72403383844063,,1,32.72403383844063,32.72403383844063,0.9992845415111059
+7. CDC diabetes dataset,GaussianCopula,Min_Distance,0.205365153352864,,1,0.205365153352864,0.205365153352864,0.9997877486808803
+7. CDC diabetes dataset,GaussianCopula,NNDR,,,0,,,
+7. CDC diabetes dataset,GaussianCopula,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+7. CDC diabetes dataset,GaussianCopula,Std_Distance,11.11133392048021,,1,11.11133392048021,11.11133392048021,0.9996983557194786
+7. CDC diabetes dataset,TVAE,MIA_AUC,,,0,,,
+7. CDC diabetes dataset,TVAE,Mahalanobis_Distance,,,0,,,
+7. CDC diabetes dataset,TVAE,Max_Distance,37.01822390008621,,1,37.01822390008621,37.01822390008621,0.9997639547593228
+7. CDC diabetes dataset,TVAE,Mean_Distance,0.6194033040135131,,1,0.6194033040135131,0.6194033040135131,0.999993580602915
+7. CDC diabetes dataset,TVAE,Median_Distance,0.2703953409054879,,1,0.2703953409054879,0.2703953409054879,0.9999948890014335
+7. CDC diabetes dataset,TVAE,Min_Distance,0.0004593816000292113,,1,0.0004593816000292113,0.0004593816000292113,0.9999995252147261
+7. CDC diabetes dataset,TVAE,NNDR,,,0,,,
+7. CDC diabetes dataset,TVAE,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+7. CDC diabetes dataset,TVAE,Std_Distance,1.427624428470201,,1,1.427624428470201,1.427624428470201,0.9999757732427086
+7. CDC diabetes dataset,TabDDPM,Hungarian_Cosine_Similarity,,,0,,,
+7. CDC diabetes dataset,TabDDPM,MIA_AUC,,,0,,,
+7. CDC diabetes dataset,TabDDPM,Mahalanobis_Distance,,,0,,,
+7. CDC diabetes dataset,TabDDPM,NNDR,,,0,,,
+7. CDC diabetes dataset,WGAN_GP,Hungarian_Cosine_Similarity,,,0,,,
+7. CDC diabetes dataset,WGAN_GP,MIA_AUC,,,0,,,
+7. CDC diabetes dataset,WGAN_GP,Mahalanobis_Distance,,,0,,,
+7. CDC diabetes dataset,WGAN_GP,NNDR,,,0,,,
+8. Mushroom dataset,CTABGAN,Hungarian_Cosine_Similarity,,,0,,,
+8. Mushroom dataset,CTABGAN,MIA_AUC,,,0,,,
+8. Mushroom dataset,CTABGAN,Mahalanobis_Distance,,,0,,,
+8. Mushroom dataset,CTABGAN,NNDR,,,0,,,
+8. Mushroom dataset,CTGAN,MIA_AUC,,,0,,,
+8. Mushroom dataset,CTGAN,Mahalanobis_Distance,,,0,,,
+8. Mushroom dataset,CTGAN,Max_Distance,7.073248842283225,,1,7.073248842283225,7.073248842283225,0.9999790637509985
+8. Mushroom dataset,CTGAN,Mean_Distance,0.4861690905004704,,1,0.4861690905004704,0.4861690905004704,0.9999961870543023
+8. Mushroom dataset,CTGAN,Median_Distance,0.2672439677717343,,1,0.2672439677717343,0.2672439677717343,0.9999949579789073
+8. Mushroom dataset,CTGAN,Min_Distance,0.0,,1,0.0,0.0,1.0
+8. Mushroom dataset,CTGAN,NNDR,,,0,,,
+8. Mushroom dataset,CTGAN,Num_Matches,10000.0,,1,10000.0,10000.0,0.5162760765806832
+8. Mushroom dataset,CTGAN,Std_Distance,0.6432292575753934,,1,0.6432292575753934,0.6432292575753934,0.9999982444832722
+8. Mushroom dataset,CopulaGAN,MIA_AUC,,,0,,,
+8. Mushroom dataset,CopulaGAN,Mahalanobis_Distance,,,0,,,
+8. Mushroom dataset,CopulaGAN,Max_Distance,7.220497162081333,,1,7.220497162081333,7.220497162081333,0.9999780059963156
+8. Mushroom dataset,CopulaGAN,Mean_Distance,0.5394674015084815,,1,0.5394674015084815,0.5394674015084815,0.9999951443832571
+8. Mushroom dataset,CopulaGAN,Median_Distance,0.2874242337085394,,1,0.2874242337085394,0.2874242337085394,0.9999945162718468
+8. Mushroom dataset,CopulaGAN,Min_Distance,0.0,,1,0.0,0.0,1.0
+8. Mushroom dataset,CopulaGAN,NNDR,,,0,,,
+8. Mushroom dataset,CopulaGAN,Num_Matches,10000.0,,1,10000.0,10000.0,0.5162760765806832
+8. Mushroom dataset,CopulaGAN,Std_Distance,0.7106181738402562,,1,0.7106181738402562,0.7106181738402562,0.9999963139352464
+8. Mushroom dataset,ForestDiffusion,Hungarian_Cosine_Similarity,,,0,,,
+8. Mushroom dataset,ForestDiffusion,MIA_AUC,,,0,,,
+8. Mushroom dataset,ForestDiffusion,Mahalanobis_Distance,,,0,,,
+8. Mushroom dataset,ForestDiffusion,NNDR,,,0,,,
+8. Mushroom dataset,GaussianCopula,MIA_AUC,,,0,,,
+8. Mushroom dataset,GaussianCopula,Mahalanobis_Distance,,,0,,,
+8. Mushroom dataset,GaussianCopula,Max_Distance,8.674030931532393,,1,8.674030931532393,8.674030931532393,0.99996756457224
+8. Mushroom dataset,GaussianCopula,Mean_Distance,0.3940570978261434,,1,0.3940570978261434,0.3940570978261434,0.9999979890346252
+8. Mushroom dataset,GaussianCopula,Median_Distance,0.2254726919414616,,1,0.2254726919414616,0.2254726919414616,0.9999958722714897
+8. Mushroom dataset,GaussianCopula,Min_Distance,0.002146086828991257,,1,0.002146086828991257,0.002146086828991257,0.9999977819520354
+8. Mushroom dataset,GaussianCopula,NNDR,,,0,,,
+8. Mushroom dataset,GaussianCopula,Num_Matches,10000.0,,1,10000.0,10000.0,0.5162760765806832
+8. Mushroom dataset,GaussianCopula,Std_Distance,0.6656111910637376,,1,0.6656111910637376,0.6656111910637376,0.9999976032888458
+8. Mushroom dataset,TVAE,MIA_AUC,,,0,,,
+8. Mushroom dataset,TVAE,Mahalanobis_Distance,,,0,,,
+8. Mushroom dataset,TVAE,Max_Distance,7.677494416667606,,1,7.677494416667606,7.677494416667606,0.9999747231677796
+8. Mushroom dataset,TVAE,Mean_Distance,0.4330184728020023,,1,0.4330184728020023,0.4330184728020023,0.9999972268360339
+8. Mushroom dataset,TVAE,Median_Distance,0.2391303192908091,,1,0.2391303192908091,0.2391303192908091,0.9999955733323951
+8. Mushroom dataset,TVAE,Min_Distance,0.002386147886231051,,1,0.002386147886231051,0.002386147886231051,0.9999975338414128
+8. Mushroom dataset,TVAE,NNDR,,,0,,,
+8. Mushroom dataset,TVAE,Num_Matches,10000.0,,1,10000.0,10000.0,0.5162760765806832
+8. Mushroom dataset,TVAE,Std_Distance,0.5819500932247141,,1,0.5819500932247141,0.5819500932247141,1.0
+8. Mushroom dataset,TabDDPM,Hungarian_Cosine_Similarity,,,0,,,
+8. Mushroom dataset,TabDDPM,MIA_AUC,,,0,,,
+8. Mushroom dataset,TabDDPM,Mahalanobis_Distance,,,0,,,
+8. Mushroom dataset,TabDDPM,NNDR,,,0,,,
+8. Mushroom dataset,WGAN_GP,Hungarian_Cosine_Similarity,,,0,,,
+8. Mushroom dataset,WGAN_GP,MIA_AUC,,,0,,,
+8. Mushroom dataset,WGAN_GP,Mahalanobis_Distance,,,0,,,
+8. Mushroom dataset,WGAN_GP,NNDR,,,0,,,
+9. MAGIC Gamma Telescope,CTABGAN,Hungarian_Cosine_Similarity,,,0,,,
+9. MAGIC Gamma Telescope,CTABGAN,MIA_AUC,,,0,,,
+9. MAGIC Gamma Telescope,CTABGAN,Mahalanobis_Distance,,,0,,,
+9. MAGIC Gamma Telescope,CTABGAN,Max_Distance,9.963537586192702,,1,9.963537586192702,9.963537586192702,0.9999583014329083
+9. MAGIC Gamma Telescope,CTABGAN,Mean_Distance,1.864591197366024,,1,1.864591197366024,1.864591197366024,0.9999692210812389
+9. MAGIC Gamma Telescope,CTABGAN,Median_Distance,1.525678056446776,,1,1.525678056446776,1.525678056446776,0.9999674132862928
+9. MAGIC Gamma Telescope,CTABGAN,Min_Distance,0.4534331576141509,,1,0.4534331576141509,0.4534331576141509,0.9995313626276663
+9. MAGIC Gamma Telescope,CTABGAN,NNDR,,,0,,,
+9. MAGIC Gamma Telescope,CTABGAN,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+9. MAGIC Gamma Telescope,CTABGAN,Std_Distance,1.096268332963922,,1,1.096268332963922,1.096268332963922,0.9999852658846965
+9. MAGIC Gamma Telescope,CTGAN,Hungarian_Cosine_Similarity,,,0,,,
+9. MAGIC Gamma Telescope,CTGAN,MIA_AUC,,,0,,,
+9. MAGIC Gamma Telescope,CTGAN,Mahalanobis_Distance,,,0,,,
+9. MAGIC Gamma Telescope,CTGAN,Max_Distance,15.04432745329383,,1,15.04432745329383,15.04432745329383,0.9999218037038864
+9. MAGIC Gamma Telescope,CTGAN,Mean_Distance,3.259152594267476,,1,3.259152594267476,3.259152594267476,0.9999419393763991
+9. MAGIC Gamma Telescope,CTGAN,Median_Distance,2.659895112319814,,1,2.659895112319814,2.659895112319814,0.9999425874647078
+9. MAGIC Gamma Telescope,CTGAN,Min_Distance,0.4484124343792382,,1,0.4484124343792382,0.4484124343792382,0.9995365517024053
+9. MAGIC Gamma Telescope,CTGAN,NNDR,,,0,,,
+9. MAGIC Gamma Telescope,CTGAN,Num_Matches,19020.0,,1,19020.0,19020.0,1.0
+9. MAGIC Gamma Telescope,CTGAN,Std_Distance,2.091672048885322,,1,2.091672048885322,2.091672048885322,0.9999567497015425
+9. MAGIC Gamma Telescope,CopulaGAN,Hungarian_Cosine_Similarity,,,0,,,
+9. MAGIC Gamma Telescope,CopulaGAN,MIA_AUC,,,0,,,
+9. MAGIC Gamma Telescope,CopulaGAN,Mahalanobis_Distance,,,0,,,
+9. MAGIC Gamma Telescope,CopulaGAN,Max_Distance,12.68116421088336,,1,12.68116421088336,12.68116421088336,0.999938779428904
+9. MAGIC Gamma Telescope,CopulaGAN,Mean_Distance,2.898899999348318,,1,2.898899999348318,2.898899999348318,0.9999489869721409
+9. MAGIC Gamma Telescope,CopulaGAN,Median_Distance,2.391325575484585,,1,2.391325575484585,2.391325575484585,0.9999484659333573
+9. MAGIC Gamma Telescope,CopulaGAN,Min_Distance,0.4286060370303149,,1,0.4286060370303149,0.4286060370303149,0.9995570222345072
+9. MAGIC Gamma Telescope,CopulaGAN,NNDR,,,0,,,
+9. MAGIC Gamma Telescope,CopulaGAN,Num_Matches,19020.0,,1,19020.0,19020.0,1.0
+9. MAGIC Gamma Telescope,CopulaGAN,Std_Distance,1.778071804471669,,1,1.778071804471669,1.778071804471669,0.9999657336764501
+9. MAGIC Gamma Telescope,ForestDiffusion,Hungarian_Cosine_Similarity,,,0,,,
+9. MAGIC Gamma Telescope,ForestDiffusion,MIA_AUC,,,0,,,
+9. MAGIC Gamma Telescope,ForestDiffusion,Mahalanobis_Distance,,,0,,,
+9. MAGIC Gamma Telescope,ForestDiffusion,Max_Distance,10.0115325475975,,1,10.0115325475975,10.0115325475975,0.9999579566622838
+9. MAGIC Gamma Telescope,ForestDiffusion,Mean_Distance,1.307832354805954,,1,1.307832354805954,1.307832354805954,0.9999801129146451
+9. MAGIC Gamma Telescope,ForestDiffusion,Median_Distance,1.066825168324087,,1,1.066825168324087,1.066825168324087,0.9999774566901328
+9. MAGIC Gamma Telescope,ForestDiffusion,Min_Distance,0.09349141603387207,,1,0.09349141603387207,0.09349141603387207,0.9999033736928803
+9. MAGIC Gamma Telescope,ForestDiffusion,NNDR,,,0,,,
+9. MAGIC Gamma Telescope,ForestDiffusion,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+9. MAGIC Gamma Telescope,ForestDiffusion,Std_Distance,0.9476315639008811,,1,0.9476315639008811,0.9476315639008811,0.9999895240095782
+9. MAGIC Gamma Telescope,GaussianCopula,Hungarian_Cosine_Similarity,,,0,,,
+9. MAGIC Gamma Telescope,GaussianCopula,MIA_AUC,,,0,,,
+9. MAGIC Gamma Telescope,GaussianCopula,Mahalanobis_Distance,,,0,,,
+9. MAGIC Gamma Telescope,GaussianCopula,Max_Distance,13.44809366406328,,1,13.44809366406328,13.44809366406328,0.9999332702100436
+9. MAGIC Gamma Telescope,GaussianCopula,Mean_Distance,2.29071670862113,,1,2.29071670862113,2.29071670862113,0.9999608848183476
+9. MAGIC Gamma Telescope,GaussianCopula,Median_Distance,2.08297953700324,,1,2.08297953700324,2.08297953700324,0.9999552150328336
+9. MAGIC Gamma Telescope,GaussianCopula,Min_Distance,0.6353894370960613,,1,0.6353894370960613,0.6353894370960613,0.9993433051129827
+9. MAGIC Gamma Telescope,GaussianCopula,NNDR,,,0,,,
+9. MAGIC Gamma Telescope,GaussianCopula,Num_Matches,19020.0,,1,19020.0,19020.0,1.0
+9. MAGIC Gamma Telescope,GaussianCopula,Std_Distance,1.088666745851257,,1,1.088666745851257,1.088666745851257,0.999985483653876
+9. MAGIC Gamma Telescope,TVAE,Hungarian_Cosine_Similarity,,,0,,,
+9. MAGIC Gamma Telescope,TVAE,MIA_AUC,,,0,,,
+9. MAGIC Gamma Telescope,TVAE,Mahalanobis_Distance,,,0,,,
+9. MAGIC Gamma Telescope,TVAE,Max_Distance,16.06201246985735,,1,16.06201246985735,16.06201246985735,0.9999144931886051
+9. MAGIC Gamma Telescope,TVAE,Mean_Distance,1.871005046571554,,1,1.871005046571554,1.871005046571554,0.9999690956075657
+9. MAGIC Gamma Telescope,TVAE,Median_Distance,1.369735020107463,,1,1.369735020107463,1.369735020107463,0.999970826578288
+9. MAGIC Gamma Telescope,TVAE,Min_Distance,0.2972114037303104,,1,0.2972114037303104,0.2972114037303104,0.9996928227040018
+9. MAGIC Gamma Telescope,TVAE,NNDR,,,0,,,
+9. MAGIC Gamma Telescope,TVAE,Num_Matches,19020.0,,1,19020.0,19020.0,1.0
+9. MAGIC Gamma Telescope,TVAE,Std_Distance,1.490388141630735,,1,1.490388141630735,1.490388141630735,0.9999739751968392
+9. MAGIC Gamma Telescope,TabDDPM,Hungarian_Cosine_Similarity,,,0,,,
+9. MAGIC Gamma Telescope,TabDDPM,MIA_AUC,,,0,,,
+9. MAGIC Gamma Telescope,TabDDPM,Mahalanobis_Distance,,,0,,,
+9. MAGIC Gamma Telescope,TabDDPM,Max_Distance,21.36590514528754,,1,21.36590514528754,21.36590514528754,0.9998763928060479
+9. MAGIC Gamma Telescope,TabDDPM,Mean_Distance,4.284835835531674,,1,4.284835835531674,4.284835835531674,0.9999218740085283
+9. MAGIC Gamma Telescope,TabDDPM,Median_Distance,1.84800977120466,,1,1.84800977120466,1.84800977120466,0.9999603580673642
+9. MAGIC Gamma Telescope,TabDDPM,Min_Distance,0.4711859159299238,,1,0.4711859159299238,0.4711859159299238,0.9995130145958361
+9. MAGIC Gamma Telescope,TabDDPM,NNDR,,,0,,,
+9. MAGIC Gamma Telescope,TabDDPM,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+9. MAGIC Gamma Telescope,TabDDPM,Std_Distance,4.1557624865573,,1,4.1557624865573,4.1557624865573,0.9998976179341744
+9. MAGIC Gamma Telescope,WGAN_GP,Hungarian_Cosine_Similarity,,,0,,,
+9. MAGIC Gamma Telescope,WGAN_GP,MIA_AUC,,,0,,,
+9. MAGIC Gamma Telescope,WGAN_GP,Mahalanobis_Distance,,,0,,,
+9. MAGIC Gamma Telescope,WGAN_GP,Max_Distance,6.606256437427121,,1,6.606256437427121,6.606256437427121,0.9999824183794508
+9. MAGIC Gamma Telescope,WGAN_GP,Mean_Distance,1.17739482499675,,1,1.17739482499675,1.17739482499675,0.9999826646547091
+9. MAGIC Gamma Telescope,WGAN_GP,Median_Distance,0.975070796979838,,1,0.975070796979838,0.975070796979838,0.9999794650161766
+9. MAGIC Gamma Telescope,WGAN_GP,Min_Distance,0.3332220675422414,,1,0.3332220675422414,0.3332220675422414,0.9996556045549067
+9. MAGIC Gamma Telescope,WGAN_GP,NNDR,,,0,,,
+9. MAGIC Gamma Telescope,WGAN_GP,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+9. MAGIC Gamma Telescope,WGAN_GP,Std_Distance,0.7000939723363695,,1,0.7000939723363695,0.7000939723363695,0.9999966154310644
+Eshop_Price_Regression_Hungarian_Mahalanobis,CTGAN,Mean_Distance,1.567793840720491,,1,1.567793840720491,1.567793840720491,0.9999750273066939
+Eshop_Price_Regression_Hungarian_Mahalanobis,CTGAN,Median_Distance,1.384052566056652,,1,1.384052566056652,1.384052566056652,0.9999705131948492
+Eshop_Price_Regression_Hungarian_Mahalanobis,CTGAN,Std_Distance,0.9170862031344548,,1,0.9170862031344548,0.9170862031344548,0.9999903990687006
+Eshop_Price_Regression_Hungarian_Mahalanobis,CopulaGAN,Mean_Distance,1.58151116938155,,1,1.58151116938155,1.58151116938155,0.9999747589555746
+Eshop_Price_Regression_Hungarian_Mahalanobis,CopulaGAN,Median_Distance,1.419676639904599,,1,1.419676639904599,1.419676639904599,0.9999697334526501
+Eshop_Price_Regression_Hungarian_Mahalanobis,CopulaGAN,Std_Distance,0.8999751943643071,,1,0.8999751943643071,0.8999751943643071,0.9999908892624303
+Eshop_Price_Regression_Hungarian_Mahalanobis,GaussianCopula,Mean_Distance,1.587593292473918,,1,1.587593292473918,1.587593292473918,0.9999746399714357
+Eshop_Price_Regression_Hungarian_Mahalanobis,GaussianCopula,Median_Distance,1.508970339687003,,1,1.508970339687003,1.508970339687003,0.999967778985956
+Eshop_Price_Regression_Hungarian_Mahalanobis,GaussianCopula,Std_Distance,0.6858824511791198,,1,0.6858824511791198,0.6858824511791198,0.999997022560688
+Eshop_Price_Regression_Hungarian_Mahalanobis,TVAE,Mean_Distance,2.384211658479305,,1,2.384211658479305,2.384211658479305,0.9999590557833321
+Eshop_Price_Regression_Hungarian_Mahalanobis,TVAE,Median_Distance,2.208123544672407,,1,2.208123544672407,2.208123544672407,0.999952475872114
+Eshop_Price_Regression_Hungarian_Mahalanobis,TVAE,Std_Distance,1.47827420655867,,1,1.47827420655867,1.47827420655867,0.9999743222351168
+Hungarian_Mahalanobis_Four_Models,CTGAN,Max_Distance,349.5339478916002,,1,349.5339478916002,349.5339478916002,0.9975190057439747
+Hungarian_Mahalanobis_Four_Models,CTGAN,Mean_Distance,110.2921594178478,,1,110.2921594178478,110.2921594178478,0.9978480603211195
+Hungarian_Mahalanobis_Four_Models,CTGAN,Median_Distance,94.34770805130505,,1,94.34770805130505,94.34770805130505,0.997935718255889
+Hungarian_Mahalanobis_Four_Models,CTGAN,Min_Distance,25.33626767737993,,1,25.33626767737993,25.33626767737993,0.9738141736886922
+Hungarian_Mahalanobis_Four_Models,CTGAN,Num_Matches,569.0,,1,569.0,569.0,0.010511074167426396
+Hungarian_Mahalanobis_Four_Models,CTGAN,Std_Distance,57.07331412932883,,1,57.07331412932883,57.07331412932883,0.9983816434902645
+Hungarian_Mahalanobis_Four_Models,CopulaGAN,Max_Distance,355.5887680751471,,1,355.5887680751471,355.5887680751471,0.9974755110921358
+Hungarian_Mahalanobis_Four_Models,CopulaGAN,Mean_Distance,133.737854553859,,1,133.737854553859,133.737854553859,0.9973893938644939
+Hungarian_Mahalanobis_Four_Models,CopulaGAN,Median_Distance,121.8004469268097,,1,121.8004469268097,121.8004469268097,0.9973348308033368
+Hungarian_Mahalanobis_Four_Models,CopulaGAN,Min_Distance,24.77390350464789,,1,24.77390350464789,24.77390350464789,0.9743953946774493
+Hungarian_Mahalanobis_Four_Models,CopulaGAN,Num_Matches,569.0,,1,569.0,569.0,0.010511074167426396
+Hungarian_Mahalanobis_Four_Models,CopulaGAN,Std_Distance,65.13365889698537,,1,65.13365889698537,65.13365889698537,0.9981507318872607
+Hungarian_Mahalanobis_Four_Models,GaussianCopula,Max_Distance,22.00424531028987,,1,22.00424531028987,22.00424531028987,0.9998718073051759
+Hungarian_Mahalanobis_Four_Models,GaussianCopula,Mean_Distance,5.993095267039475,,1,5.993095267039475,5.993095267039475,0.9998884554514798
+Hungarian_Mahalanobis_Four_Models,GaussianCopula,Median_Distance,5.455853609420996,,1,5.455853609420996,5.455853609420996,0.9998813893312033
+Hungarian_Mahalanobis_Four_Models,GaussianCopula,Min_Distance,2.98864040475122,,1,2.98864040475122,2.98864040475122,0.9969111465215675
+Hungarian_Mahalanobis_Four_Models,GaussianCopula,Num_Matches,569.0,,1,569.0,569.0,0.010511074167426396
+Hungarian_Mahalanobis_Four_Models,GaussianCopula,Std_Distance,2.229809634333889,,1,2.229809634333889,2.229809634333889,0.99995279235577
+Hungarian_Mahalanobis_Four_Models,TVAE,Max_Distance,170.1715718576419,,1,170.1715718576419,170.1715718576419,0.9988074509598668
+Hungarian_Mahalanobis_Four_Models,TVAE,Mean_Distance,43.68269224460514,,1,43.68269224460514,43.68269224460514,0.9991511365621456
+Hungarian_Mahalanobis_Four_Models,TVAE,Median_Distance,33.13567064522416,,1,33.13567064522416,33.13567064522416,0.999275531576129
+Hungarian_Mahalanobis_Four_Models,TVAE,Min_Distance,8.444834969028067,,1,8.444834969028067,8.444834969028067,0.9912719985223374
+Hungarian_Mahalanobis_Four_Models,TVAE,Num_Matches,569.0,,1,569.0,569.0,0.010511074167426396
+Hungarian_Mahalanobis_Four_Models,TVAE,Std_Distance,32.50966032276904,,1,32.50966032276904,32.50966032276904,0.9990853395280399
+Hungarian_Mahalanobis_Four_Models_AD,CTGAN,Max_Distance,32.11019255742176,,1,32.11019255742176,32.11019255742176,0.9997992114817343
+Hungarian_Mahalanobis_Four_Models_AD,CTGAN,Mean_Distance,10.70836521955421,,1,10.70836521955421,10.70836521955421,0.9997962109627321
+Hungarian_Mahalanobis_Four_Models_AD,CTGAN,Median_Distance,9.127316346630879,,1,9.127316346630879,9.127316346630879,0.9998010281001689
+Hungarian_Mahalanobis_Four_Models_AD,CTGAN,Min_Distance,1.915498998897557,,1,1.915498998897557,1.915498998897557,0.998020271781017
+Hungarian_Mahalanobis_Four_Models_AD,CTGAN,Num_Matches,373.0,,1,373.0,373.0,0.0
+Hungarian_Mahalanobis_Four_Models_AD,CTGAN,Std_Distance,6.142516538596981,,1,6.142516538596981,6.142516538596981,0.9998407016885106
+Hungarian_Mahalanobis_Four_Models_AD,CopulaGAN,Max_Distance,36.61948828588556,,1,36.61948828588556,36.61948828588556,0.9997668190667984
+Hungarian_Mahalanobis_Four_Models_AD,CopulaGAN,Mean_Distance,11.11497026305779,,1,11.11497026305779,11.11497026305779,0.9997882565773548
+Hungarian_Mahalanobis_Four_Models_AD,CopulaGAN,Median_Distance,9.999813640409233,,1,9.999813640409233,9.999813640409233,0.9997819308188887
+Hungarian_Mahalanobis_Four_Models_AD,CopulaGAN,Min_Distance,0.9256352215715489,,1,0.9256352215715489,0.9256352215715489,0.9990433270026847
+Hungarian_Mahalanobis_Four_Models_AD,CopulaGAN,Num_Matches,373.0,,1,373.0,373.0,0.0
+Hungarian_Mahalanobis_Four_Models_AD,CopulaGAN,Std_Distance,5.722821361799541,,1,5.722821361799541,5.722821361799541,0.9998527250558529
+Hungarian_Mahalanobis_Four_Models_AD,GaussianCopula,Max_Distance,10.60283679300884,,1,10.60283679300884,10.60283679300884,0.999953709042783
+Hungarian_Mahalanobis_Four_Models_AD,GaussianCopula,Mean_Distance,3.36196373225322,,1,3.36196373225322,3.36196373225322,0.9999399280894619
+Hungarian_Mahalanobis_Four_Models_AD,GaussianCopula,Median_Distance,3.152748807173761,,1,3.152748807173761,3.152748807173761,0.9999317998488518
+Hungarian_Mahalanobis_Four_Models_AD,GaussianCopula,Min_Distance,0.3961408961381592,,1,0.3961408961381592,0.3961408961381592,0.9995905759746002
+Hungarian_Mahalanobis_Four_Models_AD,GaussianCopula,Num_Matches,373.0,,1,373.0,373.0,0.0
+Hungarian_Mahalanobis_Four_Models_AD,GaussianCopula,Std_Distance,1.827276674196851,,1,1.827276674196851,1.827276674196851,0.9999643240623863
+Hungarian_Mahalanobis_Four_Models_AD,TVAE,Max_Distance,19.34413630459631,,1,19.34413630459631,19.34413630459631,0.9998909161327791
+Hungarian_Mahalanobis_Four_Models_AD,TVAE,Mean_Distance,5.263934348161442,,1,5.263934348161442,5.263934348161442,0.9999027199743711
+Hungarian_Mahalanobis_Four_Models_AD,TVAE,Median_Distance,4.641280028128194,,1,4.641280028128194,4.641280028128194,0.9998992187742473
+Hungarian_Mahalanobis_Four_Models_AD,TVAE,Min_Distance,0.8561937945579629,,1,0.8561937945579629,0.8561937945579629,0.9991150968927783
+Hungarian_Mahalanobis_Four_Models_AD,TVAE,Num_Matches,373.0,,1,373.0,373.0,0.0
+Hungarian_Mahalanobis_Four_Models_AD,TVAE,Std_Distance,3.143144526878578,,1,3.143144526878578,3.143144526878578,0.9999266272685192
+Hungarian_Mahalanobis_WGAN_CTABGAN,CTABGAN,Max_Distance,4.158747457345152,,1,4.158747457345152,4.158747457345152,1.0
+Hungarian_Mahalanobis_WGAN_CTABGAN,CTABGAN,Mean_Distance,0.8723136582428854,,1,0.8723136582428854,0.8723136582428854,0.9999886329357486
+Hungarian_Mahalanobis_WGAN_CTABGAN,CTABGAN,Median_Distance,0.6827322048380942,,1,0.6827322048380942,0.6827322048380942,0.9999858637435572
+Hungarian_Mahalanobis_WGAN_CTABGAN,CTABGAN,Min_Distance,0.131327569109697,,1,0.131327569109697,0.131327569109697,0.9998642688434468
+Hungarian_Mahalanobis_WGAN_CTABGAN,CTABGAN,Num_Matches,414.0,,1,414.0,414.0,0.00219874510645144
+Hungarian_Mahalanobis_WGAN_CTABGAN,CTABGAN,Std_Distance,0.5840192786373132,,1,0.5840192786373132,0.5840192786373132,0.9999999407222725
+Hungarian_Mahalanobis_WGAN_CTABGAN,WGAN_GP,Max_Distance,4.937628973599307,,1,4.937628973599307,4.937628973599307,0.9999944049237887
+Hungarian_Mahalanobis_WGAN_CTABGAN,WGAN_GP,Mean_Distance,1.396493432567981,,1,1.396493432567981,1.396493432567981,0.9999783784443236
+Hungarian_Mahalanobis_WGAN_CTABGAN,WGAN_GP,Median_Distance,1.21619661645027,,1,1.21619661645027,1.21619661645027,0.9999741872375162
+Hungarian_Mahalanobis_WGAN_CTABGAN,WGAN_GP,Min_Distance,0.2294429832177732,,1,0.2294429832177732,0.2294429832177732,0.9997628634894692
+Hungarian_Mahalanobis_WGAN_CTABGAN,WGAN_GP,Num_Matches,414.0,,1,414.0,414.0,0.00219874510645144
+Hungarian_Mahalanobis_WGAN_CTABGAN,WGAN_GP,Std_Distance,0.7385384950797921,,1,0.7385384950797921,0.7385384950797921,0.9999955140778805
+Hungarian_Mahalanobis_WGAN_TabDDPM,ForestDiffusion,Max_Distance,7.081095993589278,,1,7.081095993589278,7.081095993589278,0.9999790073811802
+Hungarian_Mahalanobis_WGAN_TabDDPM,ForestDiffusion,Mean_Distance,0.5275544018602734,,1,0.5275544018602734,0.5275544018602734,0.9999953774364169
+Hungarian_Mahalanobis_WGAN_TabDDPM,ForestDiffusion,Median_Distance,0.3181082842339501,,1,0.3181082842339501,0.3181082842339501,0.9999938446572206
+Hungarian_Mahalanobis_WGAN_TabDDPM,ForestDiffusion,Min_Distance,0.01268975051099411,,1,0.01268975051099411,0.01268975051099411,0.9999868847453364
+Hungarian_Mahalanobis_WGAN_TabDDPM,ForestDiffusion,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+Hungarian_Mahalanobis_WGAN_TabDDPM,ForestDiffusion,Std_Distance,0.6590300099463086,,1,0.6590300099463086,0.6590300099463086,0.9999977918255804
+Hungarian_Mahalanobis_WGAN_TabDDPM,TabDDPM,Max_Distance,17.30136120664193,,1,17.30136120664193,17.30136120664193,0.9999055903574426
+Hungarian_Mahalanobis_WGAN_TabDDPM,TabDDPM,Mean_Distance,9.243276702877894,,1,9.243276702877894,9.243276702877894,0.9998248723845705
+Hungarian_Mahalanobis_WGAN_TabDDPM,TabDDPM,Median_Distance,9.906804305564037,,1,9.906804305564037,9.906804305564037,0.9997839666136606
+Hungarian_Mahalanobis_WGAN_TabDDPM,TabDDPM,Min_Distance,0.4274292842517395,,1,0.4274292842517395,0.4274292842517395,0.999558238445366
+Hungarian_Mahalanobis_WGAN_TabDDPM,TabDDPM,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+Hungarian_Mahalanobis_WGAN_TabDDPM,TabDDPM,Std_Distance,4.867982943279253,,1,4.867982943279253,4.867982943279253,0.9998772143444901
+Hungarian_Matchings_All_Models,CTABGAN,Num_Matches,414.0,,1,414.0,414.0,0.00219874510645144
+Hungarian_Matchings_All_Models,CTGAN,Num_Matches,5000.0,,1,5000.0,5000.0,0.24813642945245884
+Hungarian_Matchings_All_Models,CopulaGAN,Num_Matches,5000.0,,1,5000.0,5000.0,0.24813642945245884
+Hungarian_Matchings_All_Models,ForestDiffusion,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+Hungarian_Matchings_All_Models,GaussianCopula,Num_Matches,5000.0,,1,5000.0,5000.0,0.24813642945245884
+Hungarian_Matchings_All_Models,TVAE,Num_Matches,5000.0,,1,5000.0,5000.0,0.24813642945245884
+Hungarian_Matchings_All_Models,TabDDPM,Num_Matches,1000.0,,1,1000.0,1000.0,0.033624711749879334
+Hungarian_Matchings_All_Models,WGAN_GP,Num_Matches,414.0,,1,414.0,414.0,0.00219874510645144
+Hungarian_Matchings_All_Models_AD,CTGAN,Num_Matches,373.0,,1,373.0,373.0,0.0
+Hungarian_Matchings_All_Models_AD,CopulaGAN,Num_Matches,373.0,,1,373.0,373.0,0.0
+Hungarian_Matchings_All_Models_AD,GaussianCopula,Num_Matches,373.0,,1,373.0,373.0,0.0
+Hungarian_Matchings_All_Models_AD,TVAE,Num_Matches,373.0,,1,373.0,373.0,0.0

@@ -1,0 +1,49 @@
+Dataset,DatasetShort,Generator,UtilityGap,Rank
+10. Metro interstate,Metro Interstate,ForestDiffusion,15.6449179367,1.0
+10. Metro interstate,Metro Interstate,CTABGAN,28.0461034148,2.0
+10. Metro interstate,Metro Interstate,CopulaGAN,57.6512587393,3.0
+10. Metro interstate,Metro Interstate,CTGAN,79.1004737321,4.0
+10. Metro interstate,Metro Interstate,GaussianCopula,98.6880998888,5.0
+10. Metro interstate,Metro Interstate,TVAE,213.8499301318,6.0
+10. Metro interstate,Metro Interstate,TabDDPM,292.0914715509,7.0
+10. Metro interstate,Metro Interstate,WGAN-GP,1003.8306118245,8.0
+11. online shopping,Online Shopping,ForestDiffusion,3.0135721102,1.0
+11. online shopping,Online Shopping,GaussianCopula,5.473560345,2.0
+11. online shopping,Online Shopping,CTABGAN,8.0756948652,3.0
+11. online shopping,Online Shopping,CTGAN,9.2065086676,4.0
+11. online shopping,Online Shopping,TVAE,10.2171820206,5.0
+11. online shopping,Online Shopping,CopulaGAN,10.2391073951,6.0
+11. online shopping,Online Shopping,TabDDPM,15.7752399069,7.0
+11. online shopping,Online Shopping,WGAN-GP,44.2909806956,8.0
+12. Air Quality,Air Quality,GaussianCopula,0.0244577172,1.0
+12. Air Quality,Air Quality,WGAN-GP,0.0702195148,2.0
+12. Air Quality,Air Quality,ForestDiffusion,0.09693747,3.0
+12. Air Quality,Air Quality,TVAE,0.1150836379,4.0
+12. Air Quality,Air Quality,CTABGAN,0.4160038377,5.0
+12. Air Quality,Air Quality,CopulaGAN,0.4248179294,6.0
+12. Air Quality,Air Quality,CTGAN,0.4694465392,7.0
+12. Air Quality,Air Quality,TabDDPM,200.4986096405,8.0
+13. Concrete Compressive Strength,Concrete,ForestDiffusion,0.8332244619,1.0
+13. Concrete Compressive Strength,Concrete,TabDDPM,1.7491163378,2.0
+13. Concrete Compressive Strength,Concrete,GaussianCopula,2.4333122102,3.0
+13. Concrete Compressive Strength,Concrete,TVAE,3.2072970345,4.0
+13. Concrete Compressive Strength,Concrete,WGAN-GP,3.2511371624,5.0
+13. Concrete Compressive Strength,Concrete,CTABGAN,6.7599997148,6.0
+13. Concrete Compressive Strength,Concrete,CTGAN,8.7533986601,7.0
+13. Concrete Compressive Strength,Concrete,CopulaGAN,10.3858451947,8.0
+14. Energy Efficiency,Energy Efficiency,ForestDiffusion,-0.0091572975,1.0
+14. Energy Efficiency,Energy Efficiency,WGAN-GP,1.3553687053,2.0
+14. Energy Efficiency,Energy Efficiency,TVAE,1.5799306858,3.0
+14. Energy Efficiency,Energy Efficiency,TabDDPM,2.3161699227,4.0
+14. Energy Efficiency,Energy Efficiency,GaussianCopula,3.3942689055,5.0
+14. Energy Efficiency,Energy Efficiency,CTGAN,6.6849073874,6.0
+14. Energy Efficiency,Energy Efficiency,CopulaGAN,7.9350732943,7.0
+14. Energy Efficiency,Energy Efficiency,CTABGAN,10.387984088,8.0
+15. Real Estate Valuation,Real Estate,ForestDiffusion,-0.3892846871,1.0
+15. Real Estate Valuation,Real Estate,GaussianCopula,1.1065861023,2.0
+15. Real Estate Valuation,Real Estate,TVAE,1.307880776,3.0
+15. Real Estate Valuation,Real Estate,TabDDPM,1.6791126955,4.0
+15. Real Estate Valuation,Real Estate,WGAN-GP,1.6967121983,5.0
+15. Real Estate Valuation,Real Estate,CTABGAN,2.1029057212,6.0
+15. Real Estate Valuation,Real Estate,CopulaGAN,6.8344445376,7.0
+15. Real Estate Valuation,Real Estate,CTGAN,10.423761444,8.0

@@ -1,0 +1,2 @@
+Test,Metric,Task,Statistic_chi2,DegreesOfFreedom,p_value,N_Datasets,N_Generators,Alpha
+Friedman,OverallScore,regression,9.111111111111114,7,0.24477689352539905,6,8,0.05

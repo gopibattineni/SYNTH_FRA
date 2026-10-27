@@ -1,0 +1,4 @@
+Supplementary: Fidelity vs Utility (F1)
+Higher fidelity is associated with higher predictive utility (f1) (Pearson r = 0.64).
+TVAE, CTABGAN, GaussianCopula occupy the upper-right region of the fidelity–utility plane.
+Moderate positive correlation. This suggests that preserving statistical properties of the real data tends to improve downstream machine-learning performance.

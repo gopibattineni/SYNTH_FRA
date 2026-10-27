@@ -1,0 +1,12 @@
+| Metric                      | CTABGAN            | CTGAN              | CopulaGAN             |   ForestDiffusion | GaussianCopula   |      TVAE | TabDDPM            | WGAN_GP         |
+|:----------------------------|:-------------------|:-------------------|:----------------------|------------------:|:-----------------|----------:|:-------------------|:----------------|
+| Hungarian_Cosine_Similarity | nan                | nan                | nan                   |          nan      | nan              |  nan      | nan                | nan             |
+| MIA_AUC                     | nan                | nan                | nan                   |          nan      | nan              |  nan      | nan                | nan             |
+| Mahalanobis_Distance        | nan                | nan                | nan                   |          nan      | nan              |  nan      | nan                | nan             |
+| Max_Distance                | 6.7831             | 28.9159            | \underline{31.6755}   |            6.0833 | \textbf{41.0846} |   28.331  | 9.7342             | 8.0240          |
+| Mean_Distance               | 2.4332             | 0.3998             | 0.4828                |            1.8167 | \textbf{27.7900} |    0.2913 | \underline{5.6382} | 3.0559          |
+| Median_Distance             | 2.1887             | 0.0804             | 0.2633                |            1.6544 | \textbf{32.7591} |    0.0369 | \underline{5.7326} | 3.0116          |
+| Min_Distance                | \underline{0.2052} | 0.0000             | 0.0000                |            0.1107 | 0.1325           |    0      | 0.1430             | \textbf{0.4951} |
+| NNDR                        | nan                | nan                | nan                   |          nan      | nan              |  nan      | nan                | nan             |
+| Num_Matches                 | 1000.0000          | \textbf{2000.0000} | \underline{2000.0000} |         1000      | 2000.0000        | 2000      | 1000.0000          | 1000.0000       |
+| Std_Distance                | 1.2469             | 1.4360             | 1.4551                |            0.9207 | \textbf{11.0476} |    1.534  | \underline{2.3594} | 1.1930          |

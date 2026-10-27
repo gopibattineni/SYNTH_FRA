@@ -1,0 +1,11 @@
+Classifier,Best observed generator,Statistically equivalent top group,Best avg rank,CriticalDifference,Friedman_p,N_Datasets,Method
+Logistic Regression,ForestDiffusion,"ForestDiffusion, CTABGAN, WGAN-GP, GaussianCopula, TVAE",1.5,3.4999,0.0004627403119560459,9,CD=3.500
+Random Forest,ForestDiffusion,"ForestDiffusion, WGAN-GP, TVAE, GaussianCopula, CTABGAN",1.556,3.4999,2.1876730689600604e-05,9,CD=3.500
+Naive Bayes,ForestDiffusion,"ForestDiffusion, CTABGAN, GaussianCopula, WGAN-GP, TVAE, CTGAN, TabDDPM, CopulaGAN",3.0,3.4999,0.05101669589498204,9,all (Friedman n.s.)
+KNN,ForestDiffusion,"ForestDiffusion, TVAE, WGAN-GP",1.0,3.4999,5.602039808149731e-06,9,CD=3.500
+MLP,ForestDiffusion,"ForestDiffusion, WGAN-GP, TVAE",1.0,3.4999,3.926493790927255e-06,9,CD=3.500
+SVM-RBF,ForestDiffusion,"ForestDiffusion, WGAN-GP, CTABGAN, TVAE, GaussianCopula",1.444,3.4999,0.0004298576352509707,9,CD=3.500
+Extra Trees,ForestDiffusion,"ForestDiffusion, WGAN-GP, TVAE, CTABGAN, GaussianCopula",1.444,3.4999,5.33737063488708e-06,9,CD=3.500
+AdaBoost,ForestDiffusion,"ForestDiffusion, WGAN-GP, GaussianCopula, CTABGAN, TVAE, CTGAN",2.25,3.7122,0.0033887766987285646,8,CD=3.712
+Gradient Boosting,ForestDiffusion,"ForestDiffusion, WGAN-GP, TVAE, GaussianCopula",1.556,3.4999,2.605911908041778e-05,9,CD=3.500
+Decision Tree,ForestDiffusion,"ForestDiffusion, TVAE, WGAN-GP, GaussianCopula",1.222,3.4999,1.634027505713808e-06,9,CD=3.500

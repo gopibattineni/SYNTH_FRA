@@ -1,0 +1,98 @@
+[
+  {
+    "index": 0,
+    "Generator": "ForestDiffusion",
+    "UtilityRaw": 0.0488182934,
+    "FidelityRaw": 0.75658529,
+    "PrivacyRaw": 0.6752227678,
+    "Utility": 1.0,
+    "Fidelity": 0.6780731213,
+    "Privacy": 1.0,
+    "OverallScore": 0.9034219364,
+    "OverallRank": 1.0
+  },
+  {
+    "index": 1,
+    "Generator": "TVAE",
+    "UtilityRaw": 0.1357004101,
+    "FidelityRaw": 0.8485770406,
+    "PrivacyRaw": 0.7713979424,
+    "Utility": 0.8523895901,
+    "Fidelity": 1.0,
+    "Privacy": 0.5335501673,
+    "OverallScore": 0.8010208862,
+    "OverallRank": 2.0
+  },
+  {
+    "index": 2,
+    "Generator": "GaussianCopula",
+    "UtilityRaw": 0.1925718849,
+    "FidelityRaw": 0.8316244799,
+    "PrivacyRaw": 0.7681097055,
+    "Utility": 0.7557664639,
+    "Fidelity": 0.9406741918,
+    "Privacy": 0.5494981244,
+    "OverallScore": 0.7493582804,
+    "OverallRank": 3.0
+  },
+  {
+    "index": 3,
+    "Generator": "WGAN_GP",
+    "UtilityRaw": 0.195034644,
+    "FidelityRaw": 0.6345100259,
+    "PrivacyRaw": 0.7284893328,
+    "Utility": 0.7515823016,
+    "Fidelity": 0.2508684157,
+    "Privacy": 0.7416570292,
+    "OverallScore": 0.5983905541,
+    "OverallRank": 4.0
+  },
+  {
+    "index": 4,
+    "Generator": "CTGAN",
+    "UtilityRaw": 0.4075899889,
+    "FidelityRaw": 0.7675614114,
+    "PrivacyRaw": 0.7703800805,
+    "Utility": 0.3904564128,
+    "Fidelity": 0.7164842669,
+    "Privacy": 0.5384868001,
+    "OverallScore": 0.5326738852,
+    "OverallRank": 5.0
+  },
+  {
+    "index": 5,
+    "Generator": "CopulaGAN",
+    "UtilityRaw": 0.3836126241,
+    "FidelityRaw": 0.7583426459,
+    "PrivacyRaw": 0.8018168308,
+    "Utility": 0.4311933191,
+    "Fidelity": 0.6842230218,
+    "Privacy": 0.3860184837,
+    "OverallScore": 0.4935497793,
+    "OverallRank": 6.0
+  },
+  {
+    "index": 6,
+    "Generator": "TabDDPM",
+    "UtilityRaw": 0.3192512804,
+    "FidelityRaw": 0.5628234839,
+    "PrivacyRaw": 0.8814082305,
+    "Utility": 0.5405415337,
+    "Fidelity": 0.0,
+    "Privacy": 0.0,
+    "OverallScore": 0.2162166135,
+    "OverallRank": 7.0
+  },
+  {
+    "index": 7,
+    "Generator": "CTABGAN",
+    "UtilityRaw": 0.6374090079,
+    "FidelityRaw": 0.6265589673,
+    "PrivacyRaw": 0.8506508254,
+    "Utility": 0.0,
+    "Fidelity": 0.223043535,
+    "Privacy": 0.1491734902,
+    "OverallScore": 0.1116651076,
+    "OverallRank": 8.0
+  }
+]

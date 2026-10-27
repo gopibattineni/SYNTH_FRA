@@ -1,0 +1,11 @@
+Classifier,Best observed generator,Statistically equivalent top group
+Logistic Regression,ForestDiffusion,"ForestDiffusion, CTABGAN, WGAN-GP, GaussianCopula, TVAE"
+Random Forest,ForestDiffusion,"ForestDiffusion, WGAN-GP, TVAE, GaussianCopula, CTABGAN"
+Naive Bayes,ForestDiffusion,"ForestDiffusion, CTABGAN, GaussianCopula, WGAN-GP, TVAE, CTGAN, TabDDPM, CopulaGAN"
+KNN,ForestDiffusion,"ForestDiffusion, TVAE, WGAN-GP"
+MLP,ForestDiffusion,"ForestDiffusion, WGAN-GP, TVAE"
+SVM-RBF,ForestDiffusion,"ForestDiffusion, WGAN-GP, CTABGAN, TVAE, GaussianCopula"
+Extra Trees,ForestDiffusion,"ForestDiffusion, WGAN-GP, TVAE, CTABGAN, GaussianCopula"
+AdaBoost,ForestDiffusion,"ForestDiffusion, WGAN-GP, GaussianCopula, CTABGAN, TVAE, CTGAN"
+Gradient Boosting,ForestDiffusion,"ForestDiffusion, WGAN-GP, TVAE, GaussianCopula"
+Decision Tree,ForestDiffusion,"ForestDiffusion, TVAE, WGAN-GP, GaussianCopula"

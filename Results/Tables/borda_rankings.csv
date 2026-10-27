@@ -1,0 +1,9 @@
+,Generator,BordaScore,BordaRank
+5,TVAE,670.5,1.0
+4,GaussianCopula,610.5,2.0
+1,CTGAN,589.0,3.0
+2,CopulaGAN,566.0,4.0
+3,ForestDiffusion,342.0,5.0
+6,TabDDPM,237.0,6.0
+0,CTABGAN,210.5,7.0
+7,WGAN_GP,193.5,8.0

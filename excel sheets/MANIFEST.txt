@@ -1,0 +1,464 @@
+Excel Sheets Verification Extract
+==================================================
+Output: /home/gopi.battineni/SYNTH_BENCHMARK/excel sheets
+Fidelity/Privacy source: /home/gopi.battineni/SYNTH_BENCHMARK/paper results
+Utility source: /home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/utility results
+
+Extracted sheet files: 449
+Failures/missing: 0
+
+Fidelity sheets set: Fidelity_Summary, Gower_Distance, JS_Divergence, KS_ColumnShapes, MMD, MMD_Multivariate, Outlier_Count_Diff, PCA_Mean_Errors, PCA_Projections, Quality_Scores, Wasserstein_Summary
+Privacy sheets set: Cosine_Similarity, Hungarian_Matching, MIA, Mahalanobis_2D, Nearest_Neighbors, Privacy_Summary
+
+--- Failures ---
+
+--- All extractions ---
+OK 1. Fidelity/1. Cancer/Quality_Scores.xlsx  rows=4 cols=6
+OK 1. Fidelity/1. Cancer/KS_ColumnShapes.xlsx  rows=60 cols=7
+OK 1. Fidelity/1. Cancer/JS_Divergence.xlsx  rows=60 cols=6
+OK 1. Fidelity/1. Cancer/Wasserstein_Summary.xlsx  rows=8 cols=7
+OK 1. Fidelity/1. Cancer/Gower_Distance.xlsx  rows=8 cols=10
+OK 1. Fidelity/1. Cancer/MMD.xlsx  rows=8 cols=5
+OK 1. Fidelity/1. Cancer/MMD_Multivariate.xlsx  rows=8 cols=6
+OK 2. Privacy/1. Cancer/Cosine_Similarity.xlsx  rows=8 cols=6
+OK 1. Fidelity/1. Cancer/Outlier_Count_Diff.xlsx  rows=8 cols=7
+OK 1. Fidelity/1. Cancer/PCA_Mean_Errors.xlsx  rows=16 cols=7
+OK 1. Fidelity/1. Cancer/PCA_Projections.xlsx  rows=8 cols=8
+OK 2. Privacy/1. Cancer/Nearest_Neighbors.xlsx  rows=8 cols=7
+OK 2. Privacy/1. Cancer/MIA.xlsx  rows=8 cols=9
+OK 2. Privacy/1. Cancer/Mahalanobis_2D.xlsx  rows=8 cols=7
+OK 2. Privacy/1. Cancer/Hungarian_Matching.xlsx  rows=8 cols=9
+OK 1. Fidelity/1. Cancer/Fidelity_Summary.xlsx  rows=8 cols=9
+OK 2. Privacy/1. Cancer/Privacy_Summary.xlsx  rows=8 cols=5
+OK 1. Fidelity/10. Metro interstate/Quality_Scores.xlsx  rows=4 cols=6
+OK 1. Fidelity/10. Metro interstate/Quality_Metrics.xlsx  rows=6 cols=3
+OK 1. Fidelity/10. Metro interstate/KS_ColumnShapes.xlsx  rows=54 cols=7
+OK 1. Fidelity/10. Metro interstate/JS_Divergence.xlsx  rows=54 cols=6
+OK 1. Fidelity/10. Metro interstate/Wasserstein_Summary.xlsx  rows=8 cols=7
+OK 1. Fidelity/10. Metro interstate/Gower_Distance.xlsx  rows=8 cols=10
+OK 1. Fidelity/10. Metro interstate/MMD.xlsx  rows=8 cols=5
+OK 1. Fidelity/10. Metro interstate/MMD_Multivariate.xlsx  rows=8 cols=6
+OK 2. Privacy/10. Metro interstate/Cosine_Similarity.xlsx  rows=8 cols=6
+OK 1. Fidelity/10. Metro interstate/Outlier_Count_Diff.xlsx  rows=8 cols=7
+OK 1. Fidelity/10. Metro interstate/PCA_Mean_Errors.xlsx  rows=16 cols=7
+OK 1. Fidelity/10. Metro interstate/PCA_Projections.xlsx  rows=8 cols=8
+OK 2. Privacy/10. Metro interstate/Nearest_Neighbors.xlsx  rows=8 cols=7
+OK 2. Privacy/10. Metro interstate/MIA.xlsx  rows=8 cols=9
+OK 2. Privacy/10. Metro interstate/Mahalanobis_2D.xlsx  rows=8 cols=7
+OK 2. Privacy/10. Metro interstate/Mahalanobis_Summary.xlsx  rows=20 cols=12
+OK 2. Privacy/10. Metro interstate/Mahalanobis_Detail.xlsx  rows=32000 cols=39
+OK 1. Fidelity/10. Metro interstate/Fidelity_Summary.xlsx  rows=8 cols=9
+OK 2. Privacy/10. Metro interstate/Privacy_Summary.xlsx  rows=8 cols=4
+OK 1. Fidelity/11. online shopping/Quality_Scores.xlsx  rows=4 cols=6
+OK 1. Fidelity/11. online shopping/Quality_Metrics.xlsx  rows=6 cols=3
+OK 1. Fidelity/11. online shopping/KS_ColumnShapes.xlsx  rows=60 cols=8
+OK 1. Fidelity/11. online shopping/JS_Divergence.xlsx  rows=60 cols=6
+OK 1. Fidelity/11. online shopping/Wasserstein_Summary.xlsx  rows=8 cols=7
+OK 1. Fidelity/11. online shopping/Gower_Distance.xlsx  rows=8 cols=10
+OK 1. Fidelity/11. online shopping/MMD.xlsx  rows=8 cols=5
+OK 1. Fidelity/11. online shopping/MMD_Multivariate.xlsx  rows=8 cols=6
+OK 2. Privacy/11. online shopping/Cosine_Similarity.xlsx  rows=8 cols=6
+OK 1. Fidelity/11. online shopping/Outlier_Count_Diff.xlsx  rows=4 cols=7
+OK 1. Fidelity/11. online shopping/PCA_Mean_Errors.xlsx  rows=16 cols=7
+OK 1. Fidelity/11. online shopping/PCA_Projections.xlsx  rows=8 cols=8
+OK 2. Privacy/11. online shopping/Nearest_Neighbors.xlsx  rows=8 cols=7
+OK 2. Privacy/11. online shopping/MIA.xlsx  rows=12 cols=10
+OK 2. Privacy/11. online shopping/Mahalanobis_2D.xlsx  rows=8 cols=7
+OK 2. Privacy/11. online shopping/Mahalanobis_Summary.xlsx  rows=8 cols=10
+OK 2. Privacy/11. online shopping/Mahalanobis_Detail.xlsx  rows=4000 cols=33
+OK 1. Fidelity/11. online shopping/Fidelity_Summary.xlsx  rows=8 cols=9
+OK 2. Privacy/11. online shopping/Privacy_Summary.xlsx  rows=8 cols=4
+OK 1. Fidelity/12. Air Quality/Quality_Scores.xlsx  rows=4 cols=6
+OK 1. Fidelity/12. Air Quality/Quality_Metrics.xlsx  rows=6 cols=2
+OK 1. Fidelity/12. Air Quality/KS_ColumnShapes.xlsx  rows=60 cols=7
+OK 1. Fidelity/12. Air Quality/JS_Divergence.xlsx  rows=60 cols=6
+OK 1. Fidelity/12. Air Quality/Wasserstein_Summary.xlsx  rows=8 cols=7
+OK 1. Fidelity/12. Air Quality/Gower_Distance.xlsx  rows=8 cols=10
+OK 1. Fidelity/12. Air Quality/MMD.xlsx  rows=8 cols=5
+OK 1. Fidelity/12. Air Quality/MMD_Multivariate.xlsx  rows=8 cols=6
+OK 2. Privacy/12. Air Quality/Cosine_Similarity.xlsx  rows=8 cols=6
+OK 1. Fidelity/12. Air Quality/Outlier_Count_Diff.xlsx  rows=8 cols=7
+OK 1. Fidelity/12. Air Quality/PCA_Mean_Errors.xlsx  rows=16 cols=7
+OK 1. Fidelity/12. Air Quality/PCA_Projections.xlsx  rows=8 cols=8
+OK 2. Privacy/12. Air Quality/Nearest_Neighbors.xlsx  rows=8 cols=7
+OK 2. Privacy/12. Air Quality/MIA.xlsx  rows=8 cols=9
+OK 2. Privacy/12. Air Quality/Mahalanobis_2D.xlsx  rows=8 cols=7
+OK 2. Privacy/12. Air Quality/Mahalanobis_Summary.xlsx  rows=8 cols=12
+OK 2. Privacy/12. Air Quality/Mahalanobis_Detail.xlsx  rows=4000 cols=33
+OK 2. Privacy/12. Air Quality/Hungarian_Matching.xlsx  rows=2 cols=9
+OK 1. Fidelity/12. Air Quality/Fidelity_Summary.xlsx  rows=8 cols=9
+OK 2. Privacy/12. Air Quality/Privacy_Summary.xlsx  rows=8 cols=5
+OK 1. Fidelity/13. Concrete Compressive Strength/Quality_Scores.xlsx  rows=4 cols=6
+OK 1. Fidelity/13. Concrete Compressive Strength/Quality_Metrics.xlsx  rows=3 cols=4
+OK 1. Fidelity/13. Concrete Compressive Strength/KS_ColumnShapes.xlsx  rows=56 cols=7
+OK 1. Fidelity/13. Concrete Compressive Strength/JS_Divergence.xlsx  rows=52 cols=6
+OK 1. Fidelity/13. Concrete Compressive Strength/Wasserstein_Summary.xlsx  rows=8 cols=7
+OK 1. Fidelity/13. Concrete Compressive Strength/Gower_Distance.xlsx  rows=8 cols=10
+OK 1. Fidelity/13. Concrete Compressive Strength/MMD.xlsx  rows=8 cols=5
+OK 1. Fidelity/13. Concrete Compressive Strength/MMD_Multivariate.xlsx  rows=8 cols=6
+OK 2. Privacy/13. Concrete Compressive Strength/Cosine_Similarity.xlsx  rows=8 cols=6
+OK 1. Fidelity/13. Concrete Compressive Strength/Outlier_Count_Diff.xlsx  rows=8 cols=7
+OK 1. Fidelity/13. Concrete Compressive Strength/PCA_Mean_Errors.xlsx  rows=16 cols=7
+OK 1. Fidelity/13. Concrete Compressive Strength/PCA_Projections.xlsx  rows=8 cols=8
+OK 2. Privacy/13. Concrete Compressive Strength/Nearest_Neighbors.xlsx  rows=8 cols=7
+OK 2. Privacy/13. Concrete Compressive Strength/MIA.xlsx  rows=8 cols=9
+OK 2. Privacy/13. Concrete Compressive Strength/Mahalanobis_2D.xlsx  rows=8 cols=7
+OK 2. Privacy/13. Concrete Compressive Strength/Mahalanobis_Summary.xlsx  rows=8 cols=12
+OK 2. Privacy/13. Concrete Compressive Strength/Mahalanobis_Detail.xlsx  rows=4000 cols=25
+OK 2. Privacy/13. Concrete Compressive Strength/Hungarian_Matching.xlsx  rows=4 cols=9
+OK 1. Fidelity/13. Concrete Compressive Strength/Fidelity_Summary.xlsx  rows=8 cols=9
+OK 2. Privacy/13. Concrete Compressive Strength/Privacy_Summary.xlsx  rows=8 cols=5
+OK 1. Fidelity/14. Energy Efficiency/Quality_Scores.xlsx  rows=4 cols=6
+OK 1. Fidelity/14. Energy Efficiency/Quality_Metrics.xlsx  rows=7 cols=4
+OK 1. Fidelity/14. Energy Efficiency/KS_ColumnShapes.xlsx  rows=56 cols=7
+OK 1. Fidelity/14. Energy Efficiency/JS_Divergence.xlsx  rows=52 cols=6
+OK 1. Fidelity/14. Energy Efficiency/Wasserstein_Summary.xlsx  rows=8 cols=7
+OK 1. Fidelity/14. Energy Efficiency/Gower_Distance.xlsx  rows=8 cols=10
+OK 1. Fidelity/14. Energy Efficiency/MMD.xlsx  rows=8 cols=5
+OK 1. Fidelity/14. Energy Efficiency/MMD_Multivariate.xlsx  rows=8 cols=6
+OK 2. Privacy/14. Energy Efficiency/Cosine_Similarity.xlsx  rows=8 cols=6
+OK 1. Fidelity/14. Energy Efficiency/Outlier_Count_Diff.xlsx  rows=8 cols=7
+OK 1. Fidelity/14. Energy Efficiency/PCA_Mean_Errors.xlsx  rows=12 cols=7
+OK 1. Fidelity/14. Energy Efficiency/PCA_Projections.xlsx  rows=8 cols=8
+OK 2. Privacy/14. Energy Efficiency/Nearest_Neighbors.xlsx  rows=8 cols=7
+OK 2. Privacy/14. Energy Efficiency/MIA.xlsx  rows=8 cols=9
+OK 2. Privacy/14. Energy Efficiency/Mahalanobis_2D.xlsx  rows=8 cols=7
+OK 2. Privacy/14. Energy Efficiency/Mahalanobis_Summary.xlsx  rows=8 cols=12
+OK 2. Privacy/14. Energy Efficiency/Mahalanobis_Detail.xlsx  rows=3072 cols=25
+OK 2. Privacy/14. Energy Efficiency/Hungarian_Matching.xlsx  rows=4 cols=9
+OK 1. Fidelity/14. Energy Efficiency/Fidelity_Summary.xlsx  rows=8 cols=9
+OK 2. Privacy/14. Energy Efficiency/Privacy_Summary.xlsx  rows=8 cols=5
+OK 1. Fidelity/15. Real Estate Valuation/Quality_Scores.xlsx  rows=4 cols=6
+OK 1. Fidelity/15. Real Estate Valuation/Quality_Metrics.xlsx  rows=3 cols=4
+OK 1. Fidelity/15. Real Estate Valuation/KS_ColumnShapes.xlsx  rows=28 cols=7
+OK 1. Fidelity/15. Real Estate Valuation/JS_Divergence.xlsx  rows=40 cols=6
+OK 1. Fidelity/15. Real Estate Valuation/Wasserstein_Summary.xlsx  rows=8 cols=7
+OK 1. Fidelity/15. Real Estate Valuation/Gower_Distance.xlsx  rows=8 cols=10
+OK 1. Fidelity/15. Real Estate Valuation/MMD.xlsx  rows=8 cols=5
+OK 1. Fidelity/15. Real Estate Valuation/MMD_Multivariate.xlsx  rows=8 cols=6
+OK 2. Privacy/15. Real Estate Valuation/Cosine_Similarity.xlsx  rows=8 cols=6
+OK 1. Fidelity/15. Real Estate Valuation/Outlier_Count_Diff.xlsx  rows=8 cols=7
+OK 1. Fidelity/15. Real Estate Valuation/PCA_Mean_Errors.xlsx  rows=12 cols=7
+OK 1. Fidelity/15. Real Estate Valuation/PCA_Projections.xlsx  rows=8 cols=8
+OK 2. Privacy/15. Real Estate Valuation/Nearest_Neighbors.xlsx  rows=8 cols=7
+OK 2. Privacy/15. Real Estate Valuation/MIA.xlsx  rows=8 cols=9
+OK 2. Privacy/15. Real Estate Valuation/Mahalanobis_2D.xlsx  rows=8 cols=7
+OK 2. Privacy/15. Real Estate Valuation/Mahalanobis_Summary.xlsx  rows=8 cols=12
+OK 2. Privacy/15. Real Estate Valuation/Mahalanobis_Detail.xlsx  rows=1656 cols=19
+OK 2. Privacy/15. Real Estate Valuation/Hungarian_Matching.xlsx  rows=4 cols=9
+OK 1. Fidelity/15. Real Estate Valuation/Fidelity_Summary.xlsx  rows=8 cols=9
+OK 2. Privacy/15. Real Estate Valuation/Privacy_Summary.xlsx  rows=8 cols=5
+OK 1. Fidelity/2. Alzhimers/Quality_Scores.xlsx  rows=4 cols=6
+OK 1. Fidelity/2. Alzhimers/KS_ColumnShapes.xlsx  rows=60 cols=7
+OK 1. Fidelity/2. Alzhimers/JS_Divergence.xlsx  rows=60 cols=6
+OK 1. Fidelity/2. Alzhimers/Wasserstein_Summary.xlsx  rows=8 cols=7
+OK 1. Fidelity/2. Alzhimers/Gower_Distance.xlsx  rows=8 cols=10
+OK 1. Fidelity/2. Alzhimers/MMD.xlsx  rows=8 cols=5
+OK 1. Fidelity/2. Alzhimers/MMD_Multivariate.xlsx  rows=8 cols=6
+OK 2. Privacy/2. Alzhimers/Cosine_Similarity.xlsx  rows=8 cols=6
+OK 1. Fidelity/2. Alzhimers/Outlier_Count_Diff.xlsx  rows=4 cols=7
+OK 1. Fidelity/2. Alzhimers/PCA_Mean_Errors.xlsx  rows=12 cols=7
+OK 1. Fidelity/2. Alzhimers/PCA_Projections.xlsx  rows=8 cols=8
+OK 2. Privacy/2. Alzhimers/Nearest_Neighbors.xlsx  rows=8 cols=7
+OK 2. Privacy/2. Alzhimers/MIA.xlsx  rows=8 cols=9
+OK 2. Privacy/2. Alzhimers/Mahalanobis_2D.xlsx  rows=8 cols=7
+OK 2. Privacy/2. Alzhimers/Hungarian_Matching.xlsx  rows=8 cols=9
+OK 1. Fidelity/2. Alzhimers/Fidelity_Summary.xlsx  rows=8 cols=9
+OK 2. Privacy/2. Alzhimers/Privacy_Summary.xlsx  rows=8 cols=5
+OK 1. Fidelity/3. Adult/Quality_Scores.xlsx  rows=4 cols=7
+OK 1. Fidelity/3. Adult/KS_ColumnShapes.xlsx  rows=60 cols=7
+OK 1. Fidelity/3. Adult/JS_Divergence.xlsx  rows=40 cols=6
+OK 1. Fidelity/3. Adult/Wasserstein_Summary.xlsx  rows=8 cols=8
+OK 1. Fidelity/3. Adult/Wasserstein_Detail.xlsx  rows=24 cols=6
+OK 1. Fidelity/3. Adult/Gower_Distance.xlsx  rows=4 cols=10
+OK 1. Fidelity/3. Adult/MMD.xlsx  rows=8 cols=5
+OK 1. Fidelity/3. Adult/MMD_Multivariate.xlsx  rows=8 cols=6
+OK 2. Privacy/3. Adult/Cosine_Similarity.xlsx  rows=8 cols=6
+OK 1. Fidelity/3. Adult/Outlier_Count_Diff.xlsx  rows=4 cols=7
+OK 1. Fidelity/3. Adult/PCA_Mean_Errors.xlsx  rows=12 cols=7
+OK 1. Fidelity/3. Adult/PCA_Projections.xlsx  rows=8 cols=8
+OK 2. Privacy/3. Adult/Nearest_Neighbors.xlsx  rows=8 cols=7
+OK 2. Privacy/3. Adult/MIA.xlsx  rows=4 cols=9
+OK 2. Privacy/3. Adult/Mahalanobis_2D.xlsx  rows=4 cols=7
+OK 2. Privacy/3. Adult/Mahalanobis_Summary.xlsx  rows=16 cols=16
+OK 2. Privacy/3. Adult/Mahalanobis_Detail.xlsx  rows=24000 cols=21
+OK 2. Privacy/3. Adult/Hungarian_Matching.xlsx  rows=4 cols=9
+OK 1. Fidelity/3. Adult/Fidelity_Summary.xlsx  rows=8 cols=9
+OK 2. Privacy/3. Adult/Privacy_Summary.xlsx  rows=8 cols=5
+OK 1. Fidelity/4. Forest cover dataset/Quality_Scores.xlsx  rows=4 cols=6
+OK 1. Fidelity/4. Forest cover dataset/KS_ColumnShapes.xlsx  rows=40 cols=7
+OK 1. Fidelity/4. Forest cover dataset/JS_Divergence.xlsx  rows=40 cols=6
+OK 1. Fidelity/4. Forest cover dataset/Wasserstein_Summary.xlsx  rows=4 cols=8
+OK 1. Fidelity/4. Forest cover dataset/Wasserstein_Detail.xlsx  rows=40 cols=6
+OK 1. Fidelity/4. Forest cover dataset/Gower_Distance.xlsx  rows=4 cols=10
+OK 1. Fidelity/4. Forest cover dataset/MMD.xlsx  rows=8 cols=5
+OK 1. Fidelity/4. Forest cover dataset/MMD_Multivariate.xlsx  rows=4 cols=7
+OK 2. Privacy/4. Forest cover dataset/Cosine_Similarity.xlsx  rows=8 cols=6
+OK 1. Fidelity/4. Forest cover dataset/Outlier_Count_Diff.xlsx  rows=8 cols=7
+OK 1. Fidelity/4. Forest cover dataset/PCA_Mean_Errors.xlsx  rows=20 cols=7
+OK 1. Fidelity/4. Forest cover dataset/PCA_Projections.xlsx  rows=8 cols=8
+OK 2. Privacy/4. Forest cover dataset/Nearest_Neighbors.xlsx  rows=8 cols=8
+OK 2. Privacy/4. Forest cover dataset/MIA.xlsx  rows=8 cols=9
+OK 2. Privacy/4. Forest cover dataset/Mahalanobis_2D.xlsx  rows=8 cols=8
+OK 2. Privacy/4. Forest cover dataset/Mahalanobis_Summary.xlsx  rows=10 cols=12
+OK 2. Privacy/4. Forest cover dataset/Mahalanobis_Detail.xlsx  rows=8000 cols=81
+OK 2. Privacy/4. Forest cover dataset/Hungarian_Matching.xlsx  rows=8 cols=9
+OK 1. Fidelity/4. Forest cover dataset/Fidelity_Summary.xlsx  rows=8 cols=9
+OK 2. Privacy/4. Forest cover dataset/Privacy_Summary.xlsx  rows=8 cols=5
+OK 1. Fidelity/5. Bank Markting/Quality_Scores.xlsx  rows=4 cols=6
+OK 1. Fidelity/5. Bank Markting/KS_ColumnShapes.xlsx  rows=40 cols=7
+OK 1. Fidelity/5. Bank Markting/JS_Divergence.xlsx  rows=40 cols=6
+OK 1. Fidelity/5. Bank Markting/Wasserstein_Summary.xlsx  rows=8 cols=7
+OK 1. Fidelity/5. Bank Markting/Gower_Distance.xlsx  rows=8 cols=10
+OK 1. Fidelity/5. Bank Markting/MMD.xlsx  rows=8 cols=5
+OK 1. Fidelity/5. Bank Markting/MMD_Multivariate.xlsx  rows=8 cols=6
+OK 2. Privacy/5. Bank Markting/Cosine_Similarity.xlsx  rows=8 cols=6
+OK 1. Fidelity/5. Bank Markting/Outlier_Count_Diff.xlsx  rows=8 cols=7
+OK 1. Fidelity/5. Bank Markting/PCA_Mean_Errors.xlsx  rows=16 cols=7
+OK 1. Fidelity/5. Bank Markting/PCA_Projections.xlsx  rows=8 cols=8
+OK 2. Privacy/5. Bank Markting/Nearest_Neighbors.xlsx  rows=8 cols=7
+OK 2. Privacy/5. Bank Markting/MIA.xlsx  rows=8 cols=9
+OK 2. Privacy/5. Bank Markting/Mahalanobis_2D.xlsx  rows=8 cols=7
+OK 2. Privacy/5. Bank Markting/Mahalanobis_Summary.xlsx  rows=4 cols=6
+OK 2. Privacy/5. Bank Markting/Hungarian_Matching.xlsx  rows=4 cols=9
+OK 1. Fidelity/5. Bank Markting/Fidelity_Summary.xlsx  rows=8 cols=9
+OK 2. Privacy/5. Bank Markting/Privacy_Summary.xlsx  rows=8 cols=5
+OK 1. Fidelity/6. Wine dataset/Quality_Scores.xlsx  rows=4 cols=6
+OK 1. Fidelity/6. Wine dataset/KS_ColumnShapes.xlsx  rows=60 cols=7
+OK 1. Fidelity/6. Wine dataset/JS_Divergence.xlsx  rows=60 cols=6
+OK 1. Fidelity/6. Wine dataset/Wasserstein_Summary.xlsx  rows=8 cols=7
+OK 1. Fidelity/6. Wine dataset/Gower_Distance.xlsx  rows=8 cols=10
+OK 1. Fidelity/6. Wine dataset/MMD.xlsx  rows=8 cols=5
+OK 1. Fidelity/6. Wine dataset/MMD_Multivariate.xlsx  rows=8 cols=6
+OK 2. Privacy/6. Wine dataset/Cosine_Similarity.xlsx  rows=8 cols=6
+OK 1. Fidelity/6. Wine dataset/Outlier_Count_Diff.xlsx  rows=8 cols=7
+OK 1. Fidelity/6. Wine dataset/PCA_Mean_Errors.xlsx  rows=12 cols=7
+OK 1. Fidelity/6. Wine dataset/PCA_Projections.xlsx  rows=8 cols=8
+OK 2. Privacy/6. Wine dataset/Nearest_Neighbors.xlsx  rows=8 cols=7
+OK 2. Privacy/6. Wine dataset/MIA.xlsx  rows=8 cols=9
+OK 2. Privacy/6. Wine dataset/Mahalanobis_2D.xlsx  rows=8 cols=7
+OK 2. Privacy/6. Wine dataset/Mahalanobis_Summary.xlsx  rows=4 cols=8
+OK 2. Privacy/6. Wine dataset/Mahalanobis_Detail.xlsx  rows=25988 cols=31
+OK 2. Privacy/6. Wine dataset/Hungarian_Matching.xlsx  rows=4 cols=9
+OK 1. Fidelity/6. Wine dataset/Fidelity_Summary.xlsx  rows=8 cols=9
+OK 2. Privacy/6. Wine dataset/Privacy_Summary.xlsx  rows=8 cols=5
+OK 1. Fidelity/7. CDC diabetes dataset/Quality_Scores.xlsx  rows=4 cols=6
+OK 1. Fidelity/7. CDC diabetes dataset/KS_ColumnShapes.xlsx  rows=60 cols=7
+OK 1. Fidelity/7. CDC diabetes dataset/JS_Divergence.xlsx  rows=60 cols=6
+OK 1. Fidelity/7. CDC diabetes dataset/Wasserstein_Summary.xlsx  rows=8 cols=7
+OK 1. Fidelity/7. CDC diabetes dataset/Gower_Distance.xlsx  rows=8 cols=10
+OK 1. Fidelity/7. CDC diabetes dataset/MMD.xlsx  rows=6 cols=5
+OK 1. Fidelity/7. CDC diabetes dataset/MMD_Multivariate.xlsx  rows=8 cols=6
+OK 2. Privacy/7. CDC diabetes dataset/Cosine_Similarity.xlsx  rows=6 cols=6
+OK 1. Fidelity/7. CDC diabetes dataset/Outlier_Count_Diff.xlsx  rows=8 cols=7
+OK 1. Fidelity/7. CDC diabetes dataset/PCA_Mean_Errors.xlsx  rows=14 cols=7
+OK 1. Fidelity/7. CDC diabetes dataset/PCA_Projections.xlsx  rows=8 cols=8
+OK 2. Privacy/7. CDC diabetes dataset/Nearest_Neighbors.xlsx  rows=8 cols=7
+OK 2. Privacy/7. CDC diabetes dataset/MIA.xlsx  rows=8 cols=9
+OK 2. Privacy/7. CDC diabetes dataset/Mahalanobis_2D.xlsx  rows=8 cols=7
+OK 2. Privacy/7. CDC diabetes dataset/Mahalanobis_Summary.xlsx  rows=12 cols=12
+OK 2. Privacy/7. CDC diabetes dataset/Mahalanobis_Detail.xlsx  rows=20000 cols=19
+OK 2. Privacy/7. CDC diabetes dataset/Hungarian_Matching.xlsx  rows=4 cols=9
+OK 1. Fidelity/7. CDC diabetes dataset/Fidelity_Summary.xlsx  rows=8 cols=9
+OK 2. Privacy/7. CDC diabetes dataset/Privacy_Summary.xlsx  rows=8 cols=5
+OK 1. Fidelity/8. Mushroom dataset/Quality_Scores.xlsx  rows=4 cols=6
+OK 1. Fidelity/8. Mushroom dataset/KS_ColumnShapes.xlsx  rows=40 cols=7
+OK 1. Fidelity/8. Mushroom dataset/JS_Divergence.xlsx  rows=60 cols=6
+OK 1. Fidelity/8. Mushroom dataset/Wasserstein_Summary.xlsx  rows=8 cols=7
+OK 1. Fidelity/8. Mushroom dataset/Gower_Distance.xlsx  rows=8 cols=10
+OK 1. Fidelity/8. Mushroom dataset/MMD.xlsx  rows=8 cols=5
+OK 1. Fidelity/8. Mushroom dataset/MMD_Multivariate.xlsx  rows=8 cols=6
+OK 2. Privacy/8. Mushroom dataset/Cosine_Similarity.xlsx  rows=8 cols=6
+OK 1. Fidelity/8. Mushroom dataset/Outlier_Count_Diff.xlsx  rows=8 cols=7
+OK 1. Fidelity/8. Mushroom dataset/PCA_Mean_Errors.xlsx  rows=16 cols=7
+OK 1. Fidelity/8. Mushroom dataset/PCA_Projections.xlsx  rows=8 cols=8
+OK 2. Privacy/8. Mushroom dataset/Nearest_Neighbors.xlsx  rows=8 cols=7
+OK 2. Privacy/8. Mushroom dataset/MIA.xlsx  rows=8 cols=9
+OK 2. Privacy/8. Mushroom dataset/Mahalanobis_2D.xlsx  rows=8 cols=7
+OK 2. Privacy/8. Mushroom dataset/Mahalanobis_Summary.xlsx  rows=8 cols=12
+OK 2. Privacy/8. Mushroom dataset/Mahalanobis_Detail.xlsx  rows=40000 cols=15
+OK 2. Privacy/8. Mushroom dataset/Hungarian_Matching.xlsx  rows=4 cols=9
+OK 1. Fidelity/8. Mushroom dataset/Fidelity_Summary.xlsx  rows=8 cols=9
+OK 2. Privacy/8. Mushroom dataset/Privacy_Summary.xlsx  rows=8 cols=5
+OK 1. Fidelity/9. MAGIC Gamma Telescope/Quality_Scores.xlsx  rows=4 cols=6
+OK 1. Fidelity/9. MAGIC Gamma Telescope/KS_ColumnShapes.xlsx  rows=60 cols=7
+OK 1. Fidelity/9. MAGIC Gamma Telescope/JS_Divergence.xlsx  rows=60 cols=6
+OK 1. Fidelity/9. MAGIC Gamma Telescope/Wasserstein_Summary.xlsx  rows=8 cols=7
+OK 1. Fidelity/9. MAGIC Gamma Telescope/Gower_Distance.xlsx  rows=8 cols=10
+OK 1. Fidelity/9. MAGIC Gamma Telescope/MMD.xlsx  rows=8 cols=5
+OK 1. Fidelity/9. MAGIC Gamma Telescope/MMD_Multivariate.xlsx  rows=8 cols=6
+OK 2. Privacy/9. MAGIC Gamma Telescope/Cosine_Similarity.xlsx  rows=8 cols=6
+OK 1. Fidelity/9. MAGIC Gamma Telescope/Outlier_Count_Diff.xlsx  rows=4 cols=7
+OK 1. Fidelity/9. MAGIC Gamma Telescope/PCA_Mean_Errors.xlsx  rows=12 cols=7
+OK 1. Fidelity/9. MAGIC Gamma Telescope/PCA_Projections.xlsx  rows=8 cols=8
+OK 2. Privacy/9. MAGIC Gamma Telescope/Nearest_Neighbors.xlsx  rows=8 cols=7
+OK 2. Privacy/9. MAGIC Gamma Telescope/MIA.xlsx  rows=8 cols=9
+OK 2. Privacy/9. MAGIC Gamma Telescope/Mahalanobis_2D.xlsx  rows=8 cols=7
+OK 2. Privacy/9. MAGIC Gamma Telescope/Mahalanobis_Summary.xlsx  rows=12 cols=11
+OK 2. Privacy/9. MAGIC Gamma Telescope/Mahalanobis_Detail.xlsx  rows=12000 cols=28
+OK 2. Privacy/9. MAGIC Gamma Telescope/Hungarian_Matching.xlsx  rows=8 cols=9
+OK 1. Fidelity/9. MAGIC Gamma Telescope/Fidelity_Summary.xlsx  rows=8 cols=9
+OK 2. Privacy/9. MAGIC Gamma Telescope/Privacy_Summary.xlsx  rows=8 cols=5
+OK 3. Utility/1. Cancer/TRTR_Results.xlsx  src=TRTR_TSTR_results_cancer.xlsx rows=10
+OK 3. Utility/1. Cancer/All_Comparisons.xlsx  src=TRTR_TSTR_results_cancer.xlsx rows=80
+OK 3. Utility/1. Cancer/Summary.xlsx  src=TRTR_TSTR_results_cancer.xlsx rows=8
+OK 3. Utility/1. Cancer/CTGAN.xlsx  src=TRTR_TSTR_results_cancer.xlsx rows=10
+OK 3. Utility/1. Cancer/CopulaGAN.xlsx  src=TRTR_TSTR_results_cancer.xlsx rows=10
+OK 3. Utility/1. Cancer/TVAE.xlsx  src=TRTR_TSTR_results_cancer.xlsx rows=10
+OK 3. Utility/1. Cancer/GaussianCopula.xlsx  src=TRTR_TSTR_results_cancer.xlsx rows=10
+OK 3. Utility/1. Cancer/WGAN_GP.xlsx  src=TRTR_TSTR_results_cancer.xlsx rows=10
+OK 3. Utility/1. Cancer/CTABGAN.xlsx  src=TRTR_TSTR_results_cancer.xlsx rows=10
+OK 3. Utility/1. Cancer/TabDDPM.xlsx  src=TRTR_TSTR_results_cancer.xlsx rows=10
+OK 3. Utility/1. Cancer/ForestDiffusion.xlsx  src=TRTR_TSTR_results_cancer.xlsx rows=10
+OK 1. Fidelity/10. Metro interstate/Quality_Metrics.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=6
+OK 3. Utility/10. Metro interstate/TRTR_Results.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/10. Metro interstate/All_Comparisons.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=60
+OK 3. Utility/10. Metro interstate/Summary.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=6
+OK 3. Utility/10. Metro interstate/CTGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/10. Metro interstate/CopulaGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/10. Metro interstate/TVAE.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/10. Metro interstate/GaussianCopula.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/10. Metro interstate/WGAN_GP.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/10. Metro interstate/CTABGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 1. Fidelity/11. online shopping/Quality_Metrics.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=6
+OK 3. Utility/11. online shopping/TRTR_Results.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/11. online shopping/All_Comparisons.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=60
+OK 3. Utility/11. online shopping/Summary.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=6
+OK 3. Utility/11. online shopping/CTGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/11. online shopping/CopulaGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/11. online shopping/TVAE.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/11. online shopping/GaussianCopula.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/11. online shopping/WGAN_GP.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/11. online shopping/CTABGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 1. Fidelity/12. Air Quality/Quality_Metrics.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=6
+OK 3. Utility/12. Air Quality/TRTR_Results.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/12. Air Quality/All_Comparisons.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=60
+OK 3. Utility/12. Air Quality/Summary.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=6
+OK 3. Utility/12. Air Quality/CTGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/12. Air Quality/CopulaGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/12. Air Quality/TVAE.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/12. Air Quality/GaussianCopula.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/12. Air Quality/WGAN_GP.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/12. Air Quality/CTABGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 1. Fidelity/13. Concrete Compressive Strength/Quality_Metrics.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=3
+OK 3. Utility/13. Concrete Compressive Strength/TRTR_Results.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/13. Concrete Compressive Strength/All_Comparisons.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=80
+OK 3. Utility/13. Concrete Compressive Strength/Summary.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=8
+OK 3. Utility/13. Concrete Compressive Strength/CTGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/13. Concrete Compressive Strength/CopulaGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/13. Concrete Compressive Strength/TVAE.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/13. Concrete Compressive Strength/GaussianCopula.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/13. Concrete Compressive Strength/WGAN_GP.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/13. Concrete Compressive Strength/CTABGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/13. Concrete Compressive Strength/TabDDPM.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/13. Concrete Compressive Strength/ForestDiffusion.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 1. Fidelity/14. Energy Efficiency/Quality_Metrics.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=7
+OK 3. Utility/14. Energy Efficiency/TRTR_Results.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/14. Energy Efficiency/All_Comparisons.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=80
+OK 3. Utility/14. Energy Efficiency/Summary.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=8
+OK 3. Utility/14. Energy Efficiency/CTGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/14. Energy Efficiency/CopulaGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/14. Energy Efficiency/TVAE.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/14. Energy Efficiency/GaussianCopula.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/14. Energy Efficiency/WGAN_GP.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/14. Energy Efficiency/CTABGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/14. Energy Efficiency/TabDDPM.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/14. Energy Efficiency/ForestDiffusion.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 1. Fidelity/15. Real Estate Valuation/Quality_Metrics.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=3
+OK 3. Utility/15. Real Estate Valuation/TRTR_Results.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/15. Real Estate Valuation/All_Comparisons.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=80
+OK 3. Utility/15. Real Estate Valuation/Summary.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=8
+OK 3. Utility/15. Real Estate Valuation/CTGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/15. Real Estate Valuation/CopulaGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/15. Real Estate Valuation/TVAE.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/15. Real Estate Valuation/GaussianCopula.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/15. Real Estate Valuation/WGAN_GP.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/15. Real Estate Valuation/CTABGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/15. Real Estate Valuation/TabDDPM.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/15. Real Estate Valuation/ForestDiffusion.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/2. Alzhimers/TRTR_Results.xlsx  src=TRTR_TSTR_results_alzhimers.xlsx rows=10
+OK 3. Utility/2. Alzhimers/All_Comparisons.xlsx  src=TRTR_TSTR_results_alzhimers.xlsx rows=80
+OK 3. Utility/2. Alzhimers/Summary.xlsx  src=TRTR_TSTR_results_alzhimers.xlsx rows=8
+OK 3. Utility/2. Alzhimers/CTGAN.xlsx  src=TRTR_TSTR_results_alzhimers.xlsx rows=10
+OK 3. Utility/2. Alzhimers/CopulaGAN.xlsx  src=TRTR_TSTR_results_alzhimers.xlsx rows=10
+OK 3. Utility/2. Alzhimers/TVAE.xlsx  src=TRTR_TSTR_results_alzhimers.xlsx rows=10
+OK 3. Utility/2. Alzhimers/GaussianCopula.xlsx  src=TRTR_TSTR_results_alzhimers.xlsx rows=10
+OK 3. Utility/2. Alzhimers/WGAN_GP.xlsx  src=TRTR_TSTR_results_alzhimers.xlsx rows=10
+OK 3. Utility/2. Alzhimers/CTABGAN.xlsx  src=TRTR_TSTR_results_alzhimers.xlsx rows=10
+OK 3. Utility/2. Alzhimers/TabDDPM.xlsx  src=TRTR_TSTR_results_alzhimers.xlsx rows=10
+OK 3. Utility/2. Alzhimers/ForestDiffusion.xlsx  src=TRTR_TSTR_results_alzhimers.xlsx rows=10
+OK 3. Utility/3. Adult/TRTR_Results.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/3. Adult/All_Comparisons.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=80
+OK 3. Utility/3. Adult/Summary.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=8
+OK 3. Utility/3. Adult/CTGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/3. Adult/CopulaGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/3. Adult/TVAE.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/3. Adult/GaussianCopula.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/3. Adult/WGAN_GP.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/3. Adult/CTABGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/3. Adult/TabDDPM.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/3. Adult/ForestDiffusion.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/4. Forest cover dataset/TRTR_Results.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/4. Forest cover dataset/All_Comparisons.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=60
+OK 3. Utility/4. Forest cover dataset/Summary.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=6
+OK 3. Utility/4. Forest cover dataset/CTGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/4. Forest cover dataset/CopulaGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/4. Forest cover dataset/TVAE.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/4. Forest cover dataset/GaussianCopula.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/4. Forest cover dataset/WGAN_GP.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/4. Forest cover dataset/CTABGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/5. Bank Markting/TRTR_Results.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/5. Bank Markting/All_Comparisons.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=80
+OK 3. Utility/5. Bank Markting/Summary.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=8
+OK 3. Utility/5. Bank Markting/CTGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/5. Bank Markting/CopulaGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/5. Bank Markting/TVAE.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/5. Bank Markting/GaussianCopula.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/5. Bank Markting/WGAN_GP.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/5. Bank Markting/CTABGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/5. Bank Markting/TabDDPM.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/5. Bank Markting/ForestDiffusion.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/6. Wine dataset/TRTR_Results.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/6. Wine dataset/All_Comparisons.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=78
+OK 3. Utility/6. Wine dataset/Summary.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=8
+OK 3. Utility/6. Wine dataset/CTGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/6. Wine dataset/CopulaGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/6. Wine dataset/TVAE.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/6. Wine dataset/GaussianCopula.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/6. Wine dataset/WGAN_GP.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/6. Wine dataset/CTABGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/6. Wine dataset/TabDDPM.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=9
+OK 3. Utility/6. Wine dataset/ForestDiffusion.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=9
+OK 3. Utility/7. CDC diabetes dataset/TRTR_Results.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/7. CDC diabetes dataset/All_Comparisons.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=80
+OK 3. Utility/7. CDC diabetes dataset/Summary.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=8
+OK 3. Utility/7. CDC diabetes dataset/CTGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/7. CDC diabetes dataset/CopulaGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/7. CDC diabetes dataset/TVAE.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/7. CDC diabetes dataset/GaussianCopula.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/7. CDC diabetes dataset/WGAN_GP.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/7. CDC diabetes dataset/CTABGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/7. CDC diabetes dataset/TabDDPM.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/7. CDC diabetes dataset/ForestDiffusion.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/8. Mushroom dataset/TRTR_Results.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/8. Mushroom dataset/All_Comparisons.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=80
+OK 3. Utility/8. Mushroom dataset/Summary.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=8
+OK 3. Utility/8. Mushroom dataset/CTGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/8. Mushroom dataset/CopulaGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/8. Mushroom dataset/TVAE.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/8. Mushroom dataset/GaussianCopula.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/8. Mushroom dataset/WGAN_GP.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/8. Mushroom dataset/CTABGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/8. Mushroom dataset/TabDDPM.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/8. Mushroom dataset/ForestDiffusion.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/9. MAGIC Gamma Telescope/TRTR_Results.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/9. MAGIC Gamma Telescope/All_Comparisons.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=80
+OK 3. Utility/9. MAGIC Gamma Telescope/Summary.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=8
+OK 3. Utility/9. MAGIC Gamma Telescope/CTGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/9. MAGIC Gamma Telescope/CopulaGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/9. MAGIC Gamma Telescope/TVAE.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/9. MAGIC Gamma Telescope/GaussianCopula.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/9. MAGIC Gamma Telescope/WGAN_GP.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/9. MAGIC Gamma Telescope/CTABGAN.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/9. MAGIC Gamma Telescope/TabDDPM.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10
+OK 3. Utility/9. MAGIC Gamma Telescope/ForestDiffusion.xlsx  src=TRTR_TSTR_results_merged.xlsx rows=10

@@ -1,0 +1,73 @@
+Dataset,Generator,TaskType,Metric,UtilityGap
+5. Bank Markting,ForestDiffusion,classification,Precision_Gap,-0.0058545689
+9. MAGIC Gamma Telescope,ForestDiffusion,classification,Precision_Gap,0.0089655197
+1. Cancer,ForestDiffusion,classification,Precision_Gap,-0.0066213492
+8. Mushroom dataset,ForestDiffusion,classification,Precision_Gap,0.0847408528
+7. CDC diabetes dataset,ForestDiffusion,classification,Precision_Gap,0.0039230327
+6. Wine dataset,ForestDiffusion,classification,Precision_Gap,-0.0951966751
+2. Alzhimers,ForestDiffusion,classification,Precision_Gap,-0.0163777749
+4. Forest cover dataset,ForestDiffusion,classification,Precision_Gap,-0.065031499
+3. Adult,ForestDiffusion,classification,Precision_Gap,0.0071031834
+8. Mushroom dataset,WGAN-GP,classification,Precision_Gap,0.1813030678
+7. CDC diabetes dataset,WGAN-GP,classification,Precision_Gap,0.033846501
+6. Wine dataset,WGAN-GP,classification,Precision_Gap,0.0542142672
+5. Bank Markting,WGAN-GP,classification,Precision_Gap,0.0566699672
+4. Forest cover dataset,WGAN-GP,classification,Precision_Gap,0.2481458658
+3. Adult,WGAN-GP,classification,Precision_Gap,0.0414565118
+9. MAGIC Gamma Telescope,WGAN-GP,classification,Precision_Gap,0.0168120908
+1. Cancer,WGAN-GP,classification,Precision_Gap,-0.0069131782
+2. Alzhimers,WGAN-GP,classification,Precision_Gap,-0.0288809741
+9. MAGIC Gamma Telescope,TVAE,classification,Precision_Gap,0.0063515419
+8. Mushroom dataset,TVAE,classification,Precision_Gap,0.2166002791
+3. Adult,TVAE,classification,Precision_Gap,0.1487533786
+1. Cancer,TVAE,classification,Precision_Gap,0.0823294945
+2. Alzhimers,TVAE,classification,Precision_Gap,0.1250962995
+7. CDC diabetes dataset,TVAE,classification,Precision_Gap,0.1025878219
+6. Wine dataset,TVAE,classification,Precision_Gap,0.0224940242
+4. Forest cover dataset,TVAE,classification,Precision_Gap,0.2441651263
+5. Bank Markting,TVAE,classification,Precision_Gap,0.0264573828
+3. Adult,CTABGAN,classification,Precision_Gap,0.1826481002
+9. MAGIC Gamma Telescope,CTABGAN,classification,Precision_Gap,0.0471504052
+8. Mushroom dataset,CTABGAN,classification,Precision_Gap,0.2932066486
+7. CDC diabetes dataset,CTABGAN,classification,Precision_Gap,0.0924884484
+6. Wine dataset,CTABGAN,classification,Precision_Gap,0.1423852372
+2. Alzhimers,CTABGAN,classification,Precision_Gap,0.1055256021
+1. Cancer,CTABGAN,classification,Precision_Gap,0.0737696552
+4. Forest cover dataset,CTABGAN,classification,Precision_Gap,0.2615625882
+5. Bank Markting,CTABGAN,classification,Precision_Gap,0.0047602982
+9. MAGIC Gamma Telescope,GaussianCopula,classification,Precision_Gap,0.099098617
+8. Mushroom dataset,GaussianCopula,classification,Precision_Gap,0.255172869
+1. Cancer,GaussianCopula,classification,Precision_Gap,0.0670854389
+3. Adult,GaussianCopula,classification,Precision_Gap,0.2049527589
+2. Alzhimers,GaussianCopula,classification,Precision_Gap,0.166072484
+6. Wine dataset,GaussianCopula,classification,Precision_Gap,0.1526591054
+4. Forest cover dataset,GaussianCopula,classification,Precision_Gap,0.1984886604
+7. CDC diabetes dataset,GaussianCopula,classification,Precision_Gap,0.2557512541
+5. Bank Markting,GaussianCopula,classification,Precision_Gap,0.0527378935
+5. Bank Markting,CopulaGAN,classification,Precision_Gap,0.0142216879
+4. Forest cover dataset,CopulaGAN,classification,Precision_Gap,0.3140101677
+9. MAGIC Gamma Telescope,CopulaGAN,classification,Precision_Gap,0.0590332115
+7. CDC diabetes dataset,CopulaGAN,classification,Precision_Gap,0.1303850148
+3. Adult,CopulaGAN,classification,Precision_Gap,0.1746232328
+1. Cancer,CopulaGAN,classification,Precision_Gap,0.6474866498
+8. Mushroom dataset,CopulaGAN,classification,Precision_Gap,0.2948092253
+2. Alzhimers,CopulaGAN,classification,Precision_Gap,0.3971638782
+6. Wine dataset,CopulaGAN,classification,Precision_Gap,0.1484187267
+6. Wine dataset,CTGAN,classification,Precision_Gap,0.1529435581
+3. Adult,CTGAN,classification,Precision_Gap,0.1851842049
+1. Cancer,CTGAN,classification,Precision_Gap,0.3749613129
+9. MAGIC Gamma Telescope,CTGAN,classification,Precision_Gap,0.0397597797
+8. Mushroom dataset,CTGAN,classification,Precision_Gap,0.2649735203
+2. Alzhimers,CTGAN,classification,Precision_Gap,0.4142917035
+7. CDC diabetes dataset,CTGAN,classification,Precision_Gap,0.0750224941
+4. Forest cover dataset,CTGAN,classification,Precision_Gap,0.1934843759
+5. Bank Markting,CTGAN,classification,Precision_Gap,0.0276371568
+7. CDC diabetes dataset,TabDDPM,classification,Precision_Gap,0.1013921766
+9. MAGIC Gamma Telescope,TabDDPM,classification,Precision_Gap,0.1886613502
+2. Alzhimers,TabDDPM,classification,Precision_Gap,0.3706597265
+8. Mushroom dataset,TabDDPM,classification,Precision_Gap,0.3480725873
+5. Bank Markting,TabDDPM,classification,Precision_Gap,0.0712239839
+1. Cancer,TabDDPM,classification,Precision_Gap,0.6708797571
+6. Wine dataset,TabDDPM,classification,Precision_Gap,0.1551648232
+4. Forest cover dataset,TabDDPM,classification,Precision_Gap,0.2662261341
+3. Adult,TabDDPM,classification,Precision_Gap,0.1981491027

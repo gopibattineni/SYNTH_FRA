@@ -1,0 +1,31 @@
+Dataset,Analysis,X_Metric,Y_Metric,n_generators,Pearson_r,Pearson_p,Spearman_rho,Spearman_p,Slope,Intercept,R2,Slope_95CI_low,Slope_95CI_high,Intercept_95CI_low,Intercept_95CI_high
+Cancer,fidelity_vs_accuracy_gap,SDMetrics Quality Score,Utility Gap (Accuracy),8,-0.773427,0.0243608,-0.880952,0.00385032,-0.929556,0.944265,0.598189,-1.6906,-0.168511,0.31404,1.57449
+Cancer,mia_vs_accuracy_gap,MIA AUC,Utility Gap (Accuracy),8,0.107912,0.79923,0.407193,0.316709,0.0927721,0.124091,0.011645,-0.761008,0.946552,-0.531661,0.779843
+Alzheimer's,fidelity_vs_accuracy_gap,SDMetrics Quality Score,Utility Gap (Accuracy),8,-0.728721,0.0403065,-0.642857,0.0855589,-1.11992,0.961379,0.531034,-2.17125,-0.0685895,0.230217,1.69254
+Alzheimer's,mia_vs_accuracy_gap,MIA AUC,Utility Gap (Accuracy),8,0.804417,0.0160675,0.690476,0.0579903,0.641807,-0.288865,0.647087,0.16833,1.11528,-0.656416,0.0786867
+Adult,fidelity_vs_accuracy_gap,SDMetrics Quality Score,Utility Gap (Accuracy),8,-0.737419,0.0368159,-0.785714,0.0208151,-0.454491,0.511795,0.543787,-0.870342,-0.0386407,0.232743,0.790848
+Adult,mia_vs_accuracy_gap,MIA AUC,Utility Gap (Accuracy),8,0.414186,0.307648,0.595238,0.11953,0.196012,0.0872485,0.17155,-0.23428,0.626303,-0.22387,0.398367
+Forest Cover,fidelity_vs_accuracy_gap,SDMetrics Quality Score,Utility Gap (Accuracy),8,0.528046,0.178564,0.190476,0.651401,0.28028,0.0661497,0.278833,-0.169998,0.730558,-0.288753,0.421053
+Forest Cover,mia_vs_accuracy_gap,MIA AUC,Utility Gap (Accuracy),8,0.579951,0.131817,0.380952,0.351813,0.757091,-0.2797,0.336343,-0.305267,1.81945,-1.05955,0.500146
+Bank Marketing,fidelity_vs_accuracy_gap,SDMetrics Quality Score,Utility Gap (Accuracy),8,0.198733,0.637071,0.5,0.207031,0.016561,0.00737425,0.0394947,-0.0650241,0.0981461,-0.0575575,0.072306
+Bank Marketing,mia_vs_accuracy_gap,MIA AUC,Utility Gap (Accuracy),8,0.00374343,0.992981,0.0,1.0,0.00124496,0.0196571,1.40132e-05,-0.330975,0.333465,-0.158164,0.197478
+Wine Quality,fidelity_vs_accuracy_gap,SDMetrics Quality Score,Utility Gap (Accuracy),8,-0.0482274,0.909714,0.142857,0.735765,-0.0594948,0.138452,0.00232588,-1.29039,1.1714,-0.913344,1.19025
+Wine Quality,mia_vs_accuracy_gap,MIA AUC,Utility Gap (Accuracy),8,0.851107,0.00735795,0.880952,0.00385032,0.47531,-0.19364,0.724384,0.182431,0.768188,-0.37397,-0.01331
+CDC Diabetes,fidelity_vs_accuracy_gap,SDMetrics Quality Score,Utility Gap (Accuracy),8,-0.337453,0.413669,-0.238095,0.570156,-0.022087,0.0352827,0.113875,-0.083635,0.039461,-0.0140925,0.084658
+CDC Diabetes,mia_vs_accuracy_gap,MIA AUC,Utility Gap (Accuracy),8,-0.0550099,0.897064,0.166667,0.693239,-0.00372611,0.0199582,0.00302609,-0.0712876,0.0638354,-0.019333,0.0592494
+Mushroom,fidelity_vs_accuracy_gap,SDMetrics Quality Score,Utility Gap (Accuracy),8,0.202165,0.631142,0.0,1.0,0.0887051,0.17593,0.0408707,-0.340558,0.517969,-0.162704,0.514564
+Mushroom,mia_vs_accuracy_gap,MIA AUC,Utility Gap (Accuracy),8,0.222386,0.59657,0.190476,0.651401,0.272111,0.0997993,0.0494555,-0.91959,1.46381,-0.536671,0.736269
+MAGIC Gamma,fidelity_vs_accuracy_gap,SDMetrics Quality Score,Utility Gap (Accuracy),8,-0.824417,0.0118133,-0.428571,0.289403,-0.714506,0.72167,0.679663,-1.20452,-0.224496,0.286352,1.15699
+MAGIC Gamma,mia_vs_accuracy_gap,MIA AUC,Utility Gap (Accuracy),8,0.500617,0.206381,0.761905,0.0280049,0.249064,-0.0647041,0.250617,-0.181165,0.679294,-0.334457,0.205048
+Metro Interstate,fidelity_vs_r2_gap,SDMetrics Quality Score,Utility Gap (R2),8,0.0694753,0.870152,-0.285714,0.492726,0.413838,0.0311371,0.00482682,-5.52214,6.34982,-4.69684,4.75911
+Metro Interstate,mia_vs_r2_gap,MIA AUC,Utility Gap (R2),8,-0.190829,0.650787,0.047619,0.910849,-0.527191,0.673253,0.0364158,-3.2362,2.18182,-1.04841,2.39492
+Online Shopping,fidelity_vs_r2_gap,SDMetrics Quality Score,Utility Gap (R2),8,-0.901081,0.00224381,-0.595238,0.11953,-77.1648,61.9099,0.811948,-114.262,-40.0679,34.9639,88.8559
+Online Shopping,mia_vs_r2_gap,MIA AUC,Utility Gap (R2),8,0.20785,0.62136,0.619048,0.101733,34.9865,-15.5718,0.0432016,-129.49,199.463,-138.603,107.459
+Air Quality,fidelity_vs_r2_gap,SDMetrics Quality Score,Utility Gap (R2),8,-0.546531,0.161027,-0.738095,0.0365528,-3.65775,3.7282,0.298696,-9.25654,1.94105,-0.976785,8.43319
+Air Quality,mia_vs_r2_gap,MIA AUC,Utility Gap (R2),8,0.293236,0.480888,0.619048,0.101733,1.04801,-0.194577,0.0859871,-2.36524,4.46127,-3.08907,2.69992
+Concrete,fidelity_vs_r2_gap,SDMetrics Quality Score,Utility Gap (R2),8,-0.800096,0.0170966,-0.833333,0.0101755,-5.13214,4.74405,0.640154,-8.97591,-1.28837,1.59123,7.89686
+Concrete,mia_vs_r2_gap,MIA AUC,Utility Gap (R2),8,0.556454,0.152018,0.404762,0.319889,1.48342,-0.453337,0.309641,-0.729245,3.6961,-2.01876,1.11208
+Energy Efficiency,fidelity_vs_r2_gap,SDMetrics Quality Score,Utility Gap (R2),8,-0.188554,0.654751,-0.0238095,0.955374,-1.70112,1.88794,0.0355526,-10.5519,7.14965,-4.49397,8.26985
+Energy Efficiency,mia_vs_r2_gap,MIA AUC,Utility Gap (R2),8,0.37384,0.361619,0.654654,0.0781407,2.60515,-1.83227,0.139757,-3.8514,9.06171,-8.06432,4.39979
+Real Estate,fidelity_vs_r2_gap,SDMetrics Quality Score,Utility Gap (R2),8,-0.412282,0.310102,-0.5,0.207031,-2.47979,2.45292,0.169977,-7.95385,2.99426,-2.06603,6.97188
+Real Estate,mia_vs_r2_gap,MIA AUC,Utility Gap (R2),8,0.497256,0.209936,0.304408,0.463515,1.69827,-1.00933,0.247263,-1.26172,4.65826,-3.55773,1.53907

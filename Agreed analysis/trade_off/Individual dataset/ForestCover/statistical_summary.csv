@@ -1,0 +1,3 @@
+Dataset,Analysis,X_Metric,Y_Metric,n_generators,Pearson_r,Pearson_p,Spearman_rho,Spearman_p,Slope,Intercept,R2,Slope_95CI_low,Slope_95CI_high,Intercept_95CI_low,Intercept_95CI_high
+Forest Cover,fidelity_vs_accuracy_gap,SDMetrics Quality Score,Utility Gap (Accuracy),8,0.528046,0.178564,0.190476,0.651401,0.28028,0.0661497,0.278833,-0.169998,0.730558,-0.288753,0.421053
+Forest Cover,mia_vs_accuracy_gap,MIA AUC,Utility Gap (Accuracy),8,0.579951,0.131817,0.380952,0.351813,0.757091,-0.2797,0.336343,-0.305267,1.81945,-1.05955,0.500146

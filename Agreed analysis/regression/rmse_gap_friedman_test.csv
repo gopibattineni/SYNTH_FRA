@@ -1,0 +1,2 @@
+Test,Metric,TaskType,Statistic_chi2,DegreesOfFreedom,p_value,N_Datasets,N_Generators,Alpha,Significant,Posthoc,Nemenyi_sig_pairs,Holm_sig_pairs
+Friedman,RMSE_Gap,regression,17.44444444444443,7,0.014744503122586875,6,8,0.05,True,Nemenyi + Holm-Wilcoxon,2,0

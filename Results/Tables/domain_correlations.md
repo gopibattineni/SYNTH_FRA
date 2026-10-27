@@ -1,0 +1,6 @@
+|    | Question                          | X        | Y       |   N |   Pearson_r |   Pearson_p |   Spearman_r |   Spearman_p | Interpretation                                                      |
+|---:|:----------------------------------|:---------|:--------|----:|------------:|------------:|-------------:|-------------:|:--------------------------------------------------------------------|
+|  0 | Higher fidelity → better utility? | Fidelity | Utility | 176 |   0.383387  |  1.5042e-07 |    0.346845  |  2.40692e-06 | moderate positive association — yes that fidelity predicts utility  |
+|  1 | Stronger privacy reduces utility? | Privacy  | Utility | 176 |  -0.0659319 |  0.384629   |   -0.0211388 |  0.780651    | weak negative association — privacy may not strongly reduce utility |
+|  2 | Fidelity–privacy trade-off        | Fidelity | Privacy | 176 |   0.0205136 |  0.786981   |    0.0692653 |  0.361002    | weak positive correlation                                           |
+|  3 | Utility–privacy trade-off         | Utility  | Privacy | 176 |  -0.0659319 |  0.384629   |   -0.0211388 |  0.780651    | weak negative correlation                                           |

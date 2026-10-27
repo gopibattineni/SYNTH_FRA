@@ -1,0 +1,161 @@
+Dataset,DatasetKey,DatasetLabel,Generator,Seed,Utility,UtilityMean,UtilityStd,UtilityMetric,Fidelity,FidelityMetric,Privacy,PrivacyMetric,PrivacyLabel,HigherIsPrivate,N_Classifiers,SeedSource
+1. Cancer,Cancer,Cancer,CTABGAN,42,0.8707925048359653,0.882719298245614,0.02284904814275749,Accuracy,0.851563,Quality_Score,4.696354,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CTABGAN,43,0.86136299694597,0.882719298245614,0.02284904814275749,Accuracy,0.851563,Quality_Score,4.696354,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CTABGAN,44,0.8606741489553401,0.882719298245614,0.02284904814275749,Accuracy,0.851563,Quality_Score,4.696354,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CTABGAN,45,0.8482265597662224,0.882719298245614,0.02284904814275749,Accuracy,0.851563,Quality_Score,4.696354,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CTABGAN,46,0.8747747425409297,0.882719298245614,0.02284904814275749,Accuracy,0.851563,Quality_Score,4.696354,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CTABGAN,47,0.8800106187609125,0.882719298245614,0.02284904814275749,Accuracy,0.851563,Quality_Score,4.696354,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CTABGAN,48,0.9099243642022177,0.882719298245614,0.02284904814275749,Accuracy,0.851563,Quality_Score,4.696354,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CTABGAN,49,0.9066735144471172,0.882719298245614,0.02284904814275749,Accuracy,0.851563,Quality_Score,4.696354,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CTABGAN,50,0.8850562384065697,0.882719298245614,0.02284904814275749,Accuracy,0.851563,Quality_Score,4.696354,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CTABGAN,51,0.8498158574504295,0.882719298245614,0.02284904814275749,Accuracy,0.851563,Quality_Score,4.696354,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CTGAN,42,0.6538403967445761,0.7193859649122807,0.036438680388859813,Accuracy,0.765081,Quality_Score,6.264304,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CTGAN,43,0.7742029997568304,0.7193859649122807,0.036438680388859813,Accuracy,0.765081,Quality_Score,6.264304,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CTGAN,44,0.7062569542285829,0.7193859649122807,0.036438680388859813,Accuracy,0.765081,Quality_Score,6.264304,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CTGAN,45,0.7476712273137842,0.7193859649122807,0.036438680388859813,Accuracy,0.765081,Quality_Score,6.264304,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CTGAN,46,0.7493378436872672,0.7193859649122807,0.036438680388859813,Accuracy,0.765081,Quality_Score,6.264304,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CTGAN,47,0.7252788821417686,0.7193859649122807,0.036438680388859813,Accuracy,0.765081,Quality_Score,6.264304,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CTGAN,48,0.7100788417973056,0.7193859649122807,0.036438680388859813,Accuracy,0.765081,Quality_Score,6.264304,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CTGAN,49,0.7861552373956161,0.7193859649122807,0.036438680388859813,Accuracy,0.765081,Quality_Score,6.264304,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CTGAN,50,0.6672563467730849,0.7193859649122807,0.036438680388859813,Accuracy,0.765081,Quality_Score,6.264304,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CTGAN,51,0.7280980018014198,0.7193859649122807,0.036438680388859813,Accuracy,0.765081,Quality_Score,6.264304,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CopulaGAN,42,0.30970795893690084,0.3592982456140351,0.06527766646913409,Accuracy,0.721867,Quality_Score,8.754585,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CopulaGAN,43,0.36635511173111324,0.3592982456140351,0.06527766646913409,Accuracy,0.721867,Quality_Score,8.754585,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CopulaGAN,44,0.19415761438295853,0.3592982456140351,0.06527766646913409,Accuracy,0.721867,Quality_Score,8.754585,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CopulaGAN,45,0.4150858365323882,0.3592982456140351,0.06527766646913409,Accuracy,0.721867,Quality_Score,8.754585,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CopulaGAN,46,0.3652124402026522,0.3592982456140351,0.06527766646913409,Accuracy,0.721867,Quality_Score,8.754585,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CopulaGAN,47,0.3510734966306614,0.3592982456140351,0.06527766646913409,Accuracy,0.721867,Quality_Score,8.754585,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CopulaGAN,48,0.39234602893424436,0.3592982456140351,0.06527766646913409,Accuracy,0.721867,Quality_Score,8.754585,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CopulaGAN,49,0.3126622278139806,0.3592982456140351,0.06527766646913409,Accuracy,0.721867,Quality_Score,8.754585,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CopulaGAN,50,0.2837532133708618,0.3592982456140351,0.06527766646913409,Accuracy,0.721867,Quality_Score,8.754585,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,CopulaGAN,51,0.43640628659464514,0.3592982456140351,0.06527766646913409,Accuracy,0.721867,Quality_Score,8.754585,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,ForestDiffusion,42,0.952205111328001,0.9616666666666667,0.016791725843263612,Accuracy,0.947885,Quality_Score,1.873807,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,ForestDiffusion,43,0.9539538695028111,0.9616666666666667,0.016791725843263612,Accuracy,0.947885,Quality_Score,1.873807,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,ForestDiffusion,44,0.9981091341093766,0.9616666666666667,0.016791725843263612,Accuracy,0.947885,Quality_Score,1.873807,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,ForestDiffusion,45,0.9682496786774745,0.9616666666666667,0.016791725843263612,Accuracy,0.947885,Quality_Score,1.873807,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,ForestDiffusion,46,0.9881321345982031,0.9616666666666667,0.016791725843263612,Accuracy,0.947885,Quality_Score,1.873807,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,ForestDiffusion,47,0.9760431756837162,0.9616666666666667,0.016791725843263612,Accuracy,0.947885,Quality_Score,1.873807,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,ForestDiffusion,48,0.9687840352811175,0.9616666666666667,0.016791725843263612,Accuracy,0.947885,Quality_Score,1.873807,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,ForestDiffusion,49,0.9570718663366462,0.9616666666666667,0.016791725843263612,Accuracy,0.947885,Quality_Score,1.873807,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,ForestDiffusion,50,0.9397266002581521,0.9616666666666667,0.016791725843263612,Accuracy,0.947885,Quality_Score,1.873807,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,ForestDiffusion,51,0.943201884625672,0.9616666666666667,0.016791725843263612,Accuracy,0.947885,Quality_Score,1.873807,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,GaussianCopula,42,0.8247196820737013,0.860438596491228,0.03044205677208331,Accuracy,0.943748,Quality_Score,2.722936,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,GaussianCopula,43,0.8501350973650484,0.860438596491228,0.03044205677208331,Accuracy,0.943748,Quality_Score,2.722936,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,GaussianCopula,44,0.909176680894879,0.860438596491228,0.03044205677208331,Accuracy,0.943748,Quality_Score,2.722936,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,GaussianCopula,45,0.8702810737813408,0.860438596491228,0.03044205677208331,Accuracy,0.943748,Quality_Score,2.722936,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,GaussianCopula,46,0.8355871916987514,0.860438596491228,0.03044205677208331,Accuracy,0.943748,Quality_Score,2.722936,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,GaussianCopula,47,0.8658559437368983,0.860438596491228,0.03044205677208331,Accuracy,0.943748,Quality_Score,2.722936,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,GaussianCopula,48,0.8262677603184037,0.860438596491228,0.03044205677208331,Accuracy,0.943748,Quality_Score,2.722936,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,GaussianCopula,49,0.8339939219003245,0.860438596491228,0.03044205677208331,Accuracy,0.943748,Quality_Score,2.722936,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,GaussianCopula,50,0.8624380885004996,0.860438596491228,0.03044205677208331,Accuracy,0.943748,Quality_Score,2.722936,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,GaussianCopula,51,0.8824021318234961,0.860438596491228,0.03044205677208331,Accuracy,0.943748,Quality_Score,2.722936,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,TVAE,42,0.942963805590035,0.9264035087719298,0.02036077455870763,Accuracy,0.896421,Quality_Score,2.786137,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,TVAE,43,0.9346737245083756,0.9264035087719298,0.02036077455870763,Accuracy,0.896421,Quality_Score,2.786137,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,TVAE,44,0.9084545020173718,0.9264035087719298,0.02036077455870763,Accuracy,0.896421,Quality_Score,2.786137,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,TVAE,45,0.9255343102585156,0.9264035087719298,0.02036077455870763,Accuracy,0.896421,Quality_Score,2.786137,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,TVAE,46,0.9280375471169134,0.9264035087719298,0.02036077455870763,Accuracy,0.896421,Quality_Score,2.786137,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,TVAE,47,0.941681357274412,0.9264035087719298,0.02036077455870763,Accuracy,0.896421,Quality_Score,2.786137,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,TVAE,48,0.9136465379044573,0.9264035087719298,0.02036077455870763,Accuracy,0.896421,Quality_Score,2.786137,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,TVAE,49,0.9472866447898681,0.9264035087719298,0.02036077455870763,Accuracy,0.896421,Quality_Score,2.786137,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,TVAE,50,0.9123331350647336,0.9264035087719298,0.02036077455870763,Accuracy,0.896421,Quality_Score,2.786137,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,TVAE,51,0.9566466593203051,0.9264035087719298,0.02036077455870763,Accuracy,0.896421,Quality_Score,2.786137,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,TabDDPM,42,0.6499653108511412,0.509561403508772,0.08507037469192232,Accuracy,0.401382,Quality_Score,17.765025,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,TabDDPM,43,0.41476121567790014,0.509561403508772,0.08507037469192232,Accuracy,0.401382,Quality_Score,17.765025,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,TabDDPM,44,0.4506455513093765,0.509561403508772,0.08507037469192232,Accuracy,0.401382,Quality_Score,17.765025,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,TabDDPM,45,0.4641218069063725,0.509561403508772,0.08507037469192232,Accuracy,0.401382,Quality_Score,17.765025,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,TabDDPM,46,0.5972439391808846,0.509561403508772,0.08507037469192232,Accuracy,0.401382,Quality_Score,17.765025,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,TabDDPM,47,0.3913777530472329,0.509561403508772,0.08507037469192232,Accuracy,0.401382,Quality_Score,17.765025,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,TabDDPM,48,0.4352515448147215,0.509561403508772,0.08507037469192232,Accuracy,0.401382,Quality_Score,17.765025,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,TabDDPM,49,0.38412399915378737,0.509561403508772,0.08507037469192232,Accuracy,0.401382,Quality_Score,17.765025,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,TabDDPM,50,0.3988651343956633,0.509561403508772,0.08507037469192232,Accuracy,0.401382,Quality_Score,17.765025,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,TabDDPM,51,0.4886455053855805,0.509561403508772,0.08507037469192232,Accuracy,0.401382,Quality_Score,17.765025,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,WGAN_GP,42,0.9278371055258334,0.9393859649122807,0.02040234222359416,Accuracy,0.949012,Quality_Score,2.333268,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,WGAN_GP,43,0.9336976166417773,0.9393859649122807,0.02040234222359416,Accuracy,0.949012,Quality_Score,2.333268,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,WGAN_GP,44,0.9438328274451483,0.9393859649122807,0.02040234222359416,Accuracy,0.949012,Quality_Score,2.333268,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,WGAN_GP,45,0.9415844869816339,0.9393859649122807,0.02040234222359416,Accuracy,0.949012,Quality_Score,2.333268,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,WGAN_GP,46,0.9589944053344754,0.9393859649122807,0.02040234222359416,Accuracy,0.949012,Quality_Score,2.333268,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,WGAN_GP,47,0.9378607746410641,0.9393859649122807,0.02040234222359416,Accuracy,0.949012,Quality_Score,2.333268,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,WGAN_GP,48,0.936641447209153,0.9393859649122807,0.02040234222359416,Accuracy,0.949012,Quality_Score,2.333268,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,WGAN_GP,49,0.9106544241332438,0.9393859649122807,0.02040234222359416,Accuracy,0.949012,Quality_Score,2.333268,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,WGAN_GP,50,0.9255596062907996,0.9393859649122807,0.02040234222359416,Accuracy,0.949012,Quality_Score,2.333268,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+1. Cancer,Cancer,Cancer,WGAN_GP,51,0.9282820214679521,0.9393859649122807,0.02040234222359416,Accuracy,0.949012,Quality_Score,2.333268,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CTABGAN,42,0.561904608044603,0.5512443815548527,0.01356548749142893,Accuracy,0.921772,Quality_Score,10.347531,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CTABGAN,43,0.5514471269751939,0.5512443815548527,0.01356548749142893,Accuracy,0.921772,Quality_Score,10.347531,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CTABGAN,44,0.5509087962454996,0.5512443815548527,0.01356548749142893,Accuracy,0.921772,Quality_Score,10.347531,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CTABGAN,45,0.57079592406742,0.5512443815548527,0.01356548749142893,Accuracy,0.921772,Quality_Score,10.347531,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CTABGAN,46,0.5554549684642589,0.5512443815548527,0.01356548749142893,Accuracy,0.921772,Quality_Score,10.347531,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CTABGAN,47,0.5637116628888974,0.5512443815548527,0.01356548749142893,Accuracy,0.921772,Quality_Score,10.347531,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CTABGAN,48,0.52858805877082,0.5512443815548527,0.01356548749142893,Accuracy,0.921772,Quality_Score,10.347531,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CTABGAN,49,0.5371153829990643,0.5512443815548527,0.01356548749142893,Accuracy,0.921772,Quality_Score,10.347531,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CTABGAN,50,0.5539265427435033,0.5512443815548527,0.01356548749142893,Accuracy,0.921772,Quality_Score,10.347531,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CTABGAN,51,0.5697159750160664,0.5512443815548527,0.01356548749142893,Accuracy,0.921772,Quality_Score,10.347531,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CTGAN,42,0.5400392125463126,0.5428150491093724,0.01716168581389458,Accuracy,0.878921,Quality_Score,0.159398,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CTGAN,43,0.5324168141340673,0.5428150491093724,0.01716168581389458,Accuracy,0.878921,Quality_Score,0.159398,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CTGAN,44,0.540746972416098,0.5428150491093724,0.01716168581389458,Accuracy,0.878921,Quality_Score,0.159398,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CTGAN,45,0.5295848769880596,0.5428150491093724,0.01716168581389458,Accuracy,0.878921,Quality_Score,0.159398,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CTGAN,46,0.5192553051441356,0.5428150491093724,0.01716168581389458,Accuracy,0.878921,Quality_Score,0.159398,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CTGAN,47,0.5478879722795924,0.5428150491093724,0.01716168581389458,Accuracy,0.878921,Quality_Score,0.159398,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CTGAN,48,0.5270573756464523,0.5428150491093724,0.01716168581389458,Accuracy,0.878921,Quality_Score,0.159398,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CTGAN,49,0.5290248560712396,0.5428150491093724,0.01716168581389458,Accuracy,0.878921,Quality_Score,0.159398,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CTGAN,50,0.537632376757365,0.5428150491093724,0.01716168581389458,Accuracy,0.878921,Quality_Score,0.159398,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CTGAN,51,0.5013783632485104,0.5428150491093724,0.01716168581389458,Accuracy,0.878921,Quality_Score,0.159398,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CopulaGAN,42,0.554810059077554,0.5521999334110206,0.0117134089314774,Accuracy,0.892834,Quality_Score,0.168347,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CopulaGAN,43,0.5631832087622175,0.5521999334110206,0.0117134089314774,Accuracy,0.892834,Quality_Score,0.168347,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CopulaGAN,44,0.5402805760088396,0.5521999334110206,0.0117134089314774,Accuracy,0.892834,Quality_Score,0.168347,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CopulaGAN,45,0.5654022144171386,0.5521999334110206,0.0117134089314774,Accuracy,0.892834,Quality_Score,0.168347,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CopulaGAN,46,0.5563734590923902,0.5521999334110206,0.0117134089314774,Accuracy,0.892834,Quality_Score,0.168347,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CopulaGAN,47,0.5327056380872155,0.5521999334110206,0.0117134089314774,Accuracy,0.892834,Quality_Score,0.168347,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CopulaGAN,48,0.5430932648122928,0.5521999334110206,0.0117134089314774,Accuracy,0.892834,Quality_Score,0.168347,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CopulaGAN,49,0.5474263638078138,0.5521999334110206,0.0117134089314774,Accuracy,0.892834,Quality_Score,0.168347,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CopulaGAN,50,0.5491059354068919,0.5521999334110206,0.0117134089314774,Accuracy,0.892834,Quality_Score,0.168347,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,CopulaGAN,51,0.5534502498239355,0.5521999334110206,0.0117134089314774,Accuracy,0.892834,Quality_Score,0.168347,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,ForestDiffusion,42,0.7433199704902684,0.750101548193774,0.0087278228056685,Accuracy,0.573974,Quality_Score,13.218077,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,ForestDiffusion,43,0.7261291673646284,0.750101548193774,0.0087278228056685,Accuracy,0.573974,Quality_Score,13.218077,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,ForestDiffusion,44,0.7378147825040865,0.750101548193774,0.0087278228056685,Accuracy,0.573974,Quality_Score,13.218077,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,ForestDiffusion,45,0.7452970838233482,0.750101548193774,0.0087278228056685,Accuracy,0.573974,Quality_Score,13.218077,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,ForestDiffusion,46,0.7578153195159429,0.750101548193774,0.0087278228056685,Accuracy,0.573974,Quality_Score,13.218077,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,ForestDiffusion,47,0.7467935391311018,0.750101548193774,0.0087278228056685,Accuracy,0.573974,Quality_Score,13.218077,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,ForestDiffusion,48,0.7398907122966903,0.750101548193774,0.0087278228056685,Accuracy,0.573974,Quality_Score,13.218077,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,ForestDiffusion,49,0.7470085569924872,0.750101548193774,0.0087278228056685,Accuracy,0.573974,Quality_Score,13.218077,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,ForestDiffusion,50,0.7585429823407548,0.750101548193774,0.0087278228056685,Accuracy,0.573974,Quality_Score,13.218077,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,ForestDiffusion,51,0.75663220101331,0.750101548193774,0.0087278228056685,Accuracy,0.573974,Quality_Score,13.218077,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,GaussianCopula,42,0.5784969994364375,0.5736340935575162,0.01514749709633736,Accuracy,0.909833,Quality_Score,0.132641,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,GaussianCopula,43,0.5752898778372507,0.5736340935575162,0.01514749709633736,Accuracy,0.909833,Quality_Score,0.132641,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,GaussianCopula,44,0.5545873598284318,0.5736340935575162,0.01514749709633736,Accuracy,0.909833,Quality_Score,0.132641,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,GaussianCopula,45,0.5355482754218628,0.5736340935575162,0.01514749709633736,Accuracy,0.909833,Quality_Score,0.132641,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,GaussianCopula,46,0.5893255004188424,0.5736340935575162,0.01514749709633736,Accuracy,0.909833,Quality_Score,0.132641,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,GaussianCopula,47,0.5806630893849732,0.5736340935575162,0.01514749709633736,Accuracy,0.909833,Quality_Score,0.132641,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,GaussianCopula,48,0.5876845964428818,0.5736340935575162,0.01514749709633736,Accuracy,0.909833,Quality_Score,0.132641,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,GaussianCopula,49,0.5783433075189263,0.5736340935575162,0.01514749709633736,Accuracy,0.909833,Quality_Score,0.132641,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,GaussianCopula,50,0.5823413956424605,0.5736340935575162,0.01514749709633736,Accuracy,0.909833,Quality_Score,0.132641,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,GaussianCopula,51,0.5750890649141082,0.5736340935575162,0.01514749709633736,Accuracy,0.909833,Quality_Score,0.132641,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,TVAE,42,0.5870815529172474,0.6034201764607958,0.00741148965955205,Accuracy,0.914558,Quality_Score,0.082171,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,TVAE,43,0.5994801210645254,0.6034201764607958,0.00741148965955205,Accuracy,0.914558,Quality_Score,0.082171,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,TVAE,44,0.6146297451441252,0.6034201764607958,0.00741148965955205,Accuracy,0.914558,Quality_Score,0.082171,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,TVAE,45,0.6084431137107763,0.6034201764607958,0.00741148965955205,Accuracy,0.914558,Quality_Score,0.082171,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,TVAE,46,0.6013995120790183,0.6034201764607958,0.00741148965955205,Accuracy,0.914558,Quality_Score,0.082171,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,TVAE,47,0.6077753594629802,0.6034201764607958,0.00741148965955205,Accuracy,0.914558,Quality_Score,0.082171,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,TVAE,48,0.5876503730700149,0.6034201764607958,0.00741148965955205,Accuracy,0.914558,Quality_Score,0.082171,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,TVAE,49,0.6006057607573771,0.6034201764607958,0.00741148965955205,Accuracy,0.914558,Quality_Score,0.082171,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,TVAE,50,0.5921204174297882,0.6034201764607958,0.00741148965955205,Accuracy,0.914558,Quality_Score,0.082171,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,TVAE,51,0.6109231468554829,0.6034201764607958,0.00741148965955205,Accuracy,0.914558,Quality_Score,0.082171,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,TabDDPM,42,0.464110352127414,0.47535958048942895,0.01904303291291634,Accuracy,0.452807,Quality_Score,26.552123,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,TabDDPM,43,0.5103894430590407,0.47535958048942895,0.01904303291291634,Accuracy,0.452807,Quality_Score,26.552123,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,TabDDPM,44,0.5012889091871506,0.47535958048942895,0.01904303291291634,Accuracy,0.452807,Quality_Score,26.552123,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,TabDDPM,45,0.49729244979343373,0.47535958048942895,0.01904303291291634,Accuracy,0.452807,Quality_Score,26.552123,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,TabDDPM,46,0.4642621899881985,0.47535958048942895,0.01904303291291634,Accuracy,0.452807,Quality_Score,26.552123,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,TabDDPM,47,0.5105949319791461,0.47535958048942895,0.01904303291291634,Accuracy,0.452807,Quality_Score,26.552123,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,TabDDPM,48,0.4877024698748242,0.47535958048942895,0.01904303291291634,Accuracy,0.452807,Quality_Score,26.552123,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,TabDDPM,49,0.4750855974676788,0.47535958048942895,0.01904303291291634,Accuracy,0.452807,Quality_Score,26.552123,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,TabDDPM,50,0.449902484358613,0.47535958048942895,0.01904303291291634,Accuracy,0.452807,Quality_Score,26.552123,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,TabDDPM,51,0.49686395793549926,0.47535958048942895,0.01904303291291634,Accuracy,0.452807,Quality_Score,26.552123,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,WGAN_GP,42,0.6585362842179788,0.663868819710338,0.009988855928536721,Accuracy,0.600454,Quality_Score,19.131607,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,WGAN_GP,43,0.645385023860804,0.663868819710338,0.009988855928536721,Accuracy,0.600454,Quality_Score,19.131607,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,WGAN_GP,44,0.6618186455245213,0.663868819710338,0.009988855928536721,Accuracy,0.600454,Quality_Score,19.131607,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,WGAN_GP,45,0.664372978084882,0.663868819710338,0.009988855928536721,Accuracy,0.600454,Quality_Score,19.131607,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,WGAN_GP,46,0.6663579806244628,0.663868819710338,0.009988855928536721,Accuracy,0.600454,Quality_Score,19.131607,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,WGAN_GP,47,0.6513255034317823,0.663868819710338,0.009988855928536721,Accuracy,0.600454,Quality_Score,19.131607,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,WGAN_GP,48,0.6822777897426711,0.663868819710338,0.009988855928536721,Accuracy,0.600454,Quality_Score,19.131607,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,WGAN_GP,49,0.6552490642677912,0.663868819710338,0.009988855928536721,Accuracy,0.600454,Quality_Score,19.131607,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,WGAN_GP,50,0.6770698268936615,0.663868819710338,0.009988855928536721,Accuracy,0.600454,Quality_Score,19.131607,NNDR,NNDR,True,20,reconstructed_from_Mean_SD
+8. Mushroom dataset,Mushroom,Mushroom,WGAN_GP,51,0.6586014359273132,0.663868819710338,0.009988855928536721,Accuracy,0.600454,Quality_Score,19.131607,NNDR,NNDR,True,20,reconstructed_from_Mean_SD

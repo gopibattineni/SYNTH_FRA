@@ -1,0 +1,2 @@
+chi2,df,p_value,n_datasets,n_generators,significant,metric,unit_of_analysis,sample_size_note
+23.27777777777777,7,0.0015247065946383794,6,8,True,MAE_Increase,dataset (mean over 10 generator-training seeds),N datasets × K generators; seeds aggregated before ranking

@@ -1,0 +1,58 @@
+{
+  "source": "multi seed generators/merged 10 seeds",
+  "aggregation": "Mean \u00b1 SD across 10 generator-training seeds (ddof=1)",
+  "generator_seeds": [
+    42,
+    123,
+    2024,
+    68,
+    91,
+    2025,
+    55,
+    155,
+    255,
+    355
+  ],
+  "split_seed": 42,
+  "n_generator_seeds": 10,
+  "generators": [
+    "CTGAN",
+    "CopulaGAN",
+    "TVAE",
+    "GaussianCopula",
+    "WGAN_GP",
+    "CTABGAN",
+    "TabDDPM",
+    "ForestDiffusion"
+  ],
+  "n_datasets": 15,
+  "n_utility_rows": 1920,
+  "n_fidelity_rows": 480,
+  "n_privacy_rows": 600,
+  "n_files": 2,
+  "n_excel_files": 2,
+  "n_runs": 1200,
+  "weights": {
+    "utility": 0.4,
+    "privacy": 0.3,
+    "fidelity": 0.3
+  },
+  "pillars": [
+    "Utility",
+    "Fidelity",
+    "Privacy"
+  ],
+  "privacy_metrics": [
+    "MIA_AUC",
+    "Mahalanobis_Distance",
+    "Mean_Distance",
+    "Median_Distance",
+    "NNDR"
+  ],
+  "fidelity_metrics": [
+    "KS_Complement",
+    "MMD",
+    "Quality_Score",
+    "Wasserstein_Distance"
+  ]
+}

@@ -1,0 +1,3 @@
+Dataset,Analysis,X_Metric,Y_Metric,n_generators,Pearson_r,Pearson_p,Spearman_rho,Spearman_p,Slope,Intercept,R2,Slope_95CI_low,Slope_95CI_high,Intercept_95CI_low,Intercept_95CI_high
+Online Shopping,fidelity_vs_r2_gap,SDMetrics Quality Score,Utility Gap (R2),8,-0.901081,0.00224381,-0.595238,0.11953,-77.1648,61.9099,0.811948,-114.262,-40.0679,34.9639,88.8559
+Online Shopping,mia_vs_r2_gap,MIA AUC,Utility Gap (R2),8,0.20785,0.62136,0.619048,0.101733,34.9865,-15.5718,0.0432016,-129.49,199.463,-138.603,107.459

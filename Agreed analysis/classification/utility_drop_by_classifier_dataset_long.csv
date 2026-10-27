@@ -1,0 +1,91 @@
+Classifier,DatasetShort,Dataset,MeanAccuracyGap
+AdaBoost,Cancer,1. Cancer,0.1731359649122806
+AdaBoost,Alzheimer's,2. Alzhimers,0.1705
+AdaBoost,Adult,3. Adult,0.1556249999999999
+AdaBoost,Forest Cover,4. Forest cover dataset,0.28706250000000005
+AdaBoost,Bank Marketing,5. Bank Markting,0.007718749999999963
+AdaBoost,Wine Quality,6. Wine dataset,0.068
+AdaBoost,CDC Diabetes,7. CDC diabetes dataset,0.012246754788665338
+AdaBoost,Mushroom,8. Mushroom dataset,0.0719296237722657
+AdaBoost,MAGIC Gamma,9. MAGIC Gamma Telescope,0.06473777602523656
+Decision Tree,Cancer,1. Cancer,0.1986842105263159
+Decision Tree,Alzheimer's,2. Alzhimers,0.25133333333333324
+Decision Tree,Adult,3. Adult,0.284625
+Decision Tree,Forest Cover,4. Forest cover dataset,0.27631249999999996
+Decision Tree,Bank Marketing,5. Bank Markting,0.057031249999999874
+Decision Tree,Wine Quality,6. Wine dataset,0.10143749999999999
+Decision Tree,CDC Diabetes,7. CDC diabetes dataset,0.06759098464460972
+Decision Tree,Mushroom,8. Mushroom dataset,0.37566380888962875
+Decision Tree,MAGIC Gamma,9. MAGIC Gamma Telescope,0.12477326498422714
+Extra Trees,Cancer,1. Cancer,0.19407894736842105
+Extra Trees,Alzheimer's,2. Alzhimers,0.17416666666666653
+Extra Trees,Adult,3. Adult,0.20500000000000004
+Extra Trees,Forest Cover,4. Forest cover dataset,0.30374999999999985
+Extra Trees,Bank Marketing,5. Bank Markting,0.002212499999999962
+Extra Trees,Wine Quality,6. Wine dataset,0.08824999999999995
+Extra Trees,CDC Diabetes,7. CDC diabetes dataset,0.0035771133449421346
+Extra Trees,Mushroom,8. Mushroom dataset,0.38260154819377384
+Extra Trees,MAGIC Gamma,9. MAGIC Gamma Telescope,0.10368362250262873
+Gradient Boosting,Cancer,1. Cancer,0.187719298245614
+Gradient Boosting,Alzheimer's,2. Alzhimers,0.21683333333333332
+Gradient Boosting,Adult,3. Adult,0.2606874999999999
+Gradient Boosting,Forest Cover,4. Forest cover dataset,0.3386875000000001
+Gradient Boosting,Bank Marketing,5. Bank Markting,0.01611249999999995
+Gradient Boosting,Wine Quality,6. Wine dataset,0.11724999999999997
+Gradient Boosting,CDC Diabetes,7. CDC diabetes dataset,0.01577813835681495
+Gradient Boosting,Mushroom,8. Mushroom dataset,0.22426335941401693
+Gradient Boosting,MAGIC Gamma,9. MAGIC Gamma Telescope,0.10636829652996846
+KNN,Cancer,1. Cancer,0.24572368421052632
+KNN,Alzheimer's,2. Alzhimers,0.18383333333333332
+KNN,Adult,3. Adult,0.2269999999999998
+KNN,Forest Cover,4. Forest cover dataset,0.2235625
+KNN,Bank Marketing,5. Bank Markting,0.014518750000000049
+KNN,Wine Quality,6. Wine dataset,0.09337499999999996
+KNN,CDC Diabetes,7. CDC diabetes dataset,0.0046954943010923
+KNN,Mushroom,8. Mushroom dataset,0.40591289329116037
+KNN,MAGIC Gamma,9. MAGIC Gamma Telescope,0.10052904837013661
+Logistic Regression,Cancer,1. Cancer,0.18475877192982448
+Logistic Regression,Alzheimer's,2. Alzhimers,0.16799999999999982
+Logistic Regression,Adult,3. Adult,0.19824999999999987
+Logistic Regression,Forest Cover,4. Forest cover dataset,0.2805625
+Logistic Regression,Bank Marketing,5. Bank Markting,0.013268749999999925
+Logistic Regression,Wine Quality,6. Wine dataset,0.0751874999999999
+Logistic Regression,CDC Diabetes,7. CDC diabetes dataset,0.012844813598227001
+Logistic Regression,Mushroom,8. Mushroom dataset,0.07343828033960381
+Logistic Regression,MAGIC Gamma,9. MAGIC Gamma Telescope,0.0329094374342796
+MLP,Cancer,1. Cancer,0.22050438596491231
+MLP,Alzheimer's,2. Alzhimers,0.2168333333333333
+MLP,Adult,3. Adult,0.23499999999999988
+MLP,Forest Cover,4. Forest cover dataset,0.16031249999999994
+MLP,Bank Marketing,5. Bank Markting,0.028218749999999987
+MLP,Wine Quality,6. Wine dataset,0.11112499999999996
+MLP,CDC Diabetes,7. CDC diabetes dataset,0.02422447364255176
+MLP,Mushroom,8. Mushroom dataset,0.3960098634925918
+MLP,MAGIC Gamma,9. MAGIC Gamma Telescope,0.1275269453207148
+Naive Bayes,Cancer,1. Cancer,0.15098684210526314
+Naive Bayes,Alzheimer's,2. Alzhimers,0.15399999999999991
+Naive Bayes,Adult,3. Adult,0.19081250000000008
+Naive Bayes,Forest Cover,4. Forest cover dataset,0.23024999999999993
+Naive Bayes,Bank Marketing,5. Bank Markting,0.047393749999999936
+Naive Bayes,Wine Quality,6. Wine dataset,0.05593749999999997
+Naive Bayes,CDC Diabetes,7. CDC diabetes dataset,0.02084640652208321
+Naive Bayes,Mushroom,8. Mushroom dataset,0.04095534376560677
+Naive Bayes,MAGIC Gamma,9. MAGIC Gamma Telescope,0.037296267087276486
+Random Forest,Cancer,1. Cancer,0.1677631578947368
+Random Forest,Alzheimer's,2. Alzhimers,0.19466666666666643
+Random Forest,Adult,3. Adult,0.23487500000000014
+Random Forest,Forest Cover,4. Forest cover dataset,0.30706249999999996
+Random Forest,Bank Marketing,5. Bank Markting,0.009449999999999962
+Random Forest,Wine Quality,6. Wine dataset,0.09437499999999996
+Random Forest,CDC Diabetes,7. CDC diabetes dataset,0.006251266423935499
+Random Forest,Mushroom,8. Mushroom dataset,0.39647182453803903
+Random Forest,MAGIC Gamma,9. MAGIC Gamma Telescope,0.1095228706624603
+SVM-RBF,Cancer,1. Cancer,0.19342105263157897
+SVM-RBF,Alzheimer's,2. Alzhimers,0.18666666666666648
+SVM-RBF,Adult,3. Adult,0.20768749999999983
+SVM-RBF,Forest Cover,4. Forest cover dataset,0.25881249999999995
+SVM-RBF,Bank Marketing,5. Bank Markting,0.0072937499999999635
+SVM-RBF,Wine Quality,6. Wine dataset,0.08737499999999979
+SVM-RBF,CDC Diabetes,7. CDC diabetes dataset,0.0104927378502453
+SVM-RBF,Mushroom,8. Mushroom dataset,0.07343932079240878
+SVM-RBF,MAGIC Gamma,9. MAGIC Gamma Telescope,0.0798961619348054

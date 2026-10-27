@@ -1,0 +1,16 @@
+Dataset,Dataset_Short,Pairwise_Cosine,Hungarian_Cosine,Hungarian_Mahalanobis,n_MD,n_HC
+1. Cancer,Cancer,-0.0007,0.986,,0,8
+10. Metro interstate,Metro interstate,-0.0038,0.9896,6.0374,8,8
+11. online shopping,online shopping,0.0108,1.0,2.5082,8,4
+12. Air Quality,Air Quality,0.0023,0.9817,56.7036,4,6
+13. Concrete Compressive Strength,Concrete Compressive Strength,0.0047,0.9924,4.5894,4,8
+14. Energy Efficiency,Energy Efficiency,0.0006,0.9985,34198.2267,4,8
+15. Real Estate Valuation,Real Estate Valuation,-0.0215,0.949,16693.4824,4,8
+2. Alzhimers,Alzhimers,-0.001,0.9837,7.636,4,8
+3. Adult,Adult,-0.0077383750000000005,0.9713867563075719,2.519390575257972,8,8
+4. Forest cover dataset,Forest cover dataset,0.001,0.9747,3.7275,2,8
+5. Bank Markting,Bank Markting,0.0073,0.8816,,0,8
+6. Wine dataset,Wine dataset,0.0049,0.9743,14.6827,4,4
+7. CDC diabetes dataset,CDC diabetes dataset,-0.0016,0.9857,7.3149,4,8
+8. Mushroom dataset,Mushroom dataset,0.0108,0.9483,0.4632,4,8
+9. MAGIC Gamma Telescope,MAGIC Gamma Telescope,0.0185,0.9772,2.3693,8,8

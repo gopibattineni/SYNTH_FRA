@@ -1,0 +1,100 @@
+Dataset,Generator,Metric,MetricValue,Source
+1. Cancer,CTGAN,JS_Divergence,0.1121379310344827,plot_ocr
+1. Cancer,CopulaGAN,JS_Divergence,0.1410357142857143,plot_ocr
+1. Cancer,TVAE,JS_Divergence,0.0458095238095238,plot_ocr
+1. Cancer,GaussianCopula,JS_Divergence,0.037235294117647,plot_ocr
+2. Alzhimers,CTGAN,JS_Divergence,0.1919999999999999,plot_ocr
+2. Alzhimers,CopulaGAN,JS_Divergence,0.1376,plot_ocr
+2. Alzhimers,TVAE,JS_Divergence,0.1172,plot_ocr
+2. Alzhimers,GaussianCopula,JS_Divergence,0.0984999999999999,plot_ocr
+6. Wine dataset,CTGAN,JS_Divergence,0.03275,plot_ocr
+6. Wine dataset,CopulaGAN,JS_Divergence,0.0342222222222222,plot_ocr
+6. Wine dataset,TVAE,JS_Divergence,0.031,plot_ocr
+6. Wine dataset,GaussianCopula,JS_Divergence,0.0393636363636363,plot_ocr
+7. CDC diabetes dataset,CTGAN,JS_Divergence,0.0261,plot_ocr
+7. CDC diabetes dataset,CopulaGAN,JS_Divergence,0.0308,plot_ocr
+7. CDC diabetes dataset,TVAE,JS_Divergence,0.019,plot_ocr
+7. CDC diabetes dataset,GaussianCopula,JS_Divergence,0.0376666666666666,plot_ocr
+8. Mushroom dataset,CTGAN,JS_Divergence,0.0131428571428571,plot_ocr
+8. Mushroom dataset,CopulaGAN,JS_Divergence,0.0109230769230769,plot_ocr
+8. Mushroom dataset,TVAE,JS_Divergence,0.008,plot_ocr
+8. Mushroom dataset,GaussianCopula,JS_Divergence,0.0236666666666666,plot_ocr
+9. MAGIC Gamma Telescope,CTGAN,JS_Divergence,0.0341249999999999,plot_ocr
+9. MAGIC Gamma Telescope,CopulaGAN,JS_Divergence,0.0475,plot_ocr
+9. MAGIC Gamma Telescope,TVAE,JS_Divergence,0.0375,plot_ocr
+9. MAGIC Gamma Telescope,GaussianCopula,JS_Divergence,0.0353333333333333,plot_ocr
+10. Metro interstate,CTGAN,JS_Divergence,0.2128571428571428,plot_ocr
+10. Metro interstate,CopulaGAN,JS_Divergence,0.2198,plot_ocr
+10. Metro interstate,TVAE,JS_Divergence,0.01875,plot_ocr
+10. Metro interstate,GaussianCopula,JS_Divergence,0.3763333333333333,plot_ocr
+11. online shopping,CTGAN,JS_Divergence,0.0292499999999999,plot_ocr
+11. online shopping,CopulaGAN,JS_Divergence,0.06275,plot_ocr
+11. online shopping,TVAE,JS_Divergence,0.1909999999999999,plot_ocr
+11. online shopping,GaussianCopula,JS_Divergence,0.1182,plot_ocr
+12. Air Quality,CopulaGAN,JS_Divergence,0.2298,plot_ocr
+12. Air Quality,GaussianCopula,JS_Divergence,0.0126666666666666,plot_ocr
+13. Concrete Compressive Strength,CTGAN,JS_Divergence,0.08775,plot_ocr
+13. Concrete Compressive Strength,GaussianCopula,JS_Divergence,0.1287499999999999,plot_ocr
+14. Energy Efficiency,CTGAN,JS_Divergence,0.131,plot_ocr
+1. Cancer,CTABGAN,JS_Divergence,0.0739615384615384,plot_ocr
+1. Cancer,WGAN_GP,JS_Divergence,0.0238999999999999,plot_ocr
+2. Alzhimers,CTABGAN,JS_Divergence,0.14825,plot_ocr
+2. Alzhimers,WGAN_GP,JS_Divergence,0.20125,plot_ocr
+3. Adult,CTABGAN,JS_Divergence,0.1261,plot_ocr
+3. Adult,WGAN_GP,JS_Divergence,0.2203333333333333,plot_ocr
+4. Forest cover dataset,CTABGAN,JS_Divergence,0.0384,plot_ocr
+4. Forest cover dataset,WGAN_GP,JS_Divergence,0.08675,plot_ocr
+5. Bank Markting,CTABGAN,JS_Divergence,0.0604166666666666,plot_ocr
+5. Bank Markting,WGAN_GP,JS_Divergence,0.2274,plot_ocr
+6. Wine dataset,CTABGAN,JS_Divergence,0.0311999999999999,plot_ocr
+6. Wine dataset,WGAN_GP,JS_Divergence,0.1145454545454545,plot_ocr
+7. CDC diabetes dataset,CTABGAN,JS_Divergence,0.1225833333333333,plot_ocr
+7. CDC diabetes dataset,WGAN_GP,JS_Divergence,0.0692499999999999,plot_ocr
+8. Mushroom dataset,CTABGAN,JS_Divergence,0.021,plot_ocr
+8. Mushroom dataset,WGAN_GP,JS_Divergence,0.3174705882352941,plot_ocr
+9. MAGIC Gamma Telescope,CTABGAN,JS_Divergence,0.0266999999999999,plot_ocr
+9. MAGIC Gamma Telescope,WGAN_GP,JS_Divergence,0.031875,plot_ocr
+10. Metro interstate,CTABGAN,JS_Divergence,0.2352,plot_ocr
+10. Metro interstate,WGAN_GP,JS_Divergence,0.2817,plot_ocr
+11. online shopping,CTABGAN,JS_Divergence,0.0184,plot_ocr
+11. online shopping,WGAN_GP,JS_Divergence,0.0497,plot_ocr
+12. Air Quality,CTABGAN,JS_Divergence,0.0226666666666666,plot_ocr
+12. Air Quality,WGAN_GP,JS_Divergence,0.09,plot_ocr
+13. Concrete Compressive Strength,WGAN_GP,JS_Divergence,0.0563333333333333,plot_ocr
+14. Energy Efficiency,CTABGAN,JS_Divergence,0.1295,plot_ocr
+14. Energy Efficiency,WGAN_GP,JS_Divergence,0.12125,plot_ocr
+15. Real Estate Valuation,CTABGAN,JS_Divergence,0.1376666666666667,plot_ocr
+1. Cancer,TabDDPM,JS_Divergence,0.6448333333333334,plot_ocr
+1. Cancer,ForestDiffusion,JS_Divergence,0.0208333333333333,plot_ocr
+3. Adult,TabDDPM,JS_Divergence,0.56825,plot_ocr
+3. Adult,ForestDiffusion,JS_Divergence,0.096,plot_ocr
+4. Forest cover dataset,TabDDPM,JS_Divergence,0.5227692307692308,plot_ocr
+4. Forest cover dataset,ForestDiffusion,JS_Divergence,0.0202222222222222,plot_ocr
+5. Bank Markting,TabDDPM,JS_Divergence,0.6054999999999999,plot_ocr
+5. Bank Markting,ForestDiffusion,JS_Divergence,0.0306666666666666,plot_ocr
+6. Wine dataset,TabDDPM,JS_Divergence,0.1431666666666667,plot_ocr
+6. Wine dataset,ForestDiffusion,JS_Divergence,0.0163999999999999,plot_ocr
+7. CDC diabetes dataset,TabDDPM,JS_Divergence,0.28175,plot_ocr
+7. CDC diabetes dataset,ForestDiffusion,JS_Divergence,0.09225,notebook_plot_feature_mean
+8. Mushroom dataset,TabDDPM,JS_Divergence,0.4794117647058823,plot_ocr
+8. Mushroom dataset,ForestDiffusion,JS_Divergence,0.1098235294117647,plot_ocr
+9. MAGIC Gamma Telescope,TabDDPM,JS_Divergence,0.3245,plot_ocr
+10. Metro interstate,TabDDPM,JS_Divergence,0.1947499999999999,plot_ocr
+10. Metro interstate,ForestDiffusion,JS_Divergence,0.107,plot_ocr
+11. online shopping,TabDDPM,JS_Divergence,0.3057142857142857,plot_ocr
+11. online shopping,ForestDiffusion,JS_Divergence,0.118875,plot_ocr
+12. Air Quality,TabDDPM,JS_Divergence,0.2252857142857142,plot_ocr
+12. Air Quality,ForestDiffusion,JS_Divergence,0.197,plot_ocr
+14. Energy Efficiency,TabDDPM,JS_Divergence,0.1153333333333333,plot_ocr
+14. Energy Efficiency,ForestDiffusion,JS_Divergence,0.0135,plot_ocr
+15. Real Estate Valuation,ForestDiffusion,JS_Divergence,0.007,plot_ocr
+3. Adult,TVAE,JS_Divergence,0.2172666666666666,plot_ocr
+3. Adult,GaussianCopula,JS_Divergence,0.0447333333333333,plot_ocr
+4. Forest cover dataset,CTGAN,JS_Divergence,0.010397,plot_digitized_top10_over_54
+4. Forest cover dataset,CopulaGAN,JS_Divergence,0.015801,plot_digitized_top10_over_54
+4. Forest cover dataset,TVAE,JS_Divergence,0.006718,plot_digitized_top10_over_54
+4. Forest cover dataset,GaussianCopula,JS_Divergence,0.005124,plot_digitized_top10_over_54
+5. Bank Markting,CTGAN,JS_Divergence,0.0085541875,notebook_top10_over_16
+5. Bank Markting,CopulaGAN,JS_Divergence,0.013730375,notebook_top10_over_16
+5. Bank Markting,TVAE,JS_Divergence,0.0341435,notebook_top10_over_16
+5. Bank Markting,GaussianCopula,JS_Divergence,0.021484125,notebook_top10_over_16

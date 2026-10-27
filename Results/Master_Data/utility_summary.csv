@@ -1,0 +1,481 @@
+Dataset,Generator,TaskType,Metric,Mean,SourceFile
+1. Cancer,WGAN_GP,classification,Accuracy_Drop,0.02219298245614042,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,WGAN_GP,classification,F1_Drop,0.03461331320815166,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,WGAN_GP,classification,Precision_Drop,-0.006913178224702188,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,WGAN_GP,classification,Recall_Drop,0.06952380952380954,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,TVAE,classification,Accuracy_Drop,0.03517543859649121,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,TVAE,classification,F1_Drop,0.04334456486901758,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,TVAE,classification,Precision_Drop,0.08232949452236846,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,TVAE,classification,Recall_Drop,0.0009523809523809601,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,CTABGAN,classification,Accuracy_Drop,0.07885964912280703,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,CTABGAN,classification,F1_Drop,0.1148567575778942,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,CTABGAN,classification,Precision_Drop,0.07376965522399398,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,CTABGAN,classification,Recall_Drop,0.1469047619047618,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,GaussianCopula,classification,Accuracy_Drop,0.101140350877193,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,GaussianCopula,classification,F1_Drop,0.1535866237205841,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,GaussianCopula,classification,Precision_Drop,0.06708543893265337,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,GaussianCopula,classification,Recall_Drop,0.2135714285714285,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,CTGAN,classification,Accuracy_Drop,0.2421929824561403,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,CTGAN,classification,F1_Drop,0.2507556488694577,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,CTGAN,classification,Precision_Drop,0.37496131286937,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,CTGAN,classification,Recall_Drop,0.06642857142857136,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,CopulaGAN,classification,Accuracy_Drop,0.602280701754386,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,CopulaGAN,classification,F1_Drop,0.5328189355461513,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,CopulaGAN,classification,Precision_Drop,0.6474866498306074,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,CopulaGAN,classification,Recall_Drop,0.3088095238095238,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,ForestDiffusion,classification,Accuracy_Drop,-0.0002631578947368207,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,ForestDiffusion,classification,F1_Drop,0.0002867067791768818,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,ForestDiffusion,classification,Precision_Drop,-0.006621349192104909,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,ForestDiffusion,classification,Recall_Drop,0.006428571428571428,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,TabDDPM,classification,Accuracy_Drop,0.4518421052631579,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,TabDDPM,classification,F1_Drop,0.6636837269749849,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,TabDDPM,classification,Precision_Drop,0.6708797571029342,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+1. Cancer,TabDDPM,classification,Recall_Drop,0.5354761904761904,Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,CTABGAN,regression,R2_Drop,-0.07868618956590667,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,CTABGAN,regression,MSE_Increase,-327618.4877406954,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,CTABGAN,regression,RMSE_Increase,-58.26976203230938,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,CTABGAN,regression,MAE_Increase,28.04610341478097,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,CopulaGAN,regression,R2_Drop,0.01604106372460356,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,CopulaGAN,regression,MSE_Increase,66788.70927921734,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,CopulaGAN,regression,RMSE_Increase,11.04041984981309,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,CopulaGAN,regression,MAE_Increase,57.65125873925847,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,CTGAN,regression,R2_Drop,0.05436272021388937,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,CTGAN,regression,MSE_Increase,226345.0839874165,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,CTGAN,regression,RMSE_Increase,47.1717603271567,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,CTGAN,regression,MAE_Increase,79.1004737321429,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,GaussianCopula,regression,R2_Drop,0.1352128056092531,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,GaussianCopula,regression,MSE_Increase,562973.1867976186,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,GaussianCopula,regression,RMSE_Increase,114.9312813642952,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,GaussianCopula,regression,MAE_Increase,98.68809988877403,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,TVAE,regression,R2_Drop,0.4923763427448706,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,TVAE,regression,MSE_Increase,2050062.326048407,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,TVAE,regression,RMSE_Increase,425.0145966080873,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,TVAE,regression,MAE_Increase,213.8499301317751,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,WGAN_GP,regression,R2_Drop,1.837717625909393,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,WGAN_GP,regression,MSE_Increase,7651536.728571258,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,WGAN_GP,regression,RMSE_Increase,1345.203515659804,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,WGAN_GP,regression,MAE_Increase,1003.830611824549,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,ForestDiffusion,regression,R2_Drop,-0.06319251159397618,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,ForestDiffusion,regression,MSE_Increase,-179571.8982935199,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,ForestDiffusion,regression,RMSE_Increase,-34.59749916704243,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,ForestDiffusion,regression,MAE_Increase,15.64491793673249,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,TabDDPM,regression,R2_Drop,0.4712938991565455,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,TabDDPM,regression,MSE_Increase,2034483.562385267,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,TabDDPM,regression,RMSE_Increase,413.3563253453579,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+10. Metro interstate,TabDDPM,regression,MAE_Increase,292.0914715509197,Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx
+11. online shopping,GaussianCopula,regression,R2_Drop,0.455725314347389,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,GaussianCopula,regression,MSE_Increase,82.95768416203833,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,GaussianCopula,regression,RMSE_Increase,6.128955134017982,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,GaussianCopula,regression,MAE_Increase,5.47356034497311,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,CTABGAN,regression,R2_Drop,0.8349643994412068,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,CTABGAN,regression,MSE_Increase,151.9922434736404,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,CTABGAN,regression,RMSE_Increase,9.07463536027946,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,CTABGAN,regression,MAE_Increase,8.07569486522244,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,CTGAN,regression,R2_Drop,1.035232947530432,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,CTGAN,regression,MSE_Increase,188.4480084639337,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,CTGAN,regression,RMSE_Increase,10.2073000251712,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,CTGAN,regression,MAE_Increase,9.206508667559794,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,TVAE,regression,R2_Drop,1.253429367790266,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,TVAE,regression,MSE_Increase,228.1672629080804,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,TVAE,regression,RMSE_Increase,11.50664974802454,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,TVAE,regression,MAE_Increase,10.21718202059383,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,CopulaGAN,regression,R2_Drop,1.354256755505864,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,CopulaGAN,regression,MSE_Increase,246.5213159344567,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,CopulaGAN,regression,RMSE_Increase,11.79922411333742,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,CopulaGAN,regression,MAE_Increase,10.23910739512016,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,WGAN_GP,regression,R2_Drop,73.07822037586136,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,WGAN_GP,regression,MSE_Increase,13302.74999918769,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,WGAN_GP,regression,RMSE_Increase,53.42187439446089,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,WGAN_GP,regression,MAE_Increase,44.29098069560222,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,ForestDiffusion,regression,R2_Drop,0.1746422738444711,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,ForestDiffusion,regression,MSE_Increase,31.79090153391397,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,ForestDiffusion,regression,RMSE_Increase,3.25733469883463,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,ForestDiffusion,regression,MAE_Increase,3.013572110161292,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,TabDDPM,regression,R2_Drop,2.827229590806916,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,TabDDPM,regression,MSE_Increase,514.6530422247826,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,TabDDPM,regression,RMSE_Increase,18.05209850635777,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+11. online shopping,TabDDPM,regression,MAE_Increase,15.77523990692865,Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,GaussianCopula,regression,R2_Drop,0.0916993829538105,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,GaussianCopula,regression,MSE_Increase,0.0109396682934526,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,GaussianCopula,regression,RMSE_Increase,0.009094183901932274,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,GaussianCopula,regression,MAE_Increase,0.02445771722835997,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,WGAN_GP,regression,R2_Drop,0.108271133646068,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,WGAN_GP,regression,MSE_Increase,0.04132836140922432,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,WGAN_GP,regression,RMSE_Increase,0.03961857521658267,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,WGAN_GP,regression,MAE_Increase,0.07021951477600523,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,TVAE,regression,R2_Drop,0.6742564525940258,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,TVAE,regression,MSE_Increase,0.8312557225049627,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,TVAE,regression,RMSE_Increase,0.2765206735237257,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,TVAE,regression,MAE_Increase,0.1150836378733182,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,CTABGAN,regression,R2_Drop,0.6910952888648165,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,CTABGAN,regression,MSE_Increase,0.8473163910007004,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,CTABGAN,regression,RMSE_Increase,0.4931217817368756,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,CTABGAN,regression,MAE_Increase,0.4160038377371021,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,CopulaGAN,regression,R2_Drop,0.8390339293905912,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,CopulaGAN,regression,MSE_Increase,1.118908748407978,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,CopulaGAN,regression,RMSE_Increase,0.5974424056493908,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,CopulaGAN,regression,MAE_Increase,0.4248179294038252,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,CTGAN,regression,R2_Drop,0.8842786665185187,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,CTGAN,regression,MSE_Increase,1.195545988292916,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,CTGAN,regression,RMSE_Increase,0.647411554998045,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,CTGAN,regression,MAE_Increase,0.4694465391804445,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,ForestDiffusion,regression,R2_Drop,-0.005596766821519083,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,ForestDiffusion,regression,MSE_Increase,-289.4324928208483,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,ForestDiffusion,regression,RMSE_Increase,0.2013223914503016,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,ForestDiffusion,regression,MAE_Increase,0.09693746999078527,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,TabDDPM,regression,R2_Drop,2.1108377116537,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,TabDDPM,regression,MSE_Increase,109160.3492350546,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,TabDDPM,regression,RMSE_Increase,233.4489778684189,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+12. Air Quality,TabDDPM,regression,MAE_Increase,200.4986096404668,Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,GaussianCopula,regression,R2_Drop,0.1934800603455744,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,GaussianCopula,regression,MSE_Increase,47.64457605665248,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,GaussianCopula,regression,RMSE_Increase,2.54667808989727,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,GaussianCopula,regression,MAE_Increase,2.433312210204112,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,TVAE,regression,R2_Drop,0.3018465913293407,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,TVAE,regression,MSE_Increase,73.90242173946918,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,TVAE,regression,RMSE_Increase,3.706137416404111,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,TVAE,regression,MAE_Increase,3.207297034542091,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,WGAN_GP,regression,R2_Drop,0.3315072389358171,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,WGAN_GP,regression,MSE_Increase,80.10736927143304,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,WGAN_GP,regression,RMSE_Increase,3.967915352647113,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,WGAN_GP,regression,MAE_Increase,3.251137162418495,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,CTABGAN,regression,R2_Drop,0.7630018015273063,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,CTABGAN,regression,MSE_Increase,186.3633712323807,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,CTABGAN,regression,RMSE_Increase,7.566612001464411,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,CTABGAN,regression,MAE_Increase,6.759999714753341,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,CTGAN,regression,R2_Drop,1.235679126794006,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,CTGAN,regression,MSE_Increase,293.8851190650815,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,CTGAN,regression,RMSE_Increase,10.29743089999568,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,CTGAN,regression,MAE_Increase,8.75339866005889,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,CopulaGAN,regression,R2_Drop,1.512750983662994,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,CopulaGAN,regression,MSE_Increase,370.7628926678323,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,CopulaGAN,regression,RMSE_Increase,12.52882735633679,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,CopulaGAN,regression,MAE_Increase,10.38584519471597,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,ForestDiffusion,regression,R2_Drop,0.01782882674195306,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,ForestDiffusion,regression,MSE_Increase,18.02485892830907,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,ForestDiffusion,regression,RMSE_Increase,1.032087750393795,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,ForestDiffusion,regression,MAE_Increase,0.8332244619311711,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,TabDDPM,regression,R2_Drop,0.08553946321900374,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,TabDDPM,regression,MSE_Increase,37.74069593468263,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,TabDDPM,regression,RMSE_Increase,2.059713575696543,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+13. Concrete Compressive Strength,TabDDPM,regression,MAE_Increase,1.749116337802792,Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,WGAN_GP,regression,R2_Drop,0.1097215356574463,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,WGAN_GP,regression,MSE_Increase,9.00388942945957,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,WGAN_GP,regression,RMSE_Increase,1.761012566842093,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,WGAN_GP,regression,MAE_Increase,1.355368705347646,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,TVAE,regression,R2_Drop,0.1631499516509717,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,TVAE,regression,MSE_Increase,13.87912193809717,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,TVAE,regression,RMSE_Increase,2.287643699084748,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,TVAE,regression,MAE_Increase,1.579930685767153,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,GaussianCopula,regression,R2_Drop,0.3192124749335591,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,GaussianCopula,regression,MSE_Increase,27.18555174996163,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,GaussianCopula,regression,RMSE_Increase,3.631019040272311,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,GaussianCopula,regression,MAE_Increase,3.394268905457198,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,CTGAN,regression,R2_Drop,1.060604919176239,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,CTGAN,regression,MSE_Increase,94.56548212763497,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,CTGAN,regression,RMSE_Increase,7.797706034351551,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,CTGAN,regression,MAE_Increase,6.684907387423704,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,CopulaGAN,regression,R2_Drop,1.325007786487796,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,CopulaGAN,regression,MSE_Increase,115.4501257570267,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,CopulaGAN,regression,RMSE_Increase,8.67372067927562,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,CopulaGAN,regression,MAE_Increase,7.935073294330455,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,CTABGAN,regression,R2_Drop,2.106683539745591,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,CTABGAN,regression,MSE_Increase,182.6942652654298,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,CTABGAN,regression,RMSE_Increase,11.55503794542738,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,CTABGAN,regression,MAE_Increase,10.38798408798155,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,ForestDiffusion,regression,R2_Drop,-0.00526476990513749,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,ForestDiffusion,regression,MSE_Increase,-0.5059237185965368,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,ForestDiffusion,regression,RMSE_Increase,-0.01187038141281506,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,ForestDiffusion,regression,MAE_Increase,-0.00915729754528466,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,TabDDPM,regression,R2_Drop,0.2690743304580023,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,TabDDPM,regression,MSE_Increase,26.50830256805671,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,TabDDPM,regression,RMSE_Increase,3.08289463538512,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+14. Energy Efficiency,TabDDPM,regression,MAE_Increase,2.316169922712755,Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,GaussianCopula,regression,R2_Drop,0.05565760067710157,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,GaussianCopula,regression,MSE_Increase,1.037034058251126,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,GaussianCopula,regression,RMSE_Increase,0.01652693231008371,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,GaussianCopula,regression,MAE_Increase,1.106586102264535,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,TVAE,regression,R2_Drop,0.07863414859713502,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,TVAE,regression,MSE_Increase,5.897583792239224,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,TVAE,regression,RMSE_Increase,0.2519828143838147,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,TVAE,regression,MAE_Increase,1.307880776009048,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,WGAN_GP,regression,R2_Drop,0.09054083674482565,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,WGAN_GP,regression,MSE_Increase,7.070879579481312,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,WGAN_GP,regression,RMSE_Increase,0.420088878296818,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,WGAN_GP,regression,MAE_Increase,1.696712198283532,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,CTABGAN,regression,R2_Drop,0.2197403331095567,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,CTABGAN,regression,MSE_Increase,33.12875310898388,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,CTABGAN,regression,RMSE_Increase,1.425347976130649,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,CTABGAN,regression,MAE_Increase,2.102905721208253,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,CopulaGAN,regression,R2_Drop,0.982789489851627,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,CopulaGAN,regression,MSE_Increase,173.4171227496335,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,CopulaGAN,regression,RMSE_Increase,6.447161629093583,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,CopulaGAN,regression,MAE_Increase,6.834444537593827,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,CTGAN,regression,R2_Drop,1.814856521765575,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,CTGAN,regression,MSE_Increase,322.5056818301879,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,CTGAN,regression,RMSE_Increase,10.77667915005204,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,CTGAN,regression,MAE_Increase,10.42376144395798,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,ForestDiffusion,regression,R2_Drop,-0.08245406639518335,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,ForestDiffusion,regression,MSE_Increase,-17.30912507373541,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,ForestDiffusion,regression,RMSE_Increase,-0.7433733814891691,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,ForestDiffusion,regression,MAE_Increase,-0.3892846871109789,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,TabDDPM,regression,R2_Drop,0.2098391559352227,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,TabDDPM,regression,MSE_Increase,32.18008185609338,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,TabDDPM,regression,RMSE_Increase,1.792642095391414,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+15. Real Estate Valuation,TabDDPM,regression,MAE_Increase,1.679112695512793,Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,WGAN_GP,classification,Accuracy_Drop,0.06239999999999993,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,WGAN_GP,classification,F1_Drop,0.08099204654327621,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,WGAN_GP,classification,Precision_Drop,-0.0288809740582488,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,WGAN_GP,classification,Recall_Drop,0.1581081081081081,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,TVAE,classification,Accuracy_Drop,0.07039999999999993,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,TVAE,classification,F1_Drop,0.06086447474951291,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,TVAE,classification,Precision_Drop,0.1250962995128548,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,TVAE,classification,Recall_Drop,-0.009459459459459451,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,CTABGAN,classification,Accuracy_Drop,0.1017333333333332,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,CTABGAN,classification,F1_Drop,0.1023290301640883,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,CTABGAN,classification,Precision_Drop,0.1055256020575226,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,CTABGAN,classification,Recall_Drop,0.09108108108108107,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,GaussianCopula,classification,Accuracy_Drop,0.118,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,GaussianCopula,classification,F1_Drop,0.109428797697157,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,GaussianCopula,classification,Precision_Drop,0.1660724840457607,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,GaussianCopula,classification,Recall_Drop,0.0489189189189189,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,CTGAN,classification,Accuracy_Drop,0.3825333333333333,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,CTGAN,classification,F1_Drop,0.3553197143411836,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,CTGAN,classification,Precision_Drop,0.4142917034689648,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,CTGAN,classification,Recall_Drop,0.2867567567567568,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,CopulaGAN,classification,Accuracy_Drop,0.3995999999999999,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,CopulaGAN,classification,F1_Drop,0.4946172488785619,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,CopulaGAN,classification,Precision_Drop,0.3971638781838527,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,CopulaGAN,classification,Recall_Drop,0.5443243243243243,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,ForestDiffusion,classification,Accuracy_Drop,-0.0117333333333334,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,ForestDiffusion,classification,F1_Drop,-0.01168826348776353,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,ForestDiffusion,classification,Precision_Drop,-0.01637777486786147,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,ForestDiffusion,classification,Recall_Drop,-0.006216216216216231,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,TabDDPM,classification,Accuracy_Drop,0.4105333333333333,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,TabDDPM,classification,F1_Drop,0.564316852953144,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,TabDDPM,classification,Precision_Drop,0.3706597265175157,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+2. Alzhimers,TabDDPM,classification,Recall_Drop,0.6083783783783784,Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx
+3. Adult,CTGAN,classification,Accuracy_Drop,0.1359,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,CTGAN,classification,F1_Drop,0.1680863508731335,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,CTGAN,classification,Precision_Drop,0.1851842048662308,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,CTGAN,classification,Recall_Drop,0.1359,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,TVAE,classification,Accuracy_Drop,0.15035,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,TVAE,classification,F1_Drop,0.1534676764062435,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,TVAE,classification,Precision_Drop,0.1487533786294633,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,TVAE,classification,Recall_Drop,0.15035,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,GaussianCopula,classification,Accuracy_Drop,0.1561,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,GaussianCopula,classification,F1_Drop,0.1843461872452188,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,GaussianCopula,classification,Precision_Drop,0.2049527588563496,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,GaussianCopula,classification,Recall_Drop,0.1561,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,CopulaGAN,classification,Accuracy_Drop,0.1572,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,CopulaGAN,classification,F1_Drop,0.1733386802931731,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,CopulaGAN,classification,Precision_Drop,0.1746232327561064,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,CopulaGAN,classification,Recall_Drop,0.1572,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,CTABGAN,classification,Accuracy_Drop,0.2340999999999999,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,CTABGAN,classification,F1_Drop,0.238312509371248,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,CTABGAN,classification,Precision_Drop,0.1826481002079154,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,CTABGAN,classification,Recall_Drop,0.2340999999999999,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,WGAN_GP,classification,Accuracy_Drop,0.4702499999999999,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,WGAN_GP,classification,F1_Drop,0.5004025121877228,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,WGAN_GP,classification,Precision_Drop,0.0414565118026526,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,WGAN_GP,classification,Recall_Drop,0.4702499999999999,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,ForestDiffusion,classification,Accuracy_Drop,0.1004,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,ForestDiffusion,classification,F1_Drop,0.07076871099479824,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,ForestDiffusion,classification,Precision_Drop,0.007103183447347972,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,ForestDiffusion,classification,Recall_Drop,0.1004,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,TabDDPM,classification,Accuracy_Drop,0.35535,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,TabDDPM,classification,F1_Drop,0.3715135721959001,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,TabDDPM,classification,Precision_Drop,0.1981491026935139,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+3. Adult,TabDDPM,classification,Recall_Drop,0.35535,Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,GaussianCopula,classification,Accuracy_Drop,0.16185,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,GaussianCopula,classification,F1_Drop,0.1870013884744765,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,GaussianCopula,classification,Precision_Drop,0.1984886603673007,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,GaussianCopula,classification,Recall_Drop,0.16185,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,WGAN_GP,classification,Accuracy_Drop,0.2218,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,WGAN_GP,classification,F1_Drop,0.2336867939207076,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,WGAN_GP,classification,Precision_Drop,0.2481458658280424,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,WGAN_GP,classification,Recall_Drop,0.2218,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,TVAE,classification,Accuracy_Drop,0.2464,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,TVAE,classification,F1_Drop,0.2557809254255407,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,TVAE,classification,Precision_Drop,0.2441651262813585,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,TVAE,classification,Recall_Drop,0.2464,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,CTABGAN,classification,Accuracy_Drop,0.30745,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,CTABGAN,classification,F1_Drop,0.2895507892625916,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,CTABGAN,classification,Precision_Drop,0.2615625882279112,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,CTABGAN,classification,Recall_Drop,0.30745,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,CTGAN,classification,Accuracy_Drop,0.4954499999999999,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,CTGAN,classification,F1_Drop,0.4468849492922214,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,CTGAN,classification,Precision_Drop,0.1934843758955904,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,CTGAN,classification,Recall_Drop,0.4954499999999999,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,CopulaGAN,classification,Accuracy_Drop,0.5376,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,CopulaGAN,classification,F1_Drop,0.4963703928230201,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,CopulaGAN,classification,Precision_Drop,0.3140101677016209,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,CopulaGAN,classification,Recall_Drop,0.5376,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,ForestDiffusion,classification,Accuracy_Drop,-0.05545000000000001,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,ForestDiffusion,classification,F1_Drop,-0.0616913272491304,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,ForestDiffusion,classification,Precision_Drop,-0.06503149895936675,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,ForestDiffusion,classification,Recall_Drop,-0.05545000000000001,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,TabDDPM,classification,Accuracy_Drop,0.218,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,TabDDPM,classification,F1_Drop,0.2487419442333116,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,TabDDPM,classification,Precision_Drop,0.266226134133645,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+4. Forest cover dataset,TabDDPM,classification,Recall_Drop,0.218,Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,WGAN_GP,classification,Accuracy_Drop,0.01101,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,WGAN_GP,classification,F1_Drop,0.03412739412506199,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,WGAN_GP,classification,Precision_Drop,0.05666996724663025,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,WGAN_GP,classification,Recall_Drop,0.01101,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,CopulaGAN,classification,Accuracy_Drop,0.01859499999999995,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,CopulaGAN,classification,F1_Drop,0.008741067197345964,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,CopulaGAN,classification,Precision_Drop,0.01422168791398165,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,CopulaGAN,classification,Recall_Drop,0.01859499999999995,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,GaussianCopula,classification,Accuracy_Drop,0.02100999999999999,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,GaussianCopula,classification,F1_Drop,0.03459153898935382,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,GaussianCopula,classification,Precision_Drop,0.05273789350435535,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,GaussianCopula,classification,Recall_Drop,0.02100999999999999,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,CTABGAN,classification,Accuracy_Drop,0.02519000000000001,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,CTABGAN,classification,F1_Drop,0.02193384527998743,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,CTABGAN,classification,Precision_Drop,0.004760298180626543,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,CTABGAN,classification,Recall_Drop,0.02519000000000001,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,TVAE,classification,Accuracy_Drop,0.02793999999999995,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,TVAE,classification,F1_Drop,0.0281020922457746,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,TVAE,classification,Precision_Drop,0.02645738275508046,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,TVAE,classification,Recall_Drop,0.02793999999999995,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,CTGAN,classification,Accuracy_Drop,0.04359499999999999,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,CTGAN,classification,F1_Drop,0.03222622414309625,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,CTGAN,classification,Precision_Drop,0.02763715684036395,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,CTGAN,classification,Recall_Drop,0.04359499999999999,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,ForestDiffusion,classification,Accuracy_Drop,-0.002295000000000003,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,ForestDiffusion,classification,F1_Drop,-0.005024664681634494,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,ForestDiffusion,classification,Precision_Drop,-0.005854568853197717,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,ForestDiffusion,classification,Recall_Drop,-0.002295000000000003,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,TabDDPM,classification,Accuracy_Drop,0.01752999999999998,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,TabDDPM,classification,F1_Drop,0.03871621780271014,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,TabDDPM,classification,Precision_Drop,0.07122398392176081,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+5. Bank Markting,TabDDPM,classification,Recall_Drop,0.01752999999999998,Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,TVAE,classification,Accuracy_Drop,0.001149999999999979,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,TVAE,classification,F1_Drop,0.03634210373835529,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,TVAE,classification,Precision_Drop,0.02249402415579386,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,TVAE,classification,Recall_Drop,0.001149999999999979,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,WGAN_GP,classification,Accuracy_Drop,0.06804999999999999,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,WGAN_GP,classification,F1_Drop,0.05412661340916362,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,WGAN_GP,classification,Precision_Drop,0.05421426717105404,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,WGAN_GP,classification,Recall_Drop,0.06804999999999999,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,CTABGAN,classification,Accuracy_Drop,0.08304999999999996,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,CTABGAN,classification,F1_Drop,0.133887867187574,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,CTABGAN,classification,Precision_Drop,0.1423852372034428,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,CTABGAN,classification,Recall_Drop,0.08304999999999996,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,GaussianCopula,classification,Accuracy_Drop,0.08940000000000001,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,GaussianCopula,classification,F1_Drop,0.1333370840938384,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,GaussianCopula,classification,Precision_Drop,0.1526591053959959,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,GaussianCopula,classification,Recall_Drop,0.08940000000000001,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,CopulaGAN,classification,Accuracy_Drop,0.1995999999999999,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,CopulaGAN,classification,F1_Drop,0.1717712905294109,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,CopulaGAN,classification,Precision_Drop,0.1484187267172911,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,CopulaGAN,classification,Recall_Drop,0.1995999999999999,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,CTGAN,classification,Accuracy_Drop,0.2384,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,CTGAN,classification,F1_Drop,0.2195677419371094,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,CTGAN,classification,Precision_Drop,0.1529435581423563,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,CTGAN,classification,Recall_Drop,0.2384,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,ForestDiffusion,classification,Accuracy_Drop,-0.07866666666666672,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,ForestDiffusion,classification,F1_Drop,-0.09150283065201112,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,ForestDiffusion,classification,Precision_Drop,-0.09519667514708828,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,ForestDiffusion,classification,Recall_Drop,-0.07866666666666672,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,TabDDPM,classification,Accuracy_Drop,0.1015555555555555,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,TabDDPM,classification,F1_Drop,0.1419558556980498,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,TabDDPM,classification,Precision_Drop,0.1551648231708129,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+6. Wine dataset,TabDDPM,classification,Recall_Drop,0.1015555555555555,Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,CTGAN,classification,Accuracy_Drop,0.003268561025803396,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,CTGAN,classification,F1_Drop,0.1100257967454713,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,CTGAN,classification,Precision_Drop,0.07502249410947982,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,CTGAN,classification,Recall_Drop,0.08615395540406191,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,WGAN_GP,classification,Accuracy_Drop,0.006588174766503063,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,WGAN_GP,classification,F1_Drop,0.04776430991454887,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,WGAN_GP,classification,Precision_Drop,0.03384650103600516,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,WGAN_GP,classification,Recall_Drop,0.02617099843772189,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,GaussianCopula,classification,Accuracy_Drop,0.01045947443406676,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,GaussianCopula,classification,F1_Drop,0.1838973340435657,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,GaussianCopula,classification,Precision_Drop,0.2557512540688155,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,GaussianCopula,classification,Recall_Drop,0.1397699190455901,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,CTABGAN,classification,Accuracy_Drop,0.02103965489947756,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,CTABGAN,classification,F1_Drop,-0.06144780054435543,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,CTABGAN,classification,Precision_Drop,0.0924884484022892,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,CTABGAN,classification,Recall_Drop,-0.08673341854850163,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,TVAE,classification,Accuracy_Drop,0.02143204844071555,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,TVAE,classification,F1_Drop,-0.06231136205137504,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,TVAE,classification,Precision_Drop,0.1025878218529498,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,TVAE,classification,Recall_Drop,-0.0932182928561284,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,CopulaGAN,classification,Accuracy_Drop,0.03300063321196771,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,CopulaGAN,classification,F1_Drop,-0.07680283637651744,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,CopulaGAN,classification,Precision_Drop,0.1303850147836305,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,CopulaGAN,classification,Recall_Drop,-0.1275173980968612,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,TabDDPM,classification,Accuracy_Drop,0.02165,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,TabDDPM,classification,F1_Drop,0.04384729193677982,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,TabDDPM,classification,Precision_Drop,0.1013921766280741,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,TabDDPM,classification,Recall_Drop,0.02165,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,ForestDiffusion,classification,Accuracy_Drop,0.02539999999999996,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,ForestDiffusion,classification,F1_Drop,0.01715890938596775,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,ForestDiffusion,classification,Precision_Drop,0.003923032693450445,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+7. CDC diabetes dataset,ForestDiffusion,classification,Recall_Drop,0.02539999999999996,Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,WGAN_GP,classification,Accuracy_Drop,0.1689520559347428,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,WGAN_GP,classification,F1_Drop,0.1308425921429077,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,WGAN_GP,classification,Precision_Drop,0.1813030678179404,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,WGAN_GP,classification,Recall_Drop,0.08498725063746804,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,TVAE,classification,Accuracy_Drop,0.229400699184285,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,TVAE,classification,F1_Drop,0.1999140754755575,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,TVAE,classification,Precision_Drop,0.2166002790844427,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,TVAE,classification,Recall_Drop,0.1929173541322933,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,GaussianCopula,classification,Accuracy_Drop,0.2591867820875645,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,GaussianCopula,classification,F1_Drop,0.2066698447952771,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,GaussianCopula,classification,Precision_Drop,0.255172869011411,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,GaussianCopula,classification,Recall_Drop,0.164687265636718,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,CopulaGAN,classification,Accuracy_Drop,0.2806209422340603,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,CopulaGAN,classification,F1_Drop,0.1682264300854596,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,CopulaGAN,classification,Precision_Drop,0.2948092253407389,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,CopulaGAN,classification,Recall_Drop,-0.002443377831108534,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,CTABGAN,classification,Accuracy_Drop,0.2815764940902281,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,CTABGAN,classification,F1_Drop,0.1812783296924858,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,CTABGAN,classification,Precision_Drop,0.2932066486227706,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,CTABGAN,classification,Recall_Drop,0.03080845957702114,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,CTGAN,classification,Accuracy_Drop,0.2900058265357083,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,CTGAN,classification,F1_Drop,0.2715652054536611,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,CTGAN,classification,Precision_Drop,0.2649735203236548,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,CTGAN,classification,Recall_Drop,0.2847037648117593,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,ForestDiffusion,classification,Accuracy_Drop,0.08403196271017147,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,ForestDiffusion,classification,F1_Drop,0.08494007250701097,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,ForestDiffusion,classification,Precision_Drop,0.08474085277741873,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,ForestDiffusion,classification,Recall_Drop,0.08403196271017147,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,TabDDPM,classification,Accuracy_Drop,0.3587739304145164,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,TabDDPM,classification,F1_Drop,0.3840214666151817,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,TabDDPM,classification,Precision_Drop,0.3480725873070253,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+8. Mushroom dataset,TabDDPM,classification,Recall_Drop,0.3587739304145164,Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,WGAN_GP,classification,Accuracy_Drop,0.03599894847528913,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,WGAN_GP,classification,F1_Drop,0.02926435564151492,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,WGAN_GP,classification,Precision_Drop,0.01681209081368668,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,WGAN_GP,classification,Recall_Drop,0.04316707218167075,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,CTABGAN,classification,Accuracy_Drop,0.04716614090431118,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,CTABGAN,classification,F1_Drop,0.03173299550890818,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,CTABGAN,classification,Precision_Drop,0.04715040516639724,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,CTABGAN,classification,Recall_Drop,0.01208029197080296,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,TVAE,classification,Accuracy_Drop,0.08213722397476339,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,TVAE,classification,F1_Drop,0.07808778721287156,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,TVAE,classification,Precision_Drop,0.006351541870947719,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,TVAE,classification,Recall_Drop,0.1496715328467154,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,CopulaGAN,classification,Accuracy_Drop,0.09830441640378543,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,CopulaGAN,classification,F1_Drop,0.07758033442574072,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,CopulaGAN,classification,Precision_Drop,0.05903321148587699,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,CopulaGAN,classification,Recall_Drop,0.09839416058394164,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,GaussianCopula,classification,Accuracy_Drop,0.0995820189274447,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,GaussianCopula,classification,F1_Drop,0.06368763334096637,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,GaussianCopula,classification,Precision_Drop,0.09909861704542725,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,GaussianCopula,classification,Recall_Drop,0.01558799675587996,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,CTGAN,classification,Accuracy_Drop,0.1067770767613038,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,CTGAN,classification,F1_Drop,0.09287081877603107,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,CTGAN,classification,Precision_Drop,0.0397597796563701,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,CTGAN,classification,Recall_Drop,0.1480819140308192,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,ForestDiffusion,classification,Accuracy_Drop,0.01995005257623551,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,ForestDiffusion,classification,F1_Drop,0.0159894694489993,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,ForestDiffusion,classification,Precision_Drop,0.008965519684051649,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,ForestDiffusion,classification,Recall_Drop,0.02377939983779399,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,TabDDPM,classification,Accuracy_Drop,0.2198790746582545,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,TabDDPM,classification,F1_Drop,0.1611382113832047,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,TabDDPM,classification,Precision_Drop,0.1886613502441107,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx
+9. MAGIC Gamma Telescope,TabDDPM,classification,Recall_Drop,0.0948621248986213,Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx

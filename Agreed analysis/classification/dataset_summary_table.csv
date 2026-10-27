@@ -1,0 +1,10 @@
+Dataset,Samples,Features,Numerical,Categorical,Classes
+Cancer,569,30,30,0,2
+Alzheimer's,373,10,10,0,2
+Adult Census,1000,14,6,8,2
+Forest Cover,1000,10,10,0,7
+Bank Marketing,10000,13,5,8,2
+Wine Quality,1000,11,11,0,6
+CDC Diabetes,1000,21,7,14,2
+Mushroom,1000,20,3,17,2
+MAGIC Gamma,19020,10,10,0,2

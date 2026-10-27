@@ -1,0 +1,4 @@
+Privacy vs Utility (Accuracy, NNDR)
+Higher nndr is associated with lower utility (accuracy) (Pearson r = -0.37).
+WGAN_GP, ForestDiffusion, TabDDPM achieve a comparatively favourable privacy–utility balance.
+Weak negative correlation. The pattern is consistent with the expected privacy–utility trade-off for synthetic tabular data.

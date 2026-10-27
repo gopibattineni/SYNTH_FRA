@@ -1,0 +1,1549 @@
+Dataset,Generator,Metric,Mean,Count,Std,CI_Low,CI_High,NormalizedScore
+1. Cancer,CTABGAN,Cosine_Similarity,-0.008807,1,0.0,-0.008807,-0.008807,-0.008807
+1. Cancer,CTABGAN,Gower_Distance,0.845894,1,0.0,0.845894,0.845894,0.845894
+1. Cancer,CTABGAN,Gower_Similarity,0.845894,1,0.0,0.845894,0.845894,0.845894
+1. Cancer,CTABGAN,JS_Divergence,0.0739615384615384,1,0.0,0.0739615384615384,0.0739615384615384,0.0739615384615384
+1. Cancer,CTABGAN,KS_Complement,0.8515999999999999,1,0.0,0.8515999999999999,0.8515999999999999,0.8515999999999999
+1. Cancer,CTABGAN,MMD,0.045172,1,0.0,0.045172,0.045172,0.045172
+1. Cancer,CTABGAN,MMD_Multivariate,0.029374,1,0.0,0.029374,0.029374,0.029374
+1. Cancer,CTABGAN,Outlier_Count_Diff,22.833333,1,0.0,22.833333,22.833333,22.833333
+1. Cancer,CTABGAN,PCA_Correlation_Diff,1.040025,1,0.0,1.040025,1.040025,1.040025
+1. Cancer,CTABGAN,PCA_Mean_Error,10.578803,1,0.0,10.578803,10.578803,10.578803
+1. Cancer,CTABGAN,PCA_Mean_Error_Pct,5.7894015,1,0.0,5.7894015,5.7894015,5.7894015
+1. Cancer,CTABGAN,Quality_Score,0.851563,1,0.0,0.851563,0.851563,0.851563
+1. Cancer,CTABGAN,Wasserstein_Distance,0.037154,1,0.0,0.037154,0.037154,0.037154
+1. Cancer,CTGAN,Cosine_Similarity,0.007301,1,0.0,0.007301,0.007301,0.007301
+1. Cancer,CTGAN,Gower_Distance,0.825575,1,0.0,0.825575,0.825575,0.825575
+1. Cancer,CTGAN,Gower_Similarity,0.825575,1,0.0,0.825575,0.825575,0.825575
+1. Cancer,CTGAN,JS_Divergence,0.1121379310344827,1,0.0,0.1121379310344827,0.1121379310344827,0.1121379310344827
+1. Cancer,CTGAN,KS_Complement,0.7403,1,0.0,0.7403,0.7403,0.7403
+1. Cancer,CTGAN,MMD,0.142486,1,0.0,0.142486,0.142486,0.142486
+1. Cancer,CTGAN,MMD_Multivariate,0.087208,1,0.0,0.087208,0.087208,0.087208
+1. Cancer,CTGAN,Outlier_Count_Diff,16.9,1,0.0,16.9,16.9,16.9
+1. Cancer,CTGAN,PCA_Mean_Error,22.139785,1,0.0,22.139785,22.139785,22.139785
+1. Cancer,CTGAN,PCA_Mean_Error_Pct,11.317073,1,0.0,11.317073,11.317073,11.317073
+1. Cancer,CTGAN,Quality_Score,0.765081,1,0.0,0.765081,0.765081,0.765081
+1. Cancer,CTGAN,Wasserstein_Distance,0.07423,1,0.0,0.07423,0.07423,0.07423
+1. Cancer,CopulaGAN,Cosine_Similarity,-0.042749,1,0.0,-0.042749,-0.042749,-0.042749
+1. Cancer,CopulaGAN,Gower_Distance,0.787046,1,0.0,0.787046,0.787046,0.787046
+1. Cancer,CopulaGAN,Gower_Similarity,0.787046,1,0.0,0.787046,0.787046,0.787046
+1. Cancer,CopulaGAN,JS_Divergence,0.1410357142857143,1,0.0,0.1410357142857143,0.1410357142857143,0.1410357142857143
+1. Cancer,CopulaGAN,KS_Complement,0.6568999999999999,1,0.0,0.6568999999999999,0.6568999999999999,0.6568999999999999
+1. Cancer,CopulaGAN,MMD,0.341616,1,0.0,0.341616,0.341616,0.341616
+1. Cancer,CopulaGAN,MMD_Multivariate,0.210474,1,0.0,0.210474,0.210474,0.210474
+1. Cancer,CopulaGAN,Outlier_Count_Diff,28.2,1,0.0,28.2,28.2,28.2
+1. Cancer,CopulaGAN,PCA_Mean_Error,43.617757,1,0.0,43.617757,43.617757,43.617757
+1. Cancer,CopulaGAN,PCA_Mean_Error_Pct,22.3088785,1,0.0,22.3088785,22.3088785,22.3088785
+1. Cancer,CopulaGAN,Quality_Score,0.721867,1,0.0,0.721867,0.721867,0.721867
+1. Cancer,CopulaGAN,Wasserstein_Distance,0.123656,1,0.0,0.123656,0.123656,0.123656
+1. Cancer,ForestDiffusion,Cosine_Similarity,0.020406,1,0.0,0.020406,0.020406,0.020406
+1. Cancer,ForestDiffusion,Gower_Distance,0.860912,1,0.0,0.860912,0.860912,0.860912
+1. Cancer,ForestDiffusion,Gower_Similarity,0.860912,1,0.0,0.860912,0.860912,0.860912
+1. Cancer,ForestDiffusion,JS_Divergence,0.0208333333333333,1,0.0,0.0208333333333333,0.0208333333333333,0.0208333333333333
+1. Cancer,ForestDiffusion,KS_Complement,0.9479,1,0.0,0.9479,0.9479,0.9479
+1. Cancer,ForestDiffusion,MMD,0.003385,1,0.0,0.003385,0.003385,0.003385
+1. Cancer,ForestDiffusion,MMD_Multivariate,0.00178,1,0.0,0.00178,0.00178,0.00178
+1. Cancer,ForestDiffusion,Outlier_Count_Diff,10.733333,1,0.0,10.733333,10.733333,10.733333
+1. Cancer,ForestDiffusion,PCA_Correlation_Diff,0.193923,1,0.0,0.193923,0.193923,0.193923
+1. Cancer,ForestDiffusion,PCA_Mean_Error,1.192193,1,0.0,1.192193,1.192193,1.192193
+1. Cancer,ForestDiffusion,PCA_Mean_Error_Pct,0.5960965,1,0.0,0.5960965,0.5960965,0.5960965
+1. Cancer,ForestDiffusion,Quality_Score,0.947885,1,0.0,0.947885,0.947885,0.947885
+1. Cancer,ForestDiffusion,Wasserstein_Distance,0.012196,1,0.0,0.012196,0.012196,0.012196
+1. Cancer,GaussianCopula,Cosine_Similarity,0.012774,1,0.0,0.012774,0.012774,0.012774
+1. Cancer,GaussianCopula,Gower_Distance,0.851888,1,0.0,0.851888,0.851888,0.851888
+1. Cancer,GaussianCopula,Gower_Similarity,0.851888,1,0.0,0.851888,0.851888,0.851888
+1. Cancer,GaussianCopula,JS_Divergence,0.037235294117647,1,0.0,0.037235294117647,0.037235294117647,0.037235294117647
+1. Cancer,GaussianCopula,KS_Complement,0.93,1,0.0,0.93,0.93,0.93
+1. Cancer,GaussianCopula,MMD,0.003901,1,0.0,0.003901,0.003901,0.003901
+1. Cancer,GaussianCopula,MMD_Multivariate,0.001456,1,0.0,0.001456,0.001456,0.001456
+1. Cancer,GaussianCopula,Outlier_Count_Diff,7.366667,1,0.0,7.366667,7.366667,7.366667
+1. Cancer,GaussianCopula,PCA_Mean_Error,1.140859,1,0.0,1.140859,1.140859,1.140859
+1. Cancer,GaussianCopula,PCA_Mean_Error_Pct,0.5704295,1,0.0,0.5704295,0.5704295,0.5704295
+1. Cancer,GaussianCopula,Quality_Score,0.943748,1,0.0,0.943748,0.943748,0.943748
+1. Cancer,GaussianCopula,Wasserstein_Distance,0.014806,1,0.0,0.014806,0.014806,0.014806
+1. Cancer,TVAE,Cosine_Similarity,0.043196,1,0.0,0.043196,0.043196,0.043196
+1. Cancer,TVAE,Gower_Distance,0.865425,1,0.0,0.865425,0.865425,0.865425
+1. Cancer,TVAE,Gower_Similarity,0.865425,1,0.0,0.865425,0.865425,0.865425
+1. Cancer,TVAE,JS_Divergence,0.0458095238095238,1,0.0,0.0458095238095238,0.0458095238095238,0.0458095238095238
+1. Cancer,TVAE,KS_Complement,0.873,1,0.0,0.873,0.873,0.873
+1. Cancer,TVAE,MMD,0.020162,1,0.0,0.020162,0.020162,0.020162
+1. Cancer,TVAE,MMD_Multivariate,0.018341,1,0.0,0.018341,0.018341,0.018341
+1. Cancer,TVAE,Outlier_Count_Diff,33.233333,1,0.0,33.233333,33.233333,33.233333
+1. Cancer,TVAE,PCA_Mean_Error,9.333224,1,0.0,9.333224,9.333224,9.333224
+1. Cancer,TVAE,PCA_Mean_Error_Pct,4.763045,1,0.0,4.763045,4.763045,4.763045
+1. Cancer,TVAE,Quality_Score,0.896421,1,0.0,0.896421,0.896421,0.896421
+1. Cancer,TVAE,Wasserstein_Distance,0.030417,1,0.0,0.030417,0.030417,0.030417
+1. Cancer,TabDDPM,Cosine_Similarity,-0.05887,1,0.0,-0.05887,-0.05887,-0.05887
+1. Cancer,TabDDPM,Gower_Distance,0.478821,1,0.0,0.478821,0.478821,0.478821
+1. Cancer,TabDDPM,Gower_Similarity,0.478821,1,0.0,0.478821,0.478821,0.478821
+1. Cancer,TabDDPM,JS_Divergence,0.6448333333333334,1,0.0,0.6448333333333334,0.6448333333333334,0.6448333333333334
+1. Cancer,TabDDPM,KS_Complement,0.4014,1,0.0,0.4014,0.4014,0.4014
+1. Cancer,TabDDPM,MMD,0.568095,1,0.0,0.568095,0.568095,0.568095
+1. Cancer,TabDDPM,MMD_Multivariate,0.370326,1,0.0,0.370326,0.370326,0.370326
+1. Cancer,TabDDPM,Outlier_Count_Diff,41.566667,1,0.0,41.566667,41.566667,41.566667
+1. Cancer,TabDDPM,PCA_Correlation_Diff,0.711648,1,0.0,0.711648,0.711648,0.711648
+1. Cancer,TabDDPM,PCA_Mean_Error,138.499025,1,0.0,138.499025,138.499025,138.499025
+1. Cancer,TabDDPM,PCA_Mean_Error_Pct,69.7495125,1,0.0,69.7495125,69.7495125,69.7495125
+1. Cancer,TabDDPM,Quality_Score,0.401382,1,0.0,0.401382,0.401382,0.401382
+1. Cancer,TabDDPM,Wasserstein_Distance,0.424491,1,0.0,0.424491,0.424491,0.424491
+1. Cancer,WGAN_GP,Cosine_Similarity,0.021422,1,0.0,0.021422,0.021422,0.021422
+1. Cancer,WGAN_GP,Gower_Distance,0.87225,1,0.0,0.87225,0.87225,0.87225
+1. Cancer,WGAN_GP,Gower_Similarity,0.87225,1,0.0,0.87225,0.87225,0.87225
+1. Cancer,WGAN_GP,JS_Divergence,0.0238999999999999,1,0.0,0.0238999999999999,0.0238999999999999,0.0238999999999999
+1. Cancer,WGAN_GP,KS_Complement,0.949,1,0.0,0.949,0.949,0.949
+1. Cancer,WGAN_GP,MMD,0.001618,1,0.0,0.001618,0.001618,0.001618
+1. Cancer,WGAN_GP,MMD_Multivariate,0.000164,1,0.0,0.000164,0.000164,0.000164
+1. Cancer,WGAN_GP,Outlier_Count_Diff,12.6,1,0.0,12.6,12.6,12.6
+1. Cancer,WGAN_GP,PCA_Correlation_Diff,0.153608,1,0.0,0.153608,0.153608,0.153608
+1. Cancer,WGAN_GP,PCA_Mean_Error,1.608508,1,0.0,1.608508,1.608508,1.608508
+1. Cancer,WGAN_GP,PCA_Mean_Error_Pct,0.804254,1,0.0,0.804254,0.804254,0.804254
+1. Cancer,WGAN_GP,Quality_Score,0.949012,1,0.0,0.949012,0.949012,0.949012
+1. Cancer,WGAN_GP,Wasserstein_Distance,0.010063,1,0.0,0.010063,0.010063,0.010063
+10. Metro interstate,CTABGAN,Cosine_Similarity,0.000365,1,0.0,0.000365,0.000365,0.000365
+10. Metro interstate,CTABGAN,Gower_Distance,0.575214,1,0.0,0.575214,0.575214,0.575214
+10. Metro interstate,CTABGAN,Gower_Similarity,0.575214,1,0.0,0.575214,0.575214,0.575214
+10. Metro interstate,CTABGAN,JS_Divergence,0.2352,1,0.0,0.2352,0.2352,0.2352
+10. Metro interstate,CTABGAN,KS_Complement,0.7036,1,0.0,0.7036,0.7036,0.7036
+10. Metro interstate,CTABGAN,MMD,0.010479,1,0.0,0.010479,0.010479,0.010479
+10. Metro interstate,CTABGAN,MMD_Multivariate,0.009604,1,0.0,0.009604,0.009604,0.009604
+10. Metro interstate,CTABGAN,Outlier_Count_Diff,3.777778,1,0.0,3.777778,3.777778,3.777778
+10. Metro interstate,CTABGAN,PCA_Correlation_Diff,0.24458,1,0.0,0.24458,0.24458,0.24458
+10. Metro interstate,CTABGAN,PCA_Mean_Error,10.002244,1,0.0,10.002244,10.002244,10.002244
+10. Metro interstate,CTABGAN,PCA_Mean_Error_Pct,5.001122,1,0.0,5.001122,5.001122,5.001122
+10. Metro interstate,CTABGAN,Quality_Score,0.8821898055036569,1,0.0,0.8821898055036569,0.8821898055036569,0.8821898055036569
+10. Metro interstate,CTABGAN,Wasserstein_Distance,0.040253,1,0.0,0.040253,0.040253,0.040253
+10. Metro interstate,CTGAN,Cosine_Similarity,0.016607,1,0.0,0.016607,0.016607,0.016607
+10. Metro interstate,CTGAN,Gower_Distance,0.665849,1,0.0,0.665849,0.665849,0.665849
+10. Metro interstate,CTGAN,Gower_Similarity,0.665849,1,0.0,0.665849,0.665849,0.665849
+10. Metro interstate,CTGAN,JS_Divergence,0.2128571428571428,1,0.0,0.2128571428571428,0.2128571428571428,0.2128571428571428
+10. Metro interstate,CTGAN,KS_Complement,0.8336,1,0.0,0.8336,0.8336,0.8336
+10. Metro interstate,CTGAN,MMD,0.009663,1,0.0,0.009663,0.009663,0.009663
+10. Metro interstate,CTGAN,MMD_Multivariate,0.010768,1,0.0,0.010768,0.010768,0.010768
+10. Metro interstate,CTGAN,Outlier_Count_Diff,10.75,1,0.0,10.75,10.75,10.75
+10. Metro interstate,CTGAN,PCA_Correlation_Diff,0.093407,1,0.0,0.093407,0.093407,0.093407
+10. Metro interstate,CTGAN,PCA_Mean_Error,40.048378,1,0.0,40.048378,40.048378,40.048378
+10. Metro interstate,CTGAN,PCA_Mean_Error_Pct,20.024189,1,0.0,20.024189,20.024189,20.024189
+10. Metro interstate,CTGAN,Quality_Score,0.755272,1,0.0,0.755272,0.755272,0.755272
+10. Metro interstate,CTGAN,Wasserstein_Distance,0.0303,1,0.0,0.0303,0.0303,0.0303
+10. Metro interstate,CopulaGAN,Cosine_Similarity,0.006086,1,0.0,0.006086,0.006086,0.006086
+10. Metro interstate,CopulaGAN,Gower_Distance,0.665781,1,0.0,0.665781,0.665781,0.665781
+10. Metro interstate,CopulaGAN,Gower_Similarity,0.665781,1,0.0,0.665781,0.665781,0.665781
+10. Metro interstate,CopulaGAN,JS_Divergence,0.2198,1,0.0,0.2198,0.2198,0.2198
+10. Metro interstate,CopulaGAN,KS_Complement,0.7624,1,0.0,0.7624,0.7624,0.7624
+10. Metro interstate,CopulaGAN,MMD,0.018567,1,0.0,0.018567,0.018567,0.018567
+10. Metro interstate,CopulaGAN,MMD_Multivariate,0.0197,1,0.0,0.0197,0.0197,0.0197
+10. Metro interstate,CopulaGAN,Outlier_Count_Diff,15.75,1,0.0,15.75,15.75,15.75
+10. Metro interstate,CopulaGAN,PCA_Correlation_Diff,0.086332,1,0.0,0.086332,0.086332,0.086332
+10. Metro interstate,CopulaGAN,PCA_Mean_Error,81.279423,1,0.0,81.279423,81.279423,81.279423
+10. Metro interstate,CopulaGAN,PCA_Mean_Error_Pct,40.640829,1,0.0,40.640829,40.640829,40.640829
+10. Metro interstate,CopulaGAN,Quality_Score,0.719811,1,0.0,0.719811,0.719811,0.719811
+10. Metro interstate,CopulaGAN,Wasserstein_Distance,0.028848,1,0.0,0.028848,0.028848,0.028848
+10. Metro interstate,ForestDiffusion,Cosine_Similarity,0.00882,1,0.0,0.00882,0.00882,0.00882
+10. Metro interstate,ForestDiffusion,Gower_Distance,0.669023,1,0.0,0.669023,0.669023,0.669023
+10. Metro interstate,ForestDiffusion,Gower_Similarity,0.669023,1,0.0,0.669023,0.669023,0.669023
+10. Metro interstate,ForestDiffusion,JS_Divergence,0.107,1,0.0,0.107,0.107,0.107
+10. Metro interstate,ForestDiffusion,KS_Complement,0.7487,1,0.0,0.7487,0.7487,0.7487
+10. Metro interstate,ForestDiffusion,MMD,0.004705,1,0.0,0.004705,0.004705,0.004705
+10. Metro interstate,ForestDiffusion,MMD_Multivariate,0.003917,1,0.0,0.003917,0.003917,0.003917
+10. Metro interstate,ForestDiffusion,Outlier_Count_Diff,40.5,1,0.0,40.5,40.5,40.5
+10. Metro interstate,ForestDiffusion,PCA_Correlation_Diff,0.054512,1,0.0,0.054512,0.054512,0.054512
+10. Metro interstate,ForestDiffusion,PCA_Mean_Error,10.219452,1,0.0,10.219452,10.219452,10.219452
+10. Metro interstate,ForestDiffusion,PCA_Mean_Error_Pct,5.109726,1,0.0,5.109726,5.109726,5.109726
+10. Metro interstate,ForestDiffusion,Quality_Score,0.9053272950819672,1,0.0,0.9053272950819672,0.9053272950819672,0.9053272950819672
+10. Metro interstate,ForestDiffusion,Wasserstein_Distance,0.020227,1,0.0,0.020227,0.020227,0.020227
+10. Metro interstate,GaussianCopula,Cosine_Similarity,-0.037933,1,0.0,-0.037933,-0.037933,-0.037933
+10. Metro interstate,GaussianCopula,Gower_Distance,0.570833,1,0.0,0.570833,0.570833,0.570833
+10. Metro interstate,GaussianCopula,Gower_Similarity,0.570833,1,0.0,0.570833,0.570833,0.570833
+10. Metro interstate,GaussianCopula,JS_Divergence,0.3763333333333333,1,0.0,0.3763333333333333,0.3763333333333333,0.3763333333333333
+10. Metro interstate,GaussianCopula,KS_Complement,0.7023999999999999,1,0.0,0.7023999999999999,0.7023999999999999,0.7023999999999999
+10. Metro interstate,GaussianCopula,MMD,1.123683,1,0.0,1.123683,1.123683,1.123683
+10. Metro interstate,GaussianCopula,MMD_Multivariate,1.112865,1,0.0,1.112865,1.112865,1.112865
+10. Metro interstate,GaussianCopula,Outlier_Count_Diff,47.5,1,0.0,47.5,47.5,47.5
+10. Metro interstate,GaussianCopula,PCA_Correlation_Diff,0.060328,1,0.0,0.060328,0.060328,0.060328
+10. Metro interstate,GaussianCopula,PCA_Mean_Error,18489.511373,1,0.0,18489.511373,18489.511373,18489.511373
+10. Metro interstate,GaussianCopula,PCA_Mean_Error_Pct,9245.2556865,1,0.0,9245.2556865,9245.2556865,9245.2556865
+10. Metro interstate,GaussianCopula,Quality_Score,0.573533,1,0.0,0.573533,0.573533,0.573533
+10. Metro interstate,GaussianCopula,Wasserstein_Distance,0.237024,1,0.0,0.237024,0.237024,0.237024
+10. Metro interstate,TVAE,Cosine_Similarity,0.009913,1,0.0,0.009913,0.009913,0.009913
+10. Metro interstate,TVAE,Gower_Distance,0.689928,1,0.0,0.689928,0.689928,0.689928
+10. Metro interstate,TVAE,Gower_Similarity,0.689928,1,0.0,0.689928,0.689928,0.689928
+10. Metro interstate,TVAE,JS_Divergence,0.01875,1,0.0,0.01875,0.01875,0.01875
+10. Metro interstate,TVAE,KS_Complement,0.9267,1,0.0,0.9267,0.9267,0.9267
+10. Metro interstate,TVAE,MMD,0.001842,1,0.0,0.001842,0.001842,0.001842
+10. Metro interstate,TVAE,MMD_Multivariate,0.001242,1,0.0,0.001242,0.001242,0.001242
+10. Metro interstate,TVAE,Outlier_Count_Diff,14.25,1,0.0,14.25,14.25,14.25
+10. Metro interstate,TVAE,PCA_Correlation_Diff,0.031271,1,0.0,0.031271,0.031271,0.031271
+10. Metro interstate,TVAE,PCA_Mean_Error,47.241577,1,0.0,47.241577,47.241577,47.241577
+10. Metro interstate,TVAE,PCA_Mean_Error_Pct,23.6209835,1,0.0,23.6209835,23.6209835,23.6209835
+10. Metro interstate,TVAE,Quality_Score,0.852997,1,0.0,0.852997,0.852997,0.852997
+10. Metro interstate,TVAE,Wasserstein_Distance,0.009702,1,0.0,0.009702,0.009702,0.009702
+10. Metro interstate,TabDDPM,Cosine_Similarity,-0.037414,1,0.0,-0.037414,-0.037414,-0.037414
+10. Metro interstate,TabDDPM,Gower_Distance,0.4366,1,0.0,0.4366,0.4366,0.4366
+10. Metro interstate,TabDDPM,Gower_Similarity,0.4366,1,0.0,0.4366,0.4366,0.4366
+10. Metro interstate,TabDDPM,JS_Divergence,0.1947499999999999,1,0.0,0.1947499999999999,0.1947499999999999,0.1947499999999999
+10. Metro interstate,TabDDPM,KS_Complement,0.5631,1,0.0,0.5631,0.5631,0.5631
+10. Metro interstate,TabDDPM,MMD,0.419871,1,0.0,0.419871,0.419871,0.419871
+10. Metro interstate,TabDDPM,MMD_Multivariate,0.418946,1,0.0,0.418946,0.418946,0.418946
+10. Metro interstate,TabDDPM,Outlier_Count_Diff,20.0,1,0.0,20.0,20.0,20.0
+10. Metro interstate,TabDDPM,PCA_Correlation_Diff,0.568776,1,0.0,0.568776,0.568776,0.568776
+10. Metro interstate,TabDDPM,PCA_Mean_Error,4879.57694,1,0.0,4879.57694,4879.57694,4879.57694
+10. Metro interstate,TabDDPM,PCA_Mean_Error_Pct,2440.28847,1,0.0,2440.28847,2440.28847,2440.28847
+10. Metro interstate,TabDDPM,Quality_Score,0.8240340163934425,1,0.0,0.8240340163934425,0.8240340163934425,0.8240340163934425
+10. Metro interstate,TabDDPM,Wasserstein_Distance,0.274132,1,0.0,0.274132,0.274132,0.274132
+10. Metro interstate,WGAN_GP,Cosine_Similarity,0.003326,1,0.0,0.003326,0.003326,0.003326
+10. Metro interstate,WGAN_GP,Gower_Distance,0.657231,1,0.0,0.657231,0.657231,0.657231
+10. Metro interstate,WGAN_GP,Gower_Similarity,0.657231,1,0.0,0.657231,0.657231,0.657231
+10. Metro interstate,WGAN_GP,JS_Divergence,0.2817,1,0.0,0.2817,0.2817,0.2817
+10. Metro interstate,WGAN_GP,KS_Complement,0.6805,1,0.0,0.6805,0.6805,0.6805
+10. Metro interstate,WGAN_GP,MMD,0.00211,1,0.0,0.00211,0.00211,0.00211
+10. Metro interstate,WGAN_GP,MMD_Multivariate,0.001288,1,0.0,0.001288,0.001288,0.001288
+10. Metro interstate,WGAN_GP,Outlier_Count_Diff,10.888889,1,0.0,10.888889,10.888889,10.888889
+10. Metro interstate,WGAN_GP,PCA_Correlation_Diff,0.386903,1,0.0,0.386903,0.386903,0.386903
+10. Metro interstate,WGAN_GP,PCA_Mean_Error,23.21184,1,0.0,23.21184,23.21184,23.21184
+10. Metro interstate,WGAN_GP,PCA_Mean_Error_Pct,12.10592,1,0.0,12.10592,12.10592,12.10592
+10. Metro interstate,WGAN_GP,Quality_Score,0.808212463794471,1,0.0,0.808212463794471,0.808212463794471,0.808212463794471
+10. Metro interstate,WGAN_GP,Wasserstein_Distance,0.050029,1,0.0,0.050029,0.050029,0.050029
+11. online shopping,CTABGAN,Cosine_Similarity,0.07272,1,0.0,0.07272,0.07272,0.07272
+11. online shopping,CTABGAN,Gower_Distance,0.670995,1,0.0,0.670995,0.670995,0.670995
+11. online shopping,CTABGAN,Gower_Similarity,0.670995,1,0.0,0.670995,0.670995,0.670995
+11. online shopping,CTABGAN,JS_Divergence,0.0184,1,0.0,0.0184,0.0184,0.0184
+11. online shopping,CTABGAN,KS_Complement,0.2004,1,0.0,0.2004,0.2004,0.2004
+11. online shopping,CTABGAN,MMD,0.015137,1,0.0,0.015137,0.015137,0.015137
+11. online shopping,CTABGAN,MMD_Multivariate,0.006289,1,0.0,0.006289,0.006289,0.006289
+11. online shopping,CTABGAN,Outlier_Count_Diff,32.272727,1,0.0,32.272727,32.272727,32.272727
+11. online shopping,CTABGAN,PCA_Correlation_Diff,0.725165,1,0.0,0.725165,0.725165,0.725165
+11. online shopping,CTABGAN,PCA_Mean_Error,7.692611,1,0.0,7.692611,7.692611,7.692611
+11. online shopping,CTABGAN,PCA_Mean_Error_Pct,3.8463055,1,0.0,3.8463055,3.8463055,3.8463055
+11. online shopping,CTABGAN,Quality_Score,0.9946252035570976,1,0.0,0.9946252035570976,0.9946252035570976,0.9946252035570976
+11. online shopping,CTABGAN,Wasserstein_Distance,0.03353,1,0.0,0.03353,0.03353,0.03353
+11. online shopping,CTGAN,Cosine_Similarity,0.004921,1,0.0,0.004921,0.004921,0.004921
+11. online shopping,CTGAN,Gower_Distance,0.651777,1,0.0,0.651777,0.651777,0.651777
+11. online shopping,CTGAN,Gower_Similarity,0.651777,1,0.0,0.651777,0.651777,0.651777
+11. online shopping,CTGAN,JS_Divergence,0.0292499999999999,1,0.0,0.0292499999999999,0.0292499999999999,0.0292499999999999
+11. online shopping,CTGAN,KS_Complement,0.9088,1,0.0,0.9088,0.9088,0.9088
+11. online shopping,CTGAN,MMD,0.008181,1,0.0,0.008181,0.008181,0.008181
+11. online shopping,CTGAN,MMD_Multivariate,0.006853,1,0.0,0.006853,0.006853,0.006853
+11. online shopping,CTGAN,PCA_Correlation_Diff,0.33409,1,0.0,0.33409,0.33409,0.33409
+11. online shopping,CTGAN,PCA_Mean_Error,7.792363,1,0.0,7.792363,7.792363,7.792363
+11. online shopping,CTGAN,PCA_Mean_Error_Pct,7.792363,1,0.0,7.792363,7.792363,7.792363
+11. online shopping,CTGAN,Quality_Score,0.672431,1,0.0,0.672431,0.672431,0.672431
+11. online shopping,CTGAN,Wasserstein_Distance,0.029616,1,0.0,0.029616,0.029616,0.029616
+11. online shopping,CopulaGAN,Cosine_Similarity,0.006996,1,0.0,0.006996,0.006996,0.006996
+11. online shopping,CopulaGAN,Gower_Distance,0.653286,1,0.0,0.653286,0.653286,0.653286
+11. online shopping,CopulaGAN,Gower_Similarity,0.653286,1,0.0,0.653286,0.653286,0.653286
+11. online shopping,CopulaGAN,JS_Divergence,0.06275,1,0.0,0.06275,0.06275,0.06275
+11. online shopping,CopulaGAN,KS_Complement,0.9086,1,0.0,0.9086,0.9086,0.9086
+11. online shopping,CopulaGAN,MMD,0.007746,1,0.0,0.007746,0.007746,0.007746
+11. online shopping,CopulaGAN,MMD_Multivariate,0.007664,1,0.0,0.007664,0.007664,0.007664
+11. online shopping,CopulaGAN,PCA_Correlation_Diff,0.329411,1,0.0,0.329411,0.329411,0.329411
+11. online shopping,CopulaGAN,PCA_Mean_Error,6.679559,1,0.0,6.679559,6.679559,6.679559
+11. online shopping,CopulaGAN,PCA_Mean_Error_Pct,6.679559,1,0.0,6.679559,6.679559,6.679559
+11. online shopping,CopulaGAN,Quality_Score,0.682,1,0.0,0.682,0.682,0.682
+11. online shopping,CopulaGAN,Wasserstein_Distance,0.035796,1,0.0,0.035796,0.035796,0.035796
+11. online shopping,ForestDiffusion,Cosine_Similarity,0.015111,1,0.0,0.015111,0.015111,0.015111
+11. online shopping,ForestDiffusion,Gower_Distance,0.710192,1,0.0,0.710192,0.710192,0.710192
+11. online shopping,ForestDiffusion,Gower_Similarity,0.710192,1,0.0,0.710192,0.710192,0.710192
+11. online shopping,ForestDiffusion,JS_Divergence,0.118875,1,0.0,0.118875,0.118875,0.118875
+11. online shopping,ForestDiffusion,KS_Complement,0.4649,1,0.0,0.4649,0.4649,0.4649
+11. online shopping,ForestDiffusion,MMD,0.004386,1,0.0,0.004386,0.004386,0.004386
+11. online shopping,ForestDiffusion,MMD_Multivariate,0.012417,1,0.0,0.012417,0.012417,0.012417
+11. online shopping,ForestDiffusion,Outlier_Count_Diff,13.75,1,0.0,13.75,13.75,13.75
+11. online shopping,ForestDiffusion,PCA_Correlation_Diff,0.182822,1,0.0,0.182822,0.182822,0.182822
+11. online shopping,ForestDiffusion,PCA_Mean_Error,7.56243,1,0.0,7.56243,7.56243,7.56243
+11. online shopping,ForestDiffusion,PCA_Mean_Error_Pct,3.781215,1,0.0,3.781215,3.781215,3.781215
+11. online shopping,ForestDiffusion,Quality_Score,0.9151970007980958,1,0.0,0.9151970007980958,0.9151970007980958,0.9151970007980958
+11. online shopping,ForestDiffusion,Wasserstein_Distance,0.049057,1,0.0,0.049057,0.049057,0.049057
+11. online shopping,GaussianCopula,Cosine_Similarity,0.004029,1,0.0,0.004029,0.004029,0.004029
+11. online shopping,GaussianCopula,Gower_Distance,0.648611,1,0.0,0.648611,0.648611,0.648611
+11. online shopping,GaussianCopula,Gower_Similarity,0.648611,1,0.0,0.648611,0.648611,0.648611
+11. online shopping,GaussianCopula,JS_Divergence,0.1182,1,0.0,0.1182,0.1182,0.1182
+11. online shopping,GaussianCopula,KS_Complement,0.9198,1,0.0,0.9198,0.9198,0.9198
+11. online shopping,GaussianCopula,MMD,0.002196,1,0.0,0.002196,0.002196,0.002196
+11. online shopping,GaussianCopula,MMD_Multivariate,0.00234,1,0.0,0.00234,0.00234,0.00234
+11. online shopping,GaussianCopula,PCA_Correlation_Diff,0.349221,1,0.0,0.349221,0.349221,0.349221
+11. online shopping,GaussianCopula,PCA_Mean_Error,3.706453,1,0.0,3.706453,3.706453,3.706453
+11. online shopping,GaussianCopula,PCA_Mean_Error_Pct,3.706453,1,0.0,3.706453,3.706453,3.706453
+11. online shopping,GaussianCopula,Quality_Score,0.704185,1,0.0,0.704185,0.704185,0.704185
+11. online shopping,GaussianCopula,Wasserstein_Distance,0.022097,1,0.0,0.022097,0.022097,0.022097
+11. online shopping,TVAE,Cosine_Similarity,0.017064,1,0.0,0.017064,0.017064,0.017064
+11. online shopping,TVAE,Gower_Distance,0.666402,1,0.0,0.666402,0.666402,0.666402
+11. online shopping,TVAE,Gower_Similarity,0.666402,1,0.0,0.666402,0.666402,0.666402
+11. online shopping,TVAE,JS_Divergence,0.1909999999999999,1,0.0,0.1909999999999999,0.1909999999999999,0.1909999999999999
+11. online shopping,TVAE,KS_Complement,0.7561,1,0.0,0.7561,0.7561,0.7561
+11. online shopping,TVAE,MMD,0.085852,1,0.0,0.085852,0.085852,0.085852
+11. online shopping,TVAE,MMD_Multivariate,0.086052,1,0.0,0.086052,0.086052,0.086052
+11. online shopping,TVAE,PCA_Correlation_Diff,0.484419,1,0.0,0.484419,0.484419,0.484419
+11. online shopping,TVAE,PCA_Mean_Error,19.159839,1,0.0,19.159839,19.159839,19.159839
+11. online shopping,TVAE,PCA_Mean_Error_Pct,19.159839,1,0.0,19.159839,19.159839,19.159839
+11. online shopping,TVAE,Quality_Score,0.608031,1,0.0,0.608031,0.608031,0.608031
+11. online shopping,TVAE,Wasserstein_Distance,0.099596,1,0.0,0.099596,0.099596,0.099596
+11. online shopping,TabDDPM,Cosine_Similarity,-0.027586,1,0.0,-0.027586,-0.027586,-0.027586
+11. online shopping,TabDDPM,Gower_Distance,0.576314,1,0.0,0.576314,0.576314,0.576314
+11. online shopping,TabDDPM,Gower_Similarity,0.576314,1,0.0,0.576314,0.576314,0.576314
+11. online shopping,TabDDPM,JS_Divergence,0.3057142857142857,1,0.0,0.3057142857142857,0.3057142857142857,0.3057142857142857
+11. online shopping,TabDDPM,KS_Complement,0.4329,1,0.0,0.4329,0.4329,0.4329
+11. online shopping,TabDDPM,MMD,0.281929,1,0.0,0.281929,0.281929,0.281929
+11. online shopping,TabDDPM,MMD_Multivariate,0.239814,1,0.0,0.239814,0.239814,0.239814
+11. online shopping,TabDDPM,Outlier_Count_Diff,52.916667,1,0.0,52.916667,52.916667,52.916667
+11. online shopping,TabDDPM,PCA_Correlation_Diff,0.413547,1,0.0,0.413547,0.413547,0.413547
+11. online shopping,TabDDPM,PCA_Mean_Error,60.697075,1,0.0,60.697075,60.697075,60.697075
+11. online shopping,TabDDPM,PCA_Mean_Error_Pct,30.8485375,1,0.0,30.8485375,30.8485375,30.8485375
+11. online shopping,TabDDPM,Quality_Score,0.7816998382320683,1,0.0,0.7816998382320683,0.7816998382320683,0.7816998382320683
+11. online shopping,TabDDPM,Wasserstein_Distance,0.22835,1,0.0,0.22835,0.22835,0.22835
+11. online shopping,WGAN_GP,Cosine_Similarity,-0.007068,1,0.0,-0.007068,-0.007068,-0.007068
+11. online shopping,WGAN_GP,Gower_Distance,0.652946,1,0.0,0.652946,0.652946,0.652946
+11. online shopping,WGAN_GP,Gower_Similarity,0.652946,1,0.0,0.652946,0.652946,0.652946
+11. online shopping,WGAN_GP,JS_Divergence,0.0497,1,0.0,0.0497,0.0497,0.0497
+11. online shopping,WGAN_GP,KS_Complement,0.8012,1,0.0,0.8012,0.8012,0.8012
+11. online shopping,WGAN_GP,MMD,0.032643,1,0.0,0.032643,0.032643,0.032643
+11. online shopping,WGAN_GP,MMD_Multivariate,0.031888,1,0.0,0.031888,0.031888,0.031888
+11. online shopping,WGAN_GP,Outlier_Count_Diff,53.363636,1,0.0,53.363636,53.363636,53.363636
+11. online shopping,WGAN_GP,PCA_Correlation_Diff,0.748242,1,0.0,0.748242,0.748242,0.748242
+11. online shopping,WGAN_GP,PCA_Mean_Error,14.820814,1,0.0,14.820814,14.820814,14.820814
+11. online shopping,WGAN_GP,PCA_Mean_Error_Pct,7.910407,1,0.0,7.910407,7.910407,7.910407
+11. online shopping,WGAN_GP,Quality_Score,0.0104148387545127,1,0.0,0.0104148387545127,0.0104148387545127,0.0104148387545127
+11. online shopping,WGAN_GP,Wasserstein_Distance,0.08708,1,0.0,0.08708,0.08708,0.08708
+12. Air Quality,CTABGAN,Cosine_Similarity,0.006073,1,0.0,0.006073,0.006073,0.006073
+12. Air Quality,CTABGAN,Gower_Distance,0.823107,1,0.0,0.823107,0.823107,0.823107
+12. Air Quality,CTABGAN,Gower_Similarity,0.823107,1,0.0,0.823107,0.823107,0.823107
+12. Air Quality,CTABGAN,JS_Divergence,0.0226666666666666,1,0.0,0.0226666666666666,0.0226666666666666,0.0226666666666666
+12. Air Quality,CTABGAN,KS_Complement,0.873,1,0.0,0.873,0.873,0.873
+12. Air Quality,CTABGAN,MMD,0.019195,1,0.0,0.019195,0.019195,0.019195
+12. Air Quality,CTABGAN,MMD_Multivariate,0.012824,1,0.0,0.012824,0.012824,0.012824
+12. Air Quality,CTABGAN,Outlier_Count_Diff,9.083333,1,0.0,9.083333,9.083333,9.083333
+12. Air Quality,CTABGAN,PCA_Correlation_Diff,0.652932,1,0.0,0.652932,0.652932,0.652932
+12. Air Quality,CTABGAN,PCA_Mean_Error,4.121865,1,0.0,4.121865,4.121865,4.121865
+12. Air Quality,CTABGAN,PCA_Mean_Error_Pct,4.121865,1,0.0,4.121865,4.121865,4.121865
+12. Air Quality,CTABGAN,Quality_Score,0.873,1,0.0,0.873,0.873,0.873
+12. Air Quality,CTABGAN,Wasserstein_Distance,0.022478,1,0.0,0.022478,0.022478,0.022478
+12. Air Quality,CTGAN,Cosine_Similarity,0.00592,1,0.0,0.00592,0.00592,0.00592
+12. Air Quality,CTGAN,Gower_Distance,0.804398,1,0.0,0.804398,0.804398,0.804398
+12. Air Quality,CTGAN,Gower_Similarity,0.804398,1,0.0,0.804398,0.804398,0.804398
+12. Air Quality,CTGAN,JS_Divergence,0.122306,1,0.0,0.122306,0.122306,0.122306
+12. Air Quality,CTGAN,KS_Complement,0.8023,1,0.0,0.8023,0.8023,0.8023
+12. Air Quality,CTGAN,MMD,0.043816,1,0.0,0.043816,0.043816,0.043816
+12. Air Quality,CTGAN,MMD_Multivariate,0.042712,1,0.0,0.042712,0.042712,0.042712
+12. Air Quality,CTGAN,Outlier_Count_Diff,15.416667,1,0.0,15.416667,15.416667,15.416667
+12. Air Quality,CTGAN,PCA_Correlation_Diff,1.047007,1,0.0,1.047007,1.047007,1.047007
+12. Air Quality,CTGAN,PCA_Mean_Error,9.509181,1,0.0,9.509181,9.509181,9.509181
+12. Air Quality,CTGAN,PCA_Mean_Error_Pct,6.601895,1,0.0,6.601895,6.601895,6.601895
+12. Air Quality,CTGAN,Quality_Score,0.724395,1,0.0,0.724395,0.724395,0.724395
+12. Air Quality,CTGAN,Wasserstein_Distance,0.051268,1,0.0,0.051268,0.051268,0.051268
+12. Air Quality,CopulaGAN,Cosine_Similarity,-0.007748,1,0.0,-0.007748,-0.007748,-0.007748
+12. Air Quality,CopulaGAN,Gower_Distance,0.784604,1,0.0,0.784604,0.784604,0.784604
+12. Air Quality,CopulaGAN,Gower_Similarity,0.784604,1,0.0,0.784604,0.784604,0.784604
+12. Air Quality,CopulaGAN,JS_Divergence,0.2298,1,0.0,0.2298,0.2298,0.2298
+12. Air Quality,CopulaGAN,KS_Complement,0.6938,1,0.0,0.6938,0.6938,0.6938
+12. Air Quality,CopulaGAN,MMD,0.145107,1,0.0,0.145107,0.145107,0.145107
+12. Air Quality,CopulaGAN,MMD_Multivariate,0.144545,1,0.0,0.144545,0.144545,0.144545
+12. Air Quality,CopulaGAN,Outlier_Count_Diff,23.333333,1,0.0,23.333333,23.333333,23.333333
+12. Air Quality,CopulaGAN,PCA_Correlation_Diff,0.974993,1,0.0,0.974993,0.974993,0.974993
+12. Air Quality,CopulaGAN,PCA_Mean_Error,23.078899,1,0.0,23.078899,23.078899,23.078899
+12. Air Quality,CopulaGAN,PCA_Mean_Error_Pct,16.10621766666667,1,0.0,16.10621766666667,16.10621766666667,16.10621766666667
+12. Air Quality,CopulaGAN,Quality_Score,0.671844,1,0.0,0.671844,0.671844,0.671844
+12. Air Quality,CopulaGAN,Wasserstein_Distance,0.101425,1,0.0,0.101425,0.101425,0.101425
+12. Air Quality,ForestDiffusion,Cosine_Similarity,0.010261,1,0.0,0.010261,0.010261,0.010261
+12. Air Quality,ForestDiffusion,Gower_Distance,0.824465,1,0.0,0.824465,0.824465,0.824465
+12. Air Quality,ForestDiffusion,Gower_Similarity,0.824465,1,0.0,0.824465,0.824465,0.824465
+12. Air Quality,ForestDiffusion,JS_Divergence,0.197,1,0.0,0.197,0.197,0.197
+12. Air Quality,ForestDiffusion,KS_Complement,0.9196,1,0.0,0.9196,0.9196,0.9196
+12. Air Quality,ForestDiffusion,MMD,0.00054,1,0.0,0.00054,0.00054,0.00054
+12. Air Quality,ForestDiffusion,MMD_Multivariate,-0.000461,1,0.0,-0.000461,-0.000461,-0.000461
+12. Air Quality,ForestDiffusion,Outlier_Count_Diff,9.833333,1,0.0,9.833333,9.833333,9.833333
+12. Air Quality,ForestDiffusion,PCA_Correlation_Diff,0.061447,1,0.0,0.061447,0.061447,0.061447
+12. Air Quality,ForestDiffusion,PCA_Mean_Error,0.594682,1,0.0,0.594682,0.594682,0.594682
+12. Air Quality,ForestDiffusion,PCA_Mean_Error_Pct,0.594682,1,0.0,0.594682,0.594682,0.594682
+12. Air Quality,ForestDiffusion,Quality_Score,0.919615,1,0.0,0.919615,0.919615,0.919615
+12. Air Quality,ForestDiffusion,Wasserstein_Distance,0.006151,1,0.0,0.006151,0.006151,0.006151
+12. Air Quality,GaussianCopula,Cosine_Similarity,0.00501,1,0.0,0.00501,0.00501,0.00501
+12. Air Quality,GaussianCopula,Gower_Distance,0.82247,1,0.0,0.82247,0.82247,0.82247
+12. Air Quality,GaussianCopula,Gower_Similarity,0.82247,1,0.0,0.82247,0.82247,0.82247
+12. Air Quality,GaussianCopula,JS_Divergence,0.0126666666666666,1,0.0,0.0126666666666666,0.0126666666666666,0.0126666666666666
+12. Air Quality,GaussianCopula,KS_Complement,0.9098,1,0.0,0.9098,0.9098,0.9098
+12. Air Quality,GaussianCopula,MMD,0.001076,1,0.0,0.001076,0.001076,0.001076
+12. Air Quality,GaussianCopula,MMD_Multivariate,0.000198,1,0.0,0.000198,0.000198,0.000198
+12. Air Quality,GaussianCopula,Outlier_Count_Diff,16.333333,1,0.0,16.333333,16.333333,16.333333
+12. Air Quality,GaussianCopula,PCA_Correlation_Diff,0.104403,1,0.0,0.104403,0.104403,0.104403
+12. Air Quality,GaussianCopula,PCA_Mean_Error,0.998628,1,0.0,0.998628,0.998628,0.998628
+12. Air Quality,GaussianCopula,PCA_Mean_Error_Pct,0.6226643333333334,1,0.0,0.6226643333333334,0.6226643333333334,0.6226643333333334
+12. Air Quality,GaussianCopula,Quality_Score,0.948563,1,0.0,0.948563,0.948563,0.948563
+12. Air Quality,GaussianCopula,Wasserstein_Distance,0.014048,1,0.0,0.014048,0.014048,0.014048
+12. Air Quality,TVAE,Cosine_Similarity,0.007304,1,0.0,0.007304,0.007304,0.007304
+12. Air Quality,TVAE,Gower_Distance,0.816653,1,0.0,0.816653,0.816653,0.816653
+12. Air Quality,TVAE,Gower_Similarity,0.816653,1,0.0,0.816653,0.816653,0.816653
+12. Air Quality,TVAE,JS_Divergence,0.0278461538461538,1,0.0,0.0278461538461538,0.0278461538461538,0.0278461538461538
+12. Air Quality,TVAE,KS_Complement,0.9016,1,0.0,0.9016,0.9016,0.9016
+12. Air Quality,TVAE,MMD,0.004921,1,0.0,0.004921,0.004921,0.004921
+12. Air Quality,TVAE,MMD_Multivariate,0.003989,1,0.0,0.003989,0.003989,0.003989
+12. Air Quality,TVAE,Outlier_Count_Diff,24.916667,1,0.0,24.916667,24.916667,24.916667
+12. Air Quality,TVAE,PCA_Correlation_Diff,0.281607,1,0.0,0.281607,0.281607,0.281607
+12. Air Quality,TVAE,PCA_Mean_Error,2.776245,1,0.0,2.776245,2.776245,2.776245
+12. Air Quality,TVAE,PCA_Mean_Error_Pct,1.854989666666667,1,0.0,1.854989666666667,1.854989666666667,1.854989666666667
+12. Air Quality,TVAE,Quality_Score,0.927111,1,0.0,0.927111,0.927111,0.927111
+12. Air Quality,TVAE,Wasserstein_Distance,0.023581,1,0.0,0.023581,0.023581,0.023581
+12. Air Quality,TabDDPM,Cosine_Similarity,-0.006147,1,0.0,-0.006147,-0.006147,-0.006147
+12. Air Quality,TabDDPM,Gower_Distance,0.70232,1,0.0,0.70232,0.70232,0.70232
+12. Air Quality,TabDDPM,Gower_Similarity,0.70232,1,0.0,0.70232,0.70232,0.70232
+12. Air Quality,TabDDPM,JS_Divergence,0.2252857142857142,1,0.0,0.2252857142857142,0.2252857142857142,0.2252857142857142
+12. Air Quality,TabDDPM,KS_Complement,0.7731,1,0.0,0.7731,0.7731,0.7731
+12. Air Quality,TabDDPM,MMD,0.136264,1,0.0,0.136264,0.136264,0.136264
+12. Air Quality,TabDDPM,MMD_Multivariate,0.133545,1,0.0,0.133545,0.133545,0.133545
+12. Air Quality,TabDDPM,Outlier_Count_Diff,27.666667,1,0.0,27.666667,27.666667,27.666667
+12. Air Quality,TabDDPM,PCA_Correlation_Diff,0.873926,1,0.0,0.873926,0.873926,0.873926
+12. Air Quality,TabDDPM,PCA_Mean_Error,24.713369,1,0.0,24.713369,24.713369,24.713369
+12. Air Quality,TabDDPM,PCA_Mean_Error_Pct,24.713369,1,0.0,24.713369,24.713369,24.713369
+12. Air Quality,TabDDPM,Quality_Score,0.773077,1,0.0,0.773077,0.773077,0.773077
+12. Air Quality,TabDDPM,Wasserstein_Distance,0.149101,1,0.0,0.149101,0.149101,0.149101
+12. Air Quality,WGAN_GP,Cosine_Similarity,-0.00211,1,0.0,-0.00211,-0.00211,-0.00211
+12. Air Quality,WGAN_GP,Gower_Distance,0.852592,1,0.0,0.852592,0.852592,0.852592
+12. Air Quality,WGAN_GP,Gower_Similarity,0.852592,1,0.0,0.852592,0.852592,0.852592
+12. Air Quality,WGAN_GP,JS_Divergence,0.09,1,0.0,0.09,0.09,0.09
+12. Air Quality,WGAN_GP,KS_Complement,0.8418000000000001,1,0.0,0.8418000000000001,0.8418000000000001,0.8418000000000001
+12. Air Quality,WGAN_GP,MMD,0.046666,1,0.0,0.046666,0.046666,0.046666
+12. Air Quality,WGAN_GP,MMD_Multivariate,0.037577,1,0.0,0.037577,0.037577,0.037577
+12. Air Quality,WGAN_GP,Outlier_Count_Diff,24.333333,1,0.0,24.333333,24.333333,24.333333
+12. Air Quality,WGAN_GP,PCA_Correlation_Diff,0.524847,1,0.0,0.524847,0.524847,0.524847
+12. Air Quality,WGAN_GP,PCA_Mean_Error,4.384418,1,0.0,4.384418,4.384418,4.384418
+12. Air Quality,WGAN_GP,PCA_Mean_Error_Pct,4.384418,1,0.0,4.384418,4.384418,4.384418
+12. Air Quality,WGAN_GP,Quality_Score,0.841846,1,0.0,0.841846,0.841846,0.841846
+12. Air Quality,WGAN_GP,Wasserstein_Distance,0.043182,1,0.0,0.043182,0.043182,0.043182
+13. Concrete Compressive Strength,CTABGAN,Cosine_Similarity,0.001184,1,0.0,0.001184,0.001184,0.001184
+13. Concrete Compressive Strength,CTABGAN,Gower_Distance,0.767293,1,0.0,0.767293,0.767293,0.767293
+13. Concrete Compressive Strength,CTABGAN,Gower_Similarity,0.767293,1,0.0,0.767293,0.767293,0.767293
+13. Concrete Compressive Strength,CTABGAN,JS_Divergence,0.09550825,1,0.0,0.09550825,0.09550825,0.09550825
+13. Concrete Compressive Strength,CTABGAN,KS_Complement,0.7723,1,0.0,0.7723,0.7723,0.7723
+13. Concrete Compressive Strength,CTABGAN,MMD,0.026633,1,0.0,0.026633,0.026633,0.026633
+13. Concrete Compressive Strength,CTABGAN,MMD_Multivariate,0.019092,1,0.0,0.019092,0.019092,0.019092
+13. Concrete Compressive Strength,CTABGAN,Outlier_Count_Diff,50.875,1,0.0,50.875,50.875,50.875
+13. Concrete Compressive Strength,CTABGAN,PCA_Correlation_Diff,0.605698,1,0.0,0.605698,0.605698,0.605698
+13. Concrete Compressive Strength,CTABGAN,PCA_Mean_Error,14.438487,1,0.0,14.438487,14.438487,14.438487
+13. Concrete Compressive Strength,CTABGAN,PCA_Mean_Error_Pct,14.438487,1,0.0,14.438487,14.438487,14.438487
+13. Concrete Compressive Strength,CTABGAN,Quality_Score,0.772333,1,0.0,0.772333,0.772333,0.772333
+13. Concrete Compressive Strength,CTABGAN,Wasserstein_Distance,0.049142,1,0.0,0.049142,0.049142,0.049142
+13. Concrete Compressive Strength,CTGAN,Cosine_Similarity,-0.006918,1,0.0,-0.006918,-0.006918,-0.006918
+13. Concrete Compressive Strength,CTGAN,Gower_Distance,0.730471,1,0.0,0.730471,0.730471,0.730471
+13. Concrete Compressive Strength,CTGAN,Gower_Similarity,0.730471,1,0.0,0.730471,0.730471,0.730471
+13. Concrete Compressive Strength,CTGAN,JS_Divergence,0.08775,1,0.0,0.08775,0.08775,0.08775
+13. Concrete Compressive Strength,CTGAN,KS_Complement,0.7018000000000001,1,0.0,0.7018000000000001,0.7018000000000001,0.7018000000000001
+13. Concrete Compressive Strength,CTGAN,MMD,0.081176,1,0.0,0.081176,0.081176,0.081176
+13. Concrete Compressive Strength,CTGAN,MMD_Multivariate,0.080264,1,0.0,0.080264,0.080264,0.080264
+13. Concrete Compressive Strength,CTGAN,Outlier_Count_Diff,23.875,1,0.0,23.875,23.875,23.875
+13. Concrete Compressive Strength,CTGAN,PCA_Correlation_Diff,0.640607,1,0.0,0.640607,0.640607,0.640607
+13. Concrete Compressive Strength,CTGAN,PCA_Mean_Error,27.228872,1,0.0,27.228872,27.228872,27.228872
+13. Concrete Compressive Strength,CTGAN,PCA_Mean_Error_Pct,16.27332,1,0.0,16.27332,16.27332,16.27332
+13. Concrete Compressive Strength,CTGAN,Quality_Score,0.720855,1,0.0,0.720855,0.720855,0.720855
+13. Concrete Compressive Strength,CTGAN,Wasserstein_Distance,0.106878,1,0.0,0.106878,0.106878,0.106878
+13. Concrete Compressive Strength,CopulaGAN,Cosine_Similarity,0.00665,1,0.0,0.00665,0.00665,0.00665
+13. Concrete Compressive Strength,CopulaGAN,Gower_Distance,0.729719,1,0.0,0.729719,0.729719,0.729719
+13. Concrete Compressive Strength,CopulaGAN,Gower_Similarity,0.729719,1,0.0,0.729719,0.729719,0.729719
+13. Concrete Compressive Strength,CopulaGAN,JS_Divergence,0.1435051111111111,1,0.0,0.1435051111111111,0.1435051111111111,0.1435051111111111
+13. Concrete Compressive Strength,CopulaGAN,KS_Complement,0.7297,1,0.0,0.7297,0.7297,0.7297
+13. Concrete Compressive Strength,CopulaGAN,MMD,0.078885,1,0.0,0.078885,0.078885,0.078885
+13. Concrete Compressive Strength,CopulaGAN,MMD_Multivariate,0.078129,1,0.0,0.078129,0.078129,0.078129
+13. Concrete Compressive Strength,CopulaGAN,Outlier_Count_Diff,19.25,1,0.0,19.25,19.25,19.25
+13. Concrete Compressive Strength,CopulaGAN,PCA_Correlation_Diff,0.617588,1,0.0,0.617588,0.617588,0.617588
+13. Concrete Compressive Strength,CopulaGAN,PCA_Mean_Error,28.576191,1,0.0,28.576191,28.576191,28.576191
+13. Concrete Compressive Strength,CopulaGAN,PCA_Mean_Error_Pct,20.73438733333333,1,0.0,20.73438733333333,20.73438733333333,20.73438733333333
+13. Concrete Compressive Strength,CopulaGAN,Quality_Score,0.724632,1,0.0,0.724632,0.724632,0.724632
+13. Concrete Compressive Strength,CopulaGAN,Wasserstein_Distance,0.104317,1,0.0,0.104317,0.104317,0.104317
+13. Concrete Compressive Strength,ForestDiffusion,Cosine_Similarity,0.003079,1,0.0,0.003079,0.003079,0.003079
+13. Concrete Compressive Strength,ForestDiffusion,Gower_Distance,0.762258,1,0.0,0.762258,0.762258,0.762258
+13. Concrete Compressive Strength,ForestDiffusion,Gower_Similarity,0.762258,1,0.0,0.762258,0.762258,0.762258
+13. Concrete Compressive Strength,ForestDiffusion,JS_Divergence,0.007319,1,0.0,0.007319,0.007319,0.007319
+13. Concrete Compressive Strength,ForestDiffusion,KS_Complement,0.877,1,0.0,0.877,0.877,0.877
+13. Concrete Compressive Strength,ForestDiffusion,MMD,0.001323,1,0.0,0.001323,0.001323,0.001323
+13. Concrete Compressive Strength,ForestDiffusion,MMD_Multivariate,0.000235,1,0.0,0.000235,0.000235,0.000235
+13. Concrete Compressive Strength,ForestDiffusion,Outlier_Count_Diff,16.875,1,0.0,16.875,16.875,16.875
+13. Concrete Compressive Strength,ForestDiffusion,PCA_Correlation_Diff,0.097754,1,0.0,0.097754,0.097754,0.097754
+13. Concrete Compressive Strength,ForestDiffusion,PCA_Mean_Error,3.217264,1,0.0,3.217264,3.217264,3.217264
+13. Concrete Compressive Strength,ForestDiffusion,PCA_Mean_Error_Pct,3.217264,1,0.0,3.217264,3.217264,3.217264
+13. Concrete Compressive Strength,ForestDiffusion,Quality_Score,0.877,1,0.0,0.877,0.877,0.877
+13. Concrete Compressive Strength,ForestDiffusion,Wasserstein_Distance,0.011506,1,0.0,0.011506,0.011506,0.011506
+13. Concrete Compressive Strength,GaussianCopula,Cosine_Similarity,0.006954,1,0.0,0.006954,0.006954,0.006954
+13. Concrete Compressive Strength,GaussianCopula,Gower_Distance,0.739443,1,0.0,0.739443,0.739443,0.739443
+13. Concrete Compressive Strength,GaussianCopula,Gower_Similarity,0.739443,1,0.0,0.739443,0.739443,0.739443
+13. Concrete Compressive Strength,GaussianCopula,JS_Divergence,0.1287499999999999,1,0.0,0.1287499999999999,0.1287499999999999,0.1287499999999999
+13. Concrete Compressive Strength,GaussianCopula,KS_Complement,0.7931,1,0.0,0.7931,0.7931,0.7931
+13. Concrete Compressive Strength,GaussianCopula,MMD,0.036636,1,0.0,0.036636,0.036636,0.036636
+13. Concrete Compressive Strength,GaussianCopula,MMD_Multivariate,0.035597,1,0.0,0.035597,0.035597,0.035597
+13. Concrete Compressive Strength,GaussianCopula,Outlier_Count_Diff,19.75,1,0.0,19.75,19.75,19.75
+13. Concrete Compressive Strength,GaussianCopula,PCA_Correlation_Diff,0.19788,1,0.0,0.19788,0.19788,0.19788
+13. Concrete Compressive Strength,GaussianCopula,PCA_Mean_Error,18.677544,1,0.0,18.677544,18.677544,18.677544
+13. Concrete Compressive Strength,GaussianCopula,PCA_Mean_Error_Pct,13.327751,1,0.0,13.327751,13.327751,13.327751
+13. Concrete Compressive Strength,GaussianCopula,Quality_Score,0.847314,1,0.0,0.847314,0.847314,0.847314
+13. Concrete Compressive Strength,GaussianCopula,Wasserstein_Distance,0.069025,1,0.0,0.069025,0.069025,0.069025
+13. Concrete Compressive Strength,TVAE,Cosine_Similarity,0.010488,1,0.0,0.010488,0.010488,0.010488
+13. Concrete Compressive Strength,TVAE,Gower_Distance,0.778318,1,0.0,0.778318,0.778318,0.778318
+13. Concrete Compressive Strength,TVAE,Gower_Similarity,0.778318,1,0.0,0.778318,0.778318,0.778318
+13. Concrete Compressive Strength,TVAE,JS_Divergence,0.2023745,1,0.0,0.2023745,0.2023745,0.2023745
+13. Concrete Compressive Strength,TVAE,KS_Complement,0.8344,1,0.0,0.8344,0.8344,0.8344
+13. Concrete Compressive Strength,TVAE,MMD,0.017383,1,0.0,0.017383,0.017383,0.017383
+13. Concrete Compressive Strength,TVAE,MMD_Multivariate,0.016361,1,0.0,0.016361,0.016361,0.016361
+13. Concrete Compressive Strength,TVAE,Outlier_Count_Diff,29.0,1,0.0,29.0,29.0,29.0
+13. Concrete Compressive Strength,TVAE,PCA_Correlation_Diff,0.254163,1,0.0,0.254163,0.254163,0.254163
+13. Concrete Compressive Strength,TVAE,PCA_Mean_Error,14.595778,1,0.0,14.595778,14.595778,14.595778
+13. Concrete Compressive Strength,TVAE,PCA_Mean_Error_Pct,9.030515,1,0.0,9.030515,9.030515,9.030515
+13. Concrete Compressive Strength,TVAE,Quality_Score,0.894231,1,0.0,0.894231,0.894231,0.894231
+13. Concrete Compressive Strength,TVAE,Wasserstein_Distance,0.045116,1,0.0,0.045116,0.045116,0.045116
+13. Concrete Compressive Strength,TabDDPM,Cosine_Similarity,0.002792,1,0.0,0.002792,0.002792,0.002792
+13. Concrete Compressive Strength,TabDDPM,Gower_Distance,0.759916,1,0.0,0.759916,0.759916,0.759916
+13. Concrete Compressive Strength,TabDDPM,Gower_Similarity,0.759916,1,0.0,0.759916,0.759916,0.759916
+13. Concrete Compressive Strength,TabDDPM,JS_Divergence,0.031480875,1,0.0,0.031480875,0.031480875,0.031480875
+13. Concrete Compressive Strength,TabDDPM,KS_Complement,0.9489,1,0.0,0.9489,0.9489,0.9489
+13. Concrete Compressive Strength,TabDDPM,MMD,0.002176,1,0.0,0.002176,0.002176,0.002176
+13. Concrete Compressive Strength,TabDDPM,MMD_Multivariate,0.000832,1,0.0,0.000832,0.000832,0.000832
+13. Concrete Compressive Strength,TabDDPM,Outlier_Count_Diff,35.0,1,0.0,35.0,35.0,35.0
+13. Concrete Compressive Strength,TabDDPM,PCA_Correlation_Diff,0.277647,1,0.0,0.277647,0.277647,0.277647
+13. Concrete Compressive Strength,TabDDPM,PCA_Mean_Error,2.932205,1,0.0,2.932205,2.932205,2.932205
+13. Concrete Compressive Strength,TabDDPM,PCA_Mean_Error_Pct,2.932205,1,0.0,2.932205,2.932205,2.932205
+13. Concrete Compressive Strength,TabDDPM,Quality_Score,0.948889,1,0.0,0.948889,0.948889,0.948889
+13. Concrete Compressive Strength,TabDDPM,Wasserstein_Distance,0.019023,1,0.0,0.019023,0.019023,0.019023
+13. Concrete Compressive Strength,WGAN_GP,Cosine_Similarity,0.013373,1,0.0,0.013373,0.013373,0.013373
+13. Concrete Compressive Strength,WGAN_GP,Gower_Distance,0.830615,1,0.0,0.830615,0.830615,0.830615
+13. Concrete Compressive Strength,WGAN_GP,Gower_Similarity,0.830615,1,0.0,0.830615,0.830615,0.830615
+13. Concrete Compressive Strength,WGAN_GP,JS_Divergence,0.0563333333333333,1,0.0,0.0563333333333333,0.0563333333333333,0.0563333333333333
+13. Concrete Compressive Strength,WGAN_GP,KS_Complement,0.7443000000000001,1,0.0,0.7443000000000001,0.7443000000000001,0.7443000000000001
+13. Concrete Compressive Strength,WGAN_GP,MMD,0.069911,1,0.0,0.069911,0.069911,0.069911
+13. Concrete Compressive Strength,WGAN_GP,MMD_Multivariate,0.051293,1,0.0,0.051293,0.051293,0.051293
+13. Concrete Compressive Strength,WGAN_GP,Outlier_Count_Diff,9.75,1,0.0,9.75,9.75,9.75
+13. Concrete Compressive Strength,WGAN_GP,PCA_Correlation_Diff,0.701016,1,0.0,0.701016,0.701016,0.701016
+13. Concrete Compressive Strength,WGAN_GP,PCA_Mean_Error,26.940413,1,0.0,26.940413,26.940413,26.940413
+13. Concrete Compressive Strength,WGAN_GP,PCA_Mean_Error_Pct,26.940413,1,0.0,26.940413,26.940413,26.940413
+13. Concrete Compressive Strength,WGAN_GP,Quality_Score,0.744333,1,0.0,0.744333,0.744333,0.744333
+13. Concrete Compressive Strength,WGAN_GP,Wasserstein_Distance,0.100008,1,0.0,0.100008,0.100008,0.100008
+14. Energy Efficiency,CTABGAN,Cosine_Similarity,-0.003831,1,0.0,-0.003831,-0.003831,-0.003831
+14. Energy Efficiency,CTABGAN,Gower_Distance,0.632868,1,0.0,0.632868,0.632868,0.632868
+14. Energy Efficiency,CTABGAN,Gower_Similarity,0.632868,1,0.0,0.632868,0.632868,0.632868
+14. Energy Efficiency,CTABGAN,JS_Divergence,0.1295,1,0.0,0.1295,0.1295,0.1295
+14. Energy Efficiency,CTABGAN,KS_Complement,0.7048000000000001,1,0.0,0.7048000000000001,0.7048000000000001,0.7048000000000001
+14. Energy Efficiency,CTABGAN,MMD,0.120882,1,0.0,0.120882,0.120882,0.120882
+14. Energy Efficiency,CTABGAN,MMD_Multivariate,0.097387,1,0.0,0.097387,0.097387,0.097387
+14. Energy Efficiency,CTABGAN,Outlier_Count_Diff,17.125,1,0.0,17.125,17.125,17.125
+14. Energy Efficiency,CTABGAN,PCA_Correlation_Diff,0.988662,1,0.0,0.988662,0.988662,0.988662
+14. Energy Efficiency,CTABGAN,PCA_Mean_Error,9.30352,1,0.0,9.30352,9.30352,9.30352
+14. Energy Efficiency,CTABGAN,PCA_Mean_Error_Pct,9.30352,1,0.0,9.30352,9.30352,9.30352
+14. Energy Efficiency,CTABGAN,Quality_Score,0.704767,1,0.0,0.704767,0.704767,0.704767
+14. Energy Efficiency,CTABGAN,Wasserstein_Distance,0.154255,1,0.0,0.154255,0.154255,0.154255
+14. Energy Efficiency,CTGAN,Cosine_Similarity,0.002569,1,0.0,0.002569,0.002569,0.002569
+14. Energy Efficiency,CTGAN,Gower_Distance,0.61768,1,0.0,0.61768,0.61768,0.61768
+14. Energy Efficiency,CTGAN,Gower_Similarity,0.61768,1,0.0,0.61768,0.61768,0.61768
+14. Energy Efficiency,CTGAN,JS_Divergence,0.131,1,0.0,0.131,0.131,0.131
+14. Energy Efficiency,CTGAN,KS_Complement,0.7759,1,0.0,0.7759,0.7759,0.7759
+14. Energy Efficiency,CTGAN,MMD,0.054927,1,0.0,0.054927,0.054927,0.054927
+14. Energy Efficiency,CTGAN,MMD_Multivariate,0.054252,1,0.0,0.054252,0.054252,0.054252
+14. Energy Efficiency,CTGAN,Outlier_Count_Diff,6.0,1,0.0,6.0,6.0,6.0
+14. Energy Efficiency,CTGAN,PCA_Correlation_Diff,1.01786,1,0.0,1.01786,1.01786,1.01786
+14. Energy Efficiency,CTGAN,PCA_Mean_Error,6.831319,1,0.0,6.831319,6.831319,6.831319
+14. Energy Efficiency,CTGAN,PCA_Mean_Error_Pct,3.9156595,1,0.0,3.9156595,3.9156595,3.9156595
+14. Energy Efficiency,CTGAN,Quality_Score,0.677298,1,0.0,0.677298,0.677298,0.677298
+14. Energy Efficiency,CTGAN,Wasserstein_Distance,0.102021,1,0.0,0.102021,0.102021,0.102021
+14. Energy Efficiency,CopulaGAN,Cosine_Similarity,-0.001534,1,0.0,-0.001534,-0.001534,-0.001534
+14. Energy Efficiency,CopulaGAN,Gower_Distance,0.595962,1,0.0,0.595962,0.595962,0.595962
+14. Energy Efficiency,CopulaGAN,Gower_Similarity,0.595962,1,0.0,0.595962,0.595962,0.595962
+14. Energy Efficiency,CopulaGAN,JS_Divergence,0.1319796666666667,1,0.0,0.1319796666666667,0.1319796666666667,0.1319796666666667
+14. Energy Efficiency,CopulaGAN,KS_Complement,0.8096,1,0.0,0.8096,0.8096,0.8096
+14. Energy Efficiency,CopulaGAN,MMD,0.0318,1,0.0,0.0318,0.0318,0.0318
+14. Energy Efficiency,CopulaGAN,MMD_Multivariate,0.030936,1,0.0,0.030936,0.030936,0.030936
+14. Energy Efficiency,CopulaGAN,Outlier_Count_Diff,0.0,1,0.0,0.0,0.0,0.0
+14. Energy Efficiency,CopulaGAN,PCA_Correlation_Diff,0.991153,1,0.0,0.991153,0.991153,0.991153
+14. Energy Efficiency,CopulaGAN,PCA_Mean_Error,6.337747,1,0.0,6.337747,6.337747,6.337747
+14. Energy Efficiency,CopulaGAN,PCA_Mean_Error_Pct,3.589172,1,0.0,3.589172,3.589172,3.589172
+14. Energy Efficiency,CopulaGAN,Quality_Score,0.686985,1,0.0,0.686985,0.686985,0.686985
+14. Energy Efficiency,CopulaGAN,Wasserstein_Distance,0.098246,1,0.0,0.098246,0.098246,0.098246
+14. Energy Efficiency,ForestDiffusion,Cosine_Similarity,0.000579,1,0.0,0.000579,0.000579,0.000579
+14. Energy Efficiency,ForestDiffusion,Gower_Distance,0.623942,1,0.0,0.623942,0.623942,0.623942
+14. Energy Efficiency,ForestDiffusion,Gower_Similarity,0.623942,1,0.0,0.623942,0.623942,0.623942
+14. Energy Efficiency,ForestDiffusion,JS_Divergence,0.0135,1,0.0,0.0135,0.0135,0.0135
+14. Energy Efficiency,ForestDiffusion,KS_Complement,0.7087,1,0.0,0.7087,0.7087,0.7087
+14. Energy Efficiency,ForestDiffusion,MMD,0.000597,1,0.0,0.000597,0.000597,0.000597
+14. Energy Efficiency,ForestDiffusion,MMD_Multivariate,-0.000548,1,0.0,-0.000548,-0.000548,-0.000548
+14. Energy Efficiency,ForestDiffusion,Outlier_Count_Diff,0.0,1,0.0,0.0,0.0,0.0
+14. Energy Efficiency,ForestDiffusion,PCA_Correlation_Diff,0.130137,1,0.0,0.130137,0.130137,0.130137
+14. Energy Efficiency,ForestDiffusion,PCA_Mean_Error,0.744817,1,0.0,0.744817,0.744817,0.744817
+14. Energy Efficiency,ForestDiffusion,PCA_Mean_Error_Pct,0.744817,1,0.0,0.744817,0.744817,0.744817
+14. Energy Efficiency,ForestDiffusion,Quality_Score,0.708662,1,0.0,0.708662,0.708662,0.708662
+14. Energy Efficiency,ForestDiffusion,Wasserstein_Distance,0.010613,1,0.0,0.010613,0.010613,0.010613
+14. Energy Efficiency,GaussianCopula,Cosine_Similarity,0.001194,1,0.0,0.001194,0.001194,0.001194
+14. Energy Efficiency,GaussianCopula,Gower_Distance,0.611222,1,0.0,0.611222,0.611222,0.611222
+14. Energy Efficiency,GaussianCopula,Gower_Similarity,0.611222,1,0.0,0.611222,0.611222,0.611222
+14. Energy Efficiency,GaussianCopula,JS_Divergence,0.2091111111111111,1,0.0,0.2091111111111111,0.2091111111111111,0.2091111111111111
+14. Energy Efficiency,GaussianCopula,KS_Complement,0.7555,1,0.0,0.7555,0.7555,0.7555
+14. Energy Efficiency,GaussianCopula,MMD,0.024683,1,0.0,0.024683,0.024683,0.024683
+14. Energy Efficiency,GaussianCopula,MMD_Multivariate,0.02369,1,0.0,0.02369,0.02369,0.02369
+14. Energy Efficiency,GaussianCopula,Outlier_Count_Diff,7.875,1,0.0,7.875,7.875,7.875
+14. Energy Efficiency,GaussianCopula,PCA_Correlation_Diff,0.391368,1,0.0,0.391368,0.391368,0.391368
+14. Energy Efficiency,GaussianCopula,PCA_Mean_Error,3.734944,1,0.0,3.734944,3.734944,3.734944
+14. Energy Efficiency,GaussianCopula,PCA_Mean_Error_Pct,1.867472,1,0.0,1.867472,1.867472,1.867472
+14. Energy Efficiency,GaussianCopula,Quality_Score,0.789355,1,0.0,0.789355,0.789355,0.789355
+14. Energy Efficiency,GaussianCopula,Wasserstein_Distance,0.089152,1,0.0,0.089152,0.089152,0.089152
+14. Energy Efficiency,TVAE,Cosine_Similarity,0.00282,1,0.0,0.00282,0.00282,0.00282
+14. Energy Efficiency,TVAE,Gower_Distance,0.628166,1,0.0,0.628166,0.628166,0.628166
+14. Energy Efficiency,TVAE,Gower_Similarity,0.628166,1,0.0,0.628166,0.628166,0.628166
+14. Energy Efficiency,TVAE,JS_Divergence,0.272864,1,0.0,0.272864,0.272864,0.272864
+14. Energy Efficiency,TVAE,KS_Complement,0.8604,1,0.0,0.8604,0.8604,0.8604
+14. Energy Efficiency,TVAE,MMD,0.020381,1,0.0,0.020381,0.020381,0.020381
+14. Energy Efficiency,TVAE,MMD_Multivariate,0.01939,1,0.0,0.01939,0.01939,0.01939
+14. Energy Efficiency,TVAE,Outlier_Count_Diff,10.625,1,0.0,10.625,10.625,10.625
+14. Energy Efficiency,TVAE,PCA_Correlation_Diff,0.197171,1,0.0,0.197171,0.197171,0.197171
+14. Energy Efficiency,TVAE,PCA_Mean_Error,6.5698,1,0.0,6.5698,6.5698,6.5698
+14. Energy Efficiency,TVAE,PCA_Mean_Error_Pct,3.74267,1,0.0,3.74267,3.74267,3.74267
+14. Energy Efficiency,TVAE,Quality_Score,0.88622,1,0.0,0.88622,0.88622,0.88622
+14. Energy Efficiency,TVAE,Wasserstein_Distance,0.055541,1,0.0,0.055541,0.055541,0.055541
+14. Energy Efficiency,TabDDPM,Cosine_Similarity,0.001883,1,0.0,0.001883,0.001883,0.001883
+14. Energy Efficiency,TabDDPM,Gower_Distance,0.551458,1,0.0,0.551458,0.551458,0.551458
+14. Energy Efficiency,TabDDPM,Gower_Similarity,0.551458,1,0.0,0.551458,0.551458,0.551458
+14. Energy Efficiency,TabDDPM,JS_Divergence,0.1153333333333333,1,0.0,0.1153333333333333,0.1153333333333333,0.1153333333333333
+14. Energy Efficiency,TabDDPM,KS_Complement,0.6547,1,0.0,0.6547,0.6547,0.6547
+14. Energy Efficiency,TabDDPM,MMD,0.096222,1,0.0,0.096222,0.096222,0.096222
+14. Energy Efficiency,TabDDPM,MMD_Multivariate,0.058913,1,0.0,0.058913,0.058913,0.058913
+14. Energy Efficiency,TabDDPM,Outlier_Count_Diff,0.0,1,0.0,0.0,0.0,0.0
+14. Energy Efficiency,TabDDPM,PCA_Correlation_Diff,0.505822,1,0.0,0.505822,0.505822,0.505822
+14. Energy Efficiency,TabDDPM,PCA_Mean_Error,10.645464,1,0.0,10.645464,10.645464,10.645464
+14. Energy Efficiency,TabDDPM,PCA_Mean_Error_Pct,10.645464,1,0.0,10.645464,10.645464,10.645464
+14. Energy Efficiency,TabDDPM,Quality_Score,0.654671,1,0.0,0.654671,0.654671,0.654671
+14. Energy Efficiency,TabDDPM,Wasserstein_Distance,0.162632,1,0.0,0.162632,0.162632,0.162632
+14. Energy Efficiency,WGAN_GP,Cosine_Similarity,0.000862,1,0.0,0.000862,0.000862,0.000862
+14. Energy Efficiency,WGAN_GP,Gower_Distance,0.837679,1,0.0,0.837679,0.837679,0.837679
+14. Energy Efficiency,WGAN_GP,Gower_Similarity,0.837679,1,0.0,0.837679,0.837679,0.837679
+14. Energy Efficiency,WGAN_GP,JS_Divergence,0.12125,1,0.0,0.12125,0.12125,0.12125
+14. Energy Efficiency,WGAN_GP,KS_Complement,0.6267,1,0.0,0.6267,0.6267,0.6267
+14. Energy Efficiency,WGAN_GP,MMD,0.030559,1,0.0,0.030559,0.030559,0.030559
+14. Energy Efficiency,WGAN_GP,MMD_Multivariate,0.018008,1,0.0,0.018008,0.018008,0.018008
+14. Energy Efficiency,WGAN_GP,Outlier_Count_Diff,8.5,1,0.0,8.5,8.5,8.5
+14. Energy Efficiency,WGAN_GP,PCA_Correlation_Diff,0.692157,1,0.0,0.692157,0.692157,0.692157
+14. Energy Efficiency,WGAN_GP,PCA_Mean_Error,4.049586,1,0.0,4.049586,4.049586,4.049586
+14. Energy Efficiency,WGAN_GP,PCA_Mean_Error_Pct,4.049586,1,0.0,4.049586,4.049586,4.049586
+14. Energy Efficiency,WGAN_GP,Quality_Score,0.626702,1,0.0,0.626702,0.626702,0.626702
+14. Energy Efficiency,WGAN_GP,Wasserstein_Distance,0.147232,1,0.0,0.147232,0.147232,0.147232
+15. Real Estate Valuation,CTABGAN,Cosine_Similarity,0.016572,1,0.0,0.016572,0.016572,0.016572
+15. Real Estate Valuation,CTABGAN,Gower_Distance,0.776166,1,0.0,0.776166,0.776166,0.776166
+15. Real Estate Valuation,CTABGAN,Gower_Similarity,0.776166,1,0.0,0.776166,0.776166,0.776166
+15. Real Estate Valuation,CTABGAN,JS_Divergence,0.1376666666666667,1,0.0,0.1376666666666667,0.1376666666666667,0.1376666666666667
+15. Real Estate Valuation,CTABGAN,KS_Complement,0.9116,1,0.0,0.9116,0.9116,0.9116
+15. Real Estate Valuation,CTABGAN,MMD,0.010593,1,0.0,0.010593,0.010593,0.010593
+15. Real Estate Valuation,CTABGAN,MMD_Multivariate,0.006785,1,0.0,0.006785,0.006785,0.006785
+15. Real Estate Valuation,CTABGAN,Outlier_Count_Diff,20.8,1,0.0,20.8,20.8,20.8
+15. Real Estate Valuation,CTABGAN,PCA_Correlation_Diff,0.625634,1,0.0,0.625634,0.625634,0.625634
+15. Real Estate Valuation,CTABGAN,PCA_Mean_Error,5.521376,1,0.0,5.521376,5.521376,5.521376
+15. Real Estate Valuation,CTABGAN,PCA_Mean_Error_Pct,5.521376,1,0.0,5.521376,5.521376,5.521376
+15. Real Estate Valuation,CTABGAN,Quality_Score,0.911592,1,0.0,0.911592,0.911592,0.911592
+15. Real Estate Valuation,CTABGAN,Wasserstein_Distance,0.024693,1,0.0,0.024693,0.024693,0.024693
+15. Real Estate Valuation,CTGAN,Cosine_Similarity,-0.050747,1,0.0,-0.050747,-0.050747,-0.050747
+15. Real Estate Valuation,CTGAN,Gower_Distance,0.708963,1,0.0,0.708963,0.708963,0.708963
+15. Real Estate Valuation,CTGAN,Gower_Similarity,0.708963,1,0.0,0.708963,0.708963,0.708963
+15. Real Estate Valuation,CTGAN,JS_Divergence,0.3247696666666667,1,0.0,0.3247696666666667,0.3247696666666667,0.3247696666666667
+15. Real Estate Valuation,CTGAN,KS_Complement,0.7720999999999999,1,0.0,0.7720999999999999,0.7720999999999999,0.7720999999999999
+15. Real Estate Valuation,CTGAN,MMD,0.558462,1,0.0,0.558462,0.558462,0.558462
+15. Real Estate Valuation,CTGAN,MMD_Multivariate,0.557081,1,0.0,0.557081,0.557081,0.557081
+15. Real Estate Valuation,CTGAN,Outlier_Count_Diff,15.6,1,0.0,15.6,15.6,15.6
+15. Real Estate Valuation,CTGAN,PCA_Correlation_Diff,0.842184,1,0.0,0.842184,0.842184,0.842184
+15. Real Estate Valuation,CTGAN,PCA_Mean_Error,55.159242,1,0.0,55.159242,55.159242,55.159242
+15. Real Estate Valuation,CTGAN,PCA_Mean_Error_Pct,27.701104,1,0.0,27.701104,27.701104,27.701104
+15. Real Estate Valuation,CTGAN,Quality_Score,0.764289,1,0.0,0.764289,0.764289,0.764289
+15. Real Estate Valuation,CTGAN,Wasserstein_Distance,340.821029,1,0.0,340.821029,340.821029,340.821029
+15. Real Estate Valuation,CopulaGAN,Cosine_Similarity,-0.050764,1,0.0,-0.050764,-0.050764,-0.050764
+15. Real Estate Valuation,CopulaGAN,Gower_Distance,0.667636,1,0.0,0.667636,0.667636,0.667636
+15. Real Estate Valuation,CopulaGAN,Gower_Similarity,0.667636,1,0.0,0.667636,0.667636,0.667636
+15. Real Estate Valuation,CopulaGAN,JS_Divergence,0.3512481666666667,1,0.0,0.3512481666666667,0.3512481666666667,0.3512481666666667
+15. Real Estate Valuation,CopulaGAN,KS_Complement,0.7287,1,0.0,0.7287,0.7287,0.7287
+15. Real Estate Valuation,CopulaGAN,MMD,0.558462,1,0.0,0.558462,0.558462,0.558462
+15. Real Estate Valuation,CopulaGAN,MMD_Multivariate,0.557081,1,0.0,0.557081,0.557081,0.557081
+15. Real Estate Valuation,CopulaGAN,Outlier_Count_Diff,16.0,1,0.0,16.0,16.0,16.0
+15. Real Estate Valuation,CopulaGAN,PCA_Correlation_Diff,0.864963,1,0.0,0.864963,0.864963,0.864963
+15. Real Estate Valuation,CopulaGAN,PCA_Mean_Error,71.639749,1,0.0,71.639749,71.639749,71.639749
+15. Real Estate Valuation,CopulaGAN,PCA_Mean_Error_Pct,36.3198745,1,0.0,36.3198745,36.3198745,36.3198745
+15. Real Estate Valuation,CopulaGAN,Quality_Score,0.734702,1,0.0,0.734702,0.734702,0.734702
+15. Real Estate Valuation,CopulaGAN,Wasserstein_Distance,340.846522,1,0.0,340.846522,340.846522,340.846522
+15. Real Estate Valuation,ForestDiffusion,Cosine_Similarity,0.023181,1,0.0,0.023181,0.023181,0.023181
+15. Real Estate Valuation,ForestDiffusion,Gower_Distance,0.76937,1,0.0,0.76937,0.76937,0.76937
+15. Real Estate Valuation,ForestDiffusion,Gower_Similarity,0.76937,1,0.0,0.76937,0.76937,0.76937
+15. Real Estate Valuation,ForestDiffusion,JS_Divergence,0.007,1,0.0,0.007,0.007,0.007
+15. Real Estate Valuation,ForestDiffusion,KS_Complement,0.9445,1,0.0,0.9445,0.9445,0.9445
+15. Real Estate Valuation,ForestDiffusion,MMD,0.000787,1,0.0,0.000787,0.000787,0.000787
+15. Real Estate Valuation,ForestDiffusion,MMD_Multivariate,-0.000807,1,0.0,-0.000807,-0.000807,-0.000807
+15. Real Estate Valuation,ForestDiffusion,Outlier_Count_Diff,23.6,1,0.0,23.6,23.6,23.6
+15. Real Estate Valuation,ForestDiffusion,PCA_Correlation_Diff,0.069516,1,0.0,0.069516,0.069516,0.069516
+15. Real Estate Valuation,ForestDiffusion,PCA_Mean_Error,2.227323,1,0.0,2.227323,2.227323,2.227323
+15. Real Estate Valuation,ForestDiffusion,PCA_Mean_Error_Pct,2.227323,1,0.0,2.227323,2.227323,2.227323
+15. Real Estate Valuation,ForestDiffusion,Quality_Score,0.944539,1,0.0,0.944539,0.944539,0.944539
+15. Real Estate Valuation,ForestDiffusion,Wasserstein_Distance,0.009755,1,0.0,0.009755,0.009755,0.009755
+15. Real Estate Valuation,GaussianCopula,Cosine_Similarity,-0.050746,1,0.0,-0.050746,-0.050746,-0.050746
+15. Real Estate Valuation,GaussianCopula,Gower_Distance,0.700365,1,0.0,0.700365,0.700365,0.700365
+15. Real Estate Valuation,GaussianCopula,Gower_Similarity,0.700365,1,0.0,0.700365,0.700365,0.700365
+15. Real Estate Valuation,GaussianCopula,JS_Divergence,0.8356060000000001,1,0.0,0.8356060000000001,0.8356060000000001,0.8356060000000001
+15. Real Estate Valuation,GaussianCopula,KS_Complement,0.8043,1,0.0,0.8043,0.8043,0.8043
+15. Real Estate Valuation,GaussianCopula,MMD,0.558462,1,0.0,0.558462,0.558462,0.558462
+15. Real Estate Valuation,GaussianCopula,MMD_Multivariate,0.557081,1,0.0,0.557081,0.557081,0.557081
+15. Real Estate Valuation,GaussianCopula,Outlier_Count_Diff,9.4,1,0.0,9.4,9.4,9.4
+15. Real Estate Valuation,GaussianCopula,PCA_Correlation_Diff,0.877297,1,0.0,0.877297,0.877297,0.877297
+15. Real Estate Valuation,GaussianCopula,PCA_Mean_Error,54.66314,1,0.0,54.66314,54.66314,54.66314
+15. Real Estate Valuation,GaussianCopula,PCA_Mean_Error_Pct,27.441659,1,0.0,27.441659,27.441659,27.441659
+15. Real Estate Valuation,GaussianCopula,Quality_Score,0.884307,1,0.0,0.884307,0.884307,0.884307
+15. Real Estate Valuation,GaussianCopula,Wasserstein_Distance,340.8144,1,0.0,340.8144,340.8144,340.8144
+15. Real Estate Valuation,TVAE,Cosine_Similarity,-0.050741,1,0.0,-0.050741,-0.050741,-0.050741
+15. Real Estate Valuation,TVAE,Gower_Distance,0.721756,1,0.0,0.721756,0.721756,0.721756
+15. Real Estate Valuation,TVAE,Gower_Similarity,0.721756,1,0.0,0.721756,0.721756,0.721756
+15. Real Estate Valuation,TVAE,JS_Divergence,0.3109671666666667,1,0.0,0.3109671666666667,0.3109671666666667,0.3109671666666667
+15. Real Estate Valuation,TVAE,KS_Complement,0.8945000000000001,1,0.0,0.8945000000000001,0.8945000000000001,0.8945000000000001
+15. Real Estate Valuation,TVAE,MMD,0.558462,1,0.0,0.558462,0.558462,0.558462
+15. Real Estate Valuation,TVAE,MMD_Multivariate,0.557081,1,0.0,0.557081,0.557081,0.557081
+15. Real Estate Valuation,TVAE,Outlier_Count_Diff,29.0,1,0.0,29.0,29.0,29.0
+15. Real Estate Valuation,TVAE,PCA_Correlation_Diff,0.758204,1,0.0,0.758204,0.758204,0.758204
+15. Real Estate Valuation,TVAE,PCA_Mean_Error,49.869909,1,0.0,49.869909,49.869909,49.869909
+15. Real Estate Valuation,TVAE,PCA_Mean_Error_Pct,24.9349545,1,0.0,24.9349545,24.9349545,24.9349545
+15. Real Estate Valuation,TVAE,Quality_Score,0.92108,1,0.0,0.92108,0.92108,0.92108
+15. Real Estate Valuation,TVAE,Wasserstein_Distance,340.802477,1,0.0,340.802477,340.802477,340.802477
+15. Real Estate Valuation,TabDDPM,Cosine_Similarity,-0.031771,1,0.0,-0.031771,-0.031771,-0.031771
+15. Real Estate Valuation,TabDDPM,Gower_Distance,0.599162,1,0.0,0.599162,0.599162,0.599162
+15. Real Estate Valuation,TabDDPM,Gower_Similarity,0.599162,1,0.0,0.599162,0.599162,0.599162
+15. Real Estate Valuation,TabDDPM,JS_Divergence,0.2444145999999999,1,0.0,0.2444145999999999,0.2444145999999999,0.2444145999999999
+15. Real Estate Valuation,TabDDPM,KS_Complement,0.6593000000000001,1,0.0,0.6593000000000001,0.6593000000000001,0.6593000000000001
+15. Real Estate Valuation,TabDDPM,MMD,0.230156,1,0.0,0.230156,0.230156,0.230156
+15. Real Estate Valuation,TabDDPM,MMD_Multivariate,0.134849,1,0.0,0.134849,0.134849,0.134849
+15. Real Estate Valuation,TabDDPM,Outlier_Count_Diff,16.0,1,0.0,16.0,16.0,16.0
+15. Real Estate Valuation,TabDDPM,PCA_Correlation_Diff,0.880434,1,0.0,0.880434,0.880434,0.880434
+15. Real Estate Valuation,TabDDPM,PCA_Mean_Error,46.180834,1,0.0,46.180834,46.180834,46.180834
+15. Real Estate Valuation,TabDDPM,PCA_Mean_Error_Pct,46.180834,1,0.0,46.180834,46.180834,46.180834
+15. Real Estate Valuation,TabDDPM,Quality_Score,0.65929,1,0.0,0.65929,0.65929,0.65929
+15. Real Estate Valuation,TabDDPM,Wasserstein_Distance,0.227584,1,0.0,0.227584,0.227584,0.227584
+15. Real Estate Valuation,WGAN_GP,Cosine_Similarity,0.023284,1,0.0,0.023284,0.023284,0.023284
+15. Real Estate Valuation,WGAN_GP,Gower_Distance,0.843701,1,0.0,0.843701,0.843701,0.843701
+15. Real Estate Valuation,WGAN_GP,Gower_Similarity,0.843701,1,0.0,0.843701,0.843701,0.843701
+15. Real Estate Valuation,WGAN_GP,JS_Divergence,0.1768491999999999,1,0.0,0.1768491999999999,0.1768491999999999,0.1768491999999999
+15. Real Estate Valuation,WGAN_GP,KS_Complement,0.7347,1,0.0,0.7347,0.7347,0.7347
+15. Real Estate Valuation,WGAN_GP,MMD,0.080058,1,0.0,0.080058,0.080058,0.080058
+15. Real Estate Valuation,WGAN_GP,MMD_Multivariate,0.061439,1,0.0,0.061439,0.061439,0.061439
+15. Real Estate Valuation,WGAN_GP,Outlier_Count_Diff,14.4,1,0.0,14.4,14.4,14.4
+15. Real Estate Valuation,WGAN_GP,PCA_Correlation_Diff,0.562106,1,0.0,0.562106,0.562106,0.562106
+15. Real Estate Valuation,WGAN_GP,PCA_Mean_Error,24.321296,1,0.0,24.321296,24.321296,24.321296
+15. Real Estate Valuation,WGAN_GP,PCA_Mean_Error_Pct,24.321296,1,0.0,24.321296,24.321296,24.321296
+15. Real Estate Valuation,WGAN_GP,Quality_Score,0.734693,1,0.0,0.734693,0.734693,0.734693
+15. Real Estate Valuation,WGAN_GP,Wasserstein_Distance,0.107111,1,0.0,0.107111,0.107111,0.107111
+2. Alzhimers,CTABGAN,Cosine_Similarity,-0.009937,1,0.0,-0.009937,-0.009937,-0.009937
+2. Alzhimers,CTABGAN,Gower_Distance,0.779736,1,0.0,0.779736,0.779736,0.779736
+2. Alzhimers,CTABGAN,Gower_Similarity,0.779736,1,0.0,0.779736,0.779736,0.779736
+2. Alzhimers,CTABGAN,JS_Divergence,0.14825,1,0.0,0.14825,0.14825,0.14825
+2. Alzhimers,CTABGAN,KS_Complement,0.6842,1,0.0,0.6842,0.6842,0.6842
+2. Alzhimers,CTABGAN,MMD,0.045034,1,0.0,0.045034,0.045034,0.045034
+2. Alzhimers,CTABGAN,MMD_Multivariate,0.033461,1,0.0,0.033461,0.033461,0.033461
+2. Alzhimers,CTABGAN,Outlier_Count_Diff,9.7,1,0.0,9.7,9.7,9.7
+2. Alzhimers,CTABGAN,PCA_Correlation_Diff,0.920281,1,0.0,0.920281,0.920281,0.920281
+2. Alzhimers,CTABGAN,PCA_Mean_Error,12.702118,1,0.0,12.702118,12.702118,12.702118
+2. Alzhimers,CTABGAN,PCA_Mean_Error_Pct,6.851059,1,0.0,6.851059,6.851059,6.851059
+2. Alzhimers,CTABGAN,Quality_Score,0.684233,1,0.0,0.684233,0.684233,0.684233
+2. Alzhimers,CTABGAN,Wasserstein_Distance,0.058118,1,0.0,0.058118,0.058118,0.058118
+2. Alzhimers,CTGAN,Cosine_Similarity,-0.007544,1,0.0,-0.007544,-0.007544,-0.007544
+2. Alzhimers,CTGAN,Gower_Distance,0.735633,1,0.0,0.735633,0.735633,0.735633
+2. Alzhimers,CTGAN,Gower_Similarity,0.735633,1,0.0,0.735633,0.735633,0.735633
+2. Alzhimers,CTGAN,JS_Divergence,0.1919999999999999,1,0.0,0.1919999999999999,0.1919999999999999,0.1919999999999999
+2. Alzhimers,CTGAN,KS_Complement,0.7539,1,0.0,0.7539,0.7539,0.7539
+2. Alzhimers,CTGAN,MMD,0.155068,1,0.0,0.155068,0.155068,0.155068
+2. Alzhimers,CTGAN,MMD_Multivariate,0.117579,1,0.0,0.117579,0.117579,0.117579
+2. Alzhimers,CTGAN,PCA_Correlation_Diff,0.933791,1,0.0,0.933791,0.933791,0.933791
+2. Alzhimers,CTGAN,PCA_Mean_Error,18.930353,1,0.0,18.930353,18.930353,18.930353
+2. Alzhimers,CTGAN,PCA_Mean_Error_Pct,18.930353,1,0.0,18.930353,18.930353,18.930353
+2. Alzhimers,CTGAN,Quality_Score,0.686399,1,0.0,0.686399,0.686399,0.686399
+2. Alzhimers,CTGAN,Wasserstein_Distance,0.108791,1,0.0,0.108791,0.108791,0.108791
+2. Alzhimers,CopulaGAN,Cosine_Similarity,-0.006982,1,0.0,-0.006982,-0.006982,-0.006982
+2. Alzhimers,CopulaGAN,Gower_Distance,0.733296,1,0.0,0.733296,0.733296,0.733296
+2. Alzhimers,CopulaGAN,Gower_Similarity,0.733296,1,0.0,0.733296,0.733296,0.733296
+2. Alzhimers,CopulaGAN,JS_Divergence,0.1376,1,0.0,0.1376,0.1376,0.1376
+2. Alzhimers,CopulaGAN,KS_Complement,0.7252,1,0.0,0.7252,0.7252,0.7252
+2. Alzhimers,CopulaGAN,MMD,0.119443,1,0.0,0.119443,0.119443,0.119443
+2. Alzhimers,CopulaGAN,MMD_Multivariate,0.078679,1,0.0,0.078679,0.078679,0.078679
+2. Alzhimers,CopulaGAN,PCA_Correlation_Diff,0.969908,1,0.0,0.969908,0.969908,0.969908
+2. Alzhimers,CopulaGAN,PCA_Mean_Error,24.770905,1,0.0,24.770905,24.770905,24.770905
+2. Alzhimers,CopulaGAN,PCA_Mean_Error_Pct,24.770905,1,0.0,24.770905,24.770905,24.770905
+2. Alzhimers,CopulaGAN,Quality_Score,0.639551,1,0.0,0.639551,0.639551,0.639551
+2. Alzhimers,CopulaGAN,Wasserstein_Distance,0.109986,1,0.0,0.109986,0.109986,0.109986
+2. Alzhimers,ForestDiffusion,Cosine_Similarity,0.003124,1,0.0,0.003124,0.003124,0.003124
+2. Alzhimers,ForestDiffusion,Gower_Distance,0.785988,1,0.0,0.785988,0.785988,0.785988
+2. Alzhimers,ForestDiffusion,Gower_Similarity,0.785988,1,0.0,0.785988,0.785988,0.785988
+2. Alzhimers,ForestDiffusion,JS_Divergence,0.0230402,1,0.0,0.0230402,0.0230402,0.0230402
+2. Alzhimers,ForestDiffusion,KS_Complement,0.7356999999999999,1,0.0,0.7356999999999999,0.7356999999999999,0.7356999999999999
+2. Alzhimers,ForestDiffusion,MMD,0.001763,1,0.0,0.001763,0.001763,0.001763
+2. Alzhimers,ForestDiffusion,MMD_Multivariate,-0.000335,1,0.0,-0.000335,-0.000335,-0.000335
+2. Alzhimers,ForestDiffusion,Outlier_Count_Diff,14.9,1,0.0,14.9,14.9,14.9
+2. Alzhimers,ForestDiffusion,PCA_Correlation_Diff,0.138389,1,0.0,0.138389,0.138389,0.138389
+2. Alzhimers,ForestDiffusion,PCA_Mean_Error,0.887645,1,0.0,0.887645,0.887645,0.887645
+2. Alzhimers,ForestDiffusion,PCA_Mean_Error_Pct,0.4438225,1,0.0,0.4438225,0.4438225,0.4438225
+2. Alzhimers,ForestDiffusion,Quality_Score,0.735671,1,0.0,0.735671,0.735671,0.735671
+2. Alzhimers,ForestDiffusion,Wasserstein_Distance,0.011849,1,0.0,0.011849,0.011849,0.011849
+2. Alzhimers,GaussianCopula,Cosine_Similarity,0.016283,1,0.0,0.016283,0.016283,0.016283
+2. Alzhimers,GaussianCopula,Gower_Distance,0.791535,1,0.0,0.791535,0.791535,0.791535
+2. Alzhimers,GaussianCopula,Gower_Similarity,0.791535,1,0.0,0.791535,0.791535,0.791535
+2. Alzhimers,GaussianCopula,JS_Divergence,0.0984999999999999,1,0.0,0.0984999999999999,0.0984999999999999,0.0984999999999999
+2. Alzhimers,GaussianCopula,KS_Complement,0.8158,1,0.0,0.8158,0.8158,0.8158
+2. Alzhimers,GaussianCopula,MMD,0.053118,1,0.0,0.053118,0.053118,0.053118
+2. Alzhimers,GaussianCopula,MMD_Multivariate,0.043953,1,0.0,0.043953,0.043953,0.043953
+2. Alzhimers,GaussianCopula,PCA_Correlation_Diff,0.321389,1,0.0,0.321389,0.321389,0.321389
+2. Alzhimers,GaussianCopula,PCA_Mean_Error,16.343796,1,0.0,16.343796,16.343796,16.343796
+2. Alzhimers,GaussianCopula,PCA_Mean_Error_Pct,16.343796,1,0.0,16.343796,16.343796,16.343796
+2. Alzhimers,GaussianCopula,Quality_Score,0.789691,1,0.0,0.789691,0.789691,0.789691
+2. Alzhimers,GaussianCopula,Wasserstein_Distance,0.051368,1,0.0,0.051368,0.051368,0.051368
+2. Alzhimers,TVAE,Cosine_Similarity,0.01326,1,0.0,0.01326,0.01326,0.01326
+2. Alzhimers,TVAE,Gower_Distance,0.788536,1,0.0,0.788536,0.788536,0.788536
+2. Alzhimers,TVAE,Gower_Similarity,0.788536,1,0.0,0.788536,0.788536,0.788536
+2. Alzhimers,TVAE,JS_Divergence,0.1172,1,0.0,0.1172,0.1172,0.1172
+2. Alzhimers,TVAE,KS_Complement,0.8161,1,0.0,0.8161,0.8161,0.8161
+2. Alzhimers,TVAE,MMD,0.042209,1,0.0,0.042209,0.042209,0.042209
+2. Alzhimers,TVAE,MMD_Multivariate,0.032374,1,0.0,0.032374,0.032374,0.032374
+2. Alzhimers,TVAE,PCA_Correlation_Diff,0.454044,1,0.0,0.454044,0.454044,0.454044
+2. Alzhimers,TVAE,PCA_Mean_Error,10.833991,1,0.0,10.833991,10.833991,10.833991
+2. Alzhimers,TVAE,PCA_Mean_Error_Pct,10.833991,1,0.0,10.833991,10.833991,10.833991
+2. Alzhimers,TVAE,Quality_Score,0.744373,1,0.0,0.744373,0.744373,0.744373
+2. Alzhimers,TVAE,Wasserstein_Distance,0.054921,1,0.0,0.054921,0.054921,0.054921
+2. Alzhimers,TabDDPM,Cosine_Similarity,-0.02195,1,0.0,-0.02195,-0.02195,-0.02195
+2. Alzhimers,TabDDPM,Gower_Distance,0.585711,1,0.0,0.585711,0.585711,0.585711
+2. Alzhimers,TabDDPM,Gower_Similarity,0.585711,1,0.0,0.585711,0.585711,0.585711
+2. Alzhimers,TabDDPM,JS_Divergence,0.3603165,1,0.0,0.3603165,0.3603165,0.3603165
+2. Alzhimers,TabDDPM,KS_Complement,0.436,1,0.0,0.436,0.436,0.436
+2. Alzhimers,TabDDPM,MMD,0.336058,1,0.0,0.336058,0.336058,0.336058
+2. Alzhimers,TabDDPM,MMD_Multivariate,0.217116,1,0.0,0.217116,0.217116,0.217116
+2. Alzhimers,TabDDPM,Outlier_Count_Diff,20.9,1,0.0,20.9,20.9,20.9
+2. Alzhimers,TabDDPM,PCA_Correlation_Diff,0.646359,1,0.0,0.646359,0.646359,0.646359
+2. Alzhimers,TabDDPM,PCA_Mean_Error,51.173386,1,0.0,51.173386,51.173386,51.173386
+2. Alzhimers,TabDDPM,PCA_Mean_Error_Pct,26.086693,1,0.0,26.086693,26.086693,26.086693
+2. Alzhimers,TabDDPM,Quality_Score,0.435996,1,0.0,0.435996,0.435996,0.435996
+2. Alzhimers,TabDDPM,Wasserstein_Distance,0.289061,1,0.0,0.289061,0.289061,0.289061
+2. Alzhimers,WGAN_GP,Cosine_Similarity,0.006048,1,0.0,0.006048,0.006048,0.006048
+2. Alzhimers,WGAN_GP,Gower_Distance,0.835927,1,0.0,0.835927,0.835927,0.835927
+2. Alzhimers,WGAN_GP,Gower_Similarity,0.835927,1,0.0,0.835927,0.835927,0.835927
+2. Alzhimers,WGAN_GP,JS_Divergence,0.20125,1,0.0,0.20125,0.20125,0.20125
+2. Alzhimers,WGAN_GP,KS_Complement,0.7823,1,0.0,0.7823,0.7823,0.7823
+2. Alzhimers,WGAN_GP,MMD,0.004291,1,0.0,0.004291,0.004291,0.004291
+2. Alzhimers,WGAN_GP,MMD_Multivariate,0.001447,1,0.0,0.001447,0.001447,0.001447
+2. Alzhimers,WGAN_GP,Outlier_Count_Diff,21.5,1,0.0,21.5,21.5,21.5
+2. Alzhimers,WGAN_GP,PCA_Correlation_Diff,0.146525,1,0.0,0.146525,0.146525,0.146525
+2. Alzhimers,WGAN_GP,PCA_Mean_Error,3.408592,1,0.0,3.408592,3.408592,3.408592
+2. Alzhimers,WGAN_GP,PCA_Mean_Error_Pct,1.704296,1,0.0,1.704296,1.704296,1.704296
+2. Alzhimers,WGAN_GP,Quality_Score,0.782315,1,0.0,0.782315,0.782315,0.782315
+2. Alzhimers,WGAN_GP,Wasserstein_Distance,0.037194,1,0.0,0.037194,0.037194,0.037194
+3. Adult,CTABGAN,Cosine_Similarity,-0.031479,1,0.0,-0.031479,-0.031479,-0.031479
+3. Adult,CTABGAN,Gower_Distance,0.61206,1,0.0,0.61206,0.61206,0.61206
+3. Adult,CTABGAN,Gower_Similarity,0.61206,1,0.0,0.61206,0.61206,0.61206
+3. Adult,CTABGAN,JS_Divergence,0.120311,1,0.0,0.120311,0.120311,0.120311
+3. Adult,CTABGAN,KS_Complement,0.7981,1,0.0,0.7981,0.7981,0.7981
+3. Adult,CTABGAN,MMD,0.100346,1,0.0,0.100346,0.100346,0.100346
+3. Adult,CTABGAN,MMD_Multivariate,0.07775,1,0.0,0.07775,0.07775,0.07775
+3. Adult,CTABGAN,Outlier_Count_Diff,76.833333,1,0.0,76.833333,76.833333,76.833333
+3. Adult,CTABGAN,PCA_Correlation_Diff,0.296554,1,0.0,0.296554,0.296554,0.296554
+3. Adult,CTABGAN,PCA_Mean_Error,142.051511,1,0.0,142.051511,142.051511,142.051511
+3. Adult,CTABGAN,PCA_Mean_Error_Pct,71.5257555,1,0.0,71.5257555,71.5257555,71.5257555
+3. Adult,CTABGAN,Quality_Score,0.7234999999999999,1,0.0,0.7234999999999999,0.7234999999999999,0.7234999999999999
+3. Adult,CTABGAN,Wasserstein_Distance,0.04297,1,0.0,0.04297,0.04297,0.04297
+3. Adult,CTGAN,Cosine_Similarity,0.01415,1,0.0,0.01415,0.01415,0.01415
+3. Adult,CTGAN,Gower_Distance,0.611885,1,0.0,0.611885,0.611885,0.611885
+3. Adult,CTGAN,Gower_Similarity,0.606159,1,0.0,0.606159,0.606159,0.606159
+3. Adult,CTGAN,JS_Divergence,0.0251296,1,0.0,0.0251296,0.0251296,0.0251296
+3. Adult,CTGAN,KS_Complement,0.8681,1,0.0,0.8681,0.8681,0.8681
+3. Adult,CTGAN,MMD,0.064738,1,0.0,0.064738,0.064738,0.064738
+3. Adult,CTGAN,MMD_Multivariate,0.018062,1,0.0,0.018062,0.018062,0.018062
+3. Adult,CTGAN,Outlier_Count_Diff,3324.0,1,0.0,3324.0,3324.0,3324.0
+3. Adult,CTGAN,PCA_Correlation_Diff,0.162565,1,0.0,0.162565,0.162565,0.162565
+3. Adult,CTGAN,PCA_Mean_Error,38.298415,1,0.0,38.298415,38.298415,38.298415
+3. Adult,CTGAN,PCA_Mean_Error_Pct,18.985418,1,0.0,18.985418,18.985418,18.985418
+3. Adult,CTGAN,Quality_Score,0.851945,1,0.0,0.851945,0.851945,0.851945
+3. Adult,CTGAN,Wasserstein_Distance,0.044069,1,0.0,0.044069,0.044069,0.044069
+3. Adult,CopulaGAN,Cosine_Similarity,0.015996,1,0.0,0.015996,0.015996,0.015996
+3. Adult,CopulaGAN,Gower_Distance,0.614765,1,0.0,0.614765,0.614765,0.614765
+3. Adult,CopulaGAN,Gower_Similarity,0.60362,1,0.0,0.60362,0.60362,0.60362
+3. Adult,CopulaGAN,JS_Divergence,0.0602624,1,0.0,0.0602624,0.0602624,0.0602624
+3. Adult,CopulaGAN,KS_Complement,0.9159,1,0.0,0.9159,0.9159,0.9159
+3. Adult,CopulaGAN,MMD,0.204773,1,0.0,0.204773,0.204773,0.204773
+3. Adult,CopulaGAN,MMD_Multivariate,0.012815,1,0.0,0.012815,0.012815,0.012815
+3. Adult,CopulaGAN,Outlier_Count_Diff,3402.666667,1,0.0,3402.666667,3402.666667,3402.666667
+3. Adult,CopulaGAN,PCA_Correlation_Diff,0.156685,1,0.0,0.156685,0.156685,0.156685
+3. Adult,CopulaGAN,PCA_Mean_Error,48.729227,1,0.0,48.729227,48.729227,48.729227
+3. Adult,CopulaGAN,PCA_Mean_Error_Pct,14.992197,1,0.0,14.992197,14.992197,14.992197
+3. Adult,CopulaGAN,Quality_Score,0.768821,1,0.0,0.768821,0.768821,0.768821
+3. Adult,CopulaGAN,Wasserstein_Distance,0.063869,1,0.0,0.063869,0.063869,0.063869
+3. Adult,ForestDiffusion,Cosine_Similarity,0.020289,1,0.0,0.020289,0.020289,0.020289
+3. Adult,ForestDiffusion,Gower_Distance,0.645353,1,0.0,0.645353,0.645353,0.645353
+3. Adult,ForestDiffusion,Gower_Similarity,0.645353,1,0.0,0.645353,0.645353,0.645353
+3. Adult,ForestDiffusion,JS_Divergence,0.118464,1,0.0,0.118464,0.118464,0.118464
+3. Adult,ForestDiffusion,KS_Complement,0.8329000000000001,1,0.0,0.8329000000000001,0.8329000000000001,0.8329000000000001
+3. Adult,ForestDiffusion,MMD,0.007571,1,0.0,0.007571,0.007571,0.007571
+3. Adult,ForestDiffusion,MMD_Multivariate,0.006923,1,0.0,0.006923,0.006923,0.006923
+3. Adult,ForestDiffusion,Outlier_Count_Diff,38.0,1,0.0,38.0,38.0,38.0
+3. Adult,ForestDiffusion,PCA_Correlation_Diff,0.110073,1,0.0,0.110073,0.110073,0.110073
+3. Adult,ForestDiffusion,PCA_Mean_Error,15.091778,1,0.0,15.091778,15.091778,15.091778
+3. Adult,ForestDiffusion,PCA_Mean_Error_Pct,7.545889,1,0.0,7.545889,7.545889,7.545889
+3. Adult,ForestDiffusion,Quality_Score,0.7954000000000001,1,0.0,0.7954000000000001,0.7954000000000001,0.7954000000000001
+3. Adult,ForestDiffusion,Wasserstein_Distance,0.016267,1,0.0,0.016267,0.016267,0.016267
+3. Adult,GaussianCopula,Cosine_Similarity,-0.021114,1,0.0,-0.021114,-0.021114,-0.021114
+3. Adult,GaussianCopula,Gower_Distance,0.61611,1,0.0,0.61611,0.61611,0.61611
+3. Adult,GaussianCopula,Gower_Similarity,0.572546,1,0.0,0.572546,0.572546,0.572546
+3. Adult,GaussianCopula,JS_Divergence,0.0447333333333333,1,0.0,0.0447333333333333,0.0447333333333333,0.0447333333333333
+3. Adult,GaussianCopula,KS_Complement,0.8753,1,0.0,0.8753,0.8753,0.8753
+3. Adult,GaussianCopula,MMD,0.644094,1,0.0,0.644094,0.644094,0.644094
+3. Adult,GaussianCopula,MMD_Multivariate,0.077847,1,0.0,0.077847,0.077847,0.077847
+3. Adult,GaussianCopula,Outlier_Count_Diff,3402.833333,1,0.0,3402.833333,3402.833333,3402.833333
+3. Adult,GaussianCopula,PCA_Correlation_Diff,0.162811,1,0.0,0.162811,0.162811,0.162811
+3. Adult,GaussianCopula,PCA_Mean_Error,595.285454,1,0.0,595.285454,595.285454,595.285454
+3. Adult,GaussianCopula,PCA_Mean_Error_Pct,675.631093,1,0.0,675.631093,675.631093,675.631093
+3. Adult,GaussianCopula,Quality_Score,0.763417,1,0.0,0.763417,0.763417,0.763417
+3. Adult,GaussianCopula,Wasserstein_Distance,0.098072,1,0.0,0.098072,0.098072,0.098072
+3. Adult,TVAE,Cosine_Similarity,0.028617,1,0.0,0.028617,0.028617,0.028617
+3. Adult,TVAE,Gower_Distance,0.646593,1,0.0,0.646593,0.646593,0.646593
+3. Adult,TVAE,Gower_Similarity,0.702597,1,0.0,0.702597,0.702597,0.702597
+3. Adult,TVAE,JS_Divergence,0.2172666666666666,1,0.0,0.2172666666666666,0.2172666666666666,0.2172666666666666
+3. Adult,TVAE,KS_Complement,0.9101,1,0.0,0.9101,0.9101,0.9101
+3. Adult,TVAE,MMD,0.175298,1,0.0,0.175298,0.175298,0.175298
+3. Adult,TVAE,MMD_Multivariate,0.00721,1,0.0,0.00721,0.00721,0.00721
+3. Adult,TVAE,Outlier_Count_Diff,3174.5,1,0.0,3174.5,3174.5,3174.5
+3. Adult,TVAE,PCA_Correlation_Diff,0.159209,1,0.0,0.159209,0.159209,0.159209
+3. Adult,TVAE,PCA_Mean_Error,40.344942,1,0.0,40.344942,40.344942,40.344942
+3. Adult,TVAE,PCA_Mean_Error_Pct,17.725137,1,0.0,17.725137,17.725137,17.725137
+3. Adult,TVAE,Quality_Score,0.514101,1,0.0,0.514101,0.514101,0.514101
+3. Adult,TVAE,Wasserstein_Distance,0.097094,1,0.0,0.097094,0.097094,0.097094
+3. Adult,TabDDPM,Cosine_Similarity,-0.054662,1,0.0,-0.054662,-0.054662,-0.054662
+3. Adult,TabDDPM,Gower_Distance,0.313479,1,0.0,0.313479,0.313479,0.313479
+3. Adult,TabDDPM,Gower_Similarity,0.313479,1,0.0,0.313479,0.313479,0.313479
+3. Adult,TabDDPM,JS_Divergence,0.614837,1,0.0,0.614837,0.614837,0.614837
+3. Adult,TabDDPM,KS_Complement,0.3953,1,0.0,0.3953,0.3953,0.3953
+3. Adult,TabDDPM,MMD,0.564577,1,0.0,0.564577,0.564577,0.564577
+3. Adult,TabDDPM,MMD_Multivariate,0.35908,1,0.0,0.35908,0.35908,0.35908
+3. Adult,TabDDPM,Outlier_Count_Diff,76.5,1,0.0,76.5,76.5,76.5
+3. Adult,TabDDPM,PCA_Correlation_Diff,0.78344,1,0.0,0.78344,0.78344,0.78344
+3. Adult,TabDDPM,PCA_Mean_Error,787.660693,1,0.0,787.660693,787.660693,787.660693
+3. Adult,TabDDPM,PCA_Mean_Error_Pct,394.3303465,1,0.0,394.3303465,394.3303465,394.3303465
+3. Adult,TabDDPM,Quality_Score,0.2522,1,0.0,0.2522,0.2522,0.2522
+3. Adult,TabDDPM,Wasserstein_Distance,0.369429,1,0.0,0.369429,0.369429,0.369429
+3. Adult,WGAN_GP,Cosine_Similarity,0.000121,1,0.0,0.000121,0.000121,0.000121
+3. Adult,WGAN_GP,Gower_Distance,0.521082,1,0.0,0.521082,0.521082,0.521082
+3. Adult,WGAN_GP,Gower_Similarity,0.521082,1,0.0,0.521082,0.521082,0.521082
+3. Adult,WGAN_GP,JS_Divergence,0.29984,1,0.0,0.29984,0.29984,0.29984
+3. Adult,WGAN_GP,KS_Complement,0.6234000000000001,1,0.0,0.6234000000000001,0.6234000000000001,0.6234000000000001
+3. Adult,WGAN_GP,MMD,0.081653,1,0.0,0.081653,0.081653,0.081653
+3. Adult,WGAN_GP,MMD_Multivariate,0.060505,1,0.0,0.060505,0.060505,0.060505
+3. Adult,WGAN_GP,Outlier_Count_Diff,61.166667,1,0.0,61.166667,61.166667,61.166667
+3. Adult,WGAN_GP,PCA_Correlation_Diff,0.40812,1,0.0,0.40812,0.40812,0.40812
+3. Adult,WGAN_GP,PCA_Mean_Error,49.179406,1,0.0,49.179406,49.179406,49.179406
+3. Adult,WGAN_GP,PCA_Mean_Error_Pct,24.589703,1,0.0,24.589703,24.589703,24.589703
+3. Adult,WGAN_GP,Quality_Score,0.4676,1,0.0,0.4676,0.4676,0.4676
+3. Adult,WGAN_GP,Wasserstein_Distance,0.075009,1,0.0,0.075009,0.075009,0.075009
+4. Forest cover dataset,CTABGAN,Cosine_Similarity,0.002905,1,0.0,0.002905,0.002905,0.002905
+4. Forest cover dataset,CTABGAN,Gower_Distance,0.904271,1,0.0,0.904271,0.904271,0.904271
+4. Forest cover dataset,CTABGAN,Gower_Similarity,0.904271,1,0.0,0.904271,0.904271,0.904271
+4. Forest cover dataset,CTABGAN,JS_Divergence,0.011511,1,0.0,0.011511,0.011511,0.011511
+4. Forest cover dataset,CTABGAN,KS_Complement,0.9687,1,0.0,0.9687,0.9687,0.9687
+4. Forest cover dataset,CTABGAN,MMD,0.009128,1,0.0,0.009128,0.009128,0.009128
+4. Forest cover dataset,CTABGAN,MMD_Multivariate,0.007217,1,0.0,0.007217,0.007217,0.007217
+4. Forest cover dataset,CTABGAN,Outlier_Count_Diff,13.490909,1,0.0,13.490909,13.490909,13.490909
+4. Forest cover dataset,CTABGAN,PCA_Correlation_Diff,0.849288,1,0.0,0.849288,0.849288,0.849288
+4. Forest cover dataset,CTABGAN,PCA_Mean_Error,98.575519,1,0.0,98.575519,98.575519,98.575519
+4. Forest cover dataset,CTABGAN,PCA_Mean_Error_Pct,65.41576533333334,1,0.0,65.41576533333334,65.41576533333334,65.41576533333334
+4. Forest cover dataset,CTABGAN,Quality_Score,0.9687,1,0.0,0.9687,0.9687,0.9687
+4. Forest cover dataset,CTABGAN,Wasserstein_Distance,0.017958,1,0.0,0.017958,0.017958,0.017958
+4. Forest cover dataset,CTGAN,Cosine_Similarity,0.000336,1,0.0,0.000336,0.000336,0.000336
+4. Forest cover dataset,CTGAN,Gower_Distance,0.902477,1,0.0,0.902477,0.902477,0.902477
+4. Forest cover dataset,CTGAN,Gower_Similarity,0.902477,1,0.0,0.902477,0.902477,0.902477
+4. Forest cover dataset,CTGAN,JS_Divergence,0.010397,1,0.0,0.010397,0.010397,0.010397
+4. Forest cover dataset,CTGAN,KS_Complement,0.9576,1,0.0,0.9576,0.9576,0.9576
+4. Forest cover dataset,CTGAN,MMD,0.017627,1,0.0,0.017627,0.017627,0.017627
+4. Forest cover dataset,CTGAN,Outlier_Count_Diff,8.037037,1,0.0,8.037037,8.037037,8.037037
+4. Forest cover dataset,CTGAN,PCA_Correlation_Diff,0.867565,1,0.0,0.867565,0.867565,0.867565
+4. Forest cover dataset,CTGAN,PCA_Mean_Error,40.198757,1,0.0,40.198757,40.198757,40.198757
+4. Forest cover dataset,CTGAN,PCA_Mean_Error_Pct,20.234316,1,0.0,20.234316,20.234316,20.234316
+4. Forest cover dataset,CTGAN,Quality_Score,0.861948,1,0.0,0.861948,0.861948,0.861948
+4. Forest cover dataset,CTGAN,Wasserstein_Distance,0.0160393381547227,1,0.0,0.0160393381547227,0.0160393381547227,0.0160393381547227
+4. Forest cover dataset,CopulaGAN,Cosine_Similarity,0.004608,1,0.0,0.004608,0.004608,0.004608
+4. Forest cover dataset,CopulaGAN,Gower_Distance,0.901364,1,0.0,0.901364,0.901364,0.901364
+4. Forest cover dataset,CopulaGAN,Gower_Similarity,0.901364,1,0.0,0.901364,0.901364,0.901364
+4. Forest cover dataset,CopulaGAN,JS_Divergence,0.015801,1,0.0,0.015801,0.015801,0.015801
+4. Forest cover dataset,CopulaGAN,KS_Complement,0.9415,1,0.0,0.9415,0.9415,0.9415
+4. Forest cover dataset,CopulaGAN,MMD,0.031029,1,0.0,0.031029,0.031029,0.031029
+4. Forest cover dataset,CopulaGAN,Outlier_Count_Diff,7.037037,1,0.0,7.037037,7.037037,7.037037
+4. Forest cover dataset,CopulaGAN,PCA_Correlation_Diff,0.816677,1,0.0,0.816677,0.816677,0.816677
+4. Forest cover dataset,CopulaGAN,PCA_Mean_Error,72.636275,1,0.0,72.636275,72.636275,72.636275
+4. Forest cover dataset,CopulaGAN,PCA_Mean_Error_Pct,36.775201,1,0.0,36.775201,36.775201,36.775201
+4. Forest cover dataset,CopulaGAN,Quality_Score,0.85485,1,0.0,0.85485,0.85485,0.85485
+4. Forest cover dataset,CopulaGAN,Wasserstein_Distance,0.0219564979180363,1,0.0,0.0219564979180363,0.0219564979180363,0.0219564979180363
+4. Forest cover dataset,ForestDiffusion,Cosine_Similarity,0.004782,1,0.0,0.004782,0.004782,0.004782
+4. Forest cover dataset,ForestDiffusion,Gower_Distance,0.911891,1,0.0,0.911891,0.911891,0.911891
+4. Forest cover dataset,ForestDiffusion,Gower_Similarity,0.911891,1,0.0,0.911891,0.911891,0.911891
+4. Forest cover dataset,ForestDiffusion,JS_Divergence,0.003717,1,0.0,0.003717,0.003717,0.003717
+4. Forest cover dataset,ForestDiffusion,KS_Complement,0.1889,1,0.0,0.1889,0.1889,0.1889
+4. Forest cover dataset,ForestDiffusion,MMD,0.003424,1,0.0,0.003424,0.003424,0.003424
+4. Forest cover dataset,ForestDiffusion,MMD_Multivariate,0.002604,1,0.0,0.002604,0.002604,0.002604
+4. Forest cover dataset,ForestDiffusion,Outlier_Count_Diff,8.071429,1,0.0,8.071429,8.071429,8.071429
+4. Forest cover dataset,ForestDiffusion,PCA_Correlation_Diff,0.094384,1,0.0,0.094384,0.094384,0.094384
+4. Forest cover dataset,ForestDiffusion,PCA_Mean_Error,28.68433,1,0.0,28.68433,28.68433,28.68433
+4. Forest cover dataset,ForestDiffusion,PCA_Mean_Error_Pct,11.18336433333333,1,0.0,11.18336433333333,11.18336433333333,11.18336433333333
+4. Forest cover dataset,ForestDiffusion,Quality_Score,0.1889,1,0.0,0.1889,0.1889,0.1889
+4. Forest cover dataset,ForestDiffusion,Wasserstein_Distance,0.007472,1,0.0,0.007472,0.007472,0.007472
+4. Forest cover dataset,GaussianCopula,Cosine_Similarity,0.002111,1,0.0,0.002111,0.002111,0.002111
+4. Forest cover dataset,GaussianCopula,Gower_Distance,0.906039,1,0.0,0.906039,0.906039,0.906039
+4. Forest cover dataset,GaussianCopula,Gower_Similarity,0.906039,1,0.0,0.906039,0.906039,0.906039
+4. Forest cover dataset,GaussianCopula,JS_Divergence,0.005124,1,0.0,0.005124,0.005124,0.005124
+4. Forest cover dataset,GaussianCopula,KS_Complement,0.9829,1,0.0,0.9829,0.9829,0.9829
+4. Forest cover dataset,GaussianCopula,MMD,0.002448,1,0.0,0.002448,0.002448,0.002448
+4. Forest cover dataset,GaussianCopula,Outlier_Count_Diff,6.648148,1,0.0,6.648148,6.648148,6.648148
+4. Forest cover dataset,GaussianCopula,PCA_Correlation_Diff,0.473179,1,0.0,0.473179,0.473179,0.473179
+4. Forest cover dataset,GaussianCopula,PCA_Mean_Error,26.61077,1,0.0,26.61077,26.61077,26.61077
+4. Forest cover dataset,GaussianCopula,PCA_Mean_Error_Pct,13.305385,1,0.0,13.305385,13.305385,13.305385
+4. Forest cover dataset,GaussianCopula,Quality_Score,0.925026,1,0.0,0.925026,0.925026,0.925026
+4. Forest cover dataset,GaussianCopula,Wasserstein_Distance,0.0043145956607495,1,0.0,0.0043145956607495,0.0043145956607495,0.0043145956607495
+4. Forest cover dataset,TVAE,Cosine_Similarity,0.009101,1,0.0,0.009101,0.009101,0.009101
+4. Forest cover dataset,TVAE,Gower_Distance,0.924451,1,0.0,0.924451,0.924451,0.924451
+4. Forest cover dataset,TVAE,Gower_Similarity,0.924451,1,0.0,0.924451,0.924451,0.924451
+4. Forest cover dataset,TVAE,JS_Divergence,0.006718,1,0.0,0.006718,0.006718,0.006718
+4. Forest cover dataset,TVAE,KS_Complement,0.9544,1,0.0,0.9544,0.9544,0.9544
+4. Forest cover dataset,TVAE,MMD,0.056792,1,0.0,0.056792,0.056792,0.056792
+4. Forest cover dataset,TVAE,Outlier_Count_Diff,23.759259,1,0.0,23.759259,23.759259,23.759259
+4. Forest cover dataset,TVAE,PCA_Correlation_Diff,0.521883,1,0.0,0.521883,0.521883,0.521883
+4. Forest cover dataset,TVAE,PCA_Mean_Error,76.959918,1,0.0,76.959918,76.959918,76.959918
+4. Forest cover dataset,TVAE,PCA_Mean_Error_Pct,38.979959,1,0.0,38.979959,38.979959,38.979959
+4. Forest cover dataset,TVAE,Quality_Score,0.881179,1,0.0,0.881179,0.881179,0.881179
+4. Forest cover dataset,TVAE,Wasserstein_Distance,0.0142176199868507,1,0.0,0.0142176199868507,0.0142176199868507,0.0142176199868507
+4. Forest cover dataset,TabDDPM,Cosine_Similarity,-0.020852,1,0.0,-0.020852,-0.020852,-0.020852
+4. Forest cover dataset,TabDDPM,Gower_Distance,0.633701,1,0.0,0.633701,0.633701,0.633701
+4. Forest cover dataset,TabDDPM,Gower_Similarity,0.633701,1,0.0,0.633701,0.633701,0.633701
+4. Forest cover dataset,TabDDPM,JS_Divergence,0.214195,1,0.0,0.214195,0.214195,0.214195
+4. Forest cover dataset,TabDDPM,KS_Complement,0.1043,1,0.0,0.1043,0.1043,0.1043
+4. Forest cover dataset,TabDDPM,MMD,0.511001,1,0.0,0.511001,0.511001,0.511001
+4. Forest cover dataset,TabDDPM,MMD_Multivariate,0.189755,1,0.0,0.189755,0.189755,0.189755
+4. Forest cover dataset,TabDDPM,Outlier_Count_Diff,31.142857,1,0.0,31.142857,31.142857,31.142857
+4. Forest cover dataset,TabDDPM,PCA_Correlation_Diff,0.485208,1,0.0,0.485208,0.485208,0.485208
+4. Forest cover dataset,TabDDPM,PCA_Mean_Error,5790.181813,1,0.0,5790.181813,5790.181813,5790.181813
+4. Forest cover dataset,TabDDPM,PCA_Mean_Error_Pct,1982.321426666667,1,0.0,1982.321426666667,1982.321426666667,1982.321426666667
+4. Forest cover dataset,TabDDPM,Quality_Score,0.1043,1,0.0,0.1043,0.1043,0.1043
+4. Forest cover dataset,TabDDPM,Wasserstein_Distance,0.313269,1,0.0,0.313269,0.313269,0.313269
+4. Forest cover dataset,WGAN_GP,Cosine_Similarity,0.004645,1,0.0,0.004645,0.004645,0.004645
+4. Forest cover dataset,WGAN_GP,Gower_Distance,0.905784,1,0.0,0.905784,0.905784,0.905784
+4. Forest cover dataset,WGAN_GP,Gower_Similarity,0.905784,1,0.0,0.905784,0.905784,0.905784
+4. Forest cover dataset,WGAN_GP,JS_Divergence,0.015944,1,0.0,0.015944,0.015944,0.015944
+4. Forest cover dataset,WGAN_GP,KS_Complement,0.9376,1,0.0,0.9376,0.9376,0.9376
+4. Forest cover dataset,WGAN_GP,MMD,0.029089,1,0.0,0.029089,0.029089,0.029089
+4. Forest cover dataset,WGAN_GP,MMD_Multivariate,0.030261,1,0.0,0.030261,0.030261,0.030261
+4. Forest cover dataset,WGAN_GP,Outlier_Count_Diff,23.854545,1,0.0,23.854545,23.854545,23.854545
+4. Forest cover dataset,WGAN_GP,PCA_Correlation_Diff,0.996833,1,0.0,0.996833,0.996833,0.996833
+4. Forest cover dataset,WGAN_GP,PCA_Mean_Error,66.583539,1,0.0,66.583539,66.583539,66.583539
+4. Forest cover dataset,WGAN_GP,PCA_Mean_Error_Pct,44.00361033333333,1,0.0,44.00361033333333,44.00361033333333,44.00361033333333
+4. Forest cover dataset,WGAN_GP,Quality_Score,0.9376,1,0.0,0.9376,0.9376,0.9376
+4. Forest cover dataset,WGAN_GP,Wasserstein_Distance,0.040051,1,0.0,0.040051,0.040051,0.040051
+5. Bank Markting,CTABGAN,Cosine_Similarity,0.019165,1,0.0,0.019165,0.019165,0.019165
+5. Bank Markting,CTABGAN,Gower_Distance,0.60794,1,0.0,0.60794,0.60794,0.60794
+5. Bank Markting,CTABGAN,Gower_Similarity,0.60794,1,0.0,0.60794,0.60794,0.60794
+5. Bank Markting,CTABGAN,JS_Divergence,0.0604166666666666,1,0.0,0.0604166666666666,0.0604166666666666,0.0604166666666666
+5. Bank Markting,CTABGAN,KS_Complement,0.8953,1,0.0,0.8953,0.8953,0.8953
+5. Bank Markting,CTABGAN,MMD,0.022723,1,0.0,0.022723,0.022723,0.022723
+5. Bank Markting,CTABGAN,MMD_Multivariate,0.020363,1,0.0,0.020363,0.020363,0.020363
+5. Bank Markting,CTABGAN,Outlier_Count_Diff,45.428571,1,0.0,45.428571,45.428571,45.428571
+5. Bank Markting,CTABGAN,PCA_Correlation_Diff,0.471534,1,0.0,0.471534,0.471534,0.471534
+5. Bank Markting,CTABGAN,PCA_Mean_Error,37.171926,1,0.0,37.171926,37.171926,37.171926
+5. Bank Markting,CTABGAN,PCA_Mean_Error_Pct,18.585963,1,0.0,18.585963,18.585963,18.585963
+5. Bank Markting,CTABGAN,Quality_Score,0.895316,1,0.0,0.895316,0.895316,0.895316
+5. Bank Markting,CTABGAN,Wasserstein_Distance,0.038294,1,0.0,0.038294,0.038294,0.038294
+5. Bank Markting,CTGAN,Cosine_Similarity,0.016167,1,0.0,0.016167,0.016167,0.016167
+5. Bank Markting,CTGAN,Gower_Distance,0.627346,1,0.0,0.627346,0.627346,0.627346
+5. Bank Markting,CTGAN,Gower_Similarity,0.627346,1,0.0,0.627346,0.627346,0.627346
+5. Bank Markting,CTGAN,KS_Complement,0.9019,1,0.0,0.9019,0.9019,0.9019
+5. Bank Markting,CTGAN,MMD,0.005335,1,0.0,0.005335,0.005335,0.005335
+5. Bank Markting,CTGAN,MMD_Multivariate,0.003042,1,0.0,0.003042,0.003042,0.003042
+5. Bank Markting,CTGAN,Outlier_Count_Diff,2767.285714,1,0.0,2767.285714,2767.285714,2767.285714
+5. Bank Markting,CTGAN,PCA_Correlation_Diff,0.104697,1,0.0,0.104697,0.104697,0.104697
+5. Bank Markting,CTGAN,PCA_Mean_Error,15.683888,1,0.0,15.683888,15.683888,15.683888
+5. Bank Markting,CTGAN,PCA_Mean_Error_Pct,7.841944,1,0.0,7.841944,7.841944,7.841944
+5. Bank Markting,CTGAN,Quality_Score,0.867679,1,0.0,0.867679,0.867679,0.867679
+5. Bank Markting,CTGAN,Wasserstein_Distance,0.010308,1,0.0,0.010308,0.010308,0.010308
+5. Bank Markting,CopulaGAN,Cosine_Similarity,-0.004861,1,0.0,-0.004861,-0.004861,-0.004861
+5. Bank Markting,CopulaGAN,Gower_Distance,0.617333,1,0.0,0.617333,0.617333,0.617333
+5. Bank Markting,CopulaGAN,Gower_Similarity,0.617333,1,0.0,0.617333,0.617333,0.617333
+5. Bank Markting,CopulaGAN,KS_Complement,0.863,1,0.0,0.863,0.863,0.863
+5. Bank Markting,CopulaGAN,MMD,0.021132,1,0.0,0.021132,0.021132,0.021132
+5. Bank Markting,CopulaGAN,MMD_Multivariate,0.014594,1,0.0,0.014594,0.014594,0.014594
+5. Bank Markting,CopulaGAN,Outlier_Count_Diff,3212.714286,1,0.0,3212.714286,3212.714286,3212.714286
+5. Bank Markting,CopulaGAN,PCA_Correlation_Diff,0.108287,1,0.0,0.108287,0.108287,0.108287
+5. Bank Markting,CopulaGAN,PCA_Mean_Error,27.112464,1,0.0,27.112464,27.112464,27.112464
+5. Bank Markting,CopulaGAN,PCA_Mean_Error_Pct,13.688015,1,0.0,13.688015,13.688015,13.688015
+5. Bank Markting,CopulaGAN,Quality_Score,0.845611,1,0.0,0.845611,0.845611,0.845611
+5. Bank Markting,CopulaGAN,Wasserstein_Distance,0.015207,1,0.0,0.015207,0.015207,0.015207
+5. Bank Markting,ForestDiffusion,Cosine_Similarity,0.028548,1,0.0,0.028548,0.028548,0.028548
+5. Bank Markting,ForestDiffusion,Gower_Distance,0.623875,1,0.0,0.623875,0.623875,0.623875
+5. Bank Markting,ForestDiffusion,Gower_Similarity,0.623875,1,0.0,0.623875,0.623875,0.623875
+5. Bank Markting,ForestDiffusion,JS_Divergence,0.0306666666666666,1,0.0,0.0306666666666666,0.0306666666666666,0.0306666666666666
+5. Bank Markting,ForestDiffusion,KS_Complement,0.8303,1,0.0,0.8303,0.8303,0.8303
+5. Bank Markting,ForestDiffusion,MMD,0.006,1,0.0,0.006,0.006,0.006
+5. Bank Markting,ForestDiffusion,MMD_Multivariate,0.004806,1,0.0,0.004806,0.004806,0.004806
+5. Bank Markting,ForestDiffusion,Outlier_Count_Diff,13.142857,1,0.0,13.142857,13.142857,13.142857
+5. Bank Markting,ForestDiffusion,PCA_Correlation_Diff,0.088567,1,0.0,0.088567,0.088567,0.088567
+5. Bank Markting,ForestDiffusion,PCA_Mean_Error,7.241908,1,0.0,7.241908,7.241908,7.241908
+5. Bank Markting,ForestDiffusion,PCA_Mean_Error_Pct,3.620954,1,0.0,3.620954,3.620954,3.620954
+5. Bank Markting,ForestDiffusion,Quality_Score,0.830322,1,0.0,0.830322,0.830322,0.830322
+5. Bank Markting,ForestDiffusion,Wasserstein_Distance,0.015511,1,0.0,0.015511,0.015511,0.015511
+5. Bank Markting,GaussianCopula,Cosine_Similarity,-0.020781,1,0.0,-0.020781,-0.020781,-0.020781
+5. Bank Markting,GaussianCopula,Gower_Distance,0.626154,1,0.0,0.626154,0.626154,0.626154
+5. Bank Markting,GaussianCopula,Gower_Similarity,0.626154,1,0.0,0.626154,0.626154,0.626154
+5. Bank Markting,GaussianCopula,KS_Complement,0.8642,1,0.0,0.8642,0.8642,0.8642
+5. Bank Markting,GaussianCopula,MMD,0.063279,1,0.0,0.063279,0.063279,0.063279
+5. Bank Markting,GaussianCopula,MMD_Multivariate,0.050541,1,0.0,0.050541,0.050541,0.050541
+5. Bank Markting,GaussianCopula,Outlier_Count_Diff,3544.285714,1,0.0,3544.285714,3544.285714,3544.285714
+5. Bank Markting,GaussianCopula,PCA_Correlation_Diff,0.23165,1,0.0,0.23165,0.23165,0.23165
+5. Bank Markting,GaussianCopula,PCA_Mean_Error,59.045216,1,0.0,59.045216,59.045216,59.045216
+5. Bank Markting,GaussianCopula,PCA_Mean_Error_Pct,30.022608,1,0.0,30.022608,30.022608,30.022608
+5. Bank Markting,GaussianCopula,Quality_Score,0.821755,1,0.0,0.821755,0.821755,0.821755
+5. Bank Markting,GaussianCopula,Wasserstein_Distance,0.017279,1,0.0,0.017279,0.017279,0.017279
+5. Bank Markting,TVAE,Cosine_Similarity,0.047822,1,0.0,0.047822,0.047822,0.047822
+5. Bank Markting,TVAE,Gower_Distance,0.647807,1,0.0,0.647807,0.647807,0.647807
+5. Bank Markting,TVAE,Gower_Similarity,0.647807,1,0.0,0.647807,0.647807,0.647807
+5. Bank Markting,TVAE,KS_Complement,0.8815000000000001,1,0.0,0.8815000000000001,0.8815000000000001,0.8815000000000001
+5. Bank Markting,TVAE,MMD,0.022188,1,0.0,0.022188,0.022188,0.022188
+5. Bank Markting,TVAE,MMD_Multivariate,0.025269,1,0.0,0.025269,0.025269,0.025269
+5. Bank Markting,TVAE,Outlier_Count_Diff,3101.142857,1,0.0,3101.142857,3101.142857,3101.142857
+5. Bank Markting,TVAE,PCA_Correlation_Diff,0.275759,1,0.0,0.275759,0.275759,0.275759
+5. Bank Markting,TVAE,PCA_Mean_Error,25.553935,1,0.0,25.553935,25.553935,25.553935
+5. Bank Markting,TVAE,PCA_Mean_Error_Pct,12.890779,1,0.0,12.890779,12.890779,12.890779
+5. Bank Markting,TVAE,Quality_Score,0.828657,1,0.0,0.828657,0.828657,0.828657
+5. Bank Markting,TVAE,Wasserstein_Distance,0.021784,1,0.0,0.021784,0.021784,0.021784
+5. Bank Markting,TabDDPM,Cosine_Similarity,-0.05826,1,0.0,-0.05826,-0.05826,-0.05826
+5. Bank Markting,TabDDPM,Gower_Distance,0.373353,1,0.0,0.373353,0.373353,0.373353
+5. Bank Markting,TabDDPM,Gower_Similarity,0.373353,1,0.0,0.373353,0.373353,0.373353
+5. Bank Markting,TabDDPM,JS_Divergence,0.6054999999999999,1,0.0,0.6054999999999999,0.6054999999999999,0.6054999999999999
+5. Bank Markting,TabDDPM,KS_Complement,0.3986,1,0.0,0.3986,0.3986,0.3986
+5. Bank Markting,TabDDPM,MMD,0.505625,1,0.0,0.505625,0.505625,0.505625
+5. Bank Markting,TabDDPM,MMD_Multivariate,0.352077,1,0.0,0.352077,0.352077,0.352077
+5. Bank Markting,TabDDPM,Outlier_Count_Diff,117.857143,1,0.0,117.857143,117.857143,117.857143
+5. Bank Markting,TabDDPM,PCA_Correlation_Diff,0.654094,1,0.0,0.654094,0.654094,0.654094
+5. Bank Markting,TabDDPM,PCA_Mean_Error,498.673544,1,0.0,498.673544,498.673544,498.673544
+5. Bank Markting,TabDDPM,PCA_Mean_Error_Pct,249.836772,1,0.0,249.836772,249.836772,249.836772
+5. Bank Markting,TabDDPM,Quality_Score,0.39863,1,0.0,0.39863,0.39863,0.39863
+5. Bank Markting,TabDDPM,Wasserstein_Distance,0.325253,1,0.0,0.325253,0.325253,0.325253
+5. Bank Markting,WGAN_GP,Cosine_Similarity,0.030217,1,0.0,0.030217,0.030217,0.030217
+5. Bank Markting,WGAN_GP,Gower_Distance,0.620311,1,0.0,0.620311,0.620311,0.620311
+5. Bank Markting,WGAN_GP,Gower_Similarity,0.620311,1,0.0,0.620311,0.620311,0.620311
+5. Bank Markting,WGAN_GP,JS_Divergence,0.2274,1,0.0,0.2274,0.2274,0.2274
+5. Bank Markting,WGAN_GP,KS_Complement,0.7665000000000001,1,0.0,0.7665000000000001,0.7665000000000001,0.7665000000000001
+5. Bank Markting,WGAN_GP,MMD,0.043817,1,0.0,0.043817,0.043817,0.043817
+5. Bank Markting,WGAN_GP,MMD_Multivariate,0.030767,1,0.0,0.030767,0.030767,0.030767
+5. Bank Markting,WGAN_GP,Outlier_Count_Diff,83.857143,1,0.0,83.857143,83.857143,83.857143
+5. Bank Markting,WGAN_GP,PCA_Correlation_Diff,0.567878,1,0.0,0.567878,0.567878,0.567878
+5. Bank Markting,WGAN_GP,PCA_Mean_Error,48.281733,1,0.0,48.281733,48.281733,48.281733
+5. Bank Markting,WGAN_GP,PCA_Mean_Error_Pct,24.6408665,1,0.0,24.6408665,24.6408665,24.6408665
+5. Bank Markting,WGAN_GP,Quality_Score,0.766527,1,0.0,0.766527,0.766527,0.766527
+5. Bank Markting,WGAN_GP,Wasserstein_Distance,0.057577,1,0.0,0.057577,0.057577,0.057577
+6. Wine dataset,CTABGAN,Cosine_Similarity,0.00224,1,0.0,0.00224,0.00224,0.00224
+6. Wine dataset,CTABGAN,Gower_Distance,0.851682,1,0.0,0.851682,0.851682,0.851682
+6. Wine dataset,CTABGAN,Gower_Similarity,0.851682,1,0.0,0.851682,0.851682,0.851682
+6. Wine dataset,CTABGAN,JS_Divergence,0.0311999999999999,1,0.0,0.0311999999999999,0.0311999999999999,0.0311999999999999
+6. Wine dataset,CTABGAN,KS_Complement,0.8340000000000001,1,0.0,0.8340000000000001,0.8340000000000001,0.8340000000000001
+6. Wine dataset,CTABGAN,MMD,0.017623,1,0.0,0.017623,0.017623,0.017623
+6. Wine dataset,CTABGAN,MMD_Multivariate,0.010389,1,0.0,0.010389,0.010389,0.010389
+6. Wine dataset,CTABGAN,Outlier_Count_Diff,8.166667,1,0.0,8.166667,8.166667,8.166667
+6. Wine dataset,CTABGAN,PCA_Correlation_Diff,0.455425,1,0.0,0.455425,0.455425,0.455425
+6. Wine dataset,CTABGAN,PCA_Mean_Error,4.495219,1,0.0,4.495219,4.495219,4.495219
+6. Wine dataset,CTABGAN,PCA_Mean_Error_Pct,4.495219,1,0.0,4.495219,4.495219,4.495219
+6. Wine dataset,CTABGAN,Quality_Score,0.834,1,0.0,0.834,0.834,0.834
+6. Wine dataset,CTABGAN,Wasserstein_Distance,0.025031,1,0.0,0.025031,0.025031,0.025031
+6. Wine dataset,CTGAN,Cosine_Similarity,0.005918,1,0.0,0.005918,0.005918,0.005918
+6. Wine dataset,CTGAN,Gower_Distance,0.881018,1,0.0,0.881018,0.881018,0.881018
+6. Wine dataset,CTGAN,Gower_Similarity,0.881018,1,0.0,0.881018,0.881018,0.881018
+6. Wine dataset,CTGAN,JS_Divergence,0.03275,1,0.0,0.03275,0.03275,0.03275
+6. Wine dataset,CTGAN,KS_Complement,0.8667,1,0.0,0.8667,0.8667,0.8667
+6. Wine dataset,CTGAN,MMD,0.013173,1,0.0,0.013173,0.013173,0.013173
+6. Wine dataset,CTGAN,MMD_Multivariate,0.011186,1,0.0,0.011186,0.011186,0.011186
+6. Wine dataset,CTGAN,Outlier_Count_Diff,113.0,1,0.0,113.0,113.0,113.0
+6. Wine dataset,CTGAN,PCA_Correlation_Diff,0.508821,1,0.0,0.508821,0.508821,0.508821
+6. Wine dataset,CTGAN,PCA_Mean_Error,5.266867,1,0.0,5.266867,5.266867,5.266867
+6. Wine dataset,CTGAN,PCA_Mean_Error_Pct,3.1334335,1,0.0,3.1334335,3.1334335,3.1334335
+6. Wine dataset,CTGAN,Quality_Score,0.870891,1,0.0,0.870891,0.870891,0.870891
+6. Wine dataset,CTGAN,Wasserstein_Distance,0.026365,1,0.0,0.026365,0.026365,0.026365
+6. Wine dataset,CopulaGAN,Cosine_Similarity,0.005261,1,0.0,0.005261,0.005261,0.005261
+6. Wine dataset,CopulaGAN,Gower_Distance,0.883799,1,0.0,0.883799,0.883799,0.883799
+6. Wine dataset,CopulaGAN,Gower_Similarity,0.883799,1,0.0,0.883799,0.883799,0.883799
+6. Wine dataset,CopulaGAN,JS_Divergence,0.0342222222222222,1,0.0,0.0342222222222222,0.0342222222222222,0.0342222222222222
+6. Wine dataset,CopulaGAN,KS_Complement,0.8839,1,0.0,0.8839,0.8839,0.8839
+6. Wine dataset,CopulaGAN,MMD,0.009521,1,0.0,0.009521,0.009521,0.009521
+6. Wine dataset,CopulaGAN,MMD_Multivariate,0.009166,1,0.0,0.009166,0.009166,0.009166
+6. Wine dataset,CopulaGAN,Outlier_Count_Diff,98.181818,1,0.0,98.181818,98.181818,98.181818
+6. Wine dataset,CopulaGAN,PCA_Correlation_Diff,0.556285,1,0.0,0.556285,0.556285,0.556285
+6. Wine dataset,CopulaGAN,PCA_Mean_Error,5.089144,1,0.0,5.089144,5.089144,5.089144
+6. Wine dataset,CopulaGAN,PCA_Mean_Error_Pct,3.025904,1,0.0,3.025904,3.025904,3.025904
+6. Wine dataset,CopulaGAN,Quality_Score,0.869136,1,0.0,0.869136,0.869136,0.869136
+6. Wine dataset,CopulaGAN,Wasserstein_Distance,0.025152,1,0.0,0.025152,0.025152,0.025152
+6. Wine dataset,ForestDiffusion,Cosine_Similarity,0.009172,1,0.0,0.009172,0.009172,0.009172
+6. Wine dataset,ForestDiffusion,Gower_Distance,0.858982,1,0.0,0.858982,0.858982,0.858982
+6. Wine dataset,ForestDiffusion,Gower_Similarity,0.858982,1,0.0,0.858982,0.858982,0.858982
+6. Wine dataset,ForestDiffusion,JS_Divergence,0.0163999999999999,1,0.0,0.0163999999999999,0.0163999999999999,0.0163999999999999
+6. Wine dataset,ForestDiffusion,KS_Complement,0.8576999999999999,1,0.0,0.8576999999999999,0.8576999999999999,0.8576999999999999
+6. Wine dataset,ForestDiffusion,MMD,0.004242,1,0.0,0.004242,0.004242,0.004242
+6. Wine dataset,ForestDiffusion,MMD_Multivariate,0.002163,1,0.0,0.002163,0.002163,0.002163
+6. Wine dataset,ForestDiffusion,Outlier_Count_Diff,4.909091,1,0.0,4.909091,4.909091,4.909091
+6. Wine dataset,ForestDiffusion,PCA_Correlation_Diff,0.077458,1,0.0,0.077458,0.077458,0.077458
+6. Wine dataset,ForestDiffusion,PCA_Mean_Error,1.118672,1,0.0,1.118672,1.118672,1.118672
+6. Wine dataset,ForestDiffusion,PCA_Mean_Error_Pct,1.118672,1,0.0,1.118672,1.118672,1.118672
+6. Wine dataset,ForestDiffusion,Quality_Score,0.857667,1,0.0,0.857667,0.857667,0.857667
+6. Wine dataset,ForestDiffusion,Wasserstein_Distance,0.012673,1,0.0,0.012673,0.012673,0.012673
+6. Wine dataset,GaussianCopula,Cosine_Similarity,0.003519,1,0.0,0.003519,0.003519,0.003519
+6. Wine dataset,GaussianCopula,Gower_Distance,0.889308,1,0.0,0.889308,0.889308,0.889308
+6. Wine dataset,GaussianCopula,Gower_Similarity,0.889308,1,0.0,0.889308,0.889308,0.889308
+6. Wine dataset,GaussianCopula,JS_Divergence,0.0393636363636363,1,0.0,0.0393636363636363,0.0393636363636363,0.0393636363636363
+6. Wine dataset,GaussianCopula,KS_Complement,0.9186,1,0.0,0.9186,0.9186,0.9186
+6. Wine dataset,GaussianCopula,MMD,0.003268,1,0.0,0.003268,0.003268,0.003268
+6. Wine dataset,GaussianCopula,MMD_Multivariate,0.002883,1,0.0,0.002883,0.002883,0.002883
+6. Wine dataset,GaussianCopula,Outlier_Count_Diff,143.181818,1,0.0,143.181818,143.181818,143.181818
+6. Wine dataset,GaussianCopula,PCA_Correlation_Diff,0.138394,1,0.0,0.138394,0.138394,0.138394
+6. Wine dataset,GaussianCopula,PCA_Mean_Error,0.506707,1,0.0,0.506707,0.506707,0.506707
+6. Wine dataset,GaussianCopula,PCA_Mean_Error_Pct,0.2533535,1,0.0,0.2533535,0.2533535,0.2533535
+6. Wine dataset,GaussianCopula,Quality_Score,0.951731,1,0.0,0.951731,0.951731,0.951731
+6. Wine dataset,GaussianCopula,Wasserstein_Distance,0.011826,1,0.0,0.011826,0.011826,0.011826
+6. Wine dataset,TVAE,Cosine_Similarity,0.014057,1,0.0,0.014057,0.014057,0.014057
+6. Wine dataset,TVAE,Gower_Distance,0.898376,1,0.0,0.898376,0.898376,0.898376
+6. Wine dataset,TVAE,Gower_Similarity,0.898376,1,0.0,0.898376,0.898376,0.898376
+6. Wine dataset,TVAE,JS_Divergence,0.031,1,0.0,0.031,0.031,0.031
+6. Wine dataset,TVAE,KS_Complement,0.9186,1,0.0,0.9186,0.9186,0.9186
+6. Wine dataset,TVAE,MMD,0.007385,1,0.0,0.007385,0.007385,0.007385
+6. Wine dataset,TVAE,MMD_Multivariate,0.008219,1,0.0,0.008219,0.008219,0.008219
+6. Wine dataset,TVAE,Outlier_Count_Diff,103.181818,1,0.0,103.181818,103.181818,103.181818
+6. Wine dataset,TVAE,PCA_Correlation_Diff,0.224182,1,0.0,0.224182,0.224182,0.224182
+6. Wine dataset,TVAE,PCA_Mean_Error,3.932436,1,0.0,3.932436,3.932436,3.932436
+6. Wine dataset,TVAE,PCA_Mean_Error_Pct,2.3260515,1,0.0,2.3260515,2.3260515,2.3260515
+6. Wine dataset,TVAE,Quality_Score,0.94743,1,0.0,0.94743,0.94743,0.94743
+6. Wine dataset,TVAE,Wasserstein_Distance,0.013171,1,0.0,0.013171,0.013171,0.013171
+6. Wine dataset,TabDDPM,Cosine_Similarity,-0.000788,1,0.0,-0.000788,-0.000788,-0.000788
+6. Wine dataset,TabDDPM,Gower_Distance,0.767133,1,0.0,0.767133,0.767133,0.767133
+6. Wine dataset,TabDDPM,Gower_Similarity,0.767133,1,0.0,0.767133,0.767133,0.767133
+6. Wine dataset,TabDDPM,JS_Divergence,0.1431666666666667,1,0.0,0.1431666666666667,0.1431666666666667,0.1431666666666667
+6. Wine dataset,TabDDPM,KS_Complement,0.7613,1,0.0,0.7613,0.7613,0.7613
+6. Wine dataset,TabDDPM,MMD,0.064043,1,0.0,0.064043,0.064043,0.064043
+6. Wine dataset,TabDDPM,MMD_Multivariate,0.080353,1,0.0,0.080353,0.080353,0.080353
+6. Wine dataset,TabDDPM,Outlier_Count_Diff,82.636364,1,0.0,82.636364,82.636364,82.636364
+6. Wine dataset,TabDDPM,PCA_Correlation_Diff,0.734914,1,0.0,0.734914,0.734914,0.734914
+6. Wine dataset,TabDDPM,PCA_Mean_Error,24.10501,1,0.0,24.10501,24.10501,24.10501
+6. Wine dataset,TabDDPM,PCA_Mean_Error_Pct,24.10501,1,0.0,24.10501,24.10501,24.10501
+6. Wine dataset,TabDDPM,Quality_Score,0.761333,1,0.0,0.761333,0.761333,0.761333
+6. Wine dataset,TabDDPM,Wasserstein_Distance,0.097735,1,0.0,0.097735,0.097735,0.097735
+6. Wine dataset,WGAN_GP,Cosine_Similarity,-6.3e-05,1,0.0,-6.3e-05,-6.3e-05,-6.3e-05
+6. Wine dataset,WGAN_GP,Gower_Distance,0.868162,1,0.0,0.868162,0.868162,0.868162
+6. Wine dataset,WGAN_GP,Gower_Similarity,0.868162,1,0.0,0.868162,0.868162,0.868162
+6. Wine dataset,WGAN_GP,JS_Divergence,0.1145454545454545,1,0.0,0.1145454545454545,0.1145454545454545,0.1145454545454545
+6. Wine dataset,WGAN_GP,KS_Complement,0.7164,1,0.0,0.7164,0.7164,0.7164
+6. Wine dataset,WGAN_GP,MMD,0.065135,1,0.0,0.065135,0.065135,0.065135
+6. Wine dataset,WGAN_GP,MMD_Multivariate,0.05039,1,0.0,0.05039,0.05039,0.05039
+6. Wine dataset,WGAN_GP,Outlier_Count_Diff,22.666667,1,0.0,22.666667,22.666667,22.666667
+6. Wine dataset,WGAN_GP,PCA_Correlation_Diff,0.604353,1,0.0,0.604353,0.604353,0.604353
+6. Wine dataset,WGAN_GP,PCA_Mean_Error,16.358989,1,0.0,16.358989,16.358989,16.358989
+6. Wine dataset,WGAN_GP,PCA_Mean_Error_Pct,16.358989,1,0.0,16.358989,16.358989,16.358989
+6. Wine dataset,WGAN_GP,Quality_Score,0.716417,1,0.0,0.716417,0.716417,0.716417
+6. Wine dataset,WGAN_GP,Wasserstein_Distance,0.057512,1,0.0,0.057512,0.057512,0.057512
+7. CDC diabetes dataset,CTABGAN,Cosine_Similarity,-0.032389,1,0.0,-0.032389,-0.032389,-0.032389
+7. CDC diabetes dataset,CTABGAN,Gower_Distance,0.636716,1,0.0,0.636716,0.636716,0.636716
+7. CDC diabetes dataset,CTABGAN,Gower_Similarity,0.636716,1,0.0,0.636716,0.636716,0.636716
+7. CDC diabetes dataset,CTABGAN,JS_Divergence,0.1225833333333333,1,0.0,0.1225833333333333,0.1225833333333333,0.1225833333333333
+7. CDC diabetes dataset,CTABGAN,KS_Complement,0.7603,1,0.0,0.7603,0.7603,0.7603
+7. CDC diabetes dataset,CTABGAN,MMD,0.334556,1,0.0,0.334556,0.334556,0.334556
+7. CDC diabetes dataset,CTABGAN,MMD_Multivariate,0.257733,1,0.0,0.257733,0.257733,0.257733
+7. CDC diabetes dataset,CTABGAN,Outlier_Count_Diff,48.52381,1,0.0,48.52381,48.52381,48.52381
+7. CDC diabetes dataset,CTABGAN,PCA_Correlation_Diff,0.503399,1,0.0,0.503399,0.503399,0.503399
+7. CDC diabetes dataset,CTABGAN,PCA_Mean_Error,138.644819,1,0.0,138.644819,138.644819,138.644819
+7. CDC diabetes dataset,CTABGAN,PCA_Mean_Error_Pct,141.2737375,1,0.0,141.2737375,141.2737375,141.2737375
+7. CDC diabetes dataset,CTABGAN,Quality_Score,0.760273,1,0.0,0.760273,0.760273,0.760273
+7. CDC diabetes dataset,CTABGAN,Wasserstein_Distance,0.164295,1,0.0,0.164295,0.164295,0.164295
+7. CDC diabetes dataset,CTGAN,Cosine_Similarity,-0.004886,1,0.0,-0.004886,-0.004886,-0.004886
+7. CDC diabetes dataset,CTGAN,Gower_Distance,0.712221,1,0.0,0.712221,0.712221,0.712221
+7. CDC diabetes dataset,CTGAN,Gower_Similarity,0.712221,1,0.0,0.712221,0.712221,0.712221
+7. CDC diabetes dataset,CTGAN,JS_Divergence,0.0261,1,0.0,0.0261,0.0261,0.0261
+7. CDC diabetes dataset,CTGAN,KS_Complement,0.9051,1,0.0,0.9051,0.9051,0.9051
+7. CDC diabetes dataset,CTGAN,MMD,0.019512,1,0.0,0.019512,0.019512,0.019512
+7. CDC diabetes dataset,CTGAN,MMD_Multivariate,0.017494,1,0.0,0.017494,0.017494,0.017494
+7. CDC diabetes dataset,CTGAN,Outlier_Count_Diff,438.238095,1,0.0,438.238095,438.238095,438.238095
+7. CDC diabetes dataset,CTGAN,PCA_Mean_Error,26.911364,1,0.0,26.911364,26.911364,26.911364
+7. CDC diabetes dataset,CTGAN,PCA_Mean_Error_Pct,13.955682,1,0.0,13.955682,13.955682,13.955682
+7. CDC diabetes dataset,CTGAN,Quality_Score,0.87481,1,0.0,0.87481,0.87481,0.87481
+7. CDC diabetes dataset,CTGAN,Wasserstein_Distance,0.062105,1,0.0,0.062105,0.062105,0.062105
+7. CDC diabetes dataset,CopulaGAN,Cosine_Similarity,-0.000336,1,0.0,-0.000336,-0.000336,-0.000336
+7. CDC diabetes dataset,CopulaGAN,Gower_Distance,0.714305,1,0.0,0.714305,0.714305,0.714305
+7. CDC diabetes dataset,CopulaGAN,Gower_Similarity,0.714305,1,0.0,0.714305,0.714305,0.714305
+7. CDC diabetes dataset,CopulaGAN,JS_Divergence,0.0308,1,0.0,0.0308,0.0308,0.0308
+7. CDC diabetes dataset,CopulaGAN,KS_Complement,0.9145,1,0.0,0.9145,0.9145,0.9145
+7. CDC diabetes dataset,CopulaGAN,MMD,0.014304,1,0.0,0.014304,0.014304,0.014304
+7. CDC diabetes dataset,CopulaGAN,MMD_Multivariate,0.013833,1,0.0,0.013833,0.013833,0.013833
+7. CDC diabetes dataset,CopulaGAN,Outlier_Count_Diff,372.714286,1,0.0,372.714286,372.714286,372.714286
+7. CDC diabetes dataset,CopulaGAN,PCA_Mean_Error,20.300259,1,0.0,20.300259,20.300259,20.300259
+7. CDC diabetes dataset,CopulaGAN,PCA_Mean_Error_Pct,10.153145,1,0.0,10.153145,10.153145,10.153145
+7. CDC diabetes dataset,CopulaGAN,Quality_Score,0.88296,1,0.0,0.88296,0.88296,0.88296
+7. CDC diabetes dataset,CopulaGAN,Wasserstein_Distance,0.062756,1,0.0,0.062756,0.062756,0.062756
+7. CDC diabetes dataset,ForestDiffusion,Gower_Distance,0.73907,1,0.0,0.73907,0.73907,0.73907
+7. CDC diabetes dataset,ForestDiffusion,Gower_Similarity,0.73907,1,0.0,0.73907,0.73907,0.73907
+7. CDC diabetes dataset,ForestDiffusion,JS_Divergence,0.1515714285714285,1,0.0,0.1515714285714285,0.1515714285714285,0.1515714285714285
+7. CDC diabetes dataset,ForestDiffusion,KS_Complement,0.5118,1,0.0,0.5118,0.5118,0.5118
+7. CDC diabetes dataset,ForestDiffusion,MMD_Multivariate,0.000639,1,0.0,0.000639,0.000639,0.000639
+7. CDC diabetes dataset,ForestDiffusion,Outlier_Count_Diff,23.285714,1,0.0,23.285714,23.285714,23.285714
+7. CDC diabetes dataset,ForestDiffusion,PCA_Correlation_Diff,0.13091,1,0.0,0.13091,0.13091,0.13091
+7. CDC diabetes dataset,ForestDiffusion,PCA_Mean_Error,7.220706,1,0.0,7.220706,7.220706,7.220706
+7. CDC diabetes dataset,ForestDiffusion,PCA_Mean_Error_Pct,7.220706,1,0.0,7.220706,7.220706,7.220706
+7. CDC diabetes dataset,ForestDiffusion,Quality_Score,0.511773,1,0.0,0.511773,0.511773,0.511773
+7. CDC diabetes dataset,ForestDiffusion,Wasserstein_Distance,0.015769,1,0.0,0.015769,0.015769,0.015769
+7. CDC diabetes dataset,GaussianCopula,Cosine_Similarity,-0.004156,1,0.0,-0.004156,-0.004156,-0.004156
+7. CDC diabetes dataset,GaussianCopula,Gower_Distance,0.716012,1,0.0,0.716012,0.716012,0.716012
+7. CDC diabetes dataset,GaussianCopula,Gower_Similarity,0.716012,1,0.0,0.716012,0.716012,0.716012
+7. CDC diabetes dataset,GaussianCopula,JS_Divergence,0.0376666666666666,1,0.0,0.0376666666666666,0.0376666666666666,0.0376666666666666
+7. CDC diabetes dataset,GaussianCopula,KS_Complement,0.9591,1,0.0,0.9591,0.9591,0.9591
+7. CDC diabetes dataset,GaussianCopula,MMD,0.039741,1,0.0,0.039741,0.039741,0.039741
+7. CDC diabetes dataset,GaussianCopula,MMD_Multivariate,0.040098,1,0.0,0.040098,0.040098,0.040098
+7. CDC diabetes dataset,GaussianCopula,Outlier_Count_Diff,344.285714,1,0.0,344.285714,344.285714,344.285714
+7. CDC diabetes dataset,GaussianCopula,PCA_Mean_Error,20.260145,1,0.0,20.260145,20.260145,20.260145
+7. CDC diabetes dataset,GaussianCopula,PCA_Mean_Error_Pct,10.1300725,1,0.0,10.1300725,10.1300725,10.1300725
+7. CDC diabetes dataset,GaussianCopula,Quality_Score,0.923657,1,0.0,0.923657,0.923657,0.923657
+7. CDC diabetes dataset,GaussianCopula,Wasserstein_Distance,0.024006,1,0.0,0.024006,0.024006,0.024006
+7. CDC diabetes dataset,TVAE,Cosine_Similarity,0.02507,1,0.0,0.02507,0.02507,0.02507
+7. CDC diabetes dataset,TVAE,Gower_Distance,0.752427,1,0.0,0.752427,0.752427,0.752427
+7. CDC diabetes dataset,TVAE,Gower_Similarity,0.752427,1,0.0,0.752427,0.752427,0.752427
+7. CDC diabetes dataset,TVAE,JS_Divergence,0.019,1,0.0,0.019,0.019,0.019
+7. CDC diabetes dataset,TVAE,KS_Complement,0.9449,1,0.0,0.9449,0.9449,0.9449
+7. CDC diabetes dataset,TVAE,MMD,0.01466,1,0.0,0.01466,0.01466,0.01466
+7. CDC diabetes dataset,TVAE,MMD_Multivariate,0.015303,1,0.0,0.015303,0.015303,0.015303
+7. CDC diabetes dataset,TVAE,Outlier_Count_Diff,165.047619,1,0.0,165.047619,165.047619,165.047619
+7. CDC diabetes dataset,TVAE,PCA_Mean_Error,20.710261,1,0.0,20.710261,20.710261,20.710261
+7. CDC diabetes dataset,TVAE,PCA_Mean_Error_Pct,10.3889675,1,0.0,10.3889675,10.3889675,10.3889675
+7. CDC diabetes dataset,TVAE,Quality_Score,0.916702,1,0.0,0.916702,0.916702,0.916702
+7. CDC diabetes dataset,TVAE,Wasserstein_Distance,0.039536,1,0.0,0.039536,0.039536,0.039536
+7. CDC diabetes dataset,TabDDPM,Gower_Distance,0.62126,1,0.0,0.62126,0.62126,0.62126
+7. CDC diabetes dataset,TabDDPM,Gower_Similarity,0.62126,1,0.0,0.62126,0.62126,0.62126
+7. CDC diabetes dataset,TabDDPM,JS_Divergence,0.28175,1,0.0,0.28175,0.28175,0.28175
+7. CDC diabetes dataset,TabDDPM,KS_Complement,0.7137,1,0.0,0.7137,0.7137,0.7137
+7. CDC diabetes dataset,TabDDPM,MMD_Multivariate,0.205803,1,0.0,0.205803,0.205803,0.205803
+7. CDC diabetes dataset,TabDDPM,Outlier_Count_Diff,89.857143,1,0.0,89.857143,89.857143,89.857143
+7. CDC diabetes dataset,TabDDPM,PCA_Correlation_Diff,0.572374,1,0.0,0.572374,0.572374,0.572374
+7. CDC diabetes dataset,TabDDPM,PCA_Mean_Error,93.267141,1,0.0,93.267141,93.267141,93.267141
+7. CDC diabetes dataset,TabDDPM,PCA_Mean_Error_Pct,93.267141,1,0.0,93.267141,93.267141,93.267141
+7. CDC diabetes dataset,TabDDPM,Quality_Score,0.713727,1,0.0,0.713727,0.713727,0.713727
+7. CDC diabetes dataset,TabDDPM,Wasserstein_Distance,0.181551,1,0.0,0.181551,0.181551,0.181551
+7. CDC diabetes dataset,WGAN_GP,Cosine_Similarity,0.007307,1,0.0,0.007307,0.007307,0.007307
+7. CDC diabetes dataset,WGAN_GP,Gower_Distance,0.845339,1,0.0,0.845339,0.845339,0.845339
+7. CDC diabetes dataset,WGAN_GP,Gower_Similarity,0.845339,1,0.0,0.845339,0.845339,0.845339
+7. CDC diabetes dataset,WGAN_GP,JS_Divergence,0.0692499999999999,1,0.0,0.0692499999999999,0.0692499999999999,0.0692499999999999
+7. CDC diabetes dataset,WGAN_GP,KS_Complement,0.848,1,0.0,0.848,0.848,0.848
+7. CDC diabetes dataset,WGAN_GP,MMD,0.024435,1,0.0,0.024435,0.024435,0.024435
+7. CDC diabetes dataset,WGAN_GP,MMD_Multivariate,0.01716,1,0.0,0.01716,0.01716,0.01716
+7. CDC diabetes dataset,WGAN_GP,Outlier_Count_Diff,34.428571,1,0.0,34.428571,34.428571,34.428571
+7. CDC diabetes dataset,WGAN_GP,PCA_Correlation_Diff,0.547171,1,0.0,0.547171,0.547171,0.547171
+7. CDC diabetes dataset,WGAN_GP,PCA_Mean_Error,24.444441,1,0.0,24.444441,24.444441,24.444441
+7. CDC diabetes dataset,WGAN_GP,PCA_Mean_Error_Pct,23.376675,1,0.0,23.376675,23.376675,23.376675
+7. CDC diabetes dataset,WGAN_GP,Quality_Score,0.847955,1,0.0,0.847955,0.847955,0.847955
+7. CDC diabetes dataset,WGAN_GP,Wasserstein_Distance,0.079861,1,0.0,0.079861,0.079861,0.079861
+8. Mushroom dataset,CTABGAN,Cosine_Similarity,0.000778,1,0.0,0.000778,0.000778,0.000778
+8. Mushroom dataset,CTABGAN,Gower_Distance,0.338105,1,0.0,0.338105,0.338105,0.338105
+8. Mushroom dataset,CTABGAN,Gower_Similarity,0.338105,1,0.0,0.338105,0.338105,0.338105
+8. Mushroom dataset,CTABGAN,JS_Divergence,0.021,1,0.0,0.021,0.021,0.021
+8. Mushroom dataset,CTABGAN,KS_Complement,0.9218,1,0.0,0.9218,0.9218,0.9218
+8. Mushroom dataset,CTABGAN,MMD,0.005531,1,0.0,0.005531,0.005531,0.005531
+8. Mushroom dataset,CTABGAN,MMD_Multivariate,0.064502,1,0.0,0.064502,0.064502,0.064502
+8. Mushroom dataset,CTABGAN,Outlier_Count_Diff,24.333333,1,0.0,24.333333,24.333333,24.333333
+8. Mushroom dataset,CTABGAN,PCA_Correlation_Diff,0.754972,1,0.0,0.754972,0.754972,0.754972
+8. Mushroom dataset,CTABGAN,PCA_Mean_Error,21.351658,1,0.0,21.351658,21.351658,21.351658
+8. Mushroom dataset,CTABGAN,PCA_Mean_Error_Pct,11.175829,1,0.0,11.175829,11.175829,11.175829
+8. Mushroom dataset,CTABGAN,Quality_Score,0.921772,1,0.0,0.921772,0.921772,0.921772
+8. Mushroom dataset,CTABGAN,Wasserstein_Distance,0.013457,1,0.0,0.013457,0.013457,0.013457
+8. Mushroom dataset,CTGAN,Cosine_Similarity,0.028863,1,0.0,0.028863,0.028863,0.028863
+8. Mushroom dataset,CTGAN,Gower_Distance,0.338231,1,0.0,0.338231,0.338231,0.338231
+8. Mushroom dataset,CTGAN,Gower_Similarity,0.338231,1,0.0,0.338231,0.338231,0.338231
+8. Mushroom dataset,CTGAN,JS_Divergence,0.0131428571428571,1,0.0,0.0131428571428571,0.0131428571428571,0.0131428571428571
+8. Mushroom dataset,CTGAN,KS_Complement,0.9179,1,0.0,0.9179,0.9179,0.9179
+8. Mushroom dataset,CTGAN,MMD,0.004656,1,0.0,0.004656,0.004656,0.004656
+8. Mushroom dataset,CTGAN,MMD_Multivariate,0.004699,1,0.0,0.004699,0.004699,0.004699
+8. Mushroom dataset,CTGAN,Outlier_Count_Diff,105.666667,1,0.0,105.666667,105.666667,105.666667
+8. Mushroom dataset,CTGAN,PCA_Correlation_Diff,0.327562,1,0.0,0.327562,0.327562,0.327562
+8. Mushroom dataset,CTGAN,PCA_Mean_Error,3.741476,1,0.0,3.741476,3.741476,3.741476
+8. Mushroom dataset,CTGAN,PCA_Mean_Error_Pct,2.174493,1,0.0,2.174493,2.174493,2.174493
+8. Mushroom dataset,CTGAN,Quality_Score,0.878921,1,0.0,0.878921,0.878921,0.878921
+8. Mushroom dataset,CTGAN,Wasserstein_Distance,0.010058,1,0.0,0.010058,0.010058,0.010058
+8. Mushroom dataset,CopulaGAN,Cosine_Similarity,0.014609,1,0.0,0.014609,0.014609,0.014609
+8. Mushroom dataset,CopulaGAN,Gower_Distance,0.33632,1,0.0,0.33632,0.33632,0.33632
+8. Mushroom dataset,CopulaGAN,Gower_Similarity,0.33632,1,0.0,0.33632,0.33632,0.33632
+8. Mushroom dataset,CopulaGAN,JS_Divergence,0.0109230769230769,1,0.0,0.0109230769230769,0.0109230769230769,0.0109230769230769
+8. Mushroom dataset,CopulaGAN,KS_Complement,0.9233,1,0.0,0.9233,0.9233,0.9233
+8. Mushroom dataset,CopulaGAN,MMD,0.006614,1,0.0,0.006614,0.006614,0.006614
+8. Mushroom dataset,CopulaGAN,MMD_Multivariate,0.006553,1,0.0,0.006553,0.006553,0.006553
+8. Mushroom dataset,CopulaGAN,Outlier_Count_Diff,125.0,1,0.0,125.0,125.0,125.0
+8. Mushroom dataset,CopulaGAN,PCA_Correlation_Diff,0.36268,1,0.0,0.36268,0.36268,0.36268
+8. Mushroom dataset,CopulaGAN,PCA_Mean_Error,5.29511,1,0.0,5.29511,5.29511,5.29511
+8. Mushroom dataset,CopulaGAN,PCA_Mean_Error_Pct,3.147555,1,0.0,3.147555,3.147555,3.147555
+8. Mushroom dataset,CopulaGAN,Quality_Score,0.892834,1,0.0,0.892834,0.892834,0.892834
+8. Mushroom dataset,CopulaGAN,Wasserstein_Distance,0.009572,1,0.0,0.009572,0.009572,0.009572
+8. Mushroom dataset,ForestDiffusion,Cosine_Similarity,-0.006439,1,0.0,-0.006439,-0.006439,-0.006439
+8. Mushroom dataset,ForestDiffusion,Gower_Distance,0.345428,1,0.0,0.345428,0.345428,0.345428
+8. Mushroom dataset,ForestDiffusion,Gower_Similarity,0.345428,1,0.0,0.345428,0.345428,0.345428
+8. Mushroom dataset,ForestDiffusion,JS_Divergence,0.1098235294117647,1,0.0,0.1098235294117647,0.1098235294117647,0.1098235294117647
+8. Mushroom dataset,ForestDiffusion,KS_Complement,0.574,1,0.0,0.574,0.574,0.574
+8. Mushroom dataset,ForestDiffusion,MMD,0.223162,1,0.0,0.223162,0.223162,0.223162
+8. Mushroom dataset,ForestDiffusion,MMD_Multivariate,0.035106,1,0.0,0.035106,0.035106,0.035106
+8. Mushroom dataset,ForestDiffusion,Outlier_Count_Diff,11.666667,1,0.0,11.666667,11.666667,11.666667
+8. Mushroom dataset,ForestDiffusion,PCA_Correlation_Diff,0.050646,1,0.0,0.050646,0.050646,0.050646
+8. Mushroom dataset,ForestDiffusion,PCA_Mean_Error,9.037819,1,0.0,9.037819,9.037819,9.037819
+8. Mushroom dataset,ForestDiffusion,PCA_Mean_Error_Pct,4.5189095,1,0.0,4.5189095,4.5189095,4.5189095
+8. Mushroom dataset,ForestDiffusion,Quality_Score,0.573974,1,0.0,0.573974,0.573974,0.573974
+8. Mushroom dataset,ForestDiffusion,Wasserstein_Distance,0.128891,1,0.0,0.128891,0.128891,0.128891
+8. Mushroom dataset,GaussianCopula,Cosine_Similarity,0.026794,1,0.0,0.026794,0.026794,0.026794
+8. Mushroom dataset,GaussianCopula,Gower_Distance,0.345135,1,0.0,0.345135,0.345135,0.345135
+8. Mushroom dataset,GaussianCopula,Gower_Similarity,0.345135,1,0.0,0.345135,0.345135,0.345135
+8. Mushroom dataset,GaussianCopula,JS_Divergence,0.0236666666666666,1,0.0,0.0236666666666666,0.0236666666666666,0.0236666666666666
+8. Mushroom dataset,GaussianCopula,KS_Complement,0.984,1,0.0,0.984,0.984,0.984
+8. Mushroom dataset,GaussianCopula,MMD,0.002653,1,0.0,0.002653,0.002653,0.002653
+8. Mushroom dataset,GaussianCopula,MMD_Multivariate,0.002145,1,0.0,0.002145,0.002145,0.002145
+8. Mushroom dataset,GaussianCopula,Outlier_Count_Diff,222.333333,1,0.0,222.333333,222.333333,222.333333
+8. Mushroom dataset,GaussianCopula,PCA_Correlation_Diff,0.089522,1,0.0,0.089522,0.089522,0.089522
+8. Mushroom dataset,GaussianCopula,PCA_Mean_Error,1.3367,1,0.0,1.3367,1.3367,1.3367
+8. Mushroom dataset,GaussianCopula,PCA_Mean_Error_Pct,0.66835,1,0.0,0.66835,0.66835,0.66835
+8. Mushroom dataset,GaussianCopula,Quality_Score,0.909833,1,0.0,0.909833,0.909833,0.909833
+8. Mushroom dataset,GaussianCopula,Wasserstein_Distance,0.010206,1,0.0,0.010206,0.010206,0.010206
+8. Mushroom dataset,TVAE,Cosine_Similarity,0.038429,1,0.0,0.038429,0.038429,0.038429
+8. Mushroom dataset,TVAE,Gower_Distance,0.357493,1,0.0,0.357493,0.357493,0.357493
+8. Mushroom dataset,TVAE,Gower_Similarity,0.357493,1,0.0,0.357493,0.357493,0.357493
+8. Mushroom dataset,TVAE,JS_Divergence,0.008,1,0.0,0.008,0.008,0.008
+8. Mushroom dataset,TVAE,KS_Complement,0.922,1,0.0,0.922,0.922,0.922
+8. Mushroom dataset,TVAE,MMD,0.027479,1,0.0,0.027479,0.027479,0.027479
+8. Mushroom dataset,TVAE,MMD_Multivariate,0.024753,1,0.0,0.024753,0.024753,0.024753
+8. Mushroom dataset,TVAE,Outlier_Count_Diff,114.333333,1,0.0,114.333333,114.333333,114.333333
+8. Mushroom dataset,TVAE,PCA_Correlation_Diff,0.157087,1,0.0,0.157087,0.157087,0.157087
+8. Mushroom dataset,TVAE,PCA_Mean_Error,3.943863,1,0.0,3.943863,3.943863,3.943863
+8. Mushroom dataset,TVAE,PCA_Mean_Error_Pct,2.301251,1,0.0,2.301251,2.301251,2.301251
+8. Mushroom dataset,TVAE,Quality_Score,0.914558,1,0.0,0.914558,0.914558,0.914558
+8. Mushroom dataset,TVAE,Wasserstein_Distance,0.02159,1,0.0,0.02159,0.02159,0.02159
+8. Mushroom dataset,TabDDPM,Cosine_Similarity,-0.010754,1,0.0,-0.010754,-0.010754,-0.010754
+8. Mushroom dataset,TabDDPM,Gower_Distance,0.174698,1,0.0,0.174698,0.174698,0.174698
+8. Mushroom dataset,TabDDPM,Gower_Similarity,0.174698,1,0.0,0.174698,0.174698,0.174698
+8. Mushroom dataset,TabDDPM,JS_Divergence,0.4794117647058823,1,0.0,0.4794117647058823,0.4794117647058823,0.4794117647058823
+8. Mushroom dataset,TabDDPM,KS_Complement,0.4528,1,0.0,0.4528,0.4528,0.4528
+8. Mushroom dataset,TabDDPM,MMD,0.408414,1,0.0,0.408414,0.408414,0.408414
+8. Mushroom dataset,TabDDPM,MMD_Multivariate,0.326503,1,0.0,0.326503,0.326503,0.326503
+8. Mushroom dataset,TabDDPM,Outlier_Count_Diff,39.666667,1,0.0,39.666667,39.666667,39.666667
+8. Mushroom dataset,TabDDPM,PCA_Correlation_Diff,0.610188,1,0.0,0.610188,0.610188,0.610188
+8. Mushroom dataset,TabDDPM,PCA_Mean_Error,184.402845,1,0.0,184.402845,184.402845,184.402845
+8. Mushroom dataset,TabDDPM,PCA_Mean_Error_Pct,92.7014225,1,0.0,92.7014225,92.7014225,92.7014225
+8. Mushroom dataset,TabDDPM,Quality_Score,0.452807,1,0.0,0.452807,0.452807,0.452807
+8. Mushroom dataset,TabDDPM,Wasserstein_Distance,0.195305,1,0.0,0.195305,0.195305,0.195305
+8. Mushroom dataset,WGAN_GP,Cosine_Similarity,-0.005969,1,0.0,-0.005969,-0.005969,-0.005969
+8. Mushroom dataset,WGAN_GP,Gower_Distance,0.29057,1,0.0,0.29057,0.29057,0.29057
+8. Mushroom dataset,WGAN_GP,Gower_Similarity,0.29057,1,0.0,0.29057,0.29057,0.29057
+8. Mushroom dataset,WGAN_GP,JS_Divergence,0.3174705882352941,1,0.0,0.3174705882352941,0.3174705882352941,0.3174705882352941
+8. Mushroom dataset,WGAN_GP,KS_Complement,0.6004999999999999,1,0.0,0.6004999999999999,0.6004999999999999,0.6004999999999999
+8. Mushroom dataset,WGAN_GP,MMD,0.235867,1,0.0,0.235867,0.235867,0.235867
+8. Mushroom dataset,WGAN_GP,MMD_Multivariate,0.027574,1,0.0,0.027574,0.027574,0.027574
+8. Mushroom dataset,WGAN_GP,Outlier_Count_Diff,28.333333,1,0.0,28.333333,28.333333,28.333333
+8. Mushroom dataset,WGAN_GP,PCA_Correlation_Diff,0.165821,1,0.0,0.165821,0.165821,0.165821
+8. Mushroom dataset,WGAN_GP,PCA_Mean_Error,10.334658,1,0.0,10.334658,10.334658,10.334658
+8. Mushroom dataset,WGAN_GP,PCA_Mean_Error_Pct,5.167329,1,0.0,5.167329,5.167329,5.167329
+8. Mushroom dataset,WGAN_GP,Quality_Score,0.600454,1,0.0,0.600454,0.600454,0.600454
+8. Mushroom dataset,WGAN_GP,Wasserstein_Distance,0.08401,1,0.0,0.08401,0.08401,0.08401
+9. MAGIC Gamma Telescope,CTABGAN,Cosine_Similarity,0.013872,1,0.0,0.013872,0.013872,0.013872
+9. MAGIC Gamma Telescope,CTABGAN,Gower_Distance,0.83957,1,0.0,0.83957,0.83957,0.83957
+9. MAGIC Gamma Telescope,CTABGAN,Gower_Similarity,0.83957,1,0.0,0.83957,0.83957,0.83957
+9. MAGIC Gamma Telescope,CTABGAN,JS_Divergence,0.0266999999999999,1,0.0,0.0266999999999999,0.0266999999999999,0.0266999999999999
+9. MAGIC Gamma Telescope,CTABGAN,KS_Complement,0.9397,1,0.0,0.9397,0.9397,0.9397
+9. MAGIC Gamma Telescope,CTABGAN,MMD,0.003609,1,0.0,0.003609,0.003609,0.003609
+9. MAGIC Gamma Telescope,CTABGAN,MMD_Multivariate,0.003713,1,0.0,0.003713,0.003713,0.003713
+9. MAGIC Gamma Telescope,CTABGAN,Outlier_Count_Diff,661.3,1,0.0,661.3,661.3,661.3
+9. MAGIC Gamma Telescope,CTABGAN,PCA_Correlation_Diff,0.162828,1,0.0,0.162828,0.162828,0.162828
+9. MAGIC Gamma Telescope,CTABGAN,PCA_Mean_Error,51.820437,1,0.0,51.820437,51.820437,51.820437
+9. MAGIC Gamma Telescope,CTABGAN,PCA_Mean_Error_Pct,26.4102185,1,0.0,26.4102185,26.4102185,26.4102185
+9. MAGIC Gamma Telescope,CTABGAN,Quality_Score,0.939745,1,0.0,0.939745,0.939745,0.939745
+9. MAGIC Gamma Telescope,CTABGAN,Wasserstein_Distance,0.014038,1,0.0,0.014038,0.014038,0.014038
+9. MAGIC Gamma Telescope,CTGAN,Cosine_Similarity,0.028233,1,0.0,0.028233,0.028233,0.028233
+9. MAGIC Gamma Telescope,CTGAN,Gower_Distance,0.853544,1,0.0,0.853544,0.853544,0.853544
+9. MAGIC Gamma Telescope,CTGAN,Gower_Similarity,0.853544,1,0.0,0.853544,0.853544,0.853544
+9. MAGIC Gamma Telescope,CTGAN,JS_Divergence,0.0341249999999999,1,0.0,0.0341249999999999,0.0341249999999999,0.0341249999999999
+9. MAGIC Gamma Telescope,CTGAN,KS_Complement,0.8917,1,0.0,0.8917,0.8917,0.8917
+9. MAGIC Gamma Telescope,CTGAN,MMD,0.009227,1,0.0,0.009227,0.009227,0.009227
+9. MAGIC Gamma Telescope,CTGAN,MMD_Multivariate,0.009336,1,0.0,0.009336,0.009336,0.009336
+9. MAGIC Gamma Telescope,CTGAN,PCA_Correlation_Diff,0.320199,1,0.0,0.320199,0.320199,0.320199
+9. MAGIC Gamma Telescope,CTGAN,PCA_Mean_Error,368.927512,1,0.0,368.927512,368.927512,368.927512
+9. MAGIC Gamma Telescope,CTGAN,PCA_Mean_Error_Pct,368.927512,1,0.0,368.927512,368.927512,368.927512
+9. MAGIC Gamma Telescope,CTGAN,Quality_Score,0.894375,1,0.0,0.894375,0.894375,0.894375
+9. MAGIC Gamma Telescope,CTGAN,Wasserstein_Distance,0.030447,1,0.0,0.030447,0.030447,0.030447
+9. MAGIC Gamma Telescope,CopulaGAN,Cosine_Similarity,0.017636,1,0.0,0.017636,0.017636,0.017636
+9. MAGIC Gamma Telescope,CopulaGAN,Gower_Distance,0.847494,1,0.0,0.847494,0.847494,0.847494
+9. MAGIC Gamma Telescope,CopulaGAN,Gower_Similarity,0.847494,1,0.0,0.847494,0.847494,0.847494
+9. MAGIC Gamma Telescope,CopulaGAN,JS_Divergence,0.0475,1,0.0,0.0475,0.0475,0.0475
+9. MAGIC Gamma Telescope,CopulaGAN,KS_Complement,0.9039,1,0.0,0.9039,0.9039,0.9039
+9. MAGIC Gamma Telescope,CopulaGAN,MMD,0.011489,1,0.0,0.011489,0.011489,0.011489
+9. MAGIC Gamma Telescope,CopulaGAN,MMD_Multivariate,0.012128,1,0.0,0.012128,0.012128,0.012128
+9. MAGIC Gamma Telescope,CopulaGAN,PCA_Correlation_Diff,0.789704,1,0.0,0.789704,0.789704,0.789704
+9. MAGIC Gamma Telescope,CopulaGAN,PCA_Mean_Error,228.106995,1,0.0,228.106995,228.106995,228.106995
+9. MAGIC Gamma Telescope,CopulaGAN,PCA_Mean_Error_Pct,228.106995,1,0.0,228.106995,228.106995,228.106995
+9. MAGIC Gamma Telescope,CopulaGAN,Quality_Score,0.888847,1,0.0,0.888847,0.888847,0.888847
+9. MAGIC Gamma Telescope,CopulaGAN,Wasserstein_Distance,0.034697,1,0.0,0.034697,0.034697,0.034697
+9. MAGIC Gamma Telescope,ForestDiffusion,Cosine_Similarity,0.025724,1,0.0,0.025724,0.025724,0.025724
+9. MAGIC Gamma Telescope,ForestDiffusion,Gower_Distance,0.842496,1,0.0,0.842496,0.842496,0.842496
+9. MAGIC Gamma Telescope,ForestDiffusion,Gower_Similarity,0.842496,1,0.0,0.842496,0.842496,0.842496
+9. MAGIC Gamma Telescope,ForestDiffusion,JS_Divergence,0.0186817,1,0.0,0.0186817,0.0186817,0.0186817
+9. MAGIC Gamma Telescope,ForestDiffusion,KS_Complement,0.8671,1,0.0,0.8671,0.8671,0.8671
+9. MAGIC Gamma Telescope,ForestDiffusion,MMD,0.001385,1,0.0,0.001385,0.001385,0.001385
+9. MAGIC Gamma Telescope,ForestDiffusion,MMD_Multivariate,0.001326,1,0.0,0.001326,0.001326,0.001326
+9. MAGIC Gamma Telescope,ForestDiffusion,Outlier_Count_Diff,8.6,1,0.0,8.6,8.6,8.6
+9. MAGIC Gamma Telescope,ForestDiffusion,PCA_Correlation_Diff,0.188133,1,0.0,0.188133,0.188133,0.188133
+9. MAGIC Gamma Telescope,ForestDiffusion,PCA_Mean_Error,15.62709,1,0.0,15.62709,15.62709,15.62709
+9. MAGIC Gamma Telescope,ForestDiffusion,PCA_Mean_Error_Pct,7.813545,1,0.0,7.813545,7.813545,7.813545
+9. MAGIC Gamma Telescope,ForestDiffusion,Quality_Score,0.867091,1,0.0,0.867091,0.867091,0.867091
+9. MAGIC Gamma Telescope,ForestDiffusion,Wasserstein_Distance,0.01135,1,0.0,0.01135,0.01135,0.01135
+9. MAGIC Gamma Telescope,GaussianCopula,Cosine_Similarity,0.004072,1,0.0,0.004072,0.004072,0.004072
+9. MAGIC Gamma Telescope,GaussianCopula,Gower_Distance,0.846668,1,0.0,0.846668,0.846668,0.846668
+9. MAGIC Gamma Telescope,GaussianCopula,Gower_Similarity,0.846668,1,0.0,0.846668,0.846668,0.846668
+9. MAGIC Gamma Telescope,GaussianCopula,JS_Divergence,0.0353333333333333,1,0.0,0.0353333333333333,0.0353333333333333,0.0353333333333333
+9. MAGIC Gamma Telescope,GaussianCopula,KS_Complement,0.91,1,0.0,0.91,0.91,0.91
+9. MAGIC Gamma Telescope,GaussianCopula,MMD,0.017409,1,0.0,0.017409,0.017409,0.017409
+9. MAGIC Gamma Telescope,GaussianCopula,MMD_Multivariate,0.0244,1,0.0,0.0244,0.0244,0.0244
+9. MAGIC Gamma Telescope,GaussianCopula,PCA_Correlation_Diff,0.117564,1,0.0,0.117564,0.117564,0.117564
+9. MAGIC Gamma Telescope,GaussianCopula,PCA_Mean_Error,38.653274,1,0.0,38.653274,38.653274,38.653274
+9. MAGIC Gamma Telescope,GaussianCopula,PCA_Mean_Error_Pct,38.653274,1,0.0,38.653274,38.653274,38.653274
+9. MAGIC Gamma Telescope,GaussianCopula,Quality_Score,0.895806,1,0.0,0.895806,0.895806,0.895806
+9. MAGIC Gamma Telescope,GaussianCopula,Wasserstein_Distance,0.020501,1,0.0,0.020501,0.020501,0.020501
+9. MAGIC Gamma Telescope,TVAE,Cosine_Similarity,0.033048,1,0.0,0.033048,0.033048,0.033048
+9. MAGIC Gamma Telescope,TVAE,Gower_Distance,0.864338,1,0.0,0.864338,0.864338,0.864338
+9. MAGIC Gamma Telescope,TVAE,Gower_Similarity,0.864338,1,0.0,0.864338,0.864338,0.864338
+9. MAGIC Gamma Telescope,TVAE,JS_Divergence,0.0375,1,0.0,0.0375,0.0375,0.0375
+9. MAGIC Gamma Telescope,TVAE,KS_Complement,0.922,1,0.0,0.922,0.922,0.922
+9. MAGIC Gamma Telescope,TVAE,MMD,0.006045,1,0.0,0.006045,0.006045,0.006045
+9. MAGIC Gamma Telescope,TVAE,MMD_Multivariate,0.005462,1,0.0,0.005462,0.005462,0.005462
+9. MAGIC Gamma Telescope,TVAE,PCA_Correlation_Diff,0.315617,1,0.0,0.315617,0.315617,0.315617
+9. MAGIC Gamma Telescope,TVAE,PCA_Mean_Error,24.578524,1,0.0,24.578524,24.578524,24.578524
+9. MAGIC Gamma Telescope,TVAE,PCA_Mean_Error_Pct,24.578524,1,0.0,24.578524,24.578524,24.578524
+9. MAGIC Gamma Telescope,TVAE,Quality_Score,0.928895,1,0.0,0.928895,0.928895,0.928895
+9. MAGIC Gamma Telescope,TVAE,Wasserstein_Distance,0.019745,1,0.0,0.019745,0.019745,0.019745
+9. MAGIC Gamma Telescope,TabDDPM,Cosine_Similarity,-0.002602,1,0.0,-0.002602,-0.002602,-0.002602
+9. MAGIC Gamma Telescope,TabDDPM,Gower_Distance,0.741751,1,0.0,0.741751,0.741751,0.741751
+9. MAGIC Gamma Telescope,TabDDPM,Gower_Similarity,0.741751,1,0.0,0.741751,0.741751,0.741751
+9. MAGIC Gamma Telescope,TabDDPM,JS_Divergence,0.3245,1,0.0,0.3245,0.3245,0.3245
+9. MAGIC Gamma Telescope,TabDDPM,KS_Complement,0.7226,1,0.0,0.7226,0.7226,0.7226
+9. MAGIC Gamma Telescope,TabDDPM,MMD,0.073068,1,0.0,0.073068,0.073068,0.073068
+9. MAGIC Gamma Telescope,TabDDPM,MMD_Multivariate,0.066392,1,0.0,0.066392,0.066392,0.066392
+9. MAGIC Gamma Telescope,TabDDPM,Outlier_Count_Diff,69.4,1,0.0,69.4,69.4,69.4
+9. MAGIC Gamma Telescope,TabDDPM,PCA_Correlation_Diff,0.649311,1,0.0,0.649311,0.649311,0.649311
+9. MAGIC Gamma Telescope,TabDDPM,PCA_Mean_Error,283.921016,1,0.0,283.921016,283.921016,283.921016
+9. MAGIC Gamma Telescope,TabDDPM,PCA_Mean_Error_Pct,142.460508,1,0.0,142.460508,142.460508,142.460508
+9. MAGIC Gamma Telescope,TabDDPM,Quality_Score,0.722636,1,0.0,0.722636,0.722636,0.722636
+9. MAGIC Gamma Telescope,TabDDPM,Wasserstein_Distance,0.11887,1,0.0,0.11887,0.11887,0.11887
+9. MAGIC Gamma Telescope,WGAN_GP,Cosine_Similarity,0.028239,1,0.0,0.028239,0.028239,0.028239
+9. MAGIC Gamma Telescope,WGAN_GP,Gower_Distance,0.854163,1,0.0,0.854163,0.854163,0.854163
+9. MAGIC Gamma Telescope,WGAN_GP,Gower_Similarity,0.854163,1,0.0,0.854163,0.854163,0.854163
+9. MAGIC Gamma Telescope,WGAN_GP,JS_Divergence,0.031875,1,0.0,0.031875,0.031875,0.031875
+9. MAGIC Gamma Telescope,WGAN_GP,KS_Complement,0.9494,1,0.0,0.9494,0.9494,0.9494
+9. MAGIC Gamma Telescope,WGAN_GP,MMD,0.000807,1,0.0,0.000807,0.000807,0.000807
+9. MAGIC Gamma Telescope,WGAN_GP,MMD_Multivariate,0.00077,1,0.0,0.00077,0.00077,0.00077
+9. MAGIC Gamma Telescope,WGAN_GP,Outlier_Count_Diff,660.1,1,0.0,660.1,660.1,660.1
+9. MAGIC Gamma Telescope,WGAN_GP,PCA_Correlation_Diff,0.178784,1,0.0,0.178784,0.178784,0.178784
+9. MAGIC Gamma Telescope,WGAN_GP,PCA_Mean_Error,20.054725,1,0.0,20.054725,20.054725,20.054725
+9. MAGIC Gamma Telescope,WGAN_GP,PCA_Mean_Error_Pct,10.0273625,1,0.0,10.0273625,10.0273625,10.0273625
+9. MAGIC Gamma Telescope,WGAN_GP,Quality_Score,0.94941,1,0.0,0.94941,0.94941,0.94941
+9. MAGIC Gamma Telescope,WGAN_GP,Wasserstein_Distance,0.010481,1,0.0,0.010481,0.010481,0.010481
+5. Bank Markting,CTGAN,JS_Divergence,0.0085541875,1,0.0,0.0085541875,0.0085541875,0.0085541875
+5. Bank Markting,CopulaGAN,JS_Divergence,0.013730375,1,0.0,0.013730375,0.013730375,0.013730375
+5. Bank Markting,TVAE,JS_Divergence,0.0341435,1,0.0,0.0341435,0.0341435,0.0341435
+5. Bank Markting,GaussianCopula,JS_Divergence,0.021484125,1,0.0,0.021484125,0.021484125,0.021484125
+4. Forest cover dataset,CTGAN,MMD_Multivariate,0.014445,1,0.0,0.014445,0.014445,0.014445
+4. Forest cover dataset,CopulaGAN,MMD_Multivariate,0.026483,1,0.0,0.026483,0.026483,0.026483
+4. Forest cover dataset,TVAE,MMD_Multivariate,0.07814,1,0.0,0.07814,0.07814,0.07814
+4. Forest cover dataset,GaussianCopula,MMD_Multivariate,0.00104,1,0.0,0.00104,0.00104,0.00104
+7. CDC diabetes dataset,CTGAN,PCA_Correlation_Diff,0.264839,1,0.0,0.264839,0.264839,0.264839
+7. CDC diabetes dataset,CopulaGAN,PCA_Correlation_Diff,0.364627,1,0.0,0.364627,0.364627,0.364627
+7. CDC diabetes dataset,TVAE,PCA_Correlation_Diff,0.406971,1,0.0,0.406971,0.406971,0.406971
+7. CDC diabetes dataset,GaussianCopula,PCA_Correlation_Diff,0.462251,1,0.0,0.462251,0.462251,0.462251
+11. online shopping,CopulaGAN,Outlier_Count_Diff,140.818182,1,0.0,140.818182,140.818182,140.818182
+11. online shopping,CTGAN,Outlier_Count_Diff,161.090909,1,0.0,161.090909,161.090909,161.090909
+11. online shopping,GaussianCopula,Outlier_Count_Diff,201.090909,1,0.0,201.090909,201.090909,201.090909
+11. online shopping,TVAE,Outlier_Count_Diff,333.0,1,0.0,333.0,333.0,333.0
+1. Cancer,CTGAN,PCA_Correlation_Diff,1.004611,1,0.0,1.004611,1.004611,1.004611
+1. Cancer,CopulaGAN,PCA_Correlation_Diff,1.072034,1,0.0,1.072034,1.072034,1.072034
+1. Cancer,TVAE,PCA_Correlation_Diff,0.568466,1,0.0,0.568466,0.568466,0.568466
+1. Cancer,GaussianCopula,PCA_Correlation_Diff,0.232499,1,0.0,0.232499,0.232499,0.232499

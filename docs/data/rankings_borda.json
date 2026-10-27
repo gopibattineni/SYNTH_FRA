@@ -1,0 +1,98 @@
+[
+  {
+    "index": 0,
+    "Generator": "ForestDiffusion",
+    "Utility": 1.0,
+    "Fidelity": 0.6780731213,
+    "Privacy": 1.0,
+    "Utility_rank": 1.0,
+    "Fidelity_rank": 5.0,
+    "Privacy_rank": 1.0,
+    "BordaScore": 7.0,
+    "BordaRank": 1.0
+  },
+  {
+    "index": 1,
+    "Generator": "TVAE",
+    "Utility": 0.8523895901,
+    "Fidelity": 1.0,
+    "Privacy": 0.5335501673,
+    "Utility_rank": 2.0,
+    "Fidelity_rank": 1.0,
+    "Privacy_rank": 5.0,
+    "BordaScore": 8.0,
+    "BordaRank": 2.0
+  },
+  {
+    "index": 2,
+    "Generator": "GaussianCopula",
+    "Utility": 0.7557664639,
+    "Fidelity": 0.9406741918,
+    "Privacy": 0.5494981244,
+    "Utility_rank": 3.0,
+    "Fidelity_rank": 2.0,
+    "Privacy_rank": 3.0,
+    "BordaScore": 8.0,
+    "BordaRank": 3.0
+  },
+  {
+    "index": 3,
+    "Generator": "WGAN_GP",
+    "Utility": 0.7515823016,
+    "Fidelity": 0.2508684157,
+    "Privacy": 0.7416570292,
+    "Utility_rank": 4.0,
+    "Fidelity_rank": 6.0,
+    "Privacy_rank": 2.0,
+    "BordaScore": 12.0,
+    "BordaRank": 4.0
+  },
+  {
+    "index": 4,
+    "Generator": "CTGAN",
+    "Utility": 0.3904564128,
+    "Fidelity": 0.7164842669,
+    "Privacy": 0.5384868001,
+    "Utility_rank": 7.0,
+    "Fidelity_rank": 3.0,
+    "Privacy_rank": 4.0,
+    "BordaScore": 14.0,
+    "BordaRank": 5.0
+  },
+  {
+    "index": 5,
+    "Generator": "CopulaGAN",
+    "Utility": 0.4311933191,
+    "Fidelity": 0.6842230218,
+    "Privacy": 0.3860184837,
+    "Utility_rank": 6.0,
+    "Fidelity_rank": 4.0,
+    "Privacy_rank": 6.0,
+    "BordaScore": 16.0,
+    "BordaRank": 6.0
+  },
+  {
+    "index": 6,
+    "Generator": "TabDDPM",
+    "Utility": 0.5405415337,
+    "Fidelity": 0.0,
+    "Privacy": 0.0,
+    "Utility_rank": 5.0,
+    "Fidelity_rank": 8.0,
+    "Privacy_rank": 8.0,
+    "BordaScore": 21.0,
+    "BordaRank": 7.0
+  },
+  {
+    "index": 7,
+    "Generator": "CTABGAN",
+    "Utility": 0.0,
+    "Fidelity": 0.223043535,
+    "Privacy": 0.1491734902,
+    "Utility_rank": 8.0,
+    "Fidelity_rank": 7.0,
+    "Privacy_rank": 7.0,
+    "BordaScore": 22.0,
+    "BordaRank": 8.0
+  }
+]

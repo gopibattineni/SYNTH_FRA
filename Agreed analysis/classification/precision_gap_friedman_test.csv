@@ -1,0 +1,2 @@
+Test,Metric,Statistic_chi2,DegreesOfFreedom,p_value,N_Datasets,N_Generators,Alpha,Significant,Posthoc,Nemenyi_sig_pairs,Holm_sig_pairs
+Friedman,Precision_Gap,37.03703703703701,7,4.615492467279903e-06,9,8,0.05,True,Nemenyi + Holm-Wilcoxon,6,0

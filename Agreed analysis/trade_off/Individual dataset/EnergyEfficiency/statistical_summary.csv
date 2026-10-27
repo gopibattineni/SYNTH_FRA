@@ -1,0 +1,3 @@
+Dataset,Analysis,X_Metric,Y_Metric,n_generators,Pearson_r,Pearson_p,Spearman_rho,Spearman_p,Slope,Intercept,R2,Slope_95CI_low,Slope_95CI_high,Intercept_95CI_low,Intercept_95CI_high
+Energy Efficiency,fidelity_vs_r2_gap,SDMetrics Quality Score,Utility Gap (R2),8,-0.188554,0.654751,-0.0238095,0.955374,-1.70112,1.88794,0.0355526,-10.5519,7.14965,-4.49397,8.26985
+Energy Efficiency,mia_vs_r2_gap,MIA AUC,Utility Gap (R2),8,0.37384,0.361619,0.654654,0.0781407,2.60515,-1.83227,0.139757,-3.8514,9.06171,-8.06432,4.39979

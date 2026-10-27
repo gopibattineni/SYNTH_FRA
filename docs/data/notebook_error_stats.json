@@ -1,0 +1,962 @@
+[
+  {
+    "Dataset": "1. Cancer",
+    "Generator": "CTABGAN",
+    "Mean_Error_Pct": 10.578803,
+    "Median_Error_Pct": 10.386157,
+    "Std_Error_Pct": 15.674831,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "1. Cancer",
+    "Generator": "CTGAN",
+    "Mean_Error_Pct": 22.139785,
+    "Median_Error_Pct": 16.473968,
+    "Std_Error_Pct": 20.111976,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "1. Cancer",
+    "Generator": "CopulaGAN",
+    "Mean_Error_Pct": 43.617757,
+    "Median_Error_Pct": 31.169478,
+    "Std_Error_Pct": 46.80206,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "1. Cancer",
+    "Generator": "ForestDiffusion",
+    "Mean_Error_Pct": 1.192193,
+    "Median_Error_Pct": 0.635241,
+    "Std_Error_Pct": 14.101685,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "1. Cancer",
+    "Generator": "GaussianCopula",
+    "Mean_Error_Pct": 1.140859,
+    "Median_Error_Pct": 0.892742,
+    "Std_Error_Pct": 9.024199,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "1. Cancer",
+    "Generator": "TVAE",
+    "Mean_Error_Pct": 9.333224,
+    "Median_Error_Pct": 6.516332,
+    "Std_Error_Pct": 24.693156,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "1. Cancer",
+    "Generator": "TabDDPM",
+    "Mean_Error_Pct": 138.499025,
+    "Median_Error_Pct": 80.59933,
+    "Std_Error_Pct": 252.941825,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "1. Cancer",
+    "Generator": "WGAN_GP",
+    "Mean_Error_Pct": 1.608508,
+    "Median_Error_Pct": 1.281073,
+    "Std_Error_Pct": 6.110621,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "10. Metro interstate",
+    "Generator": "CTABGAN",
+    "Mean_Error_Pct": 10.002244,
+    "Median_Error_Pct": 7.368421,
+    "Std_Error_Pct": 19.334128,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "10. Metro interstate",
+    "Generator": "CTGAN",
+    "Mean_Error_Pct": 40.048378,
+    "Median_Error_Pct": 29.994905,
+    "Std_Error_Pct": 30.509367,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "10. Metro interstate",
+    "Generator": "CopulaGAN",
+    "Mean_Error_Pct": 81.279423,
+    "Median_Error_Pct": 59.855033,
+    "Std_Error_Pct": 27.611034,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "10. Metro interstate",
+    "Generator": "ForestDiffusion",
+    "Mean_Error_Pct": 10.219452,
+    "Median_Error_Pct": 8.918459,
+    "Std_Error_Pct": 26.948752,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "10. Metro interstate",
+    "Generator": "GaussianCopula",
+    "Mean_Error_Pct": 18489.511373,
+    "Median_Error_Pct": 1014.043406,
+    "Std_Error_Pct": 305.255893,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "10. Metro interstate",
+    "Generator": "TVAE",
+    "Mean_Error_Pct": 47.241577,
+    "Median_Error_Pct": 44.337077,
+    "Std_Error_Pct": 48.197771,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "10. Metro interstate",
+    "Generator": "TabDDPM",
+    "Mean_Error_Pct": 4879.57694,
+    "Median_Error_Pct": 2766.271655,
+    "Std_Error_Pct": 494.098105,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "10. Metro interstate",
+    "Generator": "WGAN_GP",
+    "Mean_Error_Pct": 23.21184,
+    "Median_Error_Pct": 2.923091,
+    "Std_Error_Pct": 22.287039,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "11. online shopping",
+    "Generator": "CTABGAN",
+    "Mean_Error_Pct": 7.692611,
+    "Median_Error_Pct": 5.259976,
+    "Std_Error_Pct": 5.475344,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "11. online shopping",
+    "Generator": "CTGAN",
+    "Mean_Error_Pct": 7.792363,
+    "Median_Error_Pct": 2.029477,
+    "Std_Error_Pct": 11.130659,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "11. online shopping",
+    "Generator": "CopulaGAN",
+    "Mean_Error_Pct": 6.679559,
+    "Median_Error_Pct": 4.227368,
+    "Std_Error_Pct": 5.983461,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "11. online shopping",
+    "Generator": "ForestDiffusion",
+    "Mean_Error_Pct": 7.56243,
+    "Median_Error_Pct": 1.669603,
+    "Std_Error_Pct": 9.782532,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "11. online shopping",
+    "Generator": "GaussianCopula",
+    "Mean_Error_Pct": 3.706453,
+    "Median_Error_Pct": 0.495366,
+    "Std_Error_Pct": 3.422963,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "11. online shopping",
+    "Generator": "TVAE",
+    "Mean_Error_Pct": 19.159839,
+    "Median_Error_Pct": 18.381722,
+    "Std_Error_Pct": 32.912762,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "11. online shopping",
+    "Generator": "TabDDPM",
+    "Mean_Error_Pct": 60.697075,
+    "Median_Error_Pct": 16.438093,
+    "Std_Error_Pct": 66.408104,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "11. online shopping",
+    "Generator": "WGAN_GP",
+    "Mean_Error_Pct": 14.820814,
+    "Median_Error_Pct": 9.617558,
+    "Std_Error_Pct": 17.834478,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "12. Air Quality",
+    "Generator": "CTABGAN",
+    "Mean_Error_Pct": 4.121865,
+    "Median_Error_Pct": 2.328309,
+    "Std_Error_Pct": 8.268342,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "12. Air Quality",
+    "Generator": "CTGAN",
+    "Mean_Error_Pct": 9.909676,
+    "Median_Error_Pct": 10.561894,
+    "Std_Error_Pct": 20.58994,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "12. Air Quality",
+    "Generator": "CopulaGAN",
+    "Mean_Error_Pct": 24.239754,
+    "Median_Error_Pct": 16.724502,
+    "Std_Error_Pct": 22.040592,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "12. Air Quality",
+    "Generator": "ForestDiffusion",
+    "Mean_Error_Pct": 0.594682,
+    "Median_Error_Pct": 0.37773,
+    "Std_Error_Pct": 3.149132,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "12. Air Quality",
+    "Generator": "GaussianCopula",
+    "Mean_Error_Pct": 0.998628,
+    "Median_Error_Pct": 0.810867,
+    "Std_Error_Pct": 3.906552,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "12. Air Quality",
+    "Generator": "TVAE",
+    "Mean_Error_Pct": 2.776245,
+    "Median_Error_Pct": 2.082321,
+    "Std_Error_Pct": 17.403283,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "12. Air Quality",
+    "Generator": "TabDDPM",
+    "Mean_Error_Pct": 24.713369,
+    "Median_Error_Pct": 15.833093,
+    "Std_Error_Pct": 114.981962,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "12. Air Quality",
+    "Generator": "WGAN_GP",
+    "Mean_Error_Pct": 4.384418,
+    "Median_Error_Pct": 2.770154,
+    "Std_Error_Pct": 11.691278,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "13. Concrete Compressive Strength",
+    "Generator": "CTABGAN",
+    "Mean_Error_Pct": 14.438487,
+    "Median_Error_Pct": 7.034905,
+    "Std_Error_Pct": 9.932629,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "13. Concrete Compressive Strength",
+    "Generator": "CTGAN",
+    "Mean_Error_Pct": 27.228872,
+    "Median_Error_Pct": 8.699484,
+    "Std_Error_Pct": 12.986433,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "13. Concrete Compressive Strength",
+    "Generator": "CopulaGAN",
+    "Mean_Error_Pct": 32.626971,
+    "Median_Error_Pct": 20.693318,
+    "Std_Error_Pct": 23.368267,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "13. Concrete Compressive Strength",
+    "Generator": "ForestDiffusion",
+    "Mean_Error_Pct": 3.217264,
+    "Median_Error_Pct": 1.045976,
+    "Std_Error_Pct": 3.138103,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "13. Concrete Compressive Strength",
+    "Generator": "GaussianCopula",
+    "Mean_Error_Pct": 20.888793,
+    "Median_Error_Pct": 4.092415,
+    "Std_Error_Pct": 18.329382,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "13. Concrete Compressive Strength",
+    "Generator": "TVAE",
+    "Mean_Error_Pct": 14.595778,
+    "Median_Error_Pct": 8.422144,
+    "Std_Error_Pct": 16.154088,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "13. Concrete Compressive Strength",
+    "Generator": "TabDDPM",
+    "Mean_Error_Pct": 2.932205,
+    "Median_Error_Pct": 1.128429,
+    "Std_Error_Pct": 7.56317,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "13. Concrete Compressive Strength",
+    "Generator": "WGAN_GP",
+    "Mean_Error_Pct": 26.940413,
+    "Median_Error_Pct": 8.72267,
+    "Std_Error_Pct": 23.580938,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "14. Energy Efficiency",
+    "Generator": "CTABGAN",
+    "Mean_Error_Pct": 9.30352,
+    "Median_Error_Pct": 4.746118,
+    "Std_Error_Pct": 24.592411,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "14. Energy Efficiency",
+    "Generator": "CTGAN",
+    "Mean_Error_Pct": 6.831319,
+    "Median_Error_Pct": 5.42338,
+    "Std_Error_Pct": 6.953187,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "14. Energy Efficiency",
+    "Generator": "CopulaGAN",
+    "Mean_Error_Pct": 6.337747,
+    "Median_Error_Pct": 4.079192,
+    "Std_Error_Pct": 10.726314,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "14. Energy Efficiency",
+    "Generator": "ForestDiffusion",
+    "Mean_Error_Pct": 0.744817,
+    "Median_Error_Pct": 0.68765,
+    "Std_Error_Pct": 1.305415,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "14. Energy Efficiency",
+    "Generator": "GaussianCopula",
+    "Mean_Error_Pct": 3.734944,
+    "Median_Error_Pct": 2.34167,
+    "Std_Error_Pct": 10.718952,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "14. Energy Efficiency",
+    "Generator": "TVAE",
+    "Mean_Error_Pct": 6.5698,
+    "Median_Error_Pct": 2.75148,
+    "Std_Error_Pct": 6.650251,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "14. Energy Efficiency",
+    "Generator": "TabDDPM",
+    "Mean_Error_Pct": 10.645464,
+    "Median_Error_Pct": 6.991452,
+    "Std_Error_Pct": 24.667189,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "14. Energy Efficiency",
+    "Generator": "WGAN_GP",
+    "Mean_Error_Pct": 4.049586,
+    "Median_Error_Pct": 1.30897,
+    "Std_Error_Pct": 26.363029,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "15. Real Estate Valuation",
+    "Generator": "CTABGAN",
+    "Mean_Error_Pct": 5.521376,
+    "Median_Error_Pct": 1.295768,
+    "Std_Error_Pct": 8.368976,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "15. Real Estate Valuation",
+    "Generator": "CTGAN",
+    "Mean_Error_Pct": 55.159242,
+    "Median_Error_Pct": 31.150442,
+    "Std_Error_Pct": 225321.09131,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "15. Real Estate Valuation",
+    "Generator": "CopulaGAN",
+    "Mean_Error_Pct": 71.639749,
+    "Median_Error_Pct": 98.298639,
+    "Std_Error_Pct": 225335.064498,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "15. Real Estate Valuation",
+    "Generator": "ForestDiffusion",
+    "Mean_Error_Pct": 2.227323,
+    "Median_Error_Pct": 1.997218,
+    "Std_Error_Pct": 1.577714,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "15. Real Estate Valuation",
+    "Generator": "GaussianCopula",
+    "Mean_Error_Pct": 54.66314,
+    "Median_Error_Pct": 36.106195,
+    "Std_Error_Pct": 225317.097874,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "15. Real Estate Valuation",
+    "Generator": "TVAE",
+    "Mean_Error_Pct": 49.869909,
+    "Median_Error_Pct": 30.284629,
+    "Std_Error_Pct": 225327.47461,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "15. Real Estate Valuation",
+    "Generator": "TabDDPM",
+    "Mean_Error_Pct": 46.180834,
+    "Median_Error_Pct": 19.031858,
+    "Std_Error_Pct": 95.098972,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "15. Real Estate Valuation",
+    "Generator": "WGAN_GP",
+    "Mean_Error_Pct": 24.321296,
+    "Median_Error_Pct": 19.60483,
+    "Std_Error_Pct": 26.829626,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "2. Alzhimers",
+    "Generator": "CTABGAN",
+    "Mean_Error_Pct": 12.702118,
+    "Median_Error_Pct": 3.928315,
+    "Std_Error_Pct": 9.864455,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "2. Alzhimers",
+    "Generator": "CTGAN",
+    "Mean_Error_Pct": 18.930353,
+    "Median_Error_Pct": 5.933506,
+    "Std_Error_Pct": 19.04029,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "2. Alzhimers",
+    "Generator": "CopulaGAN",
+    "Mean_Error_Pct": 24.770905,
+    "Median_Error_Pct": 8.535508,
+    "Std_Error_Pct": 27.130967,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "2. Alzhimers",
+    "Generator": "ForestDiffusion",
+    "Mean_Error_Pct": 0.887645,
+    "Median_Error_Pct": 0.751877,
+    "Std_Error_Pct": 6.201923,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "2. Alzhimers",
+    "Generator": "GaussianCopula",
+    "Mean_Error_Pct": 16.343796,
+    "Median_Error_Pct": 0.467095,
+    "Std_Error_Pct": 21.096672,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "2. Alzhimers",
+    "Generator": "TVAE",
+    "Mean_Error_Pct": 10.833991,
+    "Median_Error_Pct": 5.162096,
+    "Std_Error_Pct": 15.702175,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "2. Alzhimers",
+    "Generator": "TabDDPM",
+    "Mean_Error_Pct": 51.173386,
+    "Median_Error_Pct": 19.843037,
+    "Std_Error_Pct": 76.191596,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "2. Alzhimers",
+    "Generator": "WGAN_GP",
+    "Mean_Error_Pct": 3.408592,
+    "Median_Error_Pct": 0.880692,
+    "Std_Error_Pct": 3.8298,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "3. Adult",
+    "Generator": "CTABGAN",
+    "Mean_Error_Pct": 142.051511,
+    "Median_Error_Pct": 9.678911,
+    "Std_Error_Pct": 16.021075,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "3. Adult",
+    "Generator": "CTGAN",
+    "Mean_Error_Pct": 38.298415,
+    "Median_Error_Pct": 31.893432,
+    "Std_Error_Pct": 37.155734,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "3. Adult",
+    "Generator": "CopulaGAN",
+    "Mean_Error_Pct": 48.729227,
+    "Median_Error_Pct": 48.0121,
+    "Std_Error_Pct": 33.463587,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "3. Adult",
+    "Generator": "ForestDiffusion",
+    "Mean_Error_Pct": 15.091778,
+    "Median_Error_Pct": 1.366754,
+    "Std_Error_Pct": 21.832922,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "3. Adult",
+    "Generator": "GaussianCopula",
+    "Mean_Error_Pct": 595.285454,
+    "Median_Error_Pct": 2.676327,
+    "Std_Error_Pct": 30.989508,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "3. Adult",
+    "Generator": "TVAE",
+    "Mean_Error_Pct": 41.972863,
+    "Median_Error_Pct": 21.922114,
+    "Std_Error_Pct": 85.441335,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "3. Adult",
+    "Generator": "TabDDPM",
+    "Mean_Error_Pct": 787.660693,
+    "Median_Error_Pct": 83.129493,
+    "Std_Error_Pct": 259.866866,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "3. Adult",
+    "Generator": "WGAN_GP",
+    "Mean_Error_Pct": 49.179406,
+    "Median_Error_Pct": 14.833392,
+    "Std_Error_Pct": 17.185482,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "4. Forest cover dataset",
+    "Generator": "CTABGAN",
+    "Mean_Error_Pct": 98.575519,
+    "Median_Error_Pct": 45.277279,
+    "Std_Error_Pct": 39.140471,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "4. Forest cover dataset",
+    "Generator": "CTGAN",
+    "Mean_Error_Pct": 40.198757,
+    "Median_Error_Pct": 17.072214,
+    "Std_Error_Pct": 19.948572,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "4. Forest cover dataset",
+    "Generator": "CopulaGAN",
+    "Mean_Error_Pct": 72.636275,
+    "Median_Error_Pct": 26.269562,
+    "Std_Error_Pct": 27.780323,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "4. Forest cover dataset",
+    "Generator": "ForestDiffusion",
+    "Mean_Error_Pct": 28.68433,
+    "Median_Error_Pct": 11.507937,
+    "Std_Error_Pct": 23.838702,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "4. Forest cover dataset",
+    "Generator": "GaussianCopula",
+    "Mean_Error_Pct": 26.61077,
+    "Median_Error_Pct": 12.047101,
+    "Std_Error_Pct": 20.321263,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "4. Forest cover dataset",
+    "Generator": "TVAE",
+    "Mean_Error_Pct": 76.959918,
+    "Median_Error_Pct": 100.0,
+    "Std_Error_Pct": 74.108926,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "4. Forest cover dataset",
+    "Generator": "TabDDPM",
+    "Mean_Error_Pct": 5790.181813,
+    "Median_Error_Pct": 568.236715,
+    "Std_Error_Pct": 317.150983,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "4. Forest cover dataset",
+    "Generator": "WGAN_GP",
+    "Mean_Error_Pct": 66.583539,
+    "Median_Error_Pct": 100.0,
+    "Std_Error_Pct": 65.339884,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "5. Bank Markting",
+    "Generator": "CTABGAN",
+    "Mean_Error_Pct": 37.171926,
+    "Median_Error_Pct": 28.649796,
+    "Std_Error_Pct": 25.011173,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "5. Bank Markting",
+    "Generator": "CTGAN",
+    "Mean_Error_Pct": 15.683888,
+    "Median_Error_Pct": 14.181028,
+    "Std_Error_Pct": 11.19853,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "5. Bank Markting",
+    "Generator": "CopulaGAN",
+    "Mean_Error_Pct": 27.112464,
+    "Median_Error_Pct": 12.072722,
+    "Std_Error_Pct": 20.994955,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "5. Bank Markting",
+    "Generator": "ForestDiffusion",
+    "Mean_Error_Pct": 7.241908,
+    "Median_Error_Pct": 7.516242,
+    "Std_Error_Pct": 21.956088,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "5. Bank Markting",
+    "Generator": "GaussianCopula",
+    "Mean_Error_Pct": 59.045216,
+    "Median_Error_Pct": 6.31474,
+    "Std_Error_Pct": 15.253082,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "5. Bank Markting",
+    "Generator": "TVAE",
+    "Mean_Error_Pct": 25.553935,
+    "Median_Error_Pct": 16.731813,
+    "Std_Error_Pct": 33.337731,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "5. Bank Markting",
+    "Generator": "TabDDPM",
+    "Mean_Error_Pct": 498.673544,
+    "Median_Error_Pct": 458.749551,
+    "Std_Error_Pct": 255.444724,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "5. Bank Markting",
+    "Generator": "WGAN_GP",
+    "Mean_Error_Pct": 48.281733,
+    "Median_Error_Pct": 3.870939,
+    "Std_Error_Pct": 16.959391,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "6. Wine dataset",
+    "Generator": "CTABGAN",
+    "Mean_Error_Pct": 4.495219,
+    "Median_Error_Pct": 2.800864,
+    "Std_Error_Pct": 9.194198,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "6. Wine dataset",
+    "Generator": "CTGAN",
+    "Mean_Error_Pct": 5.266867,
+    "Median_Error_Pct": 3.743189,
+    "Std_Error_Pct": 10.903988,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "6. Wine dataset",
+    "Generator": "CopulaGAN",
+    "Mean_Error_Pct": 5.089144,
+    "Median_Error_Pct": 2.686541,
+    "Std_Error_Pct": 12.528307,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "6. Wine dataset",
+    "Generator": "ForestDiffusion",
+    "Mean_Error_Pct": 1.118672,
+    "Median_Error_Pct": 0.790117,
+    "Std_Error_Pct": 11.624497,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "6. Wine dataset",
+    "Generator": "GaussianCopula",
+    "Mean_Error_Pct": 0.506707,
+    "Median_Error_Pct": 0.395139,
+    "Std_Error_Pct": 9.490235,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "6. Wine dataset",
+    "Generator": "TVAE",
+    "Mean_Error_Pct": 3.932436,
+    "Median_Error_Pct": 4.384033,
+    "Std_Error_Pct": 15.013342,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "6. Wine dataset",
+    "Generator": "TabDDPM",
+    "Mean_Error_Pct": 24.10501,
+    "Median_Error_Pct": 11.412138,
+    "Std_Error_Pct": 125.443983,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "6. Wine dataset",
+    "Generator": "WGAN_GP",
+    "Mean_Error_Pct": 16.358989,
+    "Median_Error_Pct": 6.693511,
+    "Std_Error_Pct": 13.055686,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "7. CDC diabetes dataset",
+    "Generator": "CTABGAN",
+    "Mean_Error_Pct": 143.902656,
+    "Median_Error_Pct": 11.905232,
+    "Std_Error_Pct": 24.419198,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "7. CDC diabetes dataset",
+    "Generator": "CTGAN",
+    "Mean_Error_Pct": 26.911364,
+    "Median_Error_Pct": 10.844658,
+    "Std_Error_Pct": 14.129601,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "7. CDC diabetes dataset",
+    "Generator": "CopulaGAN",
+    "Mean_Error_Pct": 20.300259,
+    "Median_Error_Pct": 17.665094,
+    "Std_Error_Pct": 10.61706,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "7. CDC diabetes dataset",
+    "Generator": "ForestDiffusion",
+    "Mean_Error_Pct": 6.246075,
+    "Median_Error_Pct": 4.342105,
+    "Std_Error_Pct": 8.990569,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "7. CDC diabetes dataset",
+    "Generator": "GaussianCopula",
+    "Mean_Error_Pct": 20.260145,
+    "Median_Error_Pct": 0.893256,
+    "Std_Error_Pct": 4.371937,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "7. CDC diabetes dataset",
+    "Generator": "TVAE",
+    "Mean_Error_Pct": 20.710261,
+    "Median_Error_Pct": 5.580357,
+    "Std_Error_Pct": 24.812616,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "7. CDC diabetes dataset",
+    "Generator": "TabDDPM",
+    "Mean_Error_Pct": 62.860091,
+    "Median_Error_Pct": 29.042448,
+    "Std_Error_Pct": 42.468087,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "7. CDC diabetes dataset",
+    "Generator": "WGAN_GP",
+    "Mean_Error_Pct": 24.444441,
+    "Median_Error_Pct": 11.388709,
+    "Std_Error_Pct": 31.197119,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "8. Mushroom dataset",
+    "Generator": "CTABGAN",
+    "Mean_Error_Pct": 21.351658,
+    "Median_Error_Pct": 5.050549,
+    "Std_Error_Pct": 16.335698,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "8. Mushroom dataset",
+    "Generator": "CTGAN",
+    "Mean_Error_Pct": 3.741476,
+    "Median_Error_Pct": 3.537238,
+    "Std_Error_Pct": 5.865425,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "8. Mushroom dataset",
+    "Generator": "CopulaGAN",
+    "Mean_Error_Pct": 5.29511,
+    "Median_Error_Pct": 5.162361,
+    "Std_Error_Pct": 6.301205,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "8. Mushroom dataset",
+    "Generator": "ForestDiffusion",
+    "Mean_Error_Pct": 9.037819,
+    "Median_Error_Pct": 9.551245,
+    "Std_Error_Pct": 39.80834,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "8. Mushroom dataset",
+    "Generator": "GaussianCopula",
+    "Mean_Error_Pct": 1.3367,
+    "Median_Error_Pct": 1.856007,
+    "Std_Error_Pct": 5.820726,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "8. Mushroom dataset",
+    "Generator": "TVAE",
+    "Mean_Error_Pct": 3.943863,
+    "Median_Error_Pct": 3.699088,
+    "Std_Error_Pct": 29.795889,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "8. Mushroom dataset",
+    "Generator": "TabDDPM",
+    "Mean_Error_Pct": 184.402845,
+    "Median_Error_Pct": 130.938255,
+    "Std_Error_Pct": 309.138962,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "8. Mushroom dataset",
+    "Generator": "WGAN_GP",
+    "Mean_Error_Pct": 10.334658,
+    "Median_Error_Pct": 12.568084,
+    "Std_Error_Pct": 16.268146,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "9. MAGIC Gamma Telescope",
+    "Generator": "CTABGAN",
+    "Mean_Error_Pct": 51.820437,
+    "Median_Error_Pct": 3.910099,
+    "Std_Error_Pct": 4.250676,
+    "Source_Group": "Other_GAN"
+  },
+  {
+    "Dataset": "9. MAGIC Gamma Telescope",
+    "Generator": "CTGAN",
+    "Mean_Error_Pct": 368.927512,
+    "Median_Error_Pct": 10.328742,
+    "Std_Error_Pct": 5.349465,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "9. MAGIC Gamma Telescope",
+    "Generator": "CopulaGAN",
+    "Mean_Error_Pct": 228.106995,
+    "Median_Error_Pct": 9.026041,
+    "Std_Error_Pct": 19.396021,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "9. MAGIC Gamma Telescope",
+    "Generator": "ForestDiffusion",
+    "Mean_Error_Pct": 15.62709,
+    "Median_Error_Pct": 3.100582,
+    "Std_Error_Pct": 10.835374,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "9. MAGIC Gamma Telescope",
+    "Generator": "GaussianCopula",
+    "Mean_Error_Pct": 38.653274,
+    "Median_Error_Pct": 2.032016,
+    "Std_Error_Pct": 14.455943,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "9. MAGIC Gamma Telescope",
+    "Generator": "TVAE",
+    "Mean_Error_Pct": 24.578524,
+    "Median_Error_Pct": 4.897867,
+    "Std_Error_Pct": 15.298178,
+    "Source_Group": "SDV"
+  },
+  {
+    "Dataset": "9. MAGIC Gamma Telescope",
+    "Generator": "TabDDPM",
+    "Mean_Error_Pct": 283.921016,
+    "Median_Error_Pct": 61.866496,
+    "Std_Error_Pct": 111.849351,
+    "Source_Group": "Diffusion"
+  },
+  {
+    "Dataset": "9. MAGIC Gamma Telescope",
+    "Generator": "WGAN_GP",
+    "Mean_Error_Pct": 20.054725,
+    "Median_Error_Pct": 2.623643,
+    "Std_Error_Pct": 6.695606,
+    "Source_Group": "Other_GAN"
+  }
+]

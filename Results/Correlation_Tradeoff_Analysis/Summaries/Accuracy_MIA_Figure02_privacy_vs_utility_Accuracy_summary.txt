@@ -1,0 +1,4 @@
+Privacy vs Utility (Accuracy, MIA AUC)
+Higher mia auc (attack success) is associated with higher utility (accuracy) (Pearson r = 0.16).
+ForestDiffusion, WGAN_GP, CTABGAN achieve a comparatively favourable privacy–utility balance.
+Very weak positive correlation. The pattern is consistent with the expected privacy–utility trade-off for synthetic tabular data.

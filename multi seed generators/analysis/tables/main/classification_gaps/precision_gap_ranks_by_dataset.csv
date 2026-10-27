@@ -1,0 +1,10 @@
+Dataset,CTABGAN,CTGAN,CopulaGAN,ForestDiffusion,GaussianCopula,TVAE,TabDDPM,WGAN-GP
+Adult,4.0,7.0,6.0,1.0,5.0,3.0,8.0,2.0
+Alzheimer's,4.0,6.0,8.0,1.0,5.0,2.0,7.0,3.0
+Bank Marketing,4.0,6.0,8.0,1.0,7.0,2.0,5.0,3.0
+CDC Diabetes,7.0,4.0,3.0,1.0,6.0,2.0,8.0,5.0
+Cancer,4.0,6.0,7.0,1.0,5.0,2.0,8.0,3.0
+Forest Cover,5.0,7.0,8.0,1.0,3.0,2.0,6.0,4.0
+MAGIC Gamma,5.0,7.0,6.0,1.0,3.0,2.0,8.0,4.0
+Mushroom,4.0,7.0,5.0,2.0,6.0,1.0,8.0,3.0
+Wine Quality,3.0,6.0,5.0,2.0,7.0,1.0,8.0,4.0

@@ -1,0 +1,27 @@
+Bad magic number for file header
+Traceback (most recent call last):
+  File "/home/gopi_b/SYNTH_BENCHMARK/multi seed generators/third batch/src/experiment.py", line 265, in run_one
+    _write_global_raw(paths, dataset_id, generator, seed, pd.DataFrame(rows))
+  File "/home/gopi_b/SYNTH_BENCHMARK/multi seed generators/third batch/src/experiment.py", line 138, in _write_global_raw
+    old = read_results(global_raw)
+  File "/home/gopi_b/SYNTH_BENCHMARK/multi seed generators/third batch/src/table_io.py", line 21, in read_results
+    return pd.read_excel(xlsx)
+  File "/home/gopi_b/SYNTH_BENCHMARK/.venv/lib/python3.10/site-packages/pandas/io/excel/_base.py", line 495, in read_excel
+    io = ExcelFile(
+  File "/home/gopi_b/SYNTH_BENCHMARK/.venv/lib/python3.10/site-packages/pandas/io/excel/_base.py", line 1567, in __init__
+    self._reader = self._engines[engine](
+  File "/home/gopi_b/SYNTH_BENCHMARK/.venv/lib/python3.10/site-packages/pandas/io/excel/_openpyxl.py", line 553, in __init__
+    super().__init__(
+  File "/home/gopi_b/SYNTH_BENCHMARK/.venv/lib/python3.10/site-packages/pandas/io/excel/_base.py", line 573, in __init__
+    self.book = self.load_workbook(self.handles.handle, engine_kwargs)
+  File "/home/gopi_b/SYNTH_BENCHMARK/.venv/lib/python3.10/site-packages/pandas/io/excel/_openpyxl.py", line 572, in load_workbook
+    return load_workbook(
+  File "/home/gopi_b/SYNTH_BENCHMARK/.venv/lib/python3.10/site-packages/openpyxl/reader/excel.py", line 348, in load_workbook
+    reader.read()
+  File "/home/gopi_b/SYNTH_BENCHMARK/.venv/lib/python3.10/site-packages/openpyxl/reader/excel.py", line 291, in read
+    self.read_strings()
+  File "/home/gopi_b/SYNTH_BENCHMARK/.venv/lib/python3.10/site-packages/openpyxl/reader/excel.py", line 146, in read_strings
+    with self.archive.open(strings_path,) as src:
+  File "/usr/lib/python3.10/zipfile.py", line 1559, in open
+    raise BadZipFile("Bad magic number for file header")
+zipfile.BadZipFile: Bad magic number for file header

@@ -1,0 +1,11 @@
+Metric,CTABGAN,CTGAN,CopulaGAN,ForestDiffusion,GaussianCopula,TVAE,TabDDPM,WGAN_GP
+Cosine_Similarity,nan,nan,nan,nan,nan,nan,nan,nan
+Gower_Distance,nan,nan,nan,nan,nan,nan,nan,nan
+JS_Divergence,nan,nan,nan,nan,nan,nan,nan,nan
+KS_Complement,nan,nan,nan,nan,nan,nan,nan,nan
+MMD,nan,nan,nan,nan,nan,nan,nan,nan
+MMD_Multivariate,nan,nan,nan,nan,nan,nan,nan,nan
+PCA_Correlation_Diff,nan,nan,nan,nan,nan,nan,nan,nan
+PCA_Mean_Error,nan,nan,nan,nan,nan,nan,nan,nan
+Quality_Score,0.8822,0.7651,0.7219,0.9348,\textbf{0.9437},0.8964,\underline{0.9383},0.8082
+Wasserstein_Distance,nan,nan,nan,nan,nan,nan,nan,nan

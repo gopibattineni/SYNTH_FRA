@@ -1,0 +1,73 @@
+Dataset,DatasetShort,Generator,UtilityGap,Rank
+1. Cancer,Cancer,WGAN-GP,-0.0069131782,1.0
+1. Cancer,Cancer,ForestDiffusion,-0.0066213492,2.0
+1. Cancer,Cancer,GaussianCopula,0.0670854389,3.0
+1. Cancer,Cancer,CTABGAN,0.0737696552,4.0
+1. Cancer,Cancer,TVAE,0.0823294945,5.0
+1. Cancer,Cancer,CTGAN,0.3749613129,6.0
+1. Cancer,Cancer,CopulaGAN,0.6474866498,7.0
+1. Cancer,Cancer,TabDDPM,0.6708797571,8.0
+2. Alzhimers,Alzheimer's,WGAN-GP,-0.0288809741,1.0
+2. Alzhimers,Alzheimer's,ForestDiffusion,-0.0163777749,2.0
+2. Alzhimers,Alzheimer's,CTABGAN,0.1055256021,3.0
+2. Alzhimers,Alzheimer's,TVAE,0.1250962995,4.0
+2. Alzhimers,Alzheimer's,GaussianCopula,0.166072484,5.0
+2. Alzhimers,Alzheimer's,TabDDPM,0.3706597265,6.0
+2. Alzhimers,Alzheimer's,CopulaGAN,0.3971638782,7.0
+2. Alzhimers,Alzheimer's,CTGAN,0.4142917035,8.0
+3. Adult,Adult,ForestDiffusion,0.0071031834,1.0
+3. Adult,Adult,WGAN-GP,0.0414565118,2.0
+3. Adult,Adult,TVAE,0.1487533786,3.0
+3. Adult,Adult,CopulaGAN,0.1746232328,4.0
+3. Adult,Adult,CTABGAN,0.1826481002,5.0
+3. Adult,Adult,CTGAN,0.1851842049,6.0
+3. Adult,Adult,TabDDPM,0.1981491027,7.0
+3. Adult,Adult,GaussianCopula,0.2049527589,8.0
+4. Forest cover dataset,Forest Cover,ForestDiffusion,-0.065031499,1.0
+4. Forest cover dataset,Forest Cover,CTGAN,0.1934843759,2.0
+4. Forest cover dataset,Forest Cover,GaussianCopula,0.1984886604,3.0
+4. Forest cover dataset,Forest Cover,TVAE,0.2441651263,4.0
+4. Forest cover dataset,Forest Cover,WGAN-GP,0.2481458658,5.0
+4. Forest cover dataset,Forest Cover,CTABGAN,0.2615625882,6.0
+4. Forest cover dataset,Forest Cover,TabDDPM,0.2662261341,7.0
+4. Forest cover dataset,Forest Cover,CopulaGAN,0.3140101677,8.0
+5. Bank Markting,Bank Marketing,ForestDiffusion,-0.0058545689,1.0
+5. Bank Markting,Bank Marketing,CTABGAN,0.0047602982,2.0
+5. Bank Markting,Bank Marketing,CopulaGAN,0.0142216879,3.0
+5. Bank Markting,Bank Marketing,TVAE,0.0264573828,4.0
+5. Bank Markting,Bank Marketing,CTGAN,0.0276371568,5.0
+5. Bank Markting,Bank Marketing,GaussianCopula,0.0527378935,6.0
+5. Bank Markting,Bank Marketing,WGAN-GP,0.0566699672,7.0
+5. Bank Markting,Bank Marketing,TabDDPM,0.0712239839,8.0
+6. Wine dataset,Wine Quality,ForestDiffusion,-0.0951966751,1.0
+6. Wine dataset,Wine Quality,TVAE,0.0224940242,2.0
+6. Wine dataset,Wine Quality,WGAN-GP,0.0542142672,3.0
+6. Wine dataset,Wine Quality,CTABGAN,0.1423852372,4.0
+6. Wine dataset,Wine Quality,CopulaGAN,0.1484187267,5.0
+6. Wine dataset,Wine Quality,GaussianCopula,0.1526591054,6.0
+6. Wine dataset,Wine Quality,CTGAN,0.1529435581,7.0
+6. Wine dataset,Wine Quality,TabDDPM,0.1551648232,8.0
+7. CDC diabetes dataset,CDC Diabetes,ForestDiffusion,0.0039230327,1.0
+7. CDC diabetes dataset,CDC Diabetes,WGAN-GP,0.033846501,2.0
+7. CDC diabetes dataset,CDC Diabetes,CTGAN,0.0750224941,3.0
+7. CDC diabetes dataset,CDC Diabetes,CTABGAN,0.0924884484,4.0
+7. CDC diabetes dataset,CDC Diabetes,TabDDPM,0.1013921766,5.0
+7. CDC diabetes dataset,CDC Diabetes,TVAE,0.1025878219,6.0
+7. CDC diabetes dataset,CDC Diabetes,CopulaGAN,0.1303850148,7.0
+7. CDC diabetes dataset,CDC Diabetes,GaussianCopula,0.2557512541,8.0
+8. Mushroom dataset,Mushroom,ForestDiffusion,0.0847408528,1.0
+8. Mushroom dataset,Mushroom,WGAN-GP,0.1813030678,2.0
+8. Mushroom dataset,Mushroom,TVAE,0.2166002791,3.0
+8. Mushroom dataset,Mushroom,GaussianCopula,0.255172869,4.0
+8. Mushroom dataset,Mushroom,CTGAN,0.2649735203,5.0
+8. Mushroom dataset,Mushroom,CTABGAN,0.2932066486,6.0
+8. Mushroom dataset,Mushroom,CopulaGAN,0.2948092253,7.0
+8. Mushroom dataset,Mushroom,TabDDPM,0.3480725873,8.0
+9. MAGIC Gamma Telescope,MAGIC Gamma,TVAE,0.0063515419,1.0
+9. MAGIC Gamma Telescope,MAGIC Gamma,ForestDiffusion,0.0089655197,2.0
+9. MAGIC Gamma Telescope,MAGIC Gamma,WGAN-GP,0.0168120908,3.0
+9. MAGIC Gamma Telescope,MAGIC Gamma,CTGAN,0.0397597797,4.0
+9. MAGIC Gamma Telescope,MAGIC Gamma,CTABGAN,0.0471504052,5.0
+9. MAGIC Gamma Telescope,MAGIC Gamma,CopulaGAN,0.0590332115,6.0
+9. MAGIC Gamma Telescope,MAGIC Gamma,GaussianCopula,0.099098617,7.0
+9. MAGIC Gamma Telescope,MAGIC Gamma,TabDDPM,0.1886613502,8.0

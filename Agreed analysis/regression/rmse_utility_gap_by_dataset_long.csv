@@ -1,0 +1,49 @@
+DatasetShort,Generator,RMSE_UtilityGap
+Air Quality,CTABGAN,0.4931217817
+Air Quality,CTGAN,0.647411555
+Air Quality,CopulaGAN,0.5974424056
+Air Quality,ForestDiffusion,0.2013223915
+Air Quality,GaussianCopula,0.0090941839
+Air Quality,TVAE,0.2765206735
+Air Quality,TabDDPM,233.4489778684
+Air Quality,WGAN-GP,0.0396185752
+Concrete,CTABGAN,7.5666120015
+Concrete,CTGAN,10.2974309
+Concrete,CopulaGAN,12.5288273563
+Concrete,ForestDiffusion,1.0320877504
+Concrete,GaussianCopula,2.5466780899
+Concrete,TVAE,3.7061374164
+Concrete,TabDDPM,2.0597135757
+Concrete,WGAN-GP,3.9679153526
+Energy Efficiency,CTABGAN,11.5550379454
+Energy Efficiency,CTGAN,7.7977060344
+Energy Efficiency,CopulaGAN,8.6737206793
+Energy Efficiency,ForestDiffusion,-0.0118703814
+Energy Efficiency,GaussianCopula,3.6310190403
+Energy Efficiency,TVAE,2.2876436991
+Energy Efficiency,TabDDPM,3.0828946354
+Energy Efficiency,WGAN-GP,1.7610125668
+Metro Interstate,CTABGAN,-58.2697620323
+Metro Interstate,CTGAN,47.1717603272
+Metro Interstate,CopulaGAN,11.0404198498
+Metro Interstate,ForestDiffusion,-34.597499167
+Metro Interstate,GaussianCopula,114.9312813643
+Metro Interstate,TVAE,425.0145966081
+Metro Interstate,TabDDPM,413.3563253454
+Metro Interstate,WGAN-GP,1345.2035156598
+Online Shopping,CTABGAN,9.0746353603
+Online Shopping,CTGAN,10.2073000252
+Online Shopping,CopulaGAN,11.7992241133
+Online Shopping,ForestDiffusion,3.2573346988
+Online Shopping,GaussianCopula,6.128955134
+Online Shopping,TVAE,11.506649748
+Online Shopping,TabDDPM,18.0520985064
+Online Shopping,WGAN-GP,53.4218743945
+Real Estate,CTABGAN,1.4253479761
+Real Estate,CTGAN,10.7766791501
+Real Estate,CopulaGAN,6.4471616291
+Real Estate,ForestDiffusion,-0.7433733815
+Real Estate,GaussianCopula,0.0165269323
+Real Estate,TVAE,0.2519828144
+Real Estate,TabDDPM,1.7926420954
+Real Estate,WGAN-GP,0.4200888783

@@ -1,0 +1,50 @@
+{
+  "n_datasets": 15,
+  "classification_datasets": [
+    "cancer",
+    "alzhimers",
+    "adult",
+    "forest_cover",
+    "bank",
+    "wine",
+    "cdc_diabetes",
+    "mushroom",
+    "magic"
+  ],
+  "n_classification": 9,
+  "regression_datasets": [
+    "metro",
+    "online_shopping",
+    "air_quality",
+    "concrete",
+    "energy_efficiency",
+    "real_estate"
+  ],
+  "n_regression": 6,
+  "n_generators": 8,
+  "generators": [
+    "CTGAN",
+    "CopulaGAN",
+    "TVAE",
+    "GaussianCopula",
+    "CTABGAN",
+    "WGAN_GP",
+    "TabDDPM",
+    "ForestDiffusion"
+  ],
+  "seeds": [
+    55,
+    155,
+    255,
+    355
+  ],
+  "expected_runs": 480,
+  "expected_classification_runs": 288,
+  "expected_regression_runs": 192,
+  "split_seed": 42,
+  "folder_layout": {
+    "classification": "/home/gopi_b/SYNTH_BENCHMARK/multi seed generators/third batch/classification",
+    "regression": "/home/gopi_b/SYNTH_BENCHMARK/multi seed generators/third batch/regression"
+  },
+  "ok": true
+}

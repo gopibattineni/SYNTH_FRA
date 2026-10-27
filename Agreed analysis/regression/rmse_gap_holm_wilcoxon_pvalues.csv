@@ -1,0 +1,9 @@
+,ForestDiffusion,GaussianCopula,TVAE,CTABGAN,WGAN-GP,TabDDPM,CTGAN,CopulaGAN
+ForestDiffusion,1.0,1.0,0.875,1.0,1.0,0.875,0.875,0.875
+GaussianCopula,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+TVAE,0.875,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+CTABGAN,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+WGAN-GP,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+TabDDPM,0.875,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+CTGAN,0.875,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+CopulaGAN,0.875,1.0,1.0,1.0,1.0,1.0,1.0,1.0

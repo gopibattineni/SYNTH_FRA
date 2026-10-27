@@ -1,0 +1,81 @@
+Classifier,Generator,AverageRank,InTopGroup,IsBest
+Logistic Regression,ForestDiffusion,1.5,True,True
+Logistic Regression,CTABGAN,3.7222222222222223,True,False
+Logistic Regression,WGAN-GP,3.9444444444444446,True,False
+Logistic Regression,GaussianCopula,4.055555555555555,True,False
+Logistic Regression,TVAE,4.777777777777778,True,False
+Logistic Regression,CTGAN,5.444444444444445,False,False
+Logistic Regression,TabDDPM,6.277777777777778,False,False
+Logistic Regression,CopulaGAN,6.277777777777778,False,False
+Random Forest,ForestDiffusion,1.5555555555555556,True,True
+Random Forest,WGAN-GP,2.888888888888889,True,False
+Random Forest,TVAE,3.7777777777777777,True,False
+Random Forest,GaussianCopula,4.0,True,False
+Random Forest,CTABGAN,4.777777777777778,True,False
+Random Forest,TabDDPM,6.111111111111111,False,False
+Random Forest,CTGAN,6.333333333333333,False,False
+Random Forest,CopulaGAN,6.555555555555555,False,False
+Naive Bayes,ForestDiffusion,3.0,True,True
+Naive Bayes,CTABGAN,3.4444444444444446,True,False
+Naive Bayes,GaussianCopula,3.7222222222222223,True,False
+Naive Bayes,WGAN-GP,4.0,True,False
+Naive Bayes,TVAE,4.833333333333333,True,False
+Naive Bayes,CTGAN,4.888888888888889,True,False
+Naive Bayes,TabDDPM,6.0,True,False
+Naive Bayes,CopulaGAN,6.111111111111111,True,False
+KNN,ForestDiffusion,1.0,True,True
+KNN,TVAE,3.2222222222222223,True,False
+KNN,WGAN-GP,3.5555555555555554,True,False
+KNN,GaussianCopula,4.666666666666667,False,False
+KNN,CTABGAN,4.777777777777778,False,False
+KNN,TabDDPM,5.888888888888889,False,False
+KNN,CTGAN,6.333333333333333,False,False
+KNN,CopulaGAN,6.555555555555555,False,False
+MLP,ForestDiffusion,1.0,True,True
+MLP,WGAN-GP,2.888888888888889,True,False
+MLP,TVAE,3.7777777777777777,True,False
+MLP,CTABGAN,4.666666666666667,False,False
+MLP,GaussianCopula,5.0,False,False
+MLP,CTGAN,5.777777777777778,False,False
+MLP,TabDDPM,6.222222222222222,False,False
+MLP,CopulaGAN,6.666666666666667,False,False
+SVM-RBF,ForestDiffusion,1.4444444444444444,True,True
+SVM-RBF,WGAN-GP,3.5,True,False
+SVM-RBF,CTABGAN,4.055555555555555,True,False
+SVM-RBF,TVAE,4.333333333333333,True,False
+SVM-RBF,GaussianCopula,4.722222222222222,True,False
+SVM-RBF,CTGAN,5.555555555555555,False,False
+SVM-RBF,CopulaGAN,6.0,False,False
+SVM-RBF,TabDDPM,6.388888888888889,False,False
+Extra Trees,ForestDiffusion,1.4444444444444444,True,True
+Extra Trees,WGAN-GP,3.0,True,False
+Extra Trees,TVAE,3.3333333333333335,True,False
+Extra Trees,CTABGAN,4.444444444444445,True,False
+Extra Trees,GaussianCopula,4.444444444444445,True,False
+Extra Trees,CTGAN,6.222222222222222,False,False
+Extra Trees,TabDDPM,6.333333333333333,False,False
+Extra Trees,CopulaGAN,6.777777777777778,False,False
+AdaBoost,ForestDiffusion,2.25,True,True
+AdaBoost,WGAN-GP,3.375,True,False
+AdaBoost,GaussianCopula,3.5625,True,False
+AdaBoost,CTABGAN,3.875,True,False
+AdaBoost,TVAE,4.625,True,False
+AdaBoost,CTGAN,5.5,True,False
+AdaBoost,CopulaGAN,6.25,False,False
+AdaBoost,TabDDPM,6.5625,False,False
+Gradient Boosting,ForestDiffusion,1.5555555555555556,True,True
+Gradient Boosting,WGAN-GP,2.6666666666666665,True,False
+Gradient Boosting,TVAE,3.5555555555555554,True,False
+Gradient Boosting,GaussianCopula,4.333333333333333,True,False
+Gradient Boosting,CTABGAN,5.555555555555555,False,False
+Gradient Boosting,CTGAN,5.777777777777778,False,False
+Gradient Boosting,CopulaGAN,6.222222222222222,False,False
+Gradient Boosting,TabDDPM,6.333333333333333,False,False
+Decision Tree,ForestDiffusion,1.2222222222222223,True,True
+Decision Tree,TVAE,2.888888888888889,True,False
+Decision Tree,WGAN-GP,3.111111111111111,True,False
+Decision Tree,GaussianCopula,4.555555555555555,True,False
+Decision Tree,CTABGAN,5.333333333333333,False,False
+Decision Tree,TabDDPM,5.777777777777778,False,False
+Decision Tree,CTGAN,6.222222222222222,False,False
+Decision Tree,CopulaGAN,6.888888888888889,False,False

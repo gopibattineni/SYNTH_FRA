@@ -1,0 +1,11 @@
+batch,batch_label,seed,classification_runs,regression_runs,total_runs,expected_runs,status
+1st_batch,1st batch,42,72,48,120,120,OK
+1st_batch,1st batch,123,72,48,120,120,OK
+1st_batch,1st batch,2024,72,48,120,120,OK
+2nd_batch,2nd batch,68,72,48,120,120,OK
+2nd_batch,2nd batch,91,72,48,120,120,OK
+2nd_batch,2nd batch,2025,72,48,120,120,OK
+3rd_batch,3rd batch,55,72,48,120,120,OK
+3rd_batch,3rd batch,155,72,48,120,120,OK
+3rd_batch,3rd batch,255,72,48,120,120,OK
+3rd_batch,3rd batch,355,72,48,120,120,OK

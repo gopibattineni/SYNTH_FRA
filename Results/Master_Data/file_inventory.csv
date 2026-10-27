@@ -1,0 +1,130 @@
+Path,FileType,Dataset,Priority
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Adult_Hungarian_Mahalanobis.xlsx,privacy,3. Adult,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Adult_Hungarian_Matchings_All_Models.xlsx,privacy,3. Adult,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/ForestCover_Hungarian_Mahalanobis.xlsx,privacy,4. Forest cover dataset,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_CTABGAN_WGAN_GP_Metro.xlsx,privacy,10. Metro interstate,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_CTABGAN_WGAN_GP_Online shopping.xlsx,privacy,11. online shopping,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_MAGIC_CTABGAN_WGAN_GP.xlsx,privacy,9. MAGIC Gamma Telescope,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_MAGIC_TabDDPM_ForestDiffusion.xlsx,privacy,9. MAGIC Gamma Telescope,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_TabDDPM_ForestDiffusion_Metro.xlsx,privacy,10. Metro interstate,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_TabDDPM_ForestDiffusion_Online shopping.xlsx,privacy,11. online shopping,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_WGAN_CTABGAN.xlsx,privacy,,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Mahalanobis_WGAN_TabDDPM.xlsx,privacy,,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Hungarian_Matchings_All_Models.xlsx,privacy,,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Matchings_CTABGAN_WGAN_GP_Metro_Interstate_Traffic.xlsx,privacy,10. Metro interstate,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Diffusion GANs/Matchings_TabDDPM_ForestDiffusion_Metro_Interstate_Traffic.xlsx,privacy,10. Metro interstate,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/1. Cancer/TRTR_TSTR_results.xlsx,utility,1. Cancer,0
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/10. Metro interstate/TRTR_TSTR_results_regression.xlsx,utility,10. Metro interstate,0
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/11. online shopping/TRTR_TSTR_results_regression.xlsx,utility,11. online shopping,0
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/12. Air Quality/TRTR_TSTR_results_air_quality.xlsx,utility,12. Air Quality,0
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/13. Concrete Compressive Strength/TRTR_TSTR_results_air_quality.xlsx,utility,13. Concrete Compressive Strength,0
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/14. Energy Efficiency/TRTR_TSTR_results_energy_efficiency.xlsx,utility,14. Energy Efficiency,0
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/15. Real Estate Valuation/TRTR_TSTR_results_real_estate.xlsx,utility,15. Real Estate Valuation,0
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/2. Alzhimers/TRTR_TSTR_results.xlsx,utility,2. Alzhimers,0
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/3. Adult/TRTR_TSTR_results.xlsx,utility,3. Adult,0
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/4. Forest cover dataset/TRTR_TSTR_results.xlsx,utility,4. Forest cover dataset,0
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/5. Bank Markting/TRTR_TSTR_results.xlsx,utility,5. Bank Markting,0
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/6. Wine dataset/TRTR_TSTR_results.xlsx,utility,6. Wine dataset,0
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/7. CDC diabetes dataset/TRTR_TSTR_results.xlsx,utility,7. CDC diabetes dataset,0
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/8. Mushroom dataset/TRTR_TSTR_results.xlsx,utility,8. Mushroom dataset,0
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/9. MAGIC Gamma Telescope/TRTR_TSTR_results.xlsx,utility,9. MAGIC Gamma Telescope,0
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/diffusion_dataleak/1. Cancer/TRTR_TSTR_results.xlsx,utility,1. Cancer,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/diffusion_dataleak/10. Metro interstate/TRTR_TSTR_results_regression.xlsx,utility,10. Metro interstate,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/diffusion_dataleak/11. online shopping/TRTR_TSTR_results_regression.xlsx,utility,11. online shopping,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/diffusion_dataleak/12. Air Quality/TRTR_TSTR_results_air_quality.xlsx,utility,12. Air Quality,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/diffusion_dataleak/13. Concrete Compressive Strength/TRTR_TSTR_results_concrete.xlsx,utility,13. Concrete Compressive Strength,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/diffusion_dataleak/14. Energy Efficiency/TRTR_TSTR_results_energy_efficiency.xlsx,utility,14. Energy Efficiency,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/diffusion_dataleak/15. Real Estate Valuation/TRTR_TSTR_results_real_estate.xlsx,utility,15. Real Estate Valuation,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/diffusion_dataleak/2. Alzhimers/TRTR_TSTR_results.xlsx,utility,2. Alzhimers,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/diffusion_dataleak/3. Adult/TRTR_TSTR_results.xlsx,utility,3. Adult,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/diffusion_dataleak/4. Forest cover dataset/TRTR_TSTR_results.xlsx,utility,4. Forest cover dataset,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/diffusion_dataleak/5. Bank Markting/TRTR_TSTR_results.xlsx,utility,5. Bank Markting,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/diffusion_dataleak/6. Wine dataset/TRTR_TSTR_results.xlsx,utility,6. Wine dataset,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/diffusion_dataleak/7. CDC diabetes dataset/TRTR_TSTR_results.xlsx,utility,7. CDC diabetes dataset,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/diffusion_dataleak/8. Mushroom dataset/TRTR_TSTR_results.xlsx,utility,8. Mushroom dataset,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/diffusion_dataleak/9. MAGIC Gamma Telescope/TRTR_TSTR_results.xlsx,utility,9. MAGIC Gamma Telescope,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_cancer.xlsx,utility,1. Cancer,3
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/utility results/1. Cancer/TRTR_TSTR_results_merged.xlsx,utility,1. Cancer,3
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/utility results/10. Metro interstate/TRTR_TSTR_results_merged.xlsx,utility,10. Metro interstate,3
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/utility results/11. online shopping/TRTR_TSTR_results_merged.xlsx,utility,11. online shopping,3
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/utility results/12. Air Quality/TRTR_TSTR_results_merged.xlsx,utility,12. Air Quality,3
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/utility results/13. Concrete Compressive Strength/TRTR_TSTR_results_merged.xlsx,utility,13. Concrete Compressive Strength,3
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/utility results/14. Energy Efficiency/TRTR_TSTR_results_merged.xlsx,utility,14. Energy Efficiency,3
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/utility results/15. Real Estate Valuation/TRTR_TSTR_results_merged.xlsx,utility,15. Real Estate Valuation,3
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_alzhimers.xlsx,utility,2. Alzhimers,3
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/utility results/2. Alzhimers/TRTR_TSTR_results_merged.xlsx,utility,2. Alzhimers,3
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/utility results/3. Adult/TRTR_TSTR_results_merged.xlsx,utility,3. Adult,3
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/utility results/4. Forest cover dataset/TRTR_TSTR_results_merged.xlsx,utility,4. Forest cover dataset,3
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/utility results/5. Bank Markting/TRTR_TSTR_results_merged.xlsx,utility,5. Bank Markting,3
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/utility results/6. Wine dataset/TRTR_TSTR_results_merged.xlsx,utility,6. Wine dataset,3
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/utility results/7. CDC diabetes dataset/TRTR_TSTR_results_merged.xlsx,utility,7. CDC diabetes dataset,3
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/utility results/8. Mushroom dataset/TRTR_TSTR_results_merged.xlsx,utility,8. Mushroom dataset,3
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Experiment with utility data leak/utility results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_merged.xlsx,utility,9. MAGIC Gamma Telescope,3
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Adult_Hungarian_Mahalanobis.xlsx,privacy,3. Adult,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Adult_Hungarian_Matchings_All_Models.xlsx,privacy,3. Adult,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_CTABGAN_WGAN_GP_Metro.xlsx,privacy,10. Metro interstate,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_CTABGAN_WGAN_GP_Online shopping.xlsx,privacy,11. online shopping,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_MAGIC_CTABGAN_WGAN_GP.xlsx,privacy,9. MAGIC Gamma Telescope,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Mahalanobis_WGAN_CTABGAN.xlsx,privacy,,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Hungarian_Matchings_All_Models.xlsx,privacy,,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/Other GANS/Matchings_CTABGAN_WGAN_GP_Metro_Interstate_Traffic.xlsx,privacy,10. Metro interstate,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Eshop_Price_Regression_Hungarian_Mahalanobis.xlsx,privacy,11. online shopping,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_All_Models_metro_traffic.xlsx,privacy,10. Metro interstate,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models.xlsx,privacy,1. Cancer,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_AD.xlsx,privacy,2. Alzhimers,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Adult_Census.xlsx,privacy,3. Adult,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Bank_Marketing.xlsx,privacy,5. Bank Markting,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Heart.xlsx,privacy,7. CDC diabetes dataset,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Metro.xlsx,privacy,10. Metro interstate,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_Secondary_Mushroom.xlsx,privacy,8. Mushroom dataset,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Mahalanobis_Four_Models_WineQuality.xlsx,privacy,6. Wine dataset,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Matchings_All_Models.xlsx,privacy,,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Matchings_All_Models_AD.xlsx,privacy,,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Hungarian_Matchings_All_Models_Heart.xlsx,privacy,7. CDC diabetes dataset,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Matchings_All_Models_Adult_Census.xlsx,privacy,3. Adult,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Matchings_All_Models_Bank_Marketing.xlsx,privacy,5. Bank Markting,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Matchings_All_Models_Metro_Interstate_Traffic.xlsx,privacy,10. Metro interstate,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/Matchings_All_Models_Secondary_Mushroom.xlsx,privacy,8. Mushroom dataset,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Excel sheets/matching_results_shopping.xlsx,privacy,11. online shopping,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_AirQuality.xlsx,privacy,12. Air Quality,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_Concrete.xlsx,privacy,13. Concrete Compressive Strength,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_EnergyEfficiency.xlsx,privacy,14. Energy Efficiency,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_MAGIC.xlsx,privacy,9. MAGIC Gamma Telescope,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Mahalanobis_Four_Models_RealEstate.xlsx,privacy,15. Real Estate Valuation,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Matchings_All_Models_AirQuality.xlsx,privacy,12. Air Quality,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Matchings_All_Models_Concrete.xlsx,privacy,13. Concrete Compressive Strength,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Matchings_All_Models_EnergyEfficiency.xlsx,privacy,14. Energy Efficiency,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Matchings_All_Models_Heart.xlsx,privacy,7. CDC diabetes dataset,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Matchings_All_Models_MAGIC.xlsx,privacy,9. MAGIC Gamma Telescope,1
+/home/gopi.battineni/SYNTH_BENCHMARK/Generators/SDV models/Hungarian_Matchings_All_Models_RealEstate.xlsx,privacy,15. Real Estate Valuation,1
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/1. Cancer/TRTR_TSTR_results_cancer.xlsx,utility,1. Cancer,2
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/1. Cancer/fidelity_privacy_metrics.xlsx,fidelity_privacy,1. Cancer,2
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/10. Metro interstate/TRTR_TSTR_results_metro.xlsx,utility,10. Metro interstate,0
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/10. Metro interstate/fidelity_privacy_metrics.xlsx,fidelity_privacy,10. Metro interstate,2
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/11. online shopping/TRTR_TSTR_results_regression.xlsx,utility,11. online shopping,0
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/11. online shopping/fidelity_privacy_metrics.xlsx,fidelity_privacy,11. online shopping,2
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/12. Air Quality/TRTR_TSTR_results_air_quality.xlsx,utility,12. Air Quality,0
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/12. Air Quality/fidelity_privacy_metrics.xlsx,fidelity_privacy,12. Air Quality,2
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/13. Concrete Compressive Strength/TRTR_TSTR_results_concrete.xlsx,utility,13. Concrete Compressive Strength,0
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/13. Concrete Compressive Strength/fidelity_privacy_metrics.xlsx,fidelity_privacy,13. Concrete Compressive Strength,2
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/14. Energy Efficiency/TRTR_TSTR_results_energy_efficiency.xlsx,utility,14. Energy Efficiency,0
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/14. Energy Efficiency/fidelity_privacy_metrics.xlsx,fidelity_privacy,14. Energy Efficiency,2
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/15. Real Estate Valuation/TRTR_TSTR_results_real_estate.xlsx,utility,15. Real Estate Valuation,0
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/15. Real Estate Valuation/fidelity_privacy_metrics.xlsx,fidelity_privacy,15. Real Estate Valuation,2
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/2. Alzhimers/TRTR_TSTR_results_alzhimers.xlsx,utility,2. Alzhimers,2
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/2. Alzhimers/fidelity_privacy_metrics.xlsx,fidelity_privacy,2. Alzhimers,2
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/3. Adult/TRTR_TSTR_results_adult.xlsx,utility,3. Adult,0
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/3. Adult/fidelity_privacy_metrics.xlsx,fidelity_privacy,3. Adult,2
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/4. Forest cover dataset/TRTR_TSTR_results_forest_cover.xlsx,utility,4. Forest cover dataset,0
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/4. Forest cover dataset/fidelity_privacy_metrics.xlsx,fidelity_privacy,4. Forest cover dataset,2
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/5. Bank Markting/TRTR_TSTR_results_bank.xlsx,utility,5. Bank Markting,0
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/5. Bank Markting/fidelity_privacy_metrics.xlsx,fidelity_privacy,5. Bank Markting,2
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/6. Wine dataset/TRTR_TSTR_results_wine.xlsx,utility,6. Wine dataset,0
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/6. Wine dataset/fidelity_privacy_metrics.xlsx,fidelity_privacy,6. Wine dataset,2
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/7. CDC diabetes dataset/TRTR_TSTR_results_cdc_diabetes.xlsx,utility,7. CDC diabetes dataset,0
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/7. CDC diabetes dataset/fidelity_privacy_metrics.xlsx,fidelity_privacy,7. CDC diabetes dataset,2
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/8. Mushroom dataset/TRTR_TSTR_results_mushroom.xlsx,utility,8. Mushroom dataset,0
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/8. Mushroom dataset/fidelity_privacy_metrics.xlsx,fidelity_privacy,8. Mushroom dataset,2
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/9. MAGIC Gamma Telescope/TRTR_TSTR_results_magic.xlsx,utility,9. MAGIC Gamma Telescope,0
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/9. MAGIC Gamma Telescope/fidelity_privacy_metrics.xlsx,fidelity_privacy,9. MAGIC Gamma Telescope,2
+/home/gopi.battineni/SYNTH_BENCHMARK/paper results/extraction_log.xlsx,other,,0

@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SYNTH — 10-Seed Results Explorer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="explorer.css?v=2" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="hero">
+      <div class="hero-content">
+        <p class="eyebrow">SYNTH Benchmark</p>
+        <h1>10-Seed Results Explorer</h1>
+        <p class="subtitle">
+          Mean ± SD across <strong>10 generator-training seeds</strong> for
+          <strong>utility</strong>, <strong>fidelity</strong>, and <strong>privacy</strong>
+          — plus manuscript diagrams from the analysis suite.
+        </p>
+        <p class="hero-links">
+          <a href="../">Plotly dashboard</a>
+          ·
+          <a href="https://github.com/gopibattineni/SYNTH_BENCHMARK" target="_blank" rel="noopener">GitHub repo</a>
+        </p>
+      </div>
+      <div class="hero-stats">
+        <div class="stat"><span class="stat-value" id="stat-datasets">—</span><span class="stat-label">Datasets</span></div>
+        <div class="stat"><span class="stat-value" id="stat-generators">8</span><span class="stat-label">Generators</span></div>
+        <div class="stat"><span class="stat-value" id="stat-seeds">10</span><span class="stat-label">Seeds</span></div>
+        <div class="stat"><span class="stat-value" id="stat-runs">1200</span><span class="stat-label">Runs</span></div>
+      </div>
+    </header>
+
+    <nav class="view-tabs" role="tablist" aria-label="Explorer views">
+      <button class="view-tab active" type="button" data-view="results" role="tab" aria-selected="true">Results tables</button>
+      <button class="view-tab" type="button" data-view="figures" role="tab" aria-selected="false">Analysis figures</button>
+    </nav>
+
+    <main class="layout" id="view-results">
+      <section class="panel">
+        <div class="panel-header">
+          <h2>Filters</h2>
+          <p class="panel-note" id="source-note">Loading 10-seed results…</p>
+        </div>
+        <div class="controls-row">
+          <label class="field">
+            <span>Task</span>
+            <select id="bm-task">
+              <option value="classification">Classification</option>
+              <option value="regression">Regression</option>
+            </select>
+          </label>
+          <label class="field">
+            <span>Pillar</span>
+            <select id="bm-category">
+              <option value="Utility">Utility</option>
+              <option value="Fidelity">Fidelity</option>
+              <option value="Privacy">Privacy</option>
+            </select>
+          </label>
+          <label class="field">
+            <span>Metric</span>
+            <select id="bm-metric"></select>
+          </label>
+          <label class="field">
+            <span>Dataset</span>
+            <select id="bm-dataset">
+              <option value="">All datasets</option>
+            </select>
+          </label>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-header">
+          <h2 id="ranking-title">Generator ranking</h2>
+        </div>
+        <div class="ranking-list" id="ranking-list"></div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-header">
+          <h2 id="heatmap-title">Dataset × generator heatmap</h2>
+          <p class="panel-note">Cell colour = 10-seed mean · greener ≈ better</p>
+        </div>
+        <div id="heatmap"></div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-header">
+          <h2 id="table-title">Mean ± SD table</h2>
+        </div>
+        <div class="table-wrap">
+          <table id="bm-table">
+            <thead></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <main class="layout hidden" id="view-figures">
+      <section class="panel">
+        <div class="panel-header">
+          <h2>Analysis diagrams</h2>
+          <p class="panel-note" id="figures-note">From <code>multi seed generators/analysis/figures</code></p>
+        </div>
+        <div class="controls-row">
+          <label class="field">
+            <span>Category</span>
+            <select id="fig-category">
+              <option value="">All categories</option>
+            </select>
+          </label>
+          <label class="field">
+            <span>Task filter</span>
+            <select id="fig-task">
+              <option value="">All</option>
+              <option value="classification">Classification</option>
+              <option value="regression">Regression</option>
+            </select>
+          </label>
+        </div>
+      </section>
+      <div class="figure-grid" id="figure-grid"></div>
+    </main>
+
+    <div class="lightbox hidden" id="lightbox" role="dialog" aria-modal="true">
+      <button type="button" class="lightbox-close" id="lightbox-close" aria-label="Close">×</button>
+      <img id="lightbox-img" alt="" />
+      <p id="lightbox-caption"></p>
+    </div>
+
+    <footer class="footer">
+      <p>
+        Source: <code>multi seed generators/merged 10 seeds</code> +
+        <code>analysis/figures</code> ·
+        <a href="https://gopibattineni.github.io/SYNTH_BENCHMARK/explorer/">Permalink</a>
+      </p>
+    </footer>
+  </div>
+  <script src="explorer.js?v=2"></script>
+</body>
+</html>

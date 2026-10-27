@@ -1,0 +1,568 @@
+{
+  "source": "multi seed generators/analysis/figures",
+  "n_figures": 67,
+  "categories": [
+    {
+      "id": "main",
+      "label": "Manuscript (main pack)"
+    },
+    {
+      "id": "workflow",
+      "label": "Experimental design"
+    },
+    {
+      "id": "classification",
+      "label": "Classification"
+    },
+    {
+      "id": "regression",
+      "label": "Regression"
+    },
+    {
+      "id": "seed_stability",
+      "label": "Seed stability"
+    },
+    {
+      "id": "tradeoffs",
+      "label": "Trade-offs"
+    }
+  ],
+  "figures": [
+    {
+      "id": "main__Fig_cls_CD_accuracy_gap",
+      "category": "main",
+      "category_label": "Manuscript (main pack)",
+      "file": "main/Fig_cls_CD_accuracy_gap.png",
+      "title": "Cd Accuracy Gap",
+      "task": "classification"
+    },
+    {
+      "id": "main__Fig_cls_CD_f1_gap",
+      "category": "main",
+      "category_label": "Manuscript (main pack)",
+      "file": "main/Fig_cls_CD_f1_gap.png",
+      "title": "Cd F1 Gap",
+      "task": "classification"
+    },
+    {
+      "id": "main__Fig_cls_CD_precision_gap",
+      "category": "main",
+      "category_label": "Manuscript (main pack)",
+      "file": "main/Fig_cls_CD_precision_gap.png",
+      "title": "Cd Precision Gap",
+      "task": "classification"
+    },
+    {
+      "id": "main__Fig_cls_CD_recall_gap",
+      "category": "main",
+      "category_label": "Manuscript (main pack)",
+      "file": "main/Fig_cls_CD_recall_gap.png",
+      "title": "Cd Recall Gap",
+      "task": "classification"
+    },
+    {
+      "id": "main__Fig_cls_generator_robustness",
+      "category": "main",
+      "category_label": "Manuscript (main pack)",
+      "file": "main/Fig_cls_generator_robustness.png",
+      "title": "Generator Robustness",
+      "task": "classification"
+    },
+    {
+      "id": "main__Fig_cls_rank_table_accuracy_gap",
+      "category": "main",
+      "category_label": "Manuscript (main pack)",
+      "file": "main/Fig_cls_rank_table_accuracy_gap.png",
+      "title": "Rank Table Accuracy Gap",
+      "task": "classification"
+    },
+    {
+      "id": "main__Fig_cls_tradeoff_Fidelity_vs_Privacy",
+      "category": "main",
+      "category_label": "Manuscript (main pack)",
+      "file": "main/Fig_cls_tradeoff_Fidelity_vs_Privacy.png",
+      "title": "Tradeoff Fidelity Vs Privacy",
+      "task": "classification"
+    },
+    {
+      "id": "main__Fig_cls_tradeoff_Fidelity_vs_Utility",
+      "category": "main",
+      "category_label": "Manuscript (main pack)",
+      "file": "main/Fig_cls_tradeoff_Fidelity_vs_Utility.png",
+      "title": "Tradeoff Fidelity Vs Utility",
+      "task": "classification"
+    },
+    {
+      "id": "main__Fig_cls_tradeoff_Utility_vs_Privacy",
+      "category": "main",
+      "category_label": "Manuscript (main pack)",
+      "file": "main/Fig_cls_tradeoff_Utility_vs_Privacy.png",
+      "title": "Tradeoff Utility Vs Privacy",
+      "task": "classification"
+    },
+    {
+      "id": "main__Fig_reg_CD_mae_increase",
+      "category": "main",
+      "category_label": "Manuscript (main pack)",
+      "file": "main/Fig_reg_CD_mae_increase.png",
+      "title": "Cd Mae Increase",
+      "task": "regression"
+    },
+    {
+      "id": "main__Fig_reg_CD_r2_gap",
+      "category": "main",
+      "category_label": "Manuscript (main pack)",
+      "file": "main/Fig_reg_CD_r2_gap.png",
+      "title": "Cd R2 Gap",
+      "task": "regression"
+    },
+    {
+      "id": "main__Fig_reg_CD_rmse_increase",
+      "category": "main",
+      "category_label": "Manuscript (main pack)",
+      "file": "main/Fig_reg_CD_rmse_increase.png",
+      "title": "Cd Rmse Increase",
+      "task": "regression"
+    },
+    {
+      "id": "main__Fig_reg_generator_robustness",
+      "category": "main",
+      "category_label": "Manuscript (main pack)",
+      "file": "main/Fig_reg_generator_robustness.png",
+      "title": "Generator Robustness",
+      "task": "regression"
+    },
+    {
+      "id": "main__Fig_reg_rank_table_r2_gap",
+      "category": "main",
+      "category_label": "Manuscript (main pack)",
+      "file": "main/Fig_reg_rank_table_r2_gap.png",
+      "title": "Rank Table R2 Gap",
+      "task": "regression"
+    },
+    {
+      "id": "main__Fig_reg_tradeoff_Fidelity_vs_Privacy",
+      "category": "main",
+      "category_label": "Manuscript (main pack)",
+      "file": "main/Fig_reg_tradeoff_Fidelity_vs_Privacy.png",
+      "title": "Tradeoff Fidelity Vs Privacy",
+      "task": "regression"
+    },
+    {
+      "id": "main__Fig_reg_tradeoff_Fidelity_vs_Utility",
+      "category": "main",
+      "category_label": "Manuscript (main pack)",
+      "file": "main/Fig_reg_tradeoff_Fidelity_vs_Utility.png",
+      "title": "Tradeoff Fidelity Vs Utility",
+      "task": "regression"
+    },
+    {
+      "id": "main__Fig_reg_tradeoff_Utility_vs_Privacy",
+      "category": "main",
+      "category_label": "Manuscript (main pack)",
+      "file": "main/Fig_reg_tradeoff_Utility_vs_Privacy.png",
+      "title": "Tradeoff Utility Vs Privacy",
+      "task": "regression"
+    },
+    {
+      "id": "main__Fig_seed_stability_cls_accuracy_gap",
+      "category": "main",
+      "category_label": "Manuscript (main pack)",
+      "file": "main/Fig_seed_stability_cls_accuracy_gap.png",
+      "title": "Seed Stability Cls Accuracy Gap",
+      "task": null
+    },
+    {
+      "id": "main__Fig_seed_stability_reg_r2_gap",
+      "category": "main",
+      "category_label": "Manuscript (main pack)",
+      "file": "main/Fig_seed_stability_reg_r2_gap.png",
+      "title": "Seed Stability Reg R2 Gap",
+      "task": null
+    },
+    {
+      "id": "main__Fig_workflow_experimental_design",
+      "category": "main",
+      "category_label": "Manuscript (main pack)",
+      "file": "main/Fig_workflow_experimental_design.png",
+      "title": "Workflow Experimental Design",
+      "task": null
+    },
+    {
+      "id": "main__Fig_workflow_experimental_pipeline",
+      "category": "main",
+      "category_label": "Manuscript (main pack)",
+      "file": "main/Fig_workflow_experimental_pipeline.png",
+      "title": "Workflow Experimental Pipeline",
+      "task": null
+    },
+    {
+      "id": "workflow__experimental_design",
+      "category": "workflow",
+      "category_label": "Experimental design",
+      "file": "workflow/experimental_design.png",
+      "title": "Experimental Design",
+      "task": null
+    },
+    {
+      "id": "workflow__experimental_workflow",
+      "category": "workflow",
+      "category_label": "Experimental design",
+      "file": "workflow/experimental_workflow.png",
+      "title": "Experimental Workflow",
+      "task": null
+    },
+    {
+      "id": "classification__accuracy_gap_by_dataset_heatmap",
+      "category": "classification",
+      "category_label": "Classification",
+      "file": "classification/accuracy_gap_by_dataset_heatmap.png",
+      "title": "Accuracy Gap By Dataset Heatmap",
+      "task": "classification"
+    },
+    {
+      "id": "classification__accuracy_gap_critical_difference_diagram",
+      "category": "classification",
+      "category_label": "Classification",
+      "file": "classification/accuracy_gap_critical_difference_diagram.png",
+      "title": "Accuracy Gap Critical Difference Diagram",
+      "task": "classification"
+    },
+    {
+      "id": "classification__accuracy_gap_rank_table",
+      "category": "classification",
+      "category_label": "Classification",
+      "file": "classification/accuracy_gap_rank_table.png",
+      "title": "Accuracy Gap Rank Table",
+      "task": "classification"
+    },
+    {
+      "id": "classification__f1_gap_by_dataset_heatmap",
+      "category": "classification",
+      "category_label": "Classification",
+      "file": "classification/f1_gap_by_dataset_heatmap.png",
+      "title": "F1 Gap By Dataset Heatmap",
+      "task": "classification"
+    },
+    {
+      "id": "classification__f1_gap_critical_difference_diagram",
+      "category": "classification",
+      "category_label": "Classification",
+      "file": "classification/f1_gap_critical_difference_diagram.png",
+      "title": "F1 Gap Critical Difference Diagram",
+      "task": "classification"
+    },
+    {
+      "id": "classification__generator_robustness_average_rank",
+      "category": "classification",
+      "category_label": "Classification",
+      "file": "classification/generator_robustness_average_rank.png",
+      "title": "Generator Robustness Average Rank",
+      "task": "classification"
+    },
+    {
+      "id": "classification__mia_auc_by_dataset_heatmap",
+      "category": "classification",
+      "category_label": "Classification",
+      "file": "classification/mia_auc_by_dataset_heatmap.png",
+      "title": "Mia Auc By Dataset Heatmap",
+      "task": "classification"
+    },
+    {
+      "id": "classification__precision_gap_by_dataset_heatmap",
+      "category": "classification",
+      "category_label": "Classification",
+      "file": "classification/precision_gap_by_dataset_heatmap.png",
+      "title": "Precision Gap By Dataset Heatmap",
+      "task": "classification"
+    },
+    {
+      "id": "classification__precision_gap_critical_difference_diagram",
+      "category": "classification",
+      "category_label": "Classification",
+      "file": "classification/precision_gap_critical_difference_diagram.png",
+      "title": "Precision Gap Critical Difference Diagram",
+      "task": "classification"
+    },
+    {
+      "id": "classification__quality_score_by_dataset_heatmap",
+      "category": "classification",
+      "category_label": "Classification",
+      "file": "classification/quality_score_by_dataset_heatmap.png",
+      "title": "Quality Score By Dataset Heatmap",
+      "task": "classification"
+    },
+    {
+      "id": "classification__recall_gap_by_dataset_heatmap",
+      "category": "classification",
+      "category_label": "Classification",
+      "file": "classification/recall_gap_by_dataset_heatmap.png",
+      "title": "Recall Gap By Dataset Heatmap",
+      "task": "classification"
+    },
+    {
+      "id": "classification__recall_gap_critical_difference_diagram",
+      "category": "classification",
+      "category_label": "Classification",
+      "file": "classification/recall_gap_critical_difference_diagram.png",
+      "title": "Recall Gap Critical Difference Diagram",
+      "task": "classification"
+    },
+    {
+      "id": "classification__utility_gap_rank_table",
+      "category": "classification",
+      "category_label": "Classification",
+      "file": "classification/utility_gap_rank_table.png",
+      "title": "Utility Gap Rank Table",
+      "task": "classification"
+    },
+    {
+      "id": "regression__generator_robustness_average_rank",
+      "category": "regression",
+      "category_label": "Regression",
+      "file": "regression/generator_robustness_average_rank.png",
+      "title": "Generator Robustness Average Rank",
+      "task": "regression"
+    },
+    {
+      "id": "regression__mae_increase_by_dataset_heatmap",
+      "category": "regression",
+      "category_label": "Regression",
+      "file": "regression/mae_increase_by_dataset_heatmap.png",
+      "title": "Mae Increase By Dataset Heatmap",
+      "task": "regression"
+    },
+    {
+      "id": "regression__mae_increase_critical_difference_diagram",
+      "category": "regression",
+      "category_label": "Regression",
+      "file": "regression/mae_increase_critical_difference_diagram.png",
+      "title": "Mae Increase Critical Difference Diagram",
+      "task": "regression"
+    },
+    {
+      "id": "regression__mia_auc_by_dataset_heatmap",
+      "category": "regression",
+      "category_label": "Regression",
+      "file": "regression/mia_auc_by_dataset_heatmap.png",
+      "title": "Mia Auc By Dataset Heatmap",
+      "task": "regression"
+    },
+    {
+      "id": "regression__quality_score_by_dataset_heatmap",
+      "category": "regression",
+      "category_label": "Regression",
+      "file": "regression/quality_score_by_dataset_heatmap.png",
+      "title": "Quality Score By Dataset Heatmap",
+      "task": "regression"
+    },
+    {
+      "id": "regression__r2_gap_by_dataset_heatmap",
+      "category": "regression",
+      "category_label": "Regression",
+      "file": "regression/r2_gap_by_dataset_heatmap.png",
+      "title": "R2 Gap By Dataset Heatmap",
+      "task": "regression"
+    },
+    {
+      "id": "regression__r2_gap_critical_difference_diagram",
+      "category": "regression",
+      "category_label": "Regression",
+      "file": "regression/r2_gap_critical_difference_diagram.png",
+      "title": "R2 Gap Critical Difference Diagram",
+      "task": "regression"
+    },
+    {
+      "id": "regression__r2_gap_rank_table",
+      "category": "regression",
+      "category_label": "Regression",
+      "file": "regression/r2_gap_rank_table.png",
+      "title": "R2 Gap Rank Table",
+      "task": "regression"
+    },
+    {
+      "id": "regression__rmse_increase_by_dataset_heatmap",
+      "category": "regression",
+      "category_label": "Regression",
+      "file": "regression/rmse_increase_by_dataset_heatmap.png",
+      "title": "Rmse Increase By Dataset Heatmap",
+      "task": "regression"
+    },
+    {
+      "id": "regression__rmse_increase_critical_difference_diagram",
+      "category": "regression",
+      "category_label": "Regression",
+      "file": "regression/rmse_increase_critical_difference_diagram.png",
+      "title": "Rmse Increase Critical Difference Diagram",
+      "task": "regression"
+    },
+    {
+      "id": "seed_stability__classification_accuracy_gap_seed_violin",
+      "category": "seed_stability",
+      "category_label": "Seed stability",
+      "file": "seed_stability/classification_accuracy_gap_seed_violin.png",
+      "title": "Accuracy Gap Seed Violin",
+      "task": "classification"
+    },
+    {
+      "id": "seed_stability__classification_f1_gap_seed_violin",
+      "category": "seed_stability",
+      "category_label": "Seed stability",
+      "file": "seed_stability/classification_f1_gap_seed_violin.png",
+      "title": "F1 Gap Seed Violin",
+      "task": "classification"
+    },
+    {
+      "id": "seed_stability__classification_mia_auc_seed_violin",
+      "category": "seed_stability",
+      "category_label": "Seed stability",
+      "file": "seed_stability/classification_mia_auc_seed_violin.png",
+      "title": "Mia Auc Seed Violin",
+      "task": "classification"
+    },
+    {
+      "id": "seed_stability__classification_precision_gap_seed_violin",
+      "category": "seed_stability",
+      "category_label": "Seed stability",
+      "file": "seed_stability/classification_precision_gap_seed_violin.png",
+      "title": "Precision Gap Seed Violin",
+      "task": "classification"
+    },
+    {
+      "id": "seed_stability__classification_quality_score_seed_violin",
+      "category": "seed_stability",
+      "category_label": "Seed stability",
+      "file": "seed_stability/classification_quality_score_seed_violin.png",
+      "title": "Quality Score Seed Violin",
+      "task": "classification"
+    },
+    {
+      "id": "seed_stability__classification_recall_gap_seed_violin",
+      "category": "seed_stability",
+      "category_label": "Seed stability",
+      "file": "seed_stability/classification_recall_gap_seed_violin.png",
+      "title": "Recall Gap Seed Violin",
+      "task": "classification"
+    },
+    {
+      "id": "seed_stability__regression_mae_increase_seed_violin",
+      "category": "seed_stability",
+      "category_label": "Seed stability",
+      "file": "seed_stability/regression_mae_increase_seed_violin.png",
+      "title": "Mae Increase Seed Violin",
+      "task": "regression"
+    },
+    {
+      "id": "seed_stability__regression_mia_auc_seed_violin",
+      "category": "seed_stability",
+      "category_label": "Seed stability",
+      "file": "seed_stability/regression_mia_auc_seed_violin.png",
+      "title": "Mia Auc Seed Violin",
+      "task": "regression"
+    },
+    {
+      "id": "seed_stability__regression_quality_score_seed_violin",
+      "category": "seed_stability",
+      "category_label": "Seed stability",
+      "file": "seed_stability/regression_quality_score_seed_violin.png",
+      "title": "Quality Score Seed Violin",
+      "task": "regression"
+    },
+    {
+      "id": "seed_stability__regression_r2_gap_seed_violin",
+      "category": "seed_stability",
+      "category_label": "Seed stability",
+      "file": "seed_stability/regression_r2_gap_seed_violin.png",
+      "title": "R2 Gap Seed Violin",
+      "task": "regression"
+    },
+    {
+      "id": "seed_stability__regression_rmse_increase_seed_violin",
+      "category": "seed_stability",
+      "category_label": "Seed stability",
+      "file": "seed_stability/regression_rmse_increase_seed_violin.png",
+      "title": "Rmse Increase Seed Violin",
+      "task": "regression"
+    },
+    {
+      "id": "tradeoffs__classification_Fidelity_vs_UtilityGap",
+      "category": "tradeoffs",
+      "category_label": "Trade-offs",
+      "file": "tradeoffs/classification_Fidelity_vs_UtilityGap.png",
+      "title": "Fidelity Vs Utilitygap",
+      "task": "classification"
+    },
+    {
+      "id": "tradeoffs__classification_Fig1_Fidelity_vs_Utility",
+      "category": "tradeoffs",
+      "category_label": "Trade-offs",
+      "file": "tradeoffs/classification_Fig1_Fidelity_vs_Utility.png",
+      "title": "Fig1 Fidelity Vs Utility",
+      "task": "classification"
+    },
+    {
+      "id": "tradeoffs__classification_Fig2_Utility_vs_Privacy",
+      "category": "tradeoffs",
+      "category_label": "Trade-offs",
+      "file": "tradeoffs/classification_Fig2_Utility_vs_Privacy.png",
+      "title": "Fig2 Utility Vs Privacy",
+      "task": "classification"
+    },
+    {
+      "id": "tradeoffs__classification_Fig3_Fidelity_vs_Privacy",
+      "category": "tradeoffs",
+      "category_label": "Trade-offs",
+      "file": "tradeoffs/classification_Fig3_Fidelity_vs_Privacy.png",
+      "title": "Fig3 Fidelity Vs Privacy",
+      "task": "classification"
+    },
+    {
+      "id": "tradeoffs__classification_Fig4_Bubble_Tradeoff",
+      "category": "tradeoffs",
+      "category_label": "Trade-offs",
+      "file": "tradeoffs/classification_Fig4_Bubble_Tradeoff.png",
+      "title": "Fig4 Bubble Tradeoff",
+      "task": "classification"
+    },
+    {
+      "id": "tradeoffs__regression_Fidelity_vs_UtilityGap",
+      "category": "tradeoffs",
+      "category_label": "Trade-offs",
+      "file": "tradeoffs/regression_Fidelity_vs_UtilityGap.png",
+      "title": "Fidelity Vs Utilitygap",
+      "task": "regression"
+    },
+    {
+      "id": "tradeoffs__regression_Fig1_Fidelity_vs_Utility",
+      "category": "tradeoffs",
+      "category_label": "Trade-offs",
+      "file": "tradeoffs/regression_Fig1_Fidelity_vs_Utility.png",
+      "title": "Fig1 Fidelity Vs Utility",
+      "task": "regression"
+    },
+    {
+      "id": "tradeoffs__regression_Fig2_Utility_vs_Privacy",
+      "category": "tradeoffs",
+      "category_label": "Trade-offs",
+      "file": "tradeoffs/regression_Fig2_Utility_vs_Privacy.png",
+      "title": "Fig2 Utility Vs Privacy",
+      "task": "regression"
+    },
+    {
+      "id": "tradeoffs__regression_Fig3_Fidelity_vs_Privacy",
+      "category": "tradeoffs",
+      "category_label": "Trade-offs",
+      "file": "tradeoffs/regression_Fig3_Fidelity_vs_Privacy.png",
+      "title": "Fig3 Fidelity Vs Privacy",
+      "task": "regression"
+    },
+    {
+      "id": "tradeoffs__regression_Fig4_Bubble_Tradeoff",
+      "category": "tradeoffs",
+      "category_label": "Trade-offs",
+      "file": "tradeoffs/regression_Fig4_Bubble_Tradeoff.png",
+      "title": "Fig4 Bubble Tradeoff",
+      "task": "regression"
+    }
+  ]
+}

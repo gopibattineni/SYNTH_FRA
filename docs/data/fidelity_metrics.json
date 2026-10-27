@@ -1,0 +1,30 @@
+[
+  {
+    "id": "KS_Complement",
+    "label": "KS Complement",
+    "count": 120,
+    "higher_is_better": true,
+    "is_unit_interval": true
+  },
+  {
+    "id": "MMD",
+    "label": "MMD",
+    "count": 120,
+    "higher_is_better": false,
+    "is_unit_interval": false
+  },
+  {
+    "id": "Quality_Score",
+    "label": "Quality Score",
+    "count": 120,
+    "higher_is_better": true,
+    "is_unit_interval": true
+  },
+  {
+    "id": "Wasserstein_Distance",
+    "label": "Wasserstein Distance",
+    "count": 120,
+    "higher_is_better": false,
+    "is_unit_interval": false
+  }
+]

@@ -1,0 +1,73 @@
+Dataset,Generator,Task,QualityScore,MIA,Accuracy
+Adult,ForestDiffusion,classification,0.7954,0.393717,0.71975
+Adult,TVAE,classification,0.514101,0.197945,0.66975
+Adult,CTABGAN,classification,0.7235,0.727949,0.586
+Adult,WGAN_GP,classification,0.4676,0.72171,0.34985
+Adult,GaussianCopula,classification,0.763417,0.974189,0.664
+Adult,CopulaGAN,classification,0.768821,0.772825,0.6629
+Adult,CTGAN,classification,0.851945,0.63249,0.6842
+Adult,TabDDPM,classification,0.2522,0.995494,0.4648
+Alzheimer's,ForestDiffusion,classification,0.735671,0.432609,0.954267
+Alzheimer's,TVAE,classification,0.744373,0.892402,0.871867
+Alzheimer's,CTABGAN,classification,0.684233,0.505147,0.840533
+Alzheimer's,WGAN_GP,classification,0.782315,0.608032,0.879867
+Alzheimer's,GaussianCopula,classification,0.789691,0.693572,0.824267
+Alzheimer's,CopulaGAN,classification,0.639551,0.992992,0.542667
+Alzheimer's,CTGAN,classification,0.686399,0.987156,0.559733
+Alzheimer's,TabDDPM,classification,0.435996,0.878029,0.532
+Bank Marketing,ForestDiffusion,classification,0.830322,0.507649,0.87552
+Bank Marketing,TVAE,classification,0.828657,0.45781,0.845295
+Bank Marketing,CTABGAN,classification,0.895316,0.581475,0.848045
+Bank Marketing,WGAN_GP,classification,0.766527,0.532177,0.862225
+Bank Marketing,GaussianCopula,classification,0.821755,0.579011,0.852225
+Bank Marketing,CopulaGAN,classification,0.845611,0.540008,0.85464
+Bank Marketing,CTGAN,classification,0.867679,0.524211,0.82964
+Bank Marketing,TabDDPM,classification,0.39863,0.549238,0.855695
+CDC Diabetes,ForestDiffusion,classification,0.5789,0.499108,0.83115
+CDC Diabetes,TVAE,classification,0.916702,0.298611,0.829358
+CDC Diabetes,CTABGAN,classification,0.760273,0.489558,0.82975
+CDC Diabetes,WGAN_GP,classification,0.847955,0.494883,0.844202
+CDC Diabetes,GaussianCopula,classification,0.923657,0.700504,0.840331
+CDC Diabetes,CopulaGAN,classification,0.88296,0.646885,0.817789
+CDC Diabetes,CTGAN,classification,0.87481,0.613632,0.847522
+CDC Diabetes,TabDDPM,classification,0.5272,0.772757,0.8349
+Cancer,ForestDiffusion,classification,0.947885,0.546859,0.961667
+Cancer,TVAE,classification,0.896421,0.998391,0.926404
+Cancer,CTABGAN,classification,0.851563,0.624091,0.882719
+Cancer,WGAN_GP,classification,0.949012,0.556715,0.939386
+Cancer,GaussianCopula,classification,0.943748,0.792606,0.860439
+Cancer,CopulaGAN,classification,0.721867,1.0,0.359298
+Cancer,CTGAN,classification,0.765081,1.0,0.719386
+Cancer,TabDDPM,classification,0.401382,0.309536,0.509561
+Forest Cover,ForestDiffusion,classification,0.1889,0.480298,0.6848
+Forest Cover,TVAE,classification,0.881179,0.582294,0.38265
+Forest Cover,CTABGAN,classification,0.9687,0.702351,0.3216
+Forest Cover,WGAN_GP,classification,0.9376,0.752183,0.40725
+Forest Cover,GaussianCopula,classification,0.925026,0.704147,0.4672
+Forest Cover,CopulaGAN,classification,0.85485,0.76328,0.09145
+Forest Cover,CTGAN,classification,0.861948,0.847734,0.1336
+Forest Cover,TabDDPM,classification,0.1043,0.940729,0.41135
+MAGIC Gamma,ForestDiffusion,classification,0.867091,0.492859,0.809498
+MAGIC Gamma,TVAE,classification,0.928895,0.496098,0.755323
+MAGIC Gamma,CTABGAN,classification,0.939745,0.528235,0.790294
+MAGIC Gamma,WGAN_GP,classification,0.94941,0.506651,0.801462
+MAGIC Gamma,GaussianCopula,classification,0.895806,0.727197,0.737879
+MAGIC Gamma,CopulaGAN,classification,0.888847,0.759973,0.739156
+MAGIC Gamma,CTGAN,classification,0.894375,0.778286,0.730683
+MAGIC Gamma,TabDDPM,classification,0.722636,0.638859,0.609569
+Mushroom,ForestDiffusion,classification,0.573974,0.50757,0.750102
+Mushroom,TVAE,classification,0.914558,0.393628,0.60342
+Mushroom,CTABGAN,classification,0.921772,0.493407,0.551244
+Mushroom,WGAN_GP,classification,0.600454,0.539532,0.663869
+Mushroom,GaussianCopula,classification,0.909833,0.593068,0.573634
+Mushroom,CopulaGAN,classification,0.892834,0.601795,0.5522
+Mushroom,CTGAN,classification,0.878921,0.589119,0.542815
+Mushroom,TabDDPM,classification,0.452807,0.52337,0.47536
+Wine Quality,ForestDiffusion,classification,0.857667,0.394825,0.576778
+Wine Quality,TVAE,classification,0.94743,0.491295,0.4904
+Wine Quality,CTABGAN,classification,0.834,0.464033,0.4085
+Wine Quality,WGAN_GP,classification,0.716417,0.391144,0.4235
+Wine Quality,GaussianCopula,classification,0.951731,0.640882,0.40215
+Wine Quality,CopulaGAN,classification,0.869136,0.792671,0.29195
+Wine Quality,CTGAN,classification,0.870891,0.843152,0.25315
+Wine Quality,TabDDPM,classification,0.761333,0.719241,0.396556

@@ -1,0 +1,62 @@
+digraph SYNTH_Benchmark_Pipeline {
+	graph [bgcolor=white fontname=Arial fontsize=11 nodesep=0.35 pad=0.4 rankdir=TB ranksep=0.45 splines=ortho]
+	node [color="#4A5568" fillcolor="#F7F9FC" fontname=Arial fontsize=10 margin="0.12,0.08" shape=box style="rounded,filled"]
+	edge [arrowsize=0.7 color="#4A5568" fontname=Arial fontsize=9]
+	subgraph cluster_datasets {
+		color="#CBD5E0" fontname="Arial Bold" fontsize=11 label="15 Datasets (one notebook each)" style="rounded,dashed"
+		datasets [label="Classification: Cancer, Alzheimer's, Adult, Forest Cover, Bank,
+CDC Diabetes, Mushroom, MAGIC Gamma (9 tasks)
+Regression: Wine, Metro, Online Shopping, Air Quality,
+Concrete, Energy Efficiency, Real Estate (6 tasks)" fillcolor="#EBF8FF"]
+	}
+	load [label="Load & preprocess
+(drop date / time / session / ID features)" fillcolor="#EDF2F7"]
+	sample [label="Random subsample N = 1000
+(seed = 42)" fillcolor="#EDF2F7"]
+	split [label="Train / test split
+TEST_SIZE = 0.2  (80% / 20%)" color="#C53030" fillcolor="#FFF5F5"]
+	train_real [label="train_real (80%)
+800 rows
+USED FOR SYNTHESIS ONLY" color="#276749" fillcolor="#C6F6D5"]
+	test_real [label="test_real (20%)
+200 rows
+HELD OUT — UNSEEN BY GENERATORS" color="#C53030" fillcolor="#FED7D7"]
+	subgraph cluster_gens {
+		color="#CBD5E0" fontname="Arial Bold" fontsize=11 label="8 Generators (trained only on train_real)" style="rounded,dashed"
+		generators [label="CTAB-GAN+  |  WGAN-GP  |  TabDDPM  |  CoDi
+CTGAN  |  CopulaGAN  |  TVAE  |  GaussianCopula" color="#6B46C1" fillcolor="#FAF5FF"]
+	}
+	synth_out [label="Generate 1,000 synthetic rows
+per generator" color="#6B46C1" fillcolor="#E9D8FD"]
+	fidelity [label="Fidelity
+SDV evaluate_quality
+(synthetic vs train_real)" color="#2B6CB0" fillcolor="#BEE3F8"]
+	subgraph cluster_utility {
+		color="#CBD5E0" fontname="Arial Bold" fontsize=11 label="Utility (10 ML models x 10 seeds)" style="rounded,dashed"
+		trtr [label="TRTR baseline
+Train on REAL  |  Test on REAL" color="#C05621" fillcolor="#FEEBC8"]
+		tstr [label="TSTR
+Train on SYNTHETIC  |  Test on HELD-OUT REAL" color="#C05621" fillcolor="#FBD38D"]
+	}
+	drops [label="TRTR vs TSTR drops
+(Accuracy / F1 / Precision / Recall
+or RMSE / MAE / R2 for regression)" color="#285E61" fillcolor="#E6FFFA"]
+	export [label="Export results
+TRTR_TSTR_results_*.xlsx" fillcolor="#EDF2F7"]
+	datasets -> load
+	load -> sample
+	sample -> split
+	split -> train_real
+	split -> test_real
+	train_real -> generators
+	generators -> synth_out
+	train_real -> fidelity
+	synth_out -> fidelity
+	train_real -> trtr
+	test_real -> trtr
+	synth_out -> tstr
+	trtr -> drops
+	tstr -> drops
+	drops -> export
+	test_real -> tstr [label="20% holdout used as TSTR test set" color="#C53030" fontcolor="#C53030" penwidth=2.0 style=bold]
+}
