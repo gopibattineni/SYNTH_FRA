@@ -13,7 +13,7 @@ from .paths import ensure_task_dirs, task_paths
 from .table_io import drop_csv, read_results, results_exist, write_results
 
 
-SEEDS = [42, 123, 2024]
+SEEDS = [55, 155, 255, 355]
 SD_EPS = 1e-12
 
 TRTR_METRICS_CLS = (
@@ -99,21 +99,19 @@ def _aggregate_frame(raw: pd.DataFrame) -> pd.DataFrame:
         n = int(len(finite))
         mean = float(np.mean(finite)) if n else np.nan
         sd, mean_sd = _mean_sd_text(mean, finite)
-        rows.append(
-            {
-                "dataset": dataset,
-                "generator": generator,
-                "metric_category": cat,
-                "metric_name": name,
-                "seed_42": by_seed[42],
-                "seed_123": by_seed[123],
-                "seed_2024": by_seed[2024],
-                "mean": mean,
-                "sd": sd,
-                "mean_sd": mean_sd,
-                "n_seeds": n,
-            }
-        )
+        row = {
+            "dataset": dataset,
+            "generator": generator,
+            "metric_category": cat,
+            "metric_name": name,
+        }
+        for seed in SEEDS:
+            row[f"seed_{seed}"] = by_seed[seed]
+        row["mean"] = mean
+        row["sd"] = sd
+        row["mean_sd"] = mean_sd
+        row["n_seeds"] = n
+        rows.append(row)
     return pd.DataFrame(rows)
 
 
@@ -139,7 +137,12 @@ def _fill_trtr_model_sd(out: pd.DataFrame, task: str) -> pd.DataFrame:
         return out
     from .config_loader import load_datasets, load_seeds
     from .datasets import load_and_split
-    from .metrics.utility import CLASSIFIERS, evaluate_classification, evaluate_regression
+    from .metrics.utility import (
+        evaluate_classification,
+        evaluate_regression,
+        get_classifiers,
+        get_regressors,
+    )
 
     seeds_cfg = load_seeds()
     split_seed = int(seeds_cfg["split_seed"])
@@ -150,15 +153,11 @@ def _fill_trtr_model_sd(out: pd.DataFrame, task: str) -> pd.DataFrame:
     if task == "classification":
         trtr_names = TRTR_METRICS_CLS
         bases = ("Accuracy", "F1", "Precision", "Recall", "ROC_AUC")
-        light = {
-            "LogReg": CLASSIFIERS["LogReg"],
-            "RandomForest": CLASSIFIERS["RandomForest"],
-            "DecisionTree": CLASSIFIERS["DecisionTree"],
-        }
+        models = get_classifiers()
     else:
         trtr_names = TRTR_METRICS_REG
         bases = ("R2", "RMSE", "MAE")
-        light = None
+        models = get_regressors()
 
     for ds in out["dataset"].unique():
         cfg = by_name.get(ds)
@@ -177,12 +176,17 @@ def _fill_trtr_model_sd(out: pd.DataFrame, task: str) -> pd.DataFrame:
                     split["test"],
                     cfg["target"],
                     model_seeds,
-                    models=light,
+                    models=models,
                     return_sd=True,
                 )
             else:
                 _means, sds = evaluate_regression(
-                    split["train"], split["test"], cfg["target"], model_seeds, return_sd=True
+                    split["train"],
+                    split["test"],
+                    cfg["target"],
+                    model_seeds,
+                    models=models,
+                    return_sd=True,
                 )
         except Exception as exc:
             print(f"TRTR SD fill skipped for {ds}: {exc}", flush=True)
@@ -208,7 +212,6 @@ def _fill_tstr_and_gap_sd(out: pd.DataFrame, task: str) -> pd.DataFrame:
     from .datasets import load_and_split
     from .generators import generate_synthetic
     from .metrics.utility import (
-        CLASSIFIERS,
         evaluate_classification,
         evaluate_regression,
         _snap_classification_target,
@@ -220,20 +223,18 @@ def _fill_tstr_and_gap_sd(out: pd.DataFrame, task: str) -> pd.DataFrame:
     model_seeds = _utility_model_seeds()
     by_name = {d["name"]: d for d in load_datasets() if d["task"] == task}
 
+    from .metrics.utility import get_classifiers, get_regressors
+
     if task == "classification":
         bases = ("Accuracy", "F1", "Precision", "Recall", "ROC_AUC")
         tstr_names = {f"{m}_TSTR" for m in bases}
         gap_suffix = {m: f"{m}_Gap" for m in bases}
-        light = {
-            "LogReg": CLASSIFIERS["LogReg"],
-            "RandomForest": CLASSIFIERS["RandomForest"],
-            "DecisionTree": CLASSIFIERS["DecisionTree"],
-        }
+        models = get_classifiers()
     else:
         bases = ("R2", "RMSE", "MAE")
         tstr_names = {f"{m}_TSTR" for m in bases}
         gap_suffix = {"R2": "R2_Gap", "RMSE": "RMSE_Increase", "MAE": "MAE_Increase"}
-        light = None
+        models = get_regressors()
 
     for (ds, gen), g in out.groupby(["dataset", "generator"]):
         need = g[g["metric_name"].isin(tstr_names)]
@@ -258,11 +259,11 @@ def _fill_tstr_and_gap_sd(out: pd.DataFrame, task: str) -> pd.DataFrame:
             if task == "classification":
                 synth_u = _snap_classification_target(synth_u, train, cfg["target"])
                 _means, sds = evaluate_classification(
-                    synth_u, split["test"], cfg["target"], model_seeds, models=light, return_sd=True
+                    synth_u, split["test"], cfg["target"], model_seeds, models=models, return_sd=True
                 )
             else:
                 _means, sds = evaluate_regression(
-                    synth_u, split["test"], cfg["target"], model_seeds, return_sd=True
+                    synth_u, split["test"], cfg["target"], model_seeds, models=models, return_sd=True
                 )
         except Exception as exc:
             print(f"TSTR SD fill skipped for {ds} {gen}: {exc}", flush=True)

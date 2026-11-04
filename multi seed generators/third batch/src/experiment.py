@@ -201,14 +201,31 @@ def run_one(
         assert id(train) != id(test)
         assert len(train) > 0 and len(test) > 0
 
+        run_dir = _run_dir(seed, dataset_id, generator)
+        synth_path = run_dir / "synth.csv"
+
         t_train0 = time.perf_counter()
-        synth = generate_synthetic(generator, train, target, n_samples, seed, task)
-        training_time = time.perf_counter() - t_train0
+        if synth_path.exists() and not force:
+            synth = pd.read_csv(synth_path)
+            training_time = 0.0
+        else:
+            synth = generate_synthetic(generator, train, target, n_samples, seed, task)
+            training_time = time.perf_counter() - t_train0
+            synth.to_csv(synth_path, index=False)
         generation_time = 0.0
 
         t_eval0 = time.perf_counter()
         fid = compute_fidelity(train, synth)
-        util = compute_utility(train, test, synth, target, task, utility_classifier_seeds)
+        util, per_model = compute_utility(
+            train,
+            test,
+            synth,
+            target,
+            task,
+            utility_classifier_seeds,
+            dataset_id=dataset_id,
+            return_per_model=True,
+        )
         priv = compute_privacy(train, synth)
         evaluation_time = time.perf_counter() - t_eval0
         total_time = time.perf_counter() - t0
@@ -228,6 +245,11 @@ def run_one(
             "evaluation_time_seconds": evaluation_time,
             "total_time_seconds": total_time,
         }
+        from .metrics.utility import per_model_to_long
+
+        per_long = per_model_to_long(per_model, base_meta)
+        per_long.to_csv(run_dir / "per_model_utility.csv", index=False)
+
         rows = []
         rows += fidelity_to_rows(fid, base_meta)
         rows += utility_to_rows(util, base_meta)

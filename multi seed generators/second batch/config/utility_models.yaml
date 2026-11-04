@@ -1,0 +1,27 @@
+# Downstream utility models for the multi-seed protocol.
+# Same sets are used for TRTR and TSTR. Metrics are averaged over
+# models × utility_model_seeds (seeds.yaml), and also stored per-model.
+
+classification:
+  - LogReg
+  - SVM-RBF
+  - KNN
+  - NaiveBayes
+  - DecisionTree
+  - RandomForest
+  - ExtraTrees
+  - AdaBoost
+  - GradientBoost
+  - MLP
+
+regression:
+  - DecisionTree
+  - RandomForest
+  - ExtraTrees
+  - GradientBoost
+  - KNN
+  - SVR_RBF
+  - LinearRegression
+  - Ridge
+  - Lasso
+  - ElasticNet
