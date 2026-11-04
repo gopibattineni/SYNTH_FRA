@@ -16,6 +16,7 @@ STEPS = [
     ("gap_cd", [PY, "run_gap_cd_analysis.py"]),
     ("rank_tables", [PY, "run_rank_tables.py"]),
     ("heatmaps", [PY, "run_heatmaps.py"]),
+    ("generator_by_model", [PY, "run_generator_by_model_heatmaps.py"]),
     ("seed_stability", [PY, "run_seed_stability.py"]),
     ("tradeoffs", [PY, "run_tradeoffs.py"]),
     ("pack_figures", [PY, "run_pack_manuscript_figures.py"]),
