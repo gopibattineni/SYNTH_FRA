@@ -8,10 +8,10 @@
   "n_train": 455,
   "n_test": 114,
   "task": "classification",
-  "training_time_seconds": 7.954507600006764,
+  "training_time_seconds": 0.0,
   "generation_time_seconds": 0.0,
-  "evaluation_time_seconds": 183.52911580000364,
-  "total_time_seconds": 183.5291167999967,
+  "evaluation_time_seconds": 233.30713339999784,
+  "total_time_seconds": 233.3071348999947,
   "status": "SUCCESS",
   "utility_models": {
     "classification": [
@@ -39,9 +39,9 @@
       "ElasticNet"
     ]
   },
-  "synth_source": "regenerated",
+  "synth_source": "loaded_synth.csv",
   "utility_n_models": 10,
-  "timestamp": "2026-11-04T15:36:47Z",
+  "timestamp": "2026-11-04T15:48:00Z",
   "split_meta": {
     "dataset_id": "cancer",
     "dataset_name": "Cancer",
