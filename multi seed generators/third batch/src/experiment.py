@@ -6,7 +6,6 @@ Results are stored under:
 """
 from __future__ import annotations
 
-import fcntl
 import json
 import os
 import time
@@ -15,6 +14,11 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Optional
 
+try:
+    import fcntl  # Unix flock for parallel workers; optional on Windows
+except ImportError:  # pragma: no cover
+    fcntl = None  # type: ignore
+
 import pandas as pd
 
 from .config_loader import dataset_by_id, generator_names, load_datasets, load_seeds
@@ -22,7 +26,7 @@ from .datasets import load_and_split
 from .generators import generate_synthetic
 from .metrics.fidelity import compute_fidelity, fidelity_to_rows
 from .metrics.privacy import compute_privacy, privacy_to_rows
-from .metrics.utility import compute_utility, utility_to_rows
+from .metrics.utility import compute_utility, per_model_to_long, utility_to_rows
 from .paths import ensure_task_dirs, task_paths
 from .table_io import read_results, results_exist, write_results
 
@@ -109,11 +113,21 @@ def is_complete(seed: int, dataset_id: str, generator: str) -> bool:
 
 
 def _with_file_lock(lock_path: Path):
-    """Exclusive flock so parallel GPU workers can share result workbooks."""
+    """Exclusive flock so parallel GPU workers can share result workbooks.
+
+    On Windows (no fcntl), returns an open handle without locking.
+    """
     lock_path.parent.mkdir(parents=True, exist_ok=True)
     fh = lock_path.open("a+", encoding="utf-8")
-    fcntl.flock(fh.fileno(), fcntl.LOCK_EX)
+    if fcntl is not None:
+        fcntl.flock(fh.fileno(), fcntl.LOCK_EX)
     return fh
+
+
+def _unlock(fh) -> None:
+    if fcntl is not None:
+        fcntl.flock(fh.fileno(), fcntl.LOCK_UN)
+    fh.close()
 
 
 def append_log(dataset_id: str, row: dict[str, Any]) -> None:
@@ -126,8 +140,7 @@ def append_log(dataset_id: str, row: dict[str, Any]) -> None:
             df = pd.concat([read_results(log_path), df], ignore_index=True)
         write_results(log_path, df)
     finally:
-        fcntl.flock(lock_fh.fileno(), fcntl.LOCK_UN)
-        lock_fh.close()
+        _unlock(lock_fh)
 
 
 def _write_global_raw(paths: dict[str, Path], dataset_id: str, generator: str, seed: int, rdf: pd.DataFrame) -> None:
@@ -146,8 +159,7 @@ def _write_global_raw(paths: dict[str, Path], dataset_id: str, generator: str, s
             rdf = pd.concat([old, rdf], ignore_index=True)
         write_results(global_raw, rdf)
     finally:
-        fcntl.flock(lock_fh.fileno(), fcntl.LOCK_UN)
-        lock_fh.close()
+        _unlock(lock_fh)
 
 
 def run_one(
@@ -245,8 +257,6 @@ def run_one(
             "evaluation_time_seconds": evaluation_time,
             "total_time_seconds": total_time,
         }
-        from .metrics.utility import per_model_to_long
-
         per_long = per_model_to_long(per_model, base_meta)
         per_long.to_csv(run_dir / "per_model_utility.csv", index=False)
 

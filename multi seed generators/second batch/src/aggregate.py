@@ -1,7 +1,10 @@
 """Aggregate seed-level results into mean ± SD (ddof=1), per task folder."""
 from __future__ import annotations
 
-import fcntl
+try:
+    import fcntl
+except ImportError:  # pragma: no cover
+    fcntl = None  # type: ignore
 import shutil
 from pathlib import Path
 
@@ -13,7 +16,7 @@ from .paths import ensure_task_dirs, task_paths
 from .table_io import drop_csv, read_results, results_exist, write_results
 
 
-SEEDS = [55, 155, 255, 355]
+SEEDS = [68, 91, 2025]
 SD_EPS = 1e-12
 
 TRTR_METRICS_CLS = (
@@ -214,6 +217,8 @@ def _fill_tstr_and_gap_sd(out: pd.DataFrame, task: str) -> pd.DataFrame:
     from .metrics.utility import (
         evaluate_classification,
         evaluate_regression,
+        get_classifiers,
+        get_regressors,
         _snap_classification_target,
     )
 
@@ -222,8 +227,6 @@ def _fill_tstr_and_gap_sd(out: pd.DataFrame, task: str) -> pd.DataFrame:
     test_size = float(seeds_cfg["test_size"])
     model_seeds = _utility_model_seeds()
     by_name = {d["name"]: d for d in load_datasets() if d["task"] == task}
-
-    from .metrics.utility import get_classifiers, get_regressors
 
     if task == "classification":
         bases = ("Accuracy", "F1", "Precision", "Recall", "ROC_AUC")
@@ -375,7 +378,8 @@ def aggregate(task: str | None = None) -> pd.DataFrame:
         paths = ensure_task_dirs(t)
         lock_path = paths["results"] / "excel.lock"
         lock_fh = lock_path.open("a+")
-        fcntl.flock(lock_fh.fileno(), fcntl.LOCK_EX)
+        if fcntl is not None:
+            fcntl.flock(lock_fh.fileno(), fcntl.LOCK_EX)
         try:
             raw = load_raw(t)
             out = _aggregate_frame(raw)
@@ -406,7 +410,8 @@ def aggregate(task: str | None = None) -> pd.DataFrame:
                 shutil.copy2(combined, paths["results"] / "multi_seed_results.xlsx")
             outs.append(out)
         finally:
-            fcntl.flock(lock_fh.fileno(), fcntl.LOCK_UN)
+            if fcntl is not None:
+                fcntl.flock(lock_fh.fileno(), fcntl.LOCK_UN)
             lock_fh.close()
             for csv in paths["results"].rglob("*.csv"):
                 try:
