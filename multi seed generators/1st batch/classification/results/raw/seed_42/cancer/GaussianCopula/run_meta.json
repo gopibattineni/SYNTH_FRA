@@ -8,10 +8,40 @@
   "n_train": 455,
   "n_test": 114,
   "task": "classification",
-  "training_time_seconds": 1.5138546379748732,
+  "training_time_seconds": 7.954507600006764,
   "generation_time_seconds": 0.0,
-  "evaluation_time_seconds": 6.976419203914702,
-  "total_time_seconds": 8.500604314962402,
+  "evaluation_time_seconds": 183.52911580000364,
+  "total_time_seconds": 183.5291167999967,
+  "status": "SUCCESS",
+  "utility_models": {
+    "classification": [
+      "LogReg",
+      "SVM-RBF",
+      "KNN",
+      "NaiveBayes",
+      "DecisionTree",
+      "RandomForest",
+      "ExtraTrees",
+      "AdaBoost",
+      "GradientBoost",
+      "MLP"
+    ],
+    "regression": [
+      "DecisionTree",
+      "RandomForest",
+      "ExtraTrees",
+      "GradientBoost",
+      "KNN",
+      "SVR_RBF",
+      "LinearRegression",
+      "Ridge",
+      "Lasso",
+      "ElasticNet"
+    ]
+  },
+  "synth_source": "regenerated",
+  "utility_n_models": 10,
+  "timestamp": "2026-11-04T15:36:47Z",
   "split_meta": {
     "dataset_id": "cancer",
     "dataset_name": "Cancer",
@@ -100,7 +130,5 @@
       "fractal_dimension_worst"
     ],
     "stage1_order": "split_then_train_only_impute"
-  },
-  "status": "SUCCESS",
-  "timestamp": "2026-09-12T15:52:44.503627+00:00"
+  }
 }

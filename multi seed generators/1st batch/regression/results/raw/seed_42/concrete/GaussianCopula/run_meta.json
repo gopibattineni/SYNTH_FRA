@@ -8,10 +8,40 @@
   "n_train": 824,
   "n_test": 206,
   "task": "regression",
-  "training_time_seconds": 1.7551915699150413,
+  "training_time_seconds": 3.7682150000036927,
   "generation_time_seconds": 0.0,
-  "evaluation_time_seconds": 16.766913424013183,
-  "total_time_seconds": 18.581326003186405,
+  "evaluation_time_seconds": 21.34798839999712,
+  "total_time_seconds": 21.347989200003212,
+  "status": "SUCCESS",
+  "utility_models": {
+    "classification": [
+      "LogReg",
+      "SVM-RBF",
+      "KNN",
+      "NaiveBayes",
+      "DecisionTree",
+      "RandomForest",
+      "ExtraTrees",
+      "AdaBoost",
+      "GradientBoost",
+      "MLP"
+    ],
+    "regression": [
+      "DecisionTree",
+      "RandomForest",
+      "ExtraTrees",
+      "GradientBoost",
+      "KNN",
+      "SVR_RBF",
+      "LinearRegression",
+      "Ridge",
+      "Lasso",
+      "ElasticNet"
+    ]
+  },
+  "synth_source": "regenerated",
+  "utility_n_models": 10,
+  "timestamp": "2026-11-04T15:38:37Z",
   "split_meta": {
     "dataset_id": "concrete",
     "dataset_name": "Concrete",
@@ -56,7 +86,5 @@
       "Concrete_compressive_strength"
     ],
     "stage1_order": "split_then_train_only_impute"
-  },
-  "status": "SUCCESS",
-  "timestamp": "2026-09-21T13:17:10.857579+00:00"
+  }
 }

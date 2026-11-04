@@ -28,7 +28,11 @@ def set_global_seed(seed: int) -> None:
 def _sdv_metadata(df: pd.DataFrame):
     from sdv.metadata import Metadata
 
-    return Metadata.detect_from_dataframe(data=df, table_name="table", verbose=False)
+    try:
+        return Metadata.detect_from_dataframe(data=df, table_name="table", verbose=False)
+    except TypeError:
+        # Newer SDV dropped the verbose kwarg
+        return Metadata.detect_from_dataframe(data=df, table_name="table")
 
 
 def train_sdv(name: str, train: pd.DataFrame, n_samples: int, seed: int) -> pd.DataFrame:
