@@ -1,5 +1,5 @@
 {
-  "source": "multi seed generators/merged 10 seeds",
+  "source": "3 multi seed generators/merged 10 seeds",
   "aggregation": "Mean \u00b1 SD across 10 generator-training seeds (ddof=1)",
   "generator_seeds": [
     42,

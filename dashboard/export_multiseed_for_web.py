@@ -9,7 +9,7 @@ import numpy as np
 import pandas as pd
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-MERGED_ROOT = REPO_ROOT / "multi seed generators" / "merged 10 seeds"
+MERGED_ROOT = REPO_ROOT / "3 multi seed generators" / "merged 10 seeds"
 CLS_XLSX = MERGED_ROOT / "classification" / "results" / "multi_seed_results.xlsx"
 REG_XLSX = MERGED_ROOT / "regression" / "results" / "multi_seed_results.xlsx"
 DOCS_DATA = REPO_ROOT / "docs" / "data"
@@ -248,7 +248,7 @@ def export_multiseed_dashboard_data(output_dir: Path | None = None) -> Path:
         frames.append(_load_all_metrics(REG_XLSX, "regression"))
     if not frames:
         raise FileNotFoundError(
-            "No merged 10-seed Excel files found under multi seed generators/merged 10 seeds/"
+            "No merged 10-seed Excel files found under 3 multi seed generators/merged 10 seeds/"
         )
     all_df = pd.concat(frames, ignore_index=True)
 
@@ -288,7 +288,7 @@ def export_multiseed_dashboard_data(output_dir: Path | None = None) -> Path:
 
     n_datasets = int(all_df["Dataset"].nunique())
     meta = {
-        "source": "multi seed generators/merged 10 seeds",
+        "source": "3 multi seed generators/merged 10 seeds",
         "aggregation": "Mean ± SD across 10 generator-training seeds (ddof=1)",
         "generator_seeds": SEEDS,
         "split_seed": 42,

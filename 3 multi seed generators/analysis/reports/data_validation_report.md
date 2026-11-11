@@ -46,7 +46,7 @@ batch,batch_label,seed,classification_runs,regression_runs,total_runs,expected_r
 - Duplicate dataset×generator×seed rows: **0**
 - Unexpected generators: `none`
 - Unexpected datasets: `none`
-- NaN metric_value cells: **90**
+- NaN metric_value cells: **104**
 - Infinite metric_value cells: **0**
 
 ## Notes

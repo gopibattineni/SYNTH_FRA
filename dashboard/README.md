@@ -11,8 +11,8 @@ Static GitHub Pages dashboard for browsing SYNTH **10-seed** benchmark results.
 
 Results are exported from:
 
-- `multi seed generators/merged 10 seeds/classification/results/multi_seed_results.xlsx`
-- `multi seed generators/merged 10 seeds/regression/results/multi_seed_results.xlsx`
+- `3 multi seed generators/merged 10 seeds/classification/results/multi_seed_results.xlsx`
+- `3 multi seed generators/merged 10 seeds/regression/results/multi_seed_results.xlsx`
 
 All charts show **Mean ± SD across 10 generator-training seeds** (utility, fidelity, privacy).
 

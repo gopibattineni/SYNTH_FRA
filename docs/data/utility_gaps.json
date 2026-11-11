@@ -4,4872 +4,4872 @@
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.07155
+    "Mean": 0.07705
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.07155
+    "Mean": 0.07705
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.084988508
+    "Mean": 0.0914283313
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.084988508
+    "Mean": 0.0914283313
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.0779076119
+    "Mean": 0.0823099147
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.0779076119
+    "Mean": 0.0823099147
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.1269882915
+    "Mean": 0.1480179211
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.1269882915
+    "Mean": 0.1480179211
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.07155
+    "Mean": 0.07705
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.07155
+    "Mean": 0.07705
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.1019666667
+    "Mean": 0.07743
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.1019666667
+    "Mean": 0.07743
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.157229004
+    "Mean": 0.134195347
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.157229004
+    "Mean": 0.134195347
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.1896804368
+    "Mean": 0.1769220658
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.1896804368
+    "Mean": 0.1769220658
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.3475003584
+    "Mean": 0.3623689606
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.3475003584
+    "Mean": 0.3623689606
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.1019666667
+    "Mean": 0.07743
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.1019666667
+    "Mean": 0.07743
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.1109166667
+    "Mean": 0.09516
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.1109166667
+    "Mean": 0.09516
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.1610978184
+    "Mean": 0.1414222785
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.1610978184
+    "Mean": 0.1414222785
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.1806691745
+    "Mean": 0.1717412295
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.1806691745
+    "Mean": 0.1717412295
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.3172415771
+    "Mean": 0.3406495341
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.3172415771
+    "Mean": 0.3406495341
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.1109166667
+    "Mean": 0.09516
   },
   {
     "Dataset": "3. Adult",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.1109166667
+    "Mean": 0.09516
   },
   {
     "Dataset": "3. Adult",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.0082
+    "Mean": -0.00071
   },
   {
     "Dataset": "3. Adult",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.0082
+    "Mean": -0.00071
   },
   {
     "Dataset": "3. Adult",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.0138915438
+    "Mean": 0.0005179867
   },
   {
     "Dataset": "3. Adult",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.0138915438
+    "Mean": 0.0005179867
   },
   {
     "Dataset": "3. Adult",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.019223786
+    "Mean": 0.0093494779
   },
   {
     "Dataset": "3. Adult",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.019223786
+    "Mean": 0.0093494779
   },
   {
     "Dataset": "3. Adult",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.0636540024
+    "Mean": 0.0494271685
   },
   {
     "Dataset": "3. Adult",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.0636540024
+    "Mean": 0.0494271685
   },
   {
     "Dataset": "3. Adult",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.0082
+    "Mean": -0.00071
   },
   {
     "Dataset": "3. Adult",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.0082
+    "Mean": -0.00071
   },
   {
     "Dataset": "3. Adult",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.1058333333
+    "Mean": 0.07795
   },
   {
     "Dataset": "3. Adult",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.1058333333
+    "Mean": 0.07795
   },
   {
     "Dataset": "3. Adult",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.1291971996
+    "Mean": 0.1161068253
   },
   {
     "Dataset": "3. Adult",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.1291971996
+    "Mean": 0.1161068253
   },
   {
     "Dataset": "3. Adult",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.115976205
+    "Mean": 0.1116871082
   },
   {
     "Dataset": "3. Adult",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.115976205
+    "Mean": 0.1116871082
   },
   {
     "Dataset": "3. Adult",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.2471278375
+    "Mean": 0.2534523297
   },
   {
     "Dataset": "3. Adult",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.2471278375
+    "Mean": 0.2534523297
   },
   {
     "Dataset": "3. Adult",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.1058333333
+    "Mean": 0.07795
   },
   {
     "Dataset": "3. Adult",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.1058333333
+    "Mean": 0.07795
   },
   {
     "Dataset": "3. Adult",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.0485
+    "Mean": 0.047215
   },
   {
     "Dataset": "3. Adult",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.0485
+    "Mean": 0.047215
   },
   {
     "Dataset": "3. Adult",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.0573239041
+    "Mean": 0.0622516234
   },
   {
     "Dataset": "3. Adult",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.0573239041
+    "Mean": 0.0622516234
   },
   {
     "Dataset": "3. Adult",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.0519028005
+    "Mean": 0.0764121589
   },
   {
     "Dataset": "3. Adult",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.0519028005
+    "Mean": 0.0764121589
   },
   {
     "Dataset": "3. Adult",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.108195221
+    "Mean": 0.1274001434
   },
   {
     "Dataset": "3. Adult",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.108195221
+    "Mean": 0.1274001434
   },
   {
     "Dataset": "3. Adult",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.0485
+    "Mean": 0.047215
   },
   {
     "Dataset": "3. Adult",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.0485
+    "Mean": 0.047215
   },
   {
     "Dataset": "3. Adult",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.1558666667
+    "Mean": 0.119525
   },
   {
     "Dataset": "3. Adult",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.1558666667
+    "Mean": 0.119525
   },
   {
     "Dataset": "3. Adult",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.208834704
+    "Mean": 0.181562224
   },
   {
     "Dataset": "3. Adult",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.208834704
+    "Mean": 0.181562224
   },
   {
     "Dataset": "3. Adult",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.1965912341
+    "Mean": 0.1988093743
   },
   {
     "Dataset": "3. Adult",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.1965912341
+    "Mean": 0.1988093743
   },
   {
     "Dataset": "3. Adult",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.3837304659
+    "Mean": 0.3811167025
   },
   {
     "Dataset": "3. Adult",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.3837304659
+    "Mean": 0.3811167025
   },
   {
     "Dataset": "3. Adult",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.1558666667
+    "Mean": 0.119525
   },
   {
     "Dataset": "3. Adult",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.1558666667
+    "Mean": 0.119525
   },
   {
     "Dataset": "3. Adult",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.04355
+    "Mean": 0.04325
   },
   {
     "Dataset": "3. Adult",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.04355
+    "Mean": 0.04325
   },
   {
     "Dataset": "3. Adult",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.0538148307
+    "Mean": 0.0629941964
   },
   {
     "Dataset": "3. Adult",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.0538148307
+    "Mean": 0.0629941964
   },
   {
     "Dataset": "3. Adult",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.0307131506
+    "Mean": 0.0331363669
   },
   {
     "Dataset": "3. Adult",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.0307131506
+    "Mean": 0.0331363669
   },
   {
     "Dataset": "3. Adult",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.0827378734
+    "Mean": 0.0803889606
   },
   {
     "Dataset": "3. Adult",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.0827378734
+    "Mean": 0.0803889606
   },
   {
     "Dataset": "3. Adult",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.04355
+    "Mean": 0.04325
   },
   {
     "Dataset": "3. Adult",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.04355
+    "Mean": 0.04325
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.1248684211
+    "Mean": 0.1915921053
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.1248684211
+    "Mean": 0.1915921053
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.1304000355
+    "Mean": 0.2297616425
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.1304000355
+    "Mean": 0.2297616425
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.1170774479
+    "Mean": 0.2025504338
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.1170774479
+    "Mean": 0.2025504338
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.0987525988
+    "Mean": 0.1121372141
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.0987525988
+    "Mean": 0.1121372141
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.1248684211
+    "Mean": 0.1915921053
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.1248684211
+    "Mean": 0.1915921053
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.4319736842
+    "Mean": 0.4362368421
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.4319736842
+    "Mean": 0.4362368421
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.4491551002
+    "Mean": 0.4551610137
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.4491551002
+    "Mean": 0.4551610137
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.4385092234
+    "Mean": 0.4402458189
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.4385092234
+    "Mean": 0.4402458189
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.4429048279
+    "Mean": 0.4628059598
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.4429048279
+    "Mean": 0.4628059598
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.4319736842
+    "Mean": 0.4362368421
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.4319736842
+    "Mean": 0.4362368421
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.4466666667
+    "Mean": 0.4361315789
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.4466666667
+    "Mean": 0.4361315789
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.4701866721
+    "Mean": 0.4539081581
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.4701866721
+    "Mean": 0.4539081581
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.4508764279
+    "Mean": 0.4354448908
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.4508764279
+    "Mean": 0.4354448908
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.4594906445
+    "Mean": 0.4533461538
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.4594906445
+    "Mean": 0.4533461538
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.4466666667
+    "Mean": 0.4361315789
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.4466666667
+    "Mean": 0.4361315789
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": -0.0036842105
+    "Mean": -0.0018684211
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": -0.0036842105
+    "Mean": -0.0018684211
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": -0.0036499117
+    "Mean": -0.0018789556
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": -0.0036499117
+    "Mean": -0.0018789556
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": -0.0043713742
+    "Mean": -0.0017305837
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": -0.0043713742
+    "Mean": -0.0017305837
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": -0.0081543082
+    "Mean": 8.6625e-06
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": -0.0081543082
+    "Mean": 8.6625e-06
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": -0.0036842105
+    "Mean": -0.0018684211
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": -0.0036842105
+    "Mean": -0.0018684211
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.1315789474
+    "Mean": 0.1081578947
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.1315789474
+    "Mean": 0.1081578947
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.1326829562
+    "Mean": 0.1102195312
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.1326829562
+    "Mean": 0.1102195312
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.1281705379
+    "Mean": 0.1001457336
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.1281705379
+    "Mean": 0.1001457336
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.0907253407
+    "Mean": 0.0536555787
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.0907253407
+    "Mean": 0.0536555787
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.1315789474
+    "Mean": 0.1081578947
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.1315789474
+    "Mean": 0.1081578947
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.0414912281
+    "Mean": 0.0477631579
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.0414912281
+    "Mean": 0.0477631579
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.042734587
+    "Mean": 0.0493668433
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.042734587
+    "Mean": 0.0493668433
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.0341236355
+    "Mean": 0.0414045861
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.0341236355
+    "Mean": 0.0414045861
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.0221633172
+    "Mean": 0.0144230769
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.0221633172
+    "Mean": 0.0144230769
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.0414912281
+    "Mean": 0.0477631579
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.0414912281
+    "Mean": 0.0477631579
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.4374561404
+    "Mean": 0.4619078947
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.4374561404
+    "Mean": 0.4619078947
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.4490597009
+    "Mean": 0.4780623238
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.4490597009
+    "Mean": 0.4780623238
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.4471977238
+    "Mean": 0.4735402865
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.4471977238
+    "Mean": 0.4735402865
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.461986602
+    "Mean": 0.4808510049
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.461986602
+    "Mean": 0.4808510049
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.4374561404
+    "Mean": 0.4619078947
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.4374561404
+    "Mean": 0.4619078947
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.1322368421
+    "Mean": 0.1359605263
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.1322368421
+    "Mean": 0.1359605263
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.140136255
+    "Mean": 0.1451418013
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.140136255
+    "Mean": 0.1451418013
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.1008436299
+    "Mean": 0.0992520656
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.1008436299
+    "Mean": 0.0992520656
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.0707288057
+    "Mean": 0.0585058905
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.0707288057
+    "Mean": 0.0585058905
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.1322368421
+    "Mean": 0.1359605263
   },
   {
     "Dataset": "2. Alzhimers",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.1322368421
+    "Mean": 0.1359605263
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.0625
+    "Mean": -0.032425
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.0625
+    "Mean": -0.032425
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.0626361861
+    "Mean": -0.0271891247
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.0626361861
+    "Mean": -0.0271891247
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.0560368054
+    "Mean": 0.0564024218
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.0560368054
+    "Mean": 0.0564024218
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.2186293333
+    "Mean": 0.2858913143
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.2186293333
+    "Mean": 0.2858913143
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.0625
+    "Mean": -0.032425
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.0625
+    "Mean": -0.032425
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.0444333333
+    "Mean": -0.04782
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.0444333333
+    "Mean": -0.04782
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.0521848081
+    "Mean": -0.038971493
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.0521848081
+    "Mean": -0.038971493
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.0643147644
+    "Mean": 0.0607632893
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.0643147644
+    "Mean": 0.0607632893
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.2844586667
+    "Mean": 0.3333589714
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.2844586667
+    "Mean": 0.3333589714
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.0444333333
+    "Mean": -0.04782
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.0444333333
+    "Mean": -0.04782
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.0348666667
+    "Mean": -0.046385
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.0348666667
+    "Mean": -0.046385
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.0481203214
+    "Mean": -0.0352523759
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.0481203214
+    "Mean": -0.0352523759
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.0664030536
+    "Mean": 0.0627926731
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.0664030536
+    "Mean": 0.0627926731
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.2814849524
+    "Mean": 0.3137564571
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.2814849524
+    "Mean": 0.3137564571
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.0348666667
+    "Mean": -0.046385
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.0348666667
+    "Mean": -0.046385
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.0295
+    "Mean": 0.009805
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.0295
+    "Mean": 0.009805
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.0102297072
+    "Mean": -0.006270693
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.0102297072
+    "Mean": -0.006270693
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": -0.0034918544
+    "Mean": 0.0003736396
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": -0.0034918544
+    "Mean": 0.0003736396
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.042488
+    "Mean": 0.0337493714
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.042488
+    "Mean": 0.0337493714
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.0295
+    "Mean": 0.009805
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.0295
+    "Mean": 0.009805
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.0271666667
+    "Mean": 0.0037
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.0271666667
+    "Mean": 0.0037
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.0413875842
+    "Mean": 0.018162384
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.0413875842
+    "Mean": 0.018162384
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.0645108892
+    "Mean": 0.0594373952
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.0645108892
+    "Mean": 0.0594373952
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.1342514286
+    "Mean": 0.1760411429
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.1342514286
+    "Mean": 0.1760411429
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.0271666667
+    "Mean": 0.0037
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.0271666667
+    "Mean": 0.0037
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.0634833333
+    "Mean": -0.035865
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.0634833333
+    "Mean": -0.035865
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.0451453874
+    "Mean": -0.0370825961
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.0451453874
+    "Mean": -0.0370825961
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.0169219639
+    "Mean": 0.0408142678
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.0169219639
+    "Mean": 0.0408142678
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.1258773333
+    "Mean": 0.1873618286
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.1258773333
+    "Mean": 0.1873618286
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.0634833333
+    "Mean": -0.035865
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.0634833333
+    "Mean": -0.035865
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.09575
+    "Mean": -0.007695
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.09575
+    "Mean": -0.007695
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.0928819377
+    "Mean": -0.0063463885
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.0928819377
+    "Mean": -0.0063463885
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.0577464552
+    "Mean": 0.0653581493
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.0577464552
+    "Mean": 0.0653581493
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.2961828571
+    "Mean": 0.3391961143
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.2961828571
+    "Mean": 0.3391961143
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.09575
+    "Mean": -0.007695
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.09575
+    "Mean": -0.007695
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.0098571429
+    "Mean": -0.0640583333
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.0098571429
+    "Mean": -0.0640583333
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.0251111232
+    "Mean": -0.0521637003
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.0251111232
+    "Mean": -0.0521637003
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.0353586151
+    "Mean": 0.0441748124
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.0353586151
+    "Mean": 0.0441748124
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.1554209524
+    "Mean": 0.2069226667
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.1554209524
+    "Mean": 0.2069226667
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.0098571429
+    "Mean": -0.0640583333
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.0098571429
+    "Mean": -0.0640583333
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.1023433333
+    "Mean": 0.014898
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.1023433333
+    "Mean": 0.014898
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.0968317004
+    "Mean": 0.0165818193
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.0968317004
+    "Mean": 0.0165818193
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.0323220996
+    "Mean": 0.0208677261
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.0323220996
+    "Mean": 0.0208677261
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.1314192222
+    "Mean": 0.1041135672
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.1314192222
+    "Mean": 0.1041135672
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.1023433333
+    "Mean": 0.014898
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.1023433333
+    "Mean": 0.014898
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.0182966667
+    "Mean": 0.020134
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.0182966667
+    "Mean": 0.020134
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.0029329396
+    "Mean": 0.003240602
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.0029329396
+    "Mean": 0.003240602
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.0024947066
+    "Mean": -0.0001144995
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.0024947066
+    "Mean": -0.0001144995
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.0448649501
+    "Mean": 0.041987735
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.0448649501
+    "Mean": 0.041987735
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.0182966667
+    "Mean": 0.020134
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.0182966667
+    "Mean": 0.020134
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.01526
+    "Mean": 0.016339
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.01526
+    "Mean": 0.016339
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.0013321322
+    "Mean": 0.0046308274
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.0013321322
+    "Mean": 0.0046308274
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.0007375502
+    "Mean": 0.0005610281
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.0007375502
+    "Mean": 0.0005610281
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.0384371672
+    "Mean": 0.0463558332
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.0384371672
+    "Mean": 0.0463558332
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.01526
+    "Mean": 0.016339
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.01526
+    "Mean": 0.016339
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.03366
+    "Mean": 0.056024
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.03366
+    "Mean": 0.056024
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.0019045333
+    "Mean": 0.0303086865
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.0019045333
+    "Mean": 0.0303086865
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": -0.0126298051
+    "Mean": -0.0140002218
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": -0.0126298051
+    "Mean": -0.0140002218
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": -0.0035194526
+    "Mean": -0.0122106956
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": -0.0035194526
+    "Mean": -0.0122106956
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.03366
+    "Mean": 0.056024
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.03366
+    "Mean": 0.056024
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.0197333333
+    "Mean": 0.01252
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.0197333333
+    "Mean": 0.01252
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.0197923325
+    "Mean": 0.0156454424
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.0197923325
+    "Mean": 0.0156454424
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.0240255786
+    "Mean": 0.0257863419
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.0240255786
+    "Mean": 0.0257863419
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.0627025959
+    "Mean": 0.0878403359
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.0627025959
+    "Mean": 0.0878403359
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.0197333333
+    "Mean": 0.01252
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.0197333333
+    "Mean": 0.01252
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": -0.00719
+    "Mean": -0.002418
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": -0.00719
+    "Mean": -0.002418
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": -0.0126441088
+    "Mean": -0.0087578196
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": -0.0126441088
+    "Mean": -0.0087578196
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": -0.0069982158
+    "Mean": -0.0064653138
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": -0.0069982158
+    "Mean": -0.0064653138
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.0148552126
+    "Mean": 0.0126638799
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.0148552126
+    "Mean": 0.0126638799
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": -0.00719
+    "Mean": -0.002418
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": -0.00719
+    "Mean": -0.002418
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.01855
+    "Mean": -0.007247
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.01855
+    "Mean": -0.007247
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.025682379
+    "Mean": 0.0136040106
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.025682379
+    "Mean": 0.0136040106
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.0425709098
+    "Mean": 0.0477066115
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.0425709098
+    "Mean": 0.0477066115
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.223833126
+    "Mean": 0.2202705328
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.223833126
+    "Mean": 0.2202705328
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.01855
+    "Mean": -0.007247
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.01855
+    "Mean": -0.007247
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": -0.0121766667
+    "Mean": -0.006298
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": -0.0121766667
+    "Mean": -0.006298
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": -0.004433623
+    "Mean": 0.0030490281
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": -0.004433623
+    "Mean": 0.0030490281
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.0053381691
+    "Mean": 0.0119304651
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.0053381691
+    "Mean": 0.0119304651
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.0207741798
+    "Mean": 0.0174323069
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.0207741798
+    "Mean": 0.0174323069
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": -0.0121766667
+    "Mean": -0.006298
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": -0.0121766667
+    "Mean": -0.006298
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.1330701754
+    "Mean": 0.113
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.1330701754
+    "Mean": 0.113
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.1365164667
+    "Mean": 0.1152838119
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.1365164667
+    "Mean": 0.1152838119
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.1310376925
+    "Mean": 0.1093547534
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.1310376925
+    "Mean": 0.1093547534
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.1260146605
+    "Mean": 0.0901473214
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.1260146605
+    "Mean": 0.0901473214
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.1330701754
+    "Mean": 0.113
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.1330701754
+    "Mean": 0.113
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.3128947368
+    "Mean": 0.329877193
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.3128947368
+    "Mean": 0.329877193
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.3239869637
+    "Mean": 0.3354688198
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.3239869637
+    "Mean": 0.3354688198
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.3009039656
+    "Mean": 0.3080231693
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.3009039656
+    "Mean": 0.3080231693
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.2615701373
+    "Mean": 0.3290616733
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.2615701373
+    "Mean": 0.3290616733
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.3128947368
+    "Mean": 0.329877193
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.3128947368
+    "Mean": 0.329877193
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.3811403509
+    "Mean": 0.3506403509
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.3811403509
+    "Mean": 0.3506403509
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.3910070144
+    "Mean": 0.36567433
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.3910070144
+    "Mean": 0.36567433
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.3424431689
+    "Mean": 0.327231176
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.3424431689
+    "Mean": 0.327231176
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.3705731922
+    "Mean": 0.3574616402
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.3705731922
+    "Mean": 0.3574616402
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.3811403509
+    "Mean": 0.3506403509
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.3811403509
+    "Mean": 0.3506403509
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": -0.009619883
+    "Mean": 0.000622807
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": -0.009619883
+    "Mean": 0.000622807
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": -0.0097911407
+    "Mean": 0.0002081674
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": -0.0097911407
+    "Mean": 0.0002081674
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": -0.0095467971
+    "Mean": -3.84721e-05
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": -0.0095467971
+    "Mean": -3.84721e-05
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": -0.0088155864
+    "Mean": -0.0010704365
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": -0.0088155864
+    "Mean": -0.0010704365
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": -0.009619883
+    "Mean": 0.000622807
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": -0.009619883
+    "Mean": 0.000622807
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.1587719298
+    "Mean": 0.1283333333
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.1587719298
+    "Mean": 0.1283333333
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.1641355941
+    "Mean": 0.1345939
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.1641355941
+    "Mean": 0.1345939
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.1484156095
+    "Mean": 0.1199991061
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.1484156095
+    "Mean": 0.1199991061
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.0933840388
+    "Mean": 0.0685509259
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.0933840388
+    "Mean": 0.0685509259
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.1587719298
+    "Mean": 0.1283333333
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.1587719298
+    "Mean": 0.1283333333
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.0018128655
+    "Mean": 0.0195526316
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.0018128655
+    "Mean": 0.0195526316
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.0013763424
+    "Mean": 0.0192158375
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.0013763424
+    "Mean": 0.0192158375
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": -6.03236e-05
+    "Mean": 0.0174378713
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": -6.03236e-05
+    "Mean": 0.0174378713
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": -0.0022933201
+    "Mean": 0.0037901786
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": -0.0022933201
+    "Mean": 0.0037901786
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.0018128655
+    "Mean": 0.0195526316
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.0018128655
+    "Mean": 0.0195526316
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.3419005848
+    "Mean": 0.4141842105
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.3419005848
+    "Mean": 0.4141842105
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.4534619909
+    "Mean": 0.5066156263
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.4534619909
+    "Mean": 0.5066156263
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.462372996
+    "Mean": 0.5090033584
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.462372996
+    "Mean": 0.5090033584
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.5052970679
+    "Mean": 0.5305963955
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.5052970679
+    "Mean": 0.5305963955
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.3419005848
+    "Mean": 0.4141842105
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.3419005848
+    "Mean": 0.4141842105
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.064502924
+    "Mean": 0.0492368421
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.064502924
+    "Mean": 0.0492368421
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.0665031722
+    "Mean": 0.0511229483
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.0665031722
+    "Mean": 0.0511229483
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.0596073656
+    "Mean": 0.0451692689
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.0596073656
+    "Mean": 0.0451692689
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.0402287257
+    "Mean": 0.019140873
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.0402287257
+    "Mean": 0.019140873
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.064502924
+    "Mean": 0.0492368421
   },
   {
     "Dataset": "1. Cancer",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.064502924
+    "Mean": 0.0492368421
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.3098366667
+    "Mean": 0.260349
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.3098366667
+    "Mean": 0.260349
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.3261145732
+    "Mean": 0.2796791617
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.3261145732
+    "Mean": 0.2796791617
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.302593988
+    "Mean": 0.2731559026
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.302593988
+    "Mean": 0.2731559026
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.2735527298
+    "Mean": 0.2516259975
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.2735527298
+    "Mean": 0.2516259975
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.3098366667
+    "Mean": 0.260349
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.3098366667
+    "Mean": 0.260349
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.31783
+    "Mean": 0.275519
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.31783
+    "Mean": 0.275519
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.3998539177
+    "Mean": 0.3491504288
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.3998539177
+    "Mean": 0.3491504288
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.3785284557
+    "Mean": 0.3449802474
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.3785284557
+    "Mean": 0.3449802474
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.337142875
+    "Mean": 0.3294595509
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.337142875
+    "Mean": 0.3294595509
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.31783
+    "Mean": 0.275519
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.31783
+    "Mean": 0.275519
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.32939
+    "Mean": 0.296304
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.32939
+    "Mean": 0.296304
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.3938293609
+    "Mean": 0.3438398505
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.3938293609
+    "Mean": 0.3438398505
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.3827815831
+    "Mean": 0.3537875067
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.3827815831
+    "Mean": 0.3537875067
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.3599484511
+    "Mean": 0.3358814815
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.3599484511
+    "Mean": 0.3358814815
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.32939
+    "Mean": 0.296304
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.32939
+    "Mean": 0.296304
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.06979
+    "Mean": 0.043544
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.06979
+    "Mean": 0.043544
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.0635310701
+    "Mean": 0.037163552
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.0635310701
+    "Mean": 0.037163552
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.0574499099
+    "Mean": 0.0350374068
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.0574499099
+    "Mean": 0.0350374068
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.0487275771
+    "Mean": 0.0343618306
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.0487275771
+    "Mean": 0.0343618306
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.06979
+    "Mean": 0.043544
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.06979
+    "Mean": 0.043544
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.1924333333
+    "Mean": 0.17553
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.1924333333
+    "Mean": 0.17553
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.2225496466
+    "Mean": 0.2027227104
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.2225496466
+    "Mean": 0.2027227104
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.2356668549
+    "Mean": 0.2205819047
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.2356668549
+    "Mean": 0.2205819047
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.1977232733
+    "Mean": 0.2072210058
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.1977232733
+    "Mean": 0.2072210058
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.1924333333
+    "Mean": 0.17553
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.1924333333
+    "Mean": 0.17553
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.0617233333
+    "Mean": 0.021225
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.0617233333
+    "Mean": 0.021225
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.0744369791
+    "Mean": 0.0319905775
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.0744369791
+    "Mean": 0.0319905775
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.0845087639
+    "Mean": 0.0593260427
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.0845087639
+    "Mean": 0.0593260427
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.0601501094
+    "Mean": 0.0392491232
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.0601501094
+    "Mean": 0.0392491232
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.0617233333
+    "Mean": 0.021225
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.0617233333
+    "Mean": 0.021225
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.3486933333
+    "Mean": 0.290086
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.3486933333
+    "Mean": 0.290086
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.3863796231
+    "Mean": 0.3377461741
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.3863796231
+    "Mean": 0.3377461741
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.3662626618
+    "Mean": 0.3583969277
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.3662626618
+    "Mean": 0.3583969277
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.345835436
+    "Mean": 0.3400543235
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.345835436
+    "Mean": 0.3400543235
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.3486933333
+    "Mean": 0.290086
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.3486933333
+    "Mean": 0.290086
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.3027633333
+    "Mean": 0.227018
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.3027633333
+    "Mean": 0.227018
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.324552254
+    "Mean": 0.251215064
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.324552254
+    "Mean": 0.251215064
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.2970311414
+    "Mean": 0.2539043661
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.2970311414
+    "Mean": 0.2539043661
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.266916581
+    "Mean": 0.2289532597
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.266916581
+    "Mean": 0.2289532597
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.3027633333
+    "Mean": 0.227018
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.3027633333
+    "Mean": 0.227018
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.1537333333
+    "Mean": 0.162075
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.1537333333
+    "Mean": 0.162075
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.1935696252
+    "Mean": 0.2075118559
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.1935696252
+    "Mean": 0.2075118559
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.1533652598
+    "Mean": 0.177507442
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.1533652598
+    "Mean": 0.177507442
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.2229938784
+    "Mean": 0.2425511672
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.2229938784
+    "Mean": 0.2425511672
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.1537333333
+    "Mean": 0.162075
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.1537333333
+    "Mean": 0.162075
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.2326333333
+    "Mean": 0.27075
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.2326333333
+    "Mean": 0.27075
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.240474367
+    "Mean": 0.263504468
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.240474367
+    "Mean": 0.263504468
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.2055083648
+    "Mean": 0.2373828026
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.2055083648
+    "Mean": 0.2373828026
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.2749585131
+    "Mean": 0.2965217391
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.2749585131
+    "Mean": 0.2965217391
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.2326333333
+    "Mean": 0.27075
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.2326333333
+    "Mean": 0.27075
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.2236666667
+    "Mean": 0.213695
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.2236666667
+    "Mean": 0.213695
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.2284452272
+    "Mean": 0.2110749663
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.2284452272
+    "Mean": 0.2110749663
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.1842623739
+    "Mean": 0.1902475652
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.1842623739
+    "Mean": 0.1902475652
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.2359578862
+    "Mean": 0.2409142604
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.2359578862
+    "Mean": 0.2409142604
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.2236666667
+    "Mean": 0.213695
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.2236666667
+    "Mean": 0.213695
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.0262
+    "Mean": 0.02249
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.0262
+    "Mean": 0.02249
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.0199769011
+    "Mean": 0.0149892326
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.0199769011
+    "Mean": 0.0149892326
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.0201427601
+    "Mean": 0.01767252
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.0201427601
+    "Mean": 0.01767252
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.0122421359
+    "Mean": 0.0097048899
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.0122421359
+    "Mean": 0.0097048899
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.0262
+    "Mean": 0.02249
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.0262
+    "Mean": 0.02249
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.0841666667
+    "Mean": 0.0844
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.0841666667
+    "Mean": 0.0844
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.124255339
+    "Mean": 0.1233638868
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.124255339
+    "Mean": 0.1233638868
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.0639890969
+    "Mean": 0.057880771
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.0639890969
+    "Mean": 0.057880771
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.0880831213
+    "Mean": 0.0804818011
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.0880831213
+    "Mean": 0.0804818011
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.0841666667
+    "Mean": 0.0844
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.0841666667
+    "Mean": 0.0844
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.05775
+    "Mean": 0.06978
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.05775
+    "Mean": 0.06978
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.0563086204
+    "Mean": 0.0687284152
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.0563086204
+    "Mean": 0.0687284152
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.0519803992
+    "Mean": 0.0684830115
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.0519803992
+    "Mean": 0.0684830115
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.0735068407
+    "Mean": 0.0817079876
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.0735068407
+    "Mean": 0.0817079876
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.05775
+    "Mean": 0.06978
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.05775
+    "Mean": 0.06978
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.1802
+    "Mean": 0.179195
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.1802
+    "Mean": 0.179195
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.2442336902
+    "Mean": 0.2514952027
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.2442336902
+    "Mean": 0.2514952027
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.2664072462
+    "Mean": 0.2636538338
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.2664072462
+    "Mean": 0.2636538338
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.2934028469
+    "Mean": 0.312243611
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.2934028469
+    "Mean": 0.312243611
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.1802
+    "Mean": 0.179195
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.1802
+    "Mean": 0.179195
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.0667666667
+    "Mean": 0.0769
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.0667666667
+    "Mean": 0.0769
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.0739913876
+    "Mean": 0.0860833447
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.0739913876
+    "Mean": 0.0860833447
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.0706265781
+    "Mean": 0.0808762883
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.0706265781
+    "Mean": 0.0808762883
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.0796349154
+    "Mean": 0.0834727846
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.0796349154
+    "Mean": 0.0834727846
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.0667666667
+    "Mean": 0.0769
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.0667666667
+    "Mean": 0.0769
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.25151
+    "Mean": 0.25507
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.25151
+    "Mean": 0.25507
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.2625980619
+    "Mean": 0.2685073981
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.2625980619
+    "Mean": 0.2685073981
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.2555414447
+    "Mean": 0.2589974819
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.2555414447
+    "Mean": 0.2589974819
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.2501266443
+    "Mean": 0.2457921718
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.2501266443
+    "Mean": 0.2457921718
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.25151
+    "Mean": 0.25507
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.25151
+    "Mean": 0.25507
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.3273366667
+    "Mean": 0.311825
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.3273366667
+    "Mean": 0.311825
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.3509452382
+    "Mean": 0.3255780684
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.3509452382
+    "Mean": 0.3255780684
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.3217749961
+    "Mean": 0.3223330999
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.3217749961
+    "Mean": 0.3223330999
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.3269800605
+    "Mean": 0.3165626114
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.3269800605
+    "Mean": 0.3165626114
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.3273366667
+    "Mean": 0.311825
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.3273366667
+    "Mean": 0.311825
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.3204933333
+    "Mean": 0.310864
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.3204933333
+    "Mean": 0.310864
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.3391622798
+    "Mean": 0.3297113294
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.3391622798
+    "Mean": 0.3297113294
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.3173350394
+    "Mean": 0.3162648703
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.3173350394
+    "Mean": 0.3162648703
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.3238963173
+    "Mean": 0.3189270531
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.3238963173
+    "Mean": 0.3189270531
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.3204933333
+    "Mean": 0.310864
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.3204933333
+    "Mean": 0.310864
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.2761766667
+    "Mean": 0.265452
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.2761766667
+    "Mean": 0.265452
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.3059031448
+    "Mean": 0.3029220218
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.3059031448
+    "Mean": 0.3029220218
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.224082871
+    "Mean": 0.2594394737
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.224082871
+    "Mean": 0.2594394737
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.2345041074
+    "Mean": 0.2409764045
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.2345041074
+    "Mean": 0.2409764045
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.2761766667
+    "Mean": 0.265452
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.2761766667
+    "Mean": 0.265452
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.3172333333
+    "Mean": 0.31122
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.3172333333
+    "Mean": 0.31122
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.3211784912
+    "Mean": 0.3188514927
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.3211784912
+    "Mean": 0.3188514927
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.3200597875
+    "Mean": 0.3210482972
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.3200597875
+    "Mean": 0.3210482972
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.3381175079
+    "Mean": 0.3278442516
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.3381175079
+    "Mean": 0.3278442516
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.3172333333
+    "Mean": 0.31122
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.3172333333
+    "Mean": 0.31122
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.23684
+    "Mean": 0.217758
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.23684
+    "Mean": 0.217758
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.2583089412
+    "Mean": 0.2442973494
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.2583089412
+    "Mean": 0.2442973494
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.196552601
+    "Mean": 0.2015569461
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.196552601
+    "Mean": 0.2015569461
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.1939889948
+    "Mean": 0.1764365984
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.1939889948
+    "Mean": 0.1764365984
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.23684
+    "Mean": 0.217758
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.23684
+    "Mean": 0.217758
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.3753033333
+    "Mean": 0.366084
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.3753033333
+    "Mean": 0.366084
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.4229126042
+    "Mean": 0.4340443725
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.4229126042
+    "Mean": 0.4340443725
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.3973195429
+    "Mean": 0.4031598825
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.3973195429
+    "Mean": 0.4031598825
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.4017457427
+    "Mean": 0.408514131
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.4017457427
+    "Mean": 0.408514131
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.3753033333
+    "Mean": 0.366084
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.3753033333
+    "Mean": 0.366084
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.2526866667
+    "Mean": 0.244394
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.2526866667
+    "Mean": 0.244394
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.2718573625
+    "Mean": 0.2739759516
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.2718573625
+    "Mean": 0.2739759516
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.2480568676
+    "Mean": 0.2372540717
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.2480568676
+    "Mean": 0.2372540717
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.2279109859
+    "Mean": 0.2153621902
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.2279109859
+    "Mean": 0.2153621902
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.2526866667
+    "Mean": 0.244394
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.2526866667
+    "Mean": 0.244394
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.1329489796
+    "Mean": 0.0999357143
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.1329489796
+    "Mean": 0.0999357143
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.140130575
+    "Mean": 0.1096320884
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.140130575
+    "Mean": 0.1096320884
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.1503417084
+    "Mean": 0.1189874762
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.1503417084
+    "Mean": 0.1189874762
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.1188758907
+    "Mean": 0.1089272224
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.1188758907
+    "Mean": 0.1089272224
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.1329489796
+    "Mean": 0.0999357143
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CTABGAN",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.1329489796
+    "Mean": 0.0999357143
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.2659693878
+    "Mean": 0.2475163265
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.2659693878
+    "Mean": 0.2475163265
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.2399854619
+    "Mean": 0.2230324297
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.2399854619
+    "Mean": 0.2230324297
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.1853129299
+    "Mean": 0.1540032722
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.1853129299
+    "Mean": 0.1540032722
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.1562471097
+    "Mean": 0.1394141457
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.1562471097
+    "Mean": 0.1394141457
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.2659693878
+    "Mean": 0.2475163265
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CTGAN",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.2659693878
+    "Mean": 0.2475163265
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.247085034
+    "Mean": 0.2078520408
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.247085034
+    "Mean": 0.2078520408
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.2127491642
+    "Mean": 0.1769321633
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.2127491642
+    "Mean": 0.1769321633
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.1605085583
+    "Mean": 0.1244518195
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.1605085583
+    "Mean": 0.1244518195
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.1399007176
+    "Mean": 0.1195127891
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.1399007176
+    "Mean": 0.1195127891
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.247085034
+    "Mean": 0.2078520408
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "CopulaGAN",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.247085034
+    "Mean": 0.2078520408
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.1398911565
+    "Mean": 0.0976653061
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.1398911565
+    "Mean": 0.0976653061
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.1285890851
+    "Mean": 0.0867640803
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.1285890851
+    "Mean": 0.0867640803
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.1344173556
+    "Mean": 0.094243631
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.1344173556
+    "Mean": 0.094243631
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.1006580809
+    "Mean": 0.0753042413
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.1006580809
+    "Mean": 0.0753042413
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.1398911565
+    "Mean": 0.0976653061
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "ForestDiffusion",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.1398911565
+    "Mean": 0.0976653061
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.2115986395
+    "Mean": 0.1859591837
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.2115986395
+    "Mean": 0.1859591837
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.268154124
+    "Mean": 0.2297263899
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.268154124
+    "Mean": 0.2297263899
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.2759078814
+    "Mean": 0.2505214711
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.2759078814
+    "Mean": 0.2505214711
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.2433512922
+    "Mean": 0.2432317145
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.2433512922
+    "Mean": 0.2432317145
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.2115986395
+    "Mean": 0.1859591837
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "GaussianCopula",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.2115986395
+    "Mean": 0.1859591837
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.0956156463
+    "Mean": 0.0553846939
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.0956156463
+    "Mean": 0.0553846939
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.1062848876
+    "Mean": 0.0695252528
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.1062848876
+    "Mean": 0.0695252528
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.1312775381
+    "Mean": 0.0950488666
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.1312775381
+    "Mean": 0.0950488666
   },
   {
     "Dataset": "6. Wine dataset",
@@ -4890,1497 +4890,1497 @@
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.0956156463
+    "Mean": 0.0553846939
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "TVAE",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.0956156463
+    "Mean": 0.0553846939
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.2037823129
+    "Mean": 0.1703010204
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.2037823129
+    "Mean": 0.1703010204
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.2625152013
+    "Mean": 0.2295422467
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.2625152013
+    "Mean": 0.2295422467
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.2843989067
+    "Mean": 0.2579304139
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.2843989067
+    "Mean": 0.2579304139
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.2352052859
+    "Mean": 0.2276021674
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.2352052859
+    "Mean": 0.2276021674
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.2037823129
+    "Mean": 0.1703010204
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "TabDDPM",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.2037823129
+    "Mean": 0.1703010204
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Accuracy_Gap",
-    "Mean": 0.1646938776
+    "Mean": 0.1314908163
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Accuracy_Drop",
-    "Mean": 0.1646938776
+    "Mean": 0.1314908163
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "F1_Gap",
-    "Mean": 0.1660655338
+    "Mean": 0.1336211202
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "F1_Drop",
-    "Mean": 0.1660655338
+    "Mean": 0.1336211202
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Precision_Gap",
-    "Mean": 0.1600498586
+    "Mean": 0.126004327
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Precision_Drop",
-    "Mean": 0.1600498586
+    "Mean": 0.126004327
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Gap",
-    "Mean": 0.1276789625
+    "Mean": 0.1118192495
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "ROC_AUC_Drop",
-    "Mean": 0.1276789625
+    "Mean": 0.1118192495
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Recall_Gap",
-    "Mean": 0.1646938776
+    "Mean": 0.1314908163
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "WGAN_GP",
     "TaskType": "classification",
     "Metric": "Recall_Drop",
-    "Mean": 0.1646938776
+    "Mean": 0.1314908163
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "CTABGAN",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 6.499763062
+    "Mean": 7.3490053151
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "CTABGAN",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.8253467074
+    "Mean": 1.001969271
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "CTABGAN",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.8253467074
+    "Mean": 1.001969271
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "CTABGAN",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 32.9964975898
+    "Mean": 37.42657302
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "CTGAN",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 2.7307675339
+    "Mean": 2.7161835888
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "CTGAN",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.0235777021
+    "Mean": 0.1012880481
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "CTGAN",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.0235777021
+    "Mean": 0.1012880481
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "CTGAN",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 5.1854159054
+    "Mean": 7.119145014
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "CopulaGAN",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 2.9542583293
+    "Mean": 3.1085302157
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "CopulaGAN",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.0368203748
+    "Mean": 0.1340865946
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "CopulaGAN",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.0368203748
+    "Mean": 0.1340865946
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "CopulaGAN",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 6.4669066983
+    "Mean": 9.636854591
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "ForestDiffusion",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 0.8364389122
+    "Mean": 1.2923586292
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "ForestDiffusion",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.0033241698
+    "Mean": 0.0933594727
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "ForestDiffusion",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.0033241698
+    "Mean": 0.0933594727
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "ForestDiffusion",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 1.7294854585
+    "Mean": 4.3412347897
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "GaussianCopula",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 3.2300671119
+    "Mean": 5.0624011997
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "GaussianCopula",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.0749161652
+    "Mean": 0.2201795003
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "GaussianCopula",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.0749161652
+    "Mean": 0.2201795003
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "GaussianCopula",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 9.0967770188
+    "Mean": 13.1671114705
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "TVAE",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 1.6900482385
+    "Mean": 1.6513100104
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "TVAE",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.0323699921
+    "Mean": 0.1029782314
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "TVAE",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.0323699921
+    "Mean": 0.1029782314
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "TVAE",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 4.6185370344
+    "Mean": 5.050034239
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "TabDDPM",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 5.5290015568
+    "Mean": 4.5346760001
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "TabDDPM",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.0851020017
+    "Mean": 0.0682883565
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "TabDDPM",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.0851020017
+    "Mean": 0.0682883565
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "TabDDPM",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 9.4112972371
+    "Mean": 7.4913911133
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "WGAN_GP",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 0.6065138207
+    "Mean": 1.2108075018
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "WGAN_GP",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.0016128884
+    "Mean": 0.0826132972
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "WGAN_GP",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.0016128884
+    "Mean": 0.0826132972
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "WGAN_GP",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 1.1103890574
+    "Mean": 3.7131704804
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "CTABGAN",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 8.9872264964
+    "Mean": 9.6676042641
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "CTABGAN",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 1.4758883799
+    "Mean": 1.4816710493
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "CTABGAN",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 1.4758883799
+    "Mean": 1.4816710493
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "CTABGAN",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 11.3354868927
+    "Mean": 11.9918781406
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "CTGAN",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 9.9336064772
+    "Mean": 10.490378653
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "CTGAN",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 1.2040660986
+    "Mean": 1.3744712944
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "CTGAN",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 1.2040660986
+    "Mean": 1.3744712944
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "CTGAN",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 11.5651901959
+    "Mean": 12.3330124539
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "CopulaGAN",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 9.7065217248
+    "Mean": 10.6527184629
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "CopulaGAN",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 1.1616396734
+    "Mean": 1.3963391059
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "CopulaGAN",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 1.1616396734
+    "Mean": 1.3963391059
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "CopulaGAN",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 11.1041634423
+    "Mean": 12.3640618962
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "ForestDiffusion",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 1.4701083897
+    "Mean": 1.3374736745
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "ForestDiffusion",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.0947736888
+    "Mean": 0.0928277355
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "ForestDiffusion",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.0947736888
+    "Mean": 0.0928277355
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "ForestDiffusion",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 1.6326985417
+    "Mean": 1.5105304756
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "GaussianCopula",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 6.582174094
+    "Mean": 6.3807118995
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "GaussianCopula",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.9027790241
+    "Mean": 0.8346672016
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "GaussianCopula",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.9027790241
+    "Mean": 0.8346672016
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "GaussianCopula",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 8.0932663468
+    "Mean": 7.7946417466
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "TVAE",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 3.589418531
+    "Mean": 3.7753111457
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "TVAE",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.2608676374
+    "Mean": 0.319878436
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "TVAE",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.2608676374
+    "Mean": 0.319878436
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "TVAE",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 3.7374573847
+    "Mean": 4.1172475939
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "TabDDPM",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 2.62783298
+    "Mean": 3.615341134
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "TabDDPM",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.2041603781
+    "Mean": 0.3459935595
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "TabDDPM",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.2041603781
+    "Mean": 0.3459935595
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "TabDDPM",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 2.7483056572
+    "Mean": 4.088500183
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "WGAN_GP",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 3.7044099227
+    "Mean": 3.5381647028
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "WGAN_GP",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.5974795083
+    "Mean": 0.5438985382
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "WGAN_GP",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.5974795083
+    "Mean": 0.5438985382
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "WGAN_GP",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 6.4413919468
+    "Mean": 5.8459546988
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "CTABGAN",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 6.6307953307
+    "Mean": 7.6237634934
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "CTABGAN",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.7508105603
+    "Mean": 1.0266752051
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "CTABGAN",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.7508105603
+    "Mean": 1.0266752051
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "CTABGAN",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 7.3767111935
+    "Mean": 8.7369221301
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "CTGAN",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 8.1264293126
+    "Mean": 8.3079397553
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "CTGAN",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 1.029480348
+    "Mean": 1.1403169732
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "CTGAN",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 1.029480348
+    "Mean": 1.1403169732
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "CTGAN",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 8.9724978485
+    "Mean": 9.4191739917
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "CopulaGAN",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 7.9218731737
+    "Mean": 8.1732887217
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "CopulaGAN",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.9517420631
+    "Mean": 1.0617617556
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "CopulaGAN",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.9517420631
+    "Mean": 1.0617617556
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "CopulaGAN",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 8.6057400055
+    "Mean": 9.0687730947
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "ForestDiffusion",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 0.3499463649
+    "Mean": 0.3987122393
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "ForestDiffusion",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.0097882127
+    "Mean": 0.0137978043
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "ForestDiffusion",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.0097882127
+    "Mean": 0.0137978043
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "ForestDiffusion",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 0.3932093013
+    "Mean": 0.4944844069
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "GaussianCopula",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 2.0101954573
+    "Mean": 2.2245838745
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "GaussianCopula",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.0872007041
+    "Mean": 0.1111851191
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "GaussianCopula",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.0872007041
+    "Mean": 0.1111851191
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "GaussianCopula",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 1.9572510093
+    "Mean": 2.2355219608
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "TVAE",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 1.6961494545
+    "Mean": 2.0416122554
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "TVAE",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.1002320551
+    "Mean": 0.1456754521
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "TVAE",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.1002320551
+    "Mean": 0.1456754521
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "TVAE",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 2.1359986185
+    "Mean": 2.6195986895
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "TabDDPM",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 1.1017895427
+    "Mean": 1.8668588074
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "TabDDPM",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.0598496216
+    "Mean": 0.1741153749
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "TabDDPM",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.0598496216
+    "Mean": 0.1741153749
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "TabDDPM",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 1.2381012993
+    "Mean": 2.2641200896
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "WGAN_GP",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 0.7578099328
+    "Mean": 0.8241931478
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "WGAN_GP",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.0268878384
+    "Mean": 0.0325299018
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "WGAN_GP",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.0268878384
+    "Mean": 0.0325299018
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "WGAN_GP",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 0.8350364087
+    "Mean": 0.9366223681
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "CTABGAN",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 119.2856999476
+    "Mean": 191.7345173062
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "CTABGAN",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 2.8086541234
+    "Mean": 1.6285992064
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "CTABGAN",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 2.8086541234
+    "Mean": 1.6285992064
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "CTABGAN",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 1141.3110083414
+    "Mean": 978.4297094584
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "CTGAN",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 55.9349166663
+    "Mean": 50.5984832921
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "CTGAN",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.0436824595
+    "Mean": 0.0523204304
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "CTGAN",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.0436824595
+    "Mean": 0.0523204304
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "CTGAN",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 41.3926079504
+    "Mean": 47.6526012949
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "CopulaGAN",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 40.5109296806
+    "Mean": 57.5405880581
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "CopulaGAN",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.0110448457
+    "Mean": 0.0593384599
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "CopulaGAN",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.0110448457
+    "Mean": 0.0593384599
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "CopulaGAN",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 10.5867369569
+    "Mean": 53.0370149356
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "ForestDiffusion",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": -8.4652448782
+    "Mean": 1.111002092
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "ForestDiffusion",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": -0.0271210726
+    "Mean": -0.0068703792
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "ForestDiffusion",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": -0.0271210726
+    "Mean": -0.0068703792
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "ForestDiffusion",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": -25.7164969421
+    "Mean": -2.4482733438
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "GaussianCopula",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 15.3639176707
+    "Mean": 51.099192014
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "GaussianCopula",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.0161029577
+    "Mean": 0.0787754622
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "GaussianCopula",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.0161029577
+    "Mean": 0.0787754622
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "GaussianCopula",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 16.4917147987
+    "Mean": 68.3993812455
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "TVAE",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 286.6254398912
+    "Mean": 303.4349340597
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "TVAE",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.7584232509
+    "Mean": 0.8302541433
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "TVAE",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.7584232509
+    "Mean": 0.8302541433
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "TVAE",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 608.6869165307
+    "Mean": 638.719308084
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "TabDDPM",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 252.5888621829
+    "Mean": 386.34098598
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "TabDDPM",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.4165378211
+    "Mean": 0.6611965114
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "TabDDPM",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.4165378211
+    "Mean": 0.6611965114
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "TabDDPM",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 363.5115187672
+    "Mean": 511.6653860587
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "WGAN_GP",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 56.7740008574
+    "Mean": 63.0769599205
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "WGAN_GP",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.9804764582
+    "Mean": 0.5336364651
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "WGAN_GP",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.9804764582
+    "Mean": 0.5336364651
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "WGAN_GP",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 574.0680431365
+    "Mean": 355.7232411753
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "CTABGAN",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 13.7177834854
+    "Mean": 13.273500781
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "CTABGAN",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 2.0959284305
+    "Mean": 2.0653415849
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "CTABGAN",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 2.0959284305
+    "Mean": 2.0653415849
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "CTABGAN",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 14.0451843827
+    "Mean": 14.0241559933
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "CTGAN",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 4.6777660005
+    "Mean": 5.180928451
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "CTGAN",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.446846607
+    "Mean": 0.5451936292
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "CTGAN",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.446846607
+    "Mean": 0.5451936292
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "CTGAN",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 4.9653084616
+    "Mean": 5.8049097383
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "CopulaGAN",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 4.5302184709
+    "Mean": 5.0580637746
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "CopulaGAN",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.437740769
+    "Mean": 0.5340093738
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "CopulaGAN",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.437740769
+    "Mean": 0.5340093738
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "CopulaGAN",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 4.8780528814
+    "Mean": 5.7277161202
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "ForestDiffusion",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 0.9599294196
+    "Mean": 1.5528121085
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "ForestDiffusion",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.0278950786
+    "Mean": 0.0869778029
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "ForestDiffusion",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.0278950786
+    "Mean": 0.0869778029
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "ForestDiffusion",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 0.4391339833
+    "Mean": 1.3176611504
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "GaussianCopula",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 4.0474619002
+    "Mean": 4.7079777559
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "GaussianCopula",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.3547480059
+    "Mean": 0.4597060633
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "GaussianCopula",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.3547480059
+    "Mean": 0.4597060633
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "GaussianCopula",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 4.175204052
+    "Mean": 5.1826043029
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "TVAE",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 1.7916446571
+    "Mean": 2.3274360781
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "TVAE",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.1074962272
+    "Mean": 0.1901757569
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "TVAE",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.1074962272
+    "Mean": 0.1901757569
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "TVAE",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 1.5308123999
+    "Mean": 2.5619165568
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "TabDDPM",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 10.400634247
+    "Mean": 26.8971317108
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "TabDDPM",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 1.3935222907
+    "Mean": 8.139935908
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "TabDDPM",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 1.3935222907
+    "Mean": 8.139935908
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "TabDDPM",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 10.994211771
+    "Mean": 28.1325795665
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "WGAN_GP",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 1.3394759457
+    "Mean": 1.5727953717
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "WGAN_GP",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.0287076747
+    "Mean": 0.0578474285
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "WGAN_GP",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.0287076747
+    "Mean": 0.0578474285
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "WGAN_GP",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 0.4642520974
+    "Mean": 0.9748146218
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "CTABGAN",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 2.7900145622
+    "Mean": 2.5276092661
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "CTABGAN",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.2621460072
+    "Mean": 0.2511683456
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "CTABGAN",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.2621460072
+    "Mean": 0.2511683456
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "CTABGAN",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 2.7290996645
+    "Mean": 2.4878849039
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "CTGAN",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 8.4560912697
+    "Mean": 8.8112039108
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "CTGAN",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 1.3128621431
+    "Mean": 1.461318596
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "CTGAN",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 1.3128621431
+    "Mean": 1.461318596
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "CTGAN",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 9.3800987333
+    "Mean": 9.8342617747
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "CopulaGAN",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 7.1383313517
+    "Mean": 7.9547109832
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "CopulaGAN",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 1.0457162509
+    "Mean": 1.3118054554
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "CopulaGAN",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 1.0457162509
+    "Mean": 1.3118054554
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "CopulaGAN",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 8.0078184574
+    "Mean": 8.8956793582
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "ForestDiffusion",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 0.5022400895
+    "Mean": 0.3760371354
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "ForestDiffusion",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.0535005942
+    "Mean": 0.0491675286
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "ForestDiffusion",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.0535005942
+    "Mean": 0.0491675286
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "ForestDiffusion",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 0.6697268971
+    "Mean": 0.5543420824
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "GaussianCopula",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 1.5532412127
+    "Mean": 2.0658632994
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "GaussianCopula",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.2043152339
+    "Mean": 0.2861593965
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "GaussianCopula",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.2043152339
+    "Mean": 0.2861593965
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "GaussianCopula",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 2.2475780088
+    "Mean": 2.7081045209
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "TVAE",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 1.6175198333
+    "Mean": 1.8939621658
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "TVAE",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.1760905817
+    "Mean": 0.2300715672
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "TVAE",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.1760905817
+    "Mean": 0.2300715672
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "TVAE",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 1.935094524
+    "Mean": 2.2835595146
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "TabDDPM",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 3.3587751526
+    "Mean": 4.2888980271
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "TabDDPM",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.4720947213
+    "Mean": 0.7253337258
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "TabDDPM",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.4720947213
+    "Mean": 0.7253337258
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "TabDDPM",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 4.1538172644
+    "Mean": 5.087963448
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "WGAN_GP",
     "TaskType": "regression",
     "Metric": "MAE_Increase",
-    "Mean": 2.4222167291
+    "Mean": 2.6253237163
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "WGAN_GP",
     "TaskType": "regression",
     "Metric": "R2_Gap",
-    "Mean": 0.2654745053
+    "Mean": 0.2984050139
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "WGAN_GP",
     "TaskType": "regression",
     "Metric": "R2_Drop",
-    "Mean": 0.2654745053
+    "Mean": 0.2984050139
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "WGAN_GP",
     "TaskType": "regression",
     "Metric": "RMSE_Increase",
-    "Mean": 2.7267491626
+    "Mean": 2.8894865208
   }
 ]

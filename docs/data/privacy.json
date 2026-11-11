@@ -144,42 +144,42 @@
     "Generator": "GaussianCopula",
     "Metric": "MIA_AUC",
     "Mean": 0.9730864198,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "3. Adult",
     "Generator": "GaussianCopula",
     "Metric": "Mahalanobis_Distance",
     "Mean": 5.5096929381,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "3. Adult",
     "Generator": "GaussianCopula",
     "Metric": "Mean_Distance",
     "Mean": 5.5096929381,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "3. Adult",
     "Generator": "GaussianCopula",
     "Metric": "Median_Distance",
     "Mean": 5.4758583058,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "3. Adult",
     "Generator": "GaussianCopula",
     "Metric": "NNDR",
     "Mean": 0.9066806773,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "3. Adult",
     "Generator": "TVAE",
     "Metric": "MIA_AUC",
     "Mean": 1.0,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "3. Adult",
@@ -214,7 +214,7 @@
     "Generator": "TabDDPM",
     "Metric": "MIA_AUC",
     "Mean": 1.0,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "3. Adult",
@@ -424,7 +424,7 @@
     "Generator": "GaussianCopula",
     "Metric": "MIA_AUC",
     "Mean": 0.9403245943,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "2. Alzhimers",
@@ -704,35 +704,35 @@
     "Generator": "GaussianCopula",
     "Metric": "MIA_AUC",
     "Mean": 0.6269135802,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "GaussianCopula",
     "Metric": "Mahalanobis_Distance",
     "Mean": 4.5691636925,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "GaussianCopula",
     "Metric": "Mean_Distance",
     "Mean": 4.5691636925,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "GaussianCopula",
     "Metric": "Median_Distance",
     "Mean": 4.1606036667,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "GaussianCopula",
     "Metric": "NNDR",
     "Mean": 0.8875044863,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "5. Bank Markting",
@@ -984,35 +984,35 @@
     "Generator": "GaussianCopula",
     "Metric": "MIA_AUC",
     "Mean": 0.849382716,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "GaussianCopula",
     "Metric": "Mahalanobis_Distance",
     "Mean": 5.8728116908,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "GaussianCopula",
     "Metric": "Mean_Distance",
     "Mean": 5.8728116908,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "GaussianCopula",
     "Metric": "Median_Distance",
     "Mean": 5.9954731178,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "GaussianCopula",
     "Metric": "NNDR",
     "Mean": 0.8942671116,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "7. CDC diabetes dataset",
@@ -1285,7 +1285,7 @@
     "Generator": "GaussianCopula",
     "Metric": "Median_Distance",
     "Mean": 7.851049455,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "1. Cancer",
@@ -1404,7 +1404,7 @@
     "Generator": "CTABGAN",
     "Metric": "MIA_AUC",
     "Mean": 1.0,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "4. Forest cover dataset",
@@ -1544,35 +1544,35 @@
     "Generator": "GaussianCopula",
     "Metric": "MIA_AUC",
     "Mean": 0.5166666667,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "GaussianCopula",
     "Metric": "Mahalanobis_Distance",
     "Mean": 1004.0766762885,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "GaussianCopula",
     "Metric": "Mean_Distance",
     "Mean": 1004.0766762885,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "GaussianCopula",
     "Metric": "Median_Distance",
     "Mean": 1041.4357867996,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "GaussianCopula",
     "Metric": "NNDR",
     "Mean": 0.9377329116,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "4. Forest cover dataset",
@@ -1824,35 +1824,35 @@
     "Generator": "GaussianCopula",
     "Metric": "MIA_AUC",
     "Mean": 0.5151851852,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "GaussianCopula",
     "Metric": "Mahalanobis_Distance",
     "Mean": 3.2184854003,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "GaussianCopula",
     "Metric": "Mean_Distance",
     "Mean": 3.2184854003,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "GaussianCopula",
     "Metric": "Median_Distance",
     "Mean": 3.1238356285,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "GaussianCopula",
     "Metric": "NNDR",
     "Mean": 0.9164697607,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
@@ -2104,35 +2104,35 @@
     "Generator": "GaussianCopula",
     "Metric": "MIA_AUC",
     "Mean": 0.4569135802,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "GaussianCopula",
     "Metric": "Mahalanobis_Distance",
     "Mean": 4.7943781294,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "GaussianCopula",
     "Metric": "Mean_Distance",
     "Mean": 4.7943781294,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "GaussianCopula",
     "Metric": "Median_Distance",
     "Mean": 4.4906722375,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "GaussianCopula",
     "Metric": "NNDR",
     "Mean": 0.9231753039,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "8. Mushroom dataset",
@@ -2174,7 +2174,7 @@
     "Generator": "TabDDPM",
     "Metric": "MIA_AUC",
     "Mean": 1.0,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "8. Mushroom dataset",
@@ -2209,7 +2209,7 @@
     "Generator": "WGAN_GP",
     "Metric": "MIA_AUC",
     "Mean": 1.0,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "8. Mushroom dataset",
@@ -2384,35 +2384,35 @@
     "Generator": "GaussianCopula",
     "Metric": "MIA_AUC",
     "Mean": 0.69,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "GaussianCopula",
     "Metric": "Mahalanobis_Distance",
     "Mean": 4.9066322392,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "GaussianCopula",
     "Metric": "Mean_Distance",
     "Mean": 4.9066322392,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "GaussianCopula",
     "Metric": "Median_Distance",
     "Mean": 4.7061086502,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "GaussianCopula",
     "Metric": "NNDR",
     "Mean": 0.9254573824,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "6. Wine dataset",
@@ -2664,35 +2664,35 @@
     "Generator": "GaussianCopula",
     "Metric": "MIA_AUC",
     "Mean": 1.0,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "GaussianCopula",
     "Metric": "Mahalanobis_Distance",
     "Mean": 15.2866969914,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "GaussianCopula",
     "Metric": "Mean_Distance",
     "Mean": 15.2866969914,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "GaussianCopula",
     "Metric": "Median_Distance",
     "Mean": 14.4709765639,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "GaussianCopula",
     "Metric": "NNDR",
     "Mean": 0.9447941295,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "12. Air Quality",
@@ -2944,35 +2944,35 @@
     "Generator": "GaussianCopula",
     "Metric": "MIA_AUC",
     "Mean": 0.7964197531,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "GaussianCopula",
     "Metric": "Mahalanobis_Distance",
     "Mean": 4.7734437311,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "GaussianCopula",
     "Metric": "Mean_Distance",
     "Mean": 4.7734437311,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "GaussianCopula",
     "Metric": "Median_Distance",
     "Mean": 4.2606567297,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "GaussianCopula",
     "Metric": "NNDR",
     "Mean": 0.9270333178,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
@@ -3224,35 +3224,35 @@
     "Generator": "GaussianCopula",
     "Metric": "MIA_AUC",
     "Mean": 0.8809876543,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "GaussianCopula",
     "Metric": "Mahalanobis_Distance",
     "Mean": 415.3891970836,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "GaussianCopula",
     "Metric": "Mean_Distance",
     "Mean": 415.3891970836,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "GaussianCopula",
     "Metric": "Median_Distance",
     "Mean": 339.0231341868,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "GaussianCopula",
     "Metric": "NNDR",
     "Mean": 0.9398122633,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "14. Energy Efficiency",
@@ -3434,7 +3434,7 @@
     "Generator": "CopulaGAN",
     "Metric": "MIA_AUC",
     "Mean": 1.0,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "10. Metro interstate",
@@ -3504,35 +3504,35 @@
     "Generator": "GaussianCopula",
     "Metric": "MIA_AUC",
     "Mean": 1.0,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "GaussianCopula",
     "Metric": "Mahalanobis_Distance",
     "Mean": 33.3006960901,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "GaussianCopula",
     "Metric": "Mean_Distance",
     "Mean": 33.3006960901,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "GaussianCopula",
     "Metric": "Median_Distance",
     "Mean": 15.2811032935,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "GaussianCopula",
     "Metric": "NNDR",
     "Mean": 0.8206064034,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "10. Metro interstate",
@@ -3644,7 +3644,7 @@
     "Generator": "CTABGAN",
     "Metric": "MIA_AUC",
     "Mean": 1.0,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "11. online shopping",
@@ -3784,35 +3784,35 @@
     "Generator": "GaussianCopula",
     "Metric": "MIA_AUC",
     "Mean": 0.5802469136,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "GaussianCopula",
     "Metric": "Mahalanobis_Distance",
     "Mean": 6.2610485317,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "GaussianCopula",
     "Metric": "Mean_Distance",
     "Mean": 6.2610485317,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "GaussianCopula",
     "Metric": "Median_Distance",
     "Mean": 5.7662751123,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "GaussianCopula",
     "Metric": "NNDR",
     "Mean": 0.9203966264,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "11. online shopping",
@@ -4064,7 +4064,7 @@
     "Generator": "GaussianCopula",
     "Metric": "MIA_AUC",
     "Mean": 0.9422222222,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "15. Real Estate Valuation",
@@ -4085,14 +4085,14 @@
     "Generator": "GaussianCopula",
     "Metric": "Median_Distance",
     "Mean": 15565.6601755703,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "GaussianCopula",
     "Metric": "NNDR",
     "Mean": 0.9999401502,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "15. Real Estate Valuation",

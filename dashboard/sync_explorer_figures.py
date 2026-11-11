@@ -7,7 +7,7 @@ import shutil
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-ANALYSIS_FIGURES = REPO_ROOT / "multi seed generators" / "analysis" / "figures"
+ANALYSIS_FIGURES = REPO_ROOT / "3 multi seed generators" / "analysis" / "figures"
 EXPLORER_FIGURES = REPO_ROOT / "docs" / "explorer" / "figures"
 
 # Folders to publish (PNG only). Skip tradeoffs/individual to keep the site lean.
@@ -84,7 +84,7 @@ def sync_explorer_figures(dest: Path | None = None) -> Path:
     catalog_path.write_text(
         json.dumps(
             {
-                "source": "multi seed generators/analysis/figures",
+                "source": "3 multi seed generators/analysis/figures",
                 "n_figures": len(catalog),
                 "categories": [
                     {"id": c, "label": CATEGORY_LABELS.get(c, c)}

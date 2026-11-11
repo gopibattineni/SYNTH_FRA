@@ -116,28 +116,28 @@
     "Generator": "GaussianCopula",
     "Metric": "KS_Complement",
     "Mean": 0.7079166667,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "3. Adult",
     "Generator": "GaussianCopula",
     "Metric": "MMD",
     "Mean": 0.3760959103,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "3. Adult",
     "Generator": "GaussianCopula",
     "Metric": "Quality_Score",
     "Mean": 0.7883588542,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "3. Adult",
     "Generator": "GaussianCopula",
     "Metric": "Wasserstein_Distance",
     "Mean": 2115.559875,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "3. Adult",
@@ -340,7 +340,7 @@
     "Generator": "GaussianCopula",
     "Metric": "KS_Complement",
     "Mean": 0.8702384451,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "2. Alzhimers",
@@ -564,28 +564,28 @@
     "Generator": "GaussianCopula",
     "Metric": "KS_Complement",
     "Mean": 0.8728571429,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "GaussianCopula",
     "Metric": "MMD",
     "Mean": 0.0098483536,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "GaussianCopula",
     "Metric": "Quality_Score",
     "Mean": 0.8551804329,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "5. Bank Markting",
     "Generator": "GaussianCopula",
     "Metric": "Wasserstein_Distance",
     "Mean": 90.6011785714,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "5. Bank Markting",
@@ -788,28 +788,28 @@
     "Generator": "GaussianCopula",
     "Metric": "KS_Complement",
     "Mean": 0.9530795455,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "GaussianCopula",
     "Metric": "MMD",
     "Mean": 0.0681287366,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "GaussianCopula",
     "Metric": "Quality_Score",
     "Mean": 0.9111395202,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "7. CDC diabetes dataset",
     "Generator": "GaussianCopula",
     "Metric": "Wasserstein_Distance",
     "Mean": 0.7336818182,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "7. CDC diabetes dataset",
@@ -1012,7 +1012,7 @@
     "Generator": "GaussianCopula",
     "Metric": "KS_Complement",
     "Mean": 0.9201659341,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "1. Cancer",
@@ -1236,28 +1236,28 @@
     "Generator": "GaussianCopula",
     "Metric": "KS_Complement",
     "Mean": 0.9765954545,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "GaussianCopula",
     "Metric": "MMD",
     "Mean": 0.0217816391,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "GaussianCopula",
     "Metric": "Quality_Score",
     "Mean": 0.9220989336,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "4. Forest cover dataset",
     "Generator": "GaussianCopula",
     "Metric": "Wasserstein_Distance",
     "Mean": 6.4162409091,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "4. Forest cover dataset",
@@ -1327,7 +1327,7 @@
     "Generator": "WGAN_GP",
     "Metric": "MMD",
     "Mean": 0.3344848554,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "4. Forest cover dataset",
@@ -1460,28 +1460,28 @@
     "Generator": "GaussianCopula",
     "Metric": "KS_Complement",
     "Mean": 0.91345,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "GaussianCopula",
     "Metric": "MMD",
     "Mean": 0.0279867169,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "GaussianCopula",
     "Metric": "Quality_Score",
     "Mean": 0.8893182922,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
     "Generator": "GaussianCopula",
     "Metric": "Wasserstein_Distance",
     "Mean": 5.20352194,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "9. MAGIC Gamma Telescope",
@@ -1684,28 +1684,28 @@
     "Generator": "GaussianCopula",
     "Metric": "KS_Complement",
     "Mean": 0.9239166667,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "GaussianCopula",
     "Metric": "MMD",
     "Mean": 0.0095325873,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "GaussianCopula",
     "Metric": "Quality_Score",
     "Mean": 0.898580696,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "8. Mushroom dataset",
     "Generator": "GaussianCopula",
     "Metric": "Wasserstein_Distance",
     "Mean": 0.7030033333,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "8. Mushroom dataset",
@@ -1908,28 +1908,28 @@
     "Generator": "GaussianCopula",
     "Metric": "KS_Complement",
     "Mean": 0.8933956951,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "GaussianCopula",
     "Metric": "MMD",
     "Mean": 0.0742191093,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "GaussianCopula",
     "Metric": "Quality_Score",
     "Mean": 0.9382852306,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "6. Wine dataset",
     "Generator": "GaussianCopula",
     "Metric": "Wasserstein_Distance",
     "Mean": 0.339739221,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "6. Wine dataset",
@@ -2132,28 +2132,28 @@
     "Generator": "GaussianCopula",
     "Metric": "KS_Complement",
     "Mean": 0.6350429577,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "GaussianCopula",
     "Metric": "MMD",
     "Mean": 0.2340017701,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "GaussianCopula",
     "Metric": "Quality_Score",
     "Mean": 0.7538892658,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "12. Air Quality",
     "Generator": "GaussianCopula",
     "Metric": "Wasserstein_Distance",
     "Mean": 103.3663040262,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "12. Air Quality",
@@ -2356,28 +2356,28 @@
     "Generator": "GaussianCopula",
     "Metric": "KS_Complement",
     "Mean": 0.7706655879,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "GaussianCopula",
     "Metric": "MMD",
     "Mean": 0.0296080172,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "GaussianCopula",
     "Metric": "Quality_Score",
     "Mean": 0.8490976019,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
     "Generator": "GaussianCopula",
     "Metric": "Wasserstein_Distance",
     "Mean": 12.5015117907,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "13. Concrete Compressive Strength",
@@ -2580,28 +2580,28 @@
     "Generator": "GaussianCopula",
     "Metric": "KS_Complement",
     "Mean": 0.7611771987,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "GaussianCopula",
     "Metric": "MMD",
     "Mean": 0.0584817574,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "GaussianCopula",
     "Metric": "Quality_Score",
     "Mean": 0.8001880438,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "14. Energy Efficiency",
     "Generator": "GaussianCopula",
     "Metric": "Wasserstein_Distance",
     "Mean": 6.5384563811,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "14. Energy Efficiency",
@@ -2804,28 +2804,28 @@
     "Generator": "GaussianCopula",
     "Metric": "KS_Complement",
     "Mean": 0.52965,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "GaussianCopula",
     "Metric": "MMD",
     "Mean": 0.4242136372,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "GaussianCopula",
     "Metric": "Quality_Score",
     "Mean": 0.578703125,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "10. Metro interstate",
     "Generator": "GaussianCopula",
     "Metric": "Wasserstein_Distance",
     "Mean": 61.4527066894,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "10. Metro interstate",
@@ -3028,28 +3028,28 @@
     "Generator": "GaussianCopula",
     "Metric": "KS_Complement",
     "Mean": 0.9131975735,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "GaussianCopula",
     "Metric": "MMD",
     "Mean": 0.0153910499,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "GaussianCopula",
     "Metric": "Quality_Score",
     "Mean": 0.6985660619,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "11. online shopping",
     "Generator": "GaussianCopula",
     "Metric": "Wasserstein_Distance",
     "Mean": 1.1067540441,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "11. online shopping",
@@ -3175,7 +3175,7 @@
     "Generator": "CTGAN",
     "Metric": "MMD",
     "Mean": 0.2911469352,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "15. Real Estate Valuation",
@@ -3203,7 +3203,7 @@
     "Generator": "CopulaGAN",
     "Metric": "MMD",
     "Mean": 0.2911469352,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "15. Real Estate Valuation",
@@ -3252,28 +3252,28 @@
     "Generator": "GaussianCopula",
     "Metric": "KS_Complement",
     "Mean": 0.6194446123,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "GaussianCopula",
     "Metric": "MMD",
     "Mean": 0.2911469352,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "GaussianCopula",
     "Metric": "Quality_Score",
     "Mean": 0.8655543324,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "15. Real Estate Valuation",
     "Generator": "GaussianCopula",
     "Metric": "Wasserstein_Distance",
     "Mean": 64.000310218,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "15. Real Estate Valuation",
@@ -3287,7 +3287,7 @@
     "Generator": "TVAE",
     "Metric": "MMD",
     "Mean": 0.2911469352,
-    "Std": 0.0
+    "Std": null
   },
   {
     "Dataset": "15. Real Estate Valuation",
