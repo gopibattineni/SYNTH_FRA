@@ -1,6 +1,9 @@
 {
   "source": "3 multi seed generators/merged 10 seeds",
   "aggregation": "Mean \u00b1 SD across 10 generator-training seeds (ddof=1)",
+  "utility_protocol": "10 classifiers + 10 regressors; X scaled per path; y unscaled",
+  "n_classifiers": 10,
+  "n_regressors": 10,
   "generator_seeds": [
     42,
     123,
@@ -27,6 +30,8 @@
   ],
   "n_datasets": 15,
   "n_utility_rows": 1920,
+  "n_classifier_rows": 7190,
+  "n_regressor_rows": 2880,
   "n_fidelity_rows": 480,
   "n_privacy_rows": 600,
   "n_files": 2,
@@ -54,5 +59,6 @@
     "MMD",
     "Quality_Score",
     "Wasserstein_Distance"
-  ]
+  ],
+  "updated": "2026-11-11"
 }

@@ -465,7 +465,7 @@ function axisSpec(metric, values, { clampUnit = false } = {}) {
   };
 }
 
-const DATA_VERSION = "20260928a";
+const DATA_VERSION = "20261111b";
 
 async function loadJSON(name) {
   const url = `data/${name}?v=${DATA_VERSION}`;

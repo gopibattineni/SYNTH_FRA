@@ -9,10 +9,12 @@ import numpy as np
 import pandas as pd
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-MERGED_ROOT = REPO_ROOT / "3 multi seed generators" / "merged 10 seeds"
+MULTI_SEED_ROOT = REPO_ROOT / "3 multi seed generators"
+MERGED_ROOT = MULTI_SEED_ROOT / "merged 10 seeds"
 CLS_XLSX = MERGED_ROOT / "classification" / "results" / "multi_seed_results.xlsx"
 REG_XLSX = MERGED_ROOT / "regression" / "results" / "multi_seed_results.xlsx"
 DOCS_DATA = REPO_ROOT / "docs" / "data"
+BATCH_FOLDERS = ("1st batch", "second batch", "third batch")
 
 GENERATORS = [
     "CTGAN",
@@ -55,6 +57,60 @@ def _records(df: pd.DataFrame) -> list[dict]:
 
 def _display_dataset(name: str) -> str:
     return DATASET_DISPLAY.get(str(name), str(name))
+
+
+def _load_per_model_detail(task: str, model_key: str) -> pd.DataFrame:
+    """Aggregate per_model_utility.csv → Mean±SD across generator seeds (utility seeds averaged first)."""
+    frames: list[pd.DataFrame] = []
+    for batch in BATCH_FOLDERS:
+        raw = MULTI_SEED_ROOT / batch / task / "results" / "raw"
+        if not raw.is_dir():
+            continue
+        for path in raw.rglob("per_model_utility.csv"):
+            try:
+                df = pd.read_csv(path)
+            except Exception:
+                continue
+            if df.empty:
+                continue
+            frames.append(df)
+    if not frames:
+        return pd.DataFrame(
+            columns=["Dataset", "Generator", model_key, "Metric", "EvaluationType", "Mean", "Std"]
+        )
+
+    long = pd.concat(frames, ignore_index=True)
+    long = long[long["path"].isin(["TRTR", "TSTR"])].copy()
+    long["value"] = pd.to_numeric(long["value"], errors="coerce")
+    long = long.dropna(subset=["value"])
+
+    # Mean over utility-model seeds within each generator seed
+    per_gen_seed = (
+        long.groupby(
+            ["dataset", "generator", "generator_seed", "model", "metric", "path"],
+            dropna=False,
+        )["value"]
+        .mean()
+        .reset_index()
+    )
+    # Mean ± SD across the 10 generator-training seeds
+    agg = (
+        per_gen_seed.groupby(["dataset", "generator", "model", "metric", "path"], dropna=False)["value"]
+        .agg(Mean="mean", Std="std")
+        .reset_index()
+    )
+    out = pd.DataFrame(
+        {
+            "Dataset": agg["dataset"].map(_display_dataset),
+            "Generator": agg["generator"].astype(str),
+            model_key: agg["model"].astype(str),
+            "Metric": agg["metric"].astype(str),
+            "EvaluationType": agg["path"].astype(str),
+            "Mean": agg["Mean"].astype(float),
+            "Std": agg["Std"].astype(float),
+        }
+    )
+    return out
 
 
 def _load_all_metrics(path: Path, task: str) -> pd.DataFrame:
@@ -258,9 +314,22 @@ def export_multiseed_dashboard_data(output_dir: Path | None = None) -> Path:
 
     (out / "utility_agg.json").write_text(json.dumps(_records(util_agg), indent=2), encoding="utf-8")
     (out / "utility_gaps.json").write_text(json.dumps(_records(util_gaps), indent=2), encoding="utf-8")
-    # Per-classifier / per-regressor detail is already averaged in the Excel Mean±SD.
-    (out / "utility_classifier.json").write_text("[]\n", encoding="utf-8")
-    (out / "utility_regressor.json").write_text("[]\n", encoding="utf-8")
+
+    clf_detail = _load_per_model_detail("classification", "Classifier")
+    # Keep the metrics the UI plots by default
+    if not clf_detail.empty:
+        clf_detail = clf_detail[
+            clf_detail["Metric"].isin(["Accuracy", "F1", "Precision", "Recall", "ROC_AUC"])
+        ]
+    reg_detail = _load_per_model_detail("regression", "Regressor")
+    if not reg_detail.empty:
+        reg_detail = reg_detail[reg_detail["Metric"].isin(["R2", "RMSE", "MAE"])]
+    (out / "utility_classifier.json").write_text(
+        json.dumps(_records(clf_detail), indent=2), encoding="utf-8"
+    )
+    (out / "utility_regressor.json").write_text(
+        json.dumps(_records(reg_detail), indent=2), encoding="utf-8"
+    )
 
     (out / "fidelity.json").write_text(json.dumps(_records(fidelity), indent=2), encoding="utf-8")
     (out / "fidelity_metrics.json").write_text(
@@ -290,12 +359,17 @@ def export_multiseed_dashboard_data(output_dir: Path | None = None) -> Path:
     meta = {
         "source": "3 multi seed generators/merged 10 seeds",
         "aggregation": "Mean ± SD across 10 generator-training seeds (ddof=1)",
+        "utility_protocol": "10 classifiers + 10 regressors; X scaled per path; y unscaled",
+        "n_classifiers": 10,
+        "n_regressors": 10,
         "generator_seeds": SEEDS,
         "split_seed": 42,
         "n_generator_seeds": len(SEEDS),
         "generators": GENERATORS,
         "n_datasets": n_datasets,
         "n_utility_rows": int(len(util_agg)),
+        "n_classifier_rows": int(len(clf_detail)),
+        "n_regressor_rows": int(len(reg_detail)),
         "n_fidelity_rows": int(len(fidelity)),
         "n_privacy_rows": int(len(privacy)),
         "n_files": int(CLS_XLSX.is_file()) + int(REG_XLSX.is_file()),
@@ -305,30 +379,29 @@ def export_multiseed_dashboard_data(output_dir: Path | None = None) -> Path:
         "pillars": ["Utility", "Fidelity", "Privacy"],
         "privacy_metrics": sorted(privacy["Metric"].dropna().unique().tolist()) if not privacy.empty else [],
         "fidelity_metrics": sorted(fidelity["Metric"].dropna().unique().tolist()) if not fidelity.empty else [],
+        "updated": "2026-11-11",
     }
     (out / "meta.json").write_text(json.dumps(meta, indent=2), encoding="utf-8")
 
-    # Keep statistics / correlation payloads present for the UI (empty-safe).
-    if not (out / "statistics.json").exists():
-        (out / "statistics.json").write_text(
-            json.dumps(
-                {
-                    "pca_errors": [],
-                    "wilcoxon": [],
-                    "effect_sizes": [],
-                    "classification_stats": [],
-                    "regression_stats": [],
-                },
-                indent=2,
-            ),
-            encoding="utf-8",
-        )
-    if not (out / "correlation_tradeoff.json").exists():
-        (out / "correlation_tradeoff.json").write_text(
-            json.dumps({"analyses": [], "source": "multi-seed"}, indent=2), encoding="utf-8"
-        )
-    if not (out / "notebook_error_stats.json").exists():
-        (out / "notebook_error_stats.json").write_text("[]\n", encoding="utf-8")
+    # Do not keep stale single-seed / 3-model statistics on the multi-seed dashboard.
+    (out / "statistics.json").write_text(
+        json.dumps(
+            {
+                "pca_errors": [],
+                "wilcoxon": [],
+                "effect_sizes": [],
+                "classification_stats": [],
+                "regression_stats": [],
+                "note": "Per-model utility is in utility_classifier.json / utility_regressor.json (10 models).",
+            },
+            indent=2,
+        ),
+        encoding="utf-8",
+    )
+    (out / "correlation_tradeoff.json").write_text(
+        json.dumps({"analyses": [], "source": "multi-seed-10model"}, indent=2), encoding="utf-8"
+    )
+    (out / "notebook_error_stats.json").write_text("[]\n", encoding="utf-8")
 
     return out
 
