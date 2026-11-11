@@ -18,8 +18,8 @@ import seaborn as sns
 
 ROOT = Path(__file__).resolve().parent
 SYNTH = ROOT.parent
-GEN = SYNTH / "Generators"
-PRIV = SYNTH / "excel sheets" / "2. Privacy"
+GEN = SYNTH / "1 Single seed with full data traininig"
+PRIV = SYNTH / "2 Single seed experiments with 80:20 spilit" / "excel sheets" / "2. Privacy"
 MAP_CSV = SYNTH / "Agreed analysis" / "mapping_cost_comparison.csv"
 OUT_EXT = ROOT / "extracted_results"
 OUT_GRAPH = ROOT / "graphs"

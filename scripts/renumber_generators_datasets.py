@@ -7,7 +7,7 @@ import json
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[1]
-GENERATORS = REPO / "Generators"
+GENERATORS = REPO / "1 Single seed with full data traininig"
 TMP = "_renum_tmp_metro"
 
 # current numbered prefix -> target numbered prefix (folder or notebook prefix)
@@ -39,9 +39,10 @@ NOTEBOOK_RENAMES = {
     ],
 }
 
+LEAK = REPO / "2 Single seed experiments with 80:20 spilit"
 FOLDER_PARENTS = [
-    GENERATORS / "Experiment with utility data leak",
-    GENERATORS / "Experiment with utility data leak" / "diffusion_dataleak",
+    LEAK,
+    LEAK / "diffusion_dataleak",
 ]
 
 FOLDER_RENAMES = [
@@ -112,13 +113,7 @@ def renumber_folders(parent: Path) -> None:
 
 
 def update_datasets_json() -> None:
-    path = (
-        GENERATORS
-        / "Experiment with utility data leak"
-        / "python_scripts"
-        / "hive"
-        / "datasets.json"
-    )
+    path = LEAK / "python_scripts" / "hive" / "datasets.json"
     data = json.loads(path.read_text(encoding="utf-8"))
     updates = {
         "metro": "10. Metro interstate",

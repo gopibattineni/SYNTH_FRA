@@ -9,7 +9,7 @@ from pathlib import Path
 import pandas as pd
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-RESULTS_DIR = REPO_ROOT / "Results"
+RESULTS_DIR = REPO_ROOT / "2 Single seed experiments with 80:20 spilit" / "Results"
 DOCS_DATA = REPO_ROOT / "docs" / "data"
 
 
@@ -76,7 +76,7 @@ def _extract_pca_error_stats() -> pd.DataFrame:
         def normalize_generator(value):  # type: ignore[misc]
             return None if value is None else str(value).strip()
 
-    paper = REPO_ROOT / "paper results"
+    paper = REPO_ROOT / "2 Single seed experiments with 80:20 spilit" / "paper results"
     if not paper.exists():
         return pd.DataFrame()
 
@@ -436,8 +436,8 @@ def _export_correlation_tradeoff() -> dict:
     (Cancer + Mushroom), matching Results/.../Correlation_Tradeoff_Analysis.
     """
     roots = [
-        REPO_ROOT / "Results" / "Two_Datasets_Assessment" / "Correlation_Tradeoff_Analysis",
-        REPO_ROOT / "Results" / "Correlation_Tradeoff_Analysis",
+        REPO_ROOT / "2 Single seed experiments with 80:20 spilit" / "Results" / "Two_Datasets_Assessment" / "Correlation_Tradeoff_Analysis",
+        REPO_ROOT / "2 Single seed experiments with 80:20 spilit" / "Results" / "Correlation_Tradeoff_Analysis",
     ]
     root = next((p for p in roots if p.exists()), None)
     analyses: list[dict] = []

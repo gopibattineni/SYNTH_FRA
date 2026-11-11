@@ -133,8 +133,8 @@ def load_real_air(n_samples: int = 1000, seed: int = 42) -> pd.DataFrame:
     """Load Air Quality like the SDV notebook (1000-row sample, seed=42)."""
     candidates = [
         INPUT_DIR / "AirQuality" / "_real.csv",
-        ROOT / "Generators" / "Other GANS" / "air_quality_data_1000.csv",
-        ROOT / "Generators" / "Experiment with utility data leak" / "12. Air Quality" / "air_quality_train.csv",
+        ROOT / "1 Single seed with full data traininig" / "Other GANS" / "air_quality_data_1000.csv",
+        ROOT / "2 Single seed experiments with 80:20 spilit" / "12. Air Quality" / "air_quality_train.csv",
     ]
     for path in candidates:
         if path.exists():

@@ -35,8 +35,8 @@ from scipy import stats
 # ---------------------------------------------------------------------------
 SCRIPT_DIR = Path(__file__).resolve().parent
 ROOT = SCRIPT_DIR.parent
-MASTER = ROOT / "Results" / "MasterData"
-PAPER_RESULTS = ROOT / "paper results"
+MASTER = ROOT / "2 Single seed experiments with 80:20 spilit" / "Results" / "MasterData"
+PAPER_RESULTS = ROOT / "2 Single seed experiments with 80:20 spilit" / "paper results"
 sys.path.insert(0, str(ROOT / "Agreed analysis"))
 from latex_fonts import apply_font_to_figure, configure_times_font  # noqa: E402
 

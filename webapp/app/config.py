@@ -2,9 +2,9 @@ from pathlib import Path
 
 WEBAPP_ROOT = Path(__file__).resolve().parents[1]
 REPO_ROOT = WEBAPP_ROOT.parent
-BENCHMARK_ROOT = REPO_ROOT / "Generators" / "Experiment with utility data leak"
+BENCHMARK_ROOT = REPO_ROOT / "2 Single seed experiments with 80:20 spilit"
 DATASETS_JSON = BENCHMARK_ROOT / "python_scripts" / "hive" / "datasets.json"
-DIFFUSION_MODULE = REPO_ROOT / "Generators" / "Diffusion GANs" / "diffusion_generators.py"
+DIFFUSION_MODULE = REPO_ROOT / "1 Single seed with full data traininig" / "Diffusion GANs" / "diffusion_generators.py"
 CTABGAN_DIR = WEBAPP_ROOT / "data" / "CTAB-GAN-Plus"
 SESSIONS_DIR = WEBAPP_ROOT / "data" / "sessions"
 STATIC_DIR = WEBAPP_ROOT / "static"

@@ -15,7 +15,7 @@ EXCEL = (
     / "results"
     / "multi_seed_results.xlsx"
 )
-OUT = ROOT / "paper results" / "table4_friedman_ranks_10seed.md"
+OUT = ROOT / "2 Single seed experiments with 80:20 spilit" / "paper results" / "table4_friedman_ranks_10seed.md"
 
 SEED_COLS = [
     "seed_42",

@@ -16,7 +16,7 @@ EXCEL = (
     / "multi_seed_results.xlsx"
 )
 AGREED_DIR = ROOT / "Agreed analysis" / "classification"
-PAPER_DIR = ROOT / "paper results"
+PAPER_DIR = ROOT / "2 Single seed experiments with 80:20 spilit" / "paper results"
 MULTI_DIR = (
     ROOT
     / "multi seed generators"

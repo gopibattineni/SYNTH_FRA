@@ -195,7 +195,7 @@ def main() -> None:
     import matplotlib as mpl
     import zipfile
 
-    download_dir = ROOT / "utility_gap_violins"
+    download_dir = ROOT / "2 Single seed experiments with 80:20 spilit" / "utility_gap_violins"
     download_dir.mkdir(parents=True, exist_ok=True)
 
     # Outline text as paths so Times-compatible glyphs render after download.
@@ -241,8 +241,8 @@ def main() -> None:
     finally:
         mpl.rcParams["svg.fonttype"] = prev_fonttype
 
-    zip_svg = ROOT / "utility_gap_violins_svg.zip"
-    zip_all = ROOT / "utility_gap_violins.zip"
+    zip_svg = ROOT / "2 Single seed experiments with 80:20 spilit" / "utility_gap_violins_svg.zip"
+    zip_all = ROOT / "2 Single seed experiments with 80:20 spilit" / "utility_gap_violins.zip"
     with zipfile.ZipFile(zip_svg, "w", zipfile.ZIP_DEFLATED) as zf:
         for p in sorted(download_dir.glob("*.svg")):
             zf.write(p, p.name)

@@ -364,7 +364,7 @@ def extract_notebook_maha_pairs() -> pd.DataFrame:
     )
 
     rows: list[dict] = []
-    for nb in (ROOT / "Generators").rglob("*.ipynb"):
+    for nb in (ROOT / "1 Single seed with full data traininig").rglob("*.ipynb"):
         sp = str(nb)
         if "Experiment" in sp or "utility" in sp.lower() or "dataleak" in sp.lower():
             continue
@@ -617,7 +617,7 @@ def load_tables() -> tuple[pd.DataFrame, pd.DataFrame, dict]:
     h2["hung_src"] = "mapping_cost"
     h_parts.append(h2)
 
-    priv = ROOT / "excel sheets" / "2. Privacy"
+    priv = ROOT / "2 Single seed experiments with 80:20 spilit" / "excel sheets" / "2. Privacy"
     rows = []
     if priv.exists():
         for d in priv.iterdir():
@@ -675,7 +675,7 @@ def load_tables() -> tuple[pd.DataFrame, pd.DataFrame, dict]:
         ("_ad.xlsx", "Alzheimers"),
     ]
     rows_xlsx = []
-    for f in (ROOT / "Generators").rglob("*Hungarian_Mahalanobis*.xlsx"):
+    for f in (ROOT / "1 Single seed with full data traininig").rglob("*Hungarian_Mahalanobis*.xlsx"):
         if ".bak_" in f.name:
             continue
         try:

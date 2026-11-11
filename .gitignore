@@ -33,3 +33,14 @@ multi seed generators/**/__pycache__/
 **/synthetic_cache/
 *.bak_*
 **/*.lock
+
+# Renamed multi-seed tree (same runtime ignores)
+3 multi seed generators/**/cache/
+3 multi seed generators/**/logs/
+3 multi seed generators/**/*.log
+3 multi seed generators/**/*.pid
+3 multi seed generators/**/excel.lock
+3 multi seed generators/**/*.stamp
+3 multi seed generators/**/__pycache__/
+3 multi seed generators/.utility_gpu_shards/
+3 multi seed generators/**/rerun_utility_10models*.log

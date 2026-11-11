@@ -6,7 +6,7 @@ Thank you for your interest in improving the SYNTH Benchmark! This guide helps y
 
 ## Ways to contribute
 
-- **Add or update experiment results** — drop new Excel workbooks under `Generators/` and re-run the pipeline
+- **Add or update experiment results** — drop new Excel workbooks under `1 Single seed with full data traininig/` and re-run the pipeline
 - **Fix bugs** in analysis scripts or notebooks
 - **Improve documentation** — README, comments, paper notes
 - **Add datasets or generators** — follow the existing notebook template
@@ -46,7 +46,7 @@ Verify outputs in `Results/` before submitting a pull request.
 
 ## Adding a new dataset
 
-1. Add an entry to `Generators/Experiment with utility data leak/python_scripts/hive/datasets.json`
+1. Add an entry to `2 Single seed experiments with 80:20 spilit/python_scripts/hive/datasets.json`
 2. Create dataset folders under all five generator families (see `README.md`)
 3. Copy and adapt an existing notebook (e.g. `1. Cancer/cancer.ipynb`)
 4. Run the notebook end-to-end and export `TRTR_TSTR_results_*.xlsx`

@@ -87,8 +87,8 @@ def load_adult():
     # Match SDV Adult notebook complete-case prep as closely as practical
     candidates = [
         ROOT / "Datasets" / "adult_census.csv",
-        ROOT / "Generators" / "SDV models" / "adult_data.csv",
-        ROOT / "Generators" / "Other GANS" / "adult_data.csv",
+        ROOT / "1 Single seed with full data traininig" / "SDV models" / "adult_data.csv",
+        ROOT / "1 Single seed with full data traininig" / "Other GANS" / "adult_data.csv",
     ]
     path = next((p for p in candidates if p.exists()), None)
     if path is None:

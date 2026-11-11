@@ -31,14 +31,12 @@
 
 ```text
 SYNTH_FRA/
-├── Generators/                  # Notebooks & exports by family
-│   ├── SDV models/              # CTGAN, CopulaGAN, TVAE, GaussianCopula
-│   ├── Other GANS/              # CTABGAN, WGAN-GP
-│   ├── Diffusion GANs/          # TabDDPM, ForestDiffusion
-│   └── Experiment with utility data leak/
+├── 1 Single seed with full data traininig/   # Generator notebooks (SDV / Other GANs / Diffusion)
+├── 2 Single seed experiments with 80:20 spilit/  # Leak-safe 80/20 utility study + results
+│   ├── utility results/  paper results/  excel sheets/  Results/
+│   └── utility_gap_violins/
 ├── multi seed generators/       # 10-seed batches + merged Excel + analysis/
 ├── Agreed analysis/             # Classification / regression / trade-off figures
-├── Results/                     # Paper-ready outputs
 ├── dashboard/                   # Build static Pages site → docs/
 ├── docs/                        # GitHub Pages (dashboard + /explorer/)
 ├── webapp/                      # FastAPI results explorer (+ optional generation)
@@ -73,7 +71,7 @@ For CUDA PyTorch, install the appropriate wheel from [pytorch.org](https://pytor
 Optional vendor packages (not on PyPI — clone manually if you re-run diffusion notebooks):
 
 - `_vendor/tab-ddpm` — TabDDPM
-- CTAB-GAN+ sources under `Generators/Other GANS/`
+- CTAB-GAN+ sources under `1 Single seed with full data traininig/Other GANS/`
 
 ---
 
@@ -116,7 +114,7 @@ python run_all.py
 | 8 | Secondary Mushroom | | |
 | 9 | MAGIC Gamma Telescope | | |
 
-Registry: `Generators/Experiment with utility data leak/python_scripts/hive/datasets.json`
+Registry: `2 Single seed experiments with 80:20 spilit/python_scripts/hive/datasets.json`
 
 ---
 

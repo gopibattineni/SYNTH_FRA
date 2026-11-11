@@ -12,7 +12,7 @@ import json
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-LEAK = ROOT / "Generators" / "Experiment with utility data leak"
+LEAK = ROOT / "2 Single seed experiments with 80:20 spilit"
 DIFF = LEAK / "diffusion_dataleak"
 
 ALZH_LOAD_OLD = '''target_col = "Group"

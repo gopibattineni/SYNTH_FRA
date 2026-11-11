@@ -11,7 +11,7 @@ from typing import Dict, List, Optional
 import pandas as pd
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-RESULTS_ROOT = REPO_ROOT / "Generators" / "Experiment with utility data leak"
+RESULTS_ROOT = REPO_ROOT / "2 Single seed experiments with 80:20 spilit"
 DIFFUSION_ROOT = RESULTS_ROOT / "diffusion_dataleak"
 DATASETS_JSON = RESULTS_ROOT / "python_scripts" / "hive" / "datasets.json"
 

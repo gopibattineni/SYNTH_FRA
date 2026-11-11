@@ -22,7 +22,7 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 OUT_DIR = SCRIPT_DIR / "classification"
 ROOT = SCRIPT_DIR.parent
 OUT_DIR.mkdir(parents=True, exist_ok=True)
-SCORES = ROOT / "Results" / "Processed_Data" / "overall_scores.csv"
+SCORES = ROOT / "2 Single seed experiments with 80:20 spilit" / "Results" / "Processed_Data" / "overall_scores.csv"
 ALPHA = 0.05
 
 CLASSIFICATION_DATASETS = [

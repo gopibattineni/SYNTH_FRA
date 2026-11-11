@@ -182,7 +182,7 @@ def main() -> None:
     st.title("SYNTH Benchmark Dashboard")
     st.caption(
         "TRTR/TSTR utility results from "
-        "`Generators/Experiment with utility data leak/diffusion_dataleak` "
+        "`2 Single seed experiments with 80:20 spilit/diffusion_dataleak` "
         f"— {len(results)} datasets, {len(_available_generators(summary))}/{len(ALL_GENERATORS)} generators loaded."
     )
 

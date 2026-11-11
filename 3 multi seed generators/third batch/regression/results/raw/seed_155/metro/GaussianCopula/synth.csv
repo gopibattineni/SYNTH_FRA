@@ -1,0 +1,1001 @@
+holiday,temp,rain_1h,snow_1h,clouds_all,weather_main,weather_description,traffic_volume
+Christmas Day,290.4536302399671,1.34,0.01,0,Clear,sky is clear,1676
+Christmas Day,275.6594865332792,0.93,0.01,75,Rain,scattered clouds,6521
+Christmas Day,267.65333056232544,3.27,0.12,0,Mist,mist,2507
+Christmas Day,271.02642307736113,0.47,0.01,0,Clear,sky is clear,6699
+Christmas Day,274.57900449289593,0.48,0.01,92,Clear,sky is clear,1012
+Christmas Day,263.46435638483837,0.25,0.01,100,Mist,mist,3345
+Christmas Day,273.7747588582023,6.45,0.01,9,Clouds,broken clouds,3305
+Christmas Day,275.99784509910296,0.25,0.02,32,Rain,heavy snow,5960
+Christmas Day,268.8189718659139,3.35,0.14,57,Rain,light snow,4078
+Christmas Day,286.67649479028506,9.14,0.02,99,Rain,broken clouds,4779
+Christmas Day,293.56666410728667,3.39,0.15,0,Clear,sky is clear,464
+Christmas Day,278.35013398743547,0.32,0.02,89,Mist,sky is clear,3887
+Christmas Day,270.76700892167145,0.33,0.17,0,Clouds,light rain,5755
+Christmas Day,284.80399355251006,3.78,0.01,0,Rain,light rain,4051
+Christmas Day,282.16021917474575,0.26,0.01,0,Clear,few clouds,2881
+Christmas Day,283.9252730801154,0.25,0.11,0,Clouds,scattered clouds,622
+Christmas Day,304.57746690241237,6.52,0.02,0,Mist,mist,4384
+Christmas Day,285.2948673389435,16.41,0.01,99,Clouds,broken clouds,4818
+Christmas Day,287.47558319027985,3.19,0.01,91,Drizzle,mist,1101
+Christmas Day,282.8966140443394,1.23,0.02,0,Clear,sky is clear,7144
+Christmas Day,278.8047839880692,0.25,0.01,1,Clear,sky is clear,773
+Christmas Day,280.91508202841635,14.31,0.14,0,Drizzle,scattered clouds,2166
+Christmas Day,282.0119191513819,0.57,0.01,100,Clouds,overcast clouds,3499
+Christmas Day,279.3455535860354,2.11,0.01,100,Clouds,light rain,1686
+Christmas Day,258.60257202236767,12.49,0.16,91,Thunderstorm,light snow,5446
+Christmas Day,290.0882019999093,0.65,0.01,0,Clear,sky is clear,764
+Christmas Day,275.7531815292409,0.46,0.17,98,Snow,few clouds,6824
+Christmas Day,290.70811218340873,2.39,0.16,79,Clear,sky is clear,4501
+Christmas Day,292.54599468760654,0.43,0.16,66,Clear,mist,6157
+Christmas Day,290.389285195906,8.76,0.17,0,Clear,few clouds,2955
+Christmas Day,289.54662894562057,0.52,0.01,8,Mist,light intensity drizzle,3612
+Christmas Day,300.21224140628465,7.55,0.01,1,Clouds,overcast clouds,5252
+Christmas Day,277.25097108292505,3.3,0.01,99,Clouds,mist,6129
+Christmas Day,264.9982907704909,6.2,0.01,2,Clear,sky is clear,4526
+Christmas Day,273.7518867930444,0.85,0.01,5,Mist,drizzle,674
+Christmas Day,254.12087882949612,1.03,0.01,99,Clouds,light rain,3323
+Christmas Day,283.45417930331604,5.61,0.01,11,Clear,sky is clear,2412
+Christmas Day,267.2552467332021,4.76,0.04,18,Clouds,moderate rain,4728
+Christmas Day,300.0895039222292,3.76,0.01,0,Clear,Sky is Clear,5010
+Christmas Day,264.6011858684673,12.29,0.15,23,Clouds,Sky is Clear,3131
+Christmas Day,297.2801795883691,8.61,0.17,100,Clouds,overcast clouds,1437
+Christmas Day,290.78489535171957,2.07,0.01,81,Snow,thunderstorm,3109
+Christmas Day,289.9366056619924,6.29,0.01,88,Rain,moderate rain,6114
+Christmas Day,291.08446169972206,3.45,0.15,2,Clouds,light snow,1165
+Christmas Day,277.01261299324034,6.93,0.17,15,Thunderstorm,light snow,5421
+Christmas Day,288.2048662834185,13.55,0.01,97,Clouds,moderate rain,3181
+Christmas Day,287.6521928318013,3.32,0.08,94,Clouds,broken clouds,3328
+Christmas Day,258.99571512664454,4.1,0.17,100,Thunderstorm,proximity thunderstorm,198
+Christmas Day,281.8030758732335,1.66,0.01,2,Mist,mist,1565
+Christmas Day,264.2493070152208,1.33,0.01,70,Mist,mist,316
+Christmas Day,306.96098719630817,4.01,0.01,0,Clouds,broken clouds,6521
+Christmas Day,299.62525787521565,2.13,0.17,0,Mist,broken clouds,5353
+Christmas Day,269.9587098792011,15.01,0.17,63,Clouds,mist,3026
+Christmas Day,271.9362467012771,15.49,0.01,5,Clear,sky is clear,5731
+Christmas Day,284.3506542265556,2.33,0.01,0,Clear,sky is clear,15
+Christmas Day,263.1250620497239,11.88,0.17,100,Rain,light rain,6924
+Christmas Day,274.3686924649293,0.88,0.12,0,Clear,sky is clear,3312
+Christmas Day,261.6949317758868,3.94,0.17,0,Clouds,mist,4826
+Christmas Day,267.7207603728872,0.25,0.1,0,Clear,sky is clear,830
+Christmas Day,296.76829860724456,0.27,0.01,0,Clear,sky is clear,3386
+Christmas Day,280.33714523660973,0.42,0.13,100,Clouds,light rain,4087
+Christmas Day,266.99110127927264,12.66,0.01,79,Clouds,light snow,1459
+Christmas Day,280.50640681560384,3.69,0.01,63,Clear,sky is clear,1021
+Christmas Day,285.8225525180677,10.92,0.02,3,Fog,snow,3649
+Christmas Day,277.26784998616324,0.29,0.12,24,Clear,sky is clear,1307
+Christmas Day,288.8017958774896,1.52,0.1,69,Clouds,few clouds,6915
+Christmas Day,265.1003329754275,0.32,0.01,100,Clouds,broken clouds,1205
+Christmas Day,261.17072121846564,3.05,0.01,85,Haze,drizzle,4573
+Christmas Day,285.2554606239,0.25,0.01,0,Clear,sky is clear,1827
+Christmas Day,283.60693271616395,3.94,0.01,8,Mist,few clouds,4086
+Christmas Day,292.5250391236213,0.51,0.01,0,Clear,sky is clear,5545
+Christmas Day,258.6011282505253,0.29,0.01,89,Clouds,light intensity drizzle,2512
+Christmas Day,290.2202911133311,2.37,0.09,99,Clouds,light rain,5712
+Christmas Day,292.80105685796656,6.11,0.17,0,Clouds,light rain,4875
+Christmas Day,301.29857531723746,2.53,0.02,3,Drizzle,sky is clear,374
+Christmas Day,284.6581946602287,11.8,0.01,43,Snow,fog,6401
+Christmas Day,290.926504097748,0.29,0.01,0,Mist,few clouds,651
+Christmas Day,262.6878259945812,19.91,0.05,100,Snow,broken clouds,4291
+Christmas Day,265.198853521071,0.25,0.01,100,Clouds,scattered clouds,4436
+Christmas Day,295.70038787765463,0.45,0.16,0,Clear,sky is clear,7132
+Christmas Day,289.3639547788816,1.7,0.12,26,Mist,sky is clear,6411
+Christmas Day,301.37378163754016,1.38,0.02,89,Mist,Sky is Clear,6425
+Christmas Day,278.6707293135576,5.67,0.17,100,Thunderstorm,fog,4817
+Christmas Day,296.1624805743548,3.5,0.01,1,Mist,broken clouds,1897
+Christmas Day,273.4039609308593,5.42,0.01,0,Mist,mist,6585
+Christmas Day,297.30871606359335,1.82,0.01,84,Clouds,scattered clouds,4053
+Christmas Day,272.0705624426604,10.81,0.01,0,Clouds,overcast clouds,2591
+Christmas Day,280.075754215972,0.75,0.01,3,Clear,sky is clear,6517
+Christmas Day,268.7435445682144,0.47,0.11,0,Clear,Sky is Clear,322
+Christmas Day,287.94082885926144,5.94,0.17,48,Clouds,light rain,65
+Christmas Day,290.8150476056985,2.39,0.17,1,Clouds,mist,3005
+Christmas Day,269.5409635903374,11.62,0.07,10,Clouds,light rain,256
+Christmas Day,278.51480690654,1.16,0.01,19,Clouds,scattered clouds,1968
+Christmas Day,277.1431123810536,9.42,0.01,6,Clouds,heavy snow,3842
+Christmas Day,275.50127679295366,2.27,0.01,42,Clear,sky is clear,2870
+Christmas Day,266.39828657206886,0.82,0.02,100,Snow,heavy snow,6045
+Christmas Day,272.85860016267,0.26,0.01,100,Snow,broken clouds,4872
+Christmas Day,287.9995969869934,0.25,0.08,5,Clear,few clouds,196
+Christmas Day,274.82547072133355,0.25,0.01,47,Drizzle,mist,6921
+Christmas Day,271.9905474198968,3.87,0.11,1,Clear,sky is clear,4057
+Christmas Day,273.9292320447453,10.38,0.05,71,Clouds,overcast clouds,7059
+Christmas Day,270.045240274018,11.99,0.01,100,Clouds,scattered clouds,1006
+Christmas Day,280.69061804532987,0.28,0.02,0,Clear,sky is clear,12
+Christmas Day,290.30488379101934,2.53,0.17,0,Clear,sky is clear,4043
+Christmas Day,286.33260516169753,14.36,0.02,87,Clouds,mist,3810
+Christmas Day,267.40032335259883,0.25,0.01,97,Clear,Sky is Clear,4147
+Christmas Day,271.0070985667211,0.27,0.1,34,Rain,thunderstorm with light rain,6101
+Christmas Day,289.72385565129673,0.26,0.01,92,Clouds,broken clouds,1300
+Christmas Day,261.6634695768004,0.52,0.14,90,Clouds,light rain,349
+Christmas Day,290.1492420081026,14.06,0.13,99,Mist,overcast clouds,929
+Christmas Day,279.37238720039556,1.0,0.01,76,Clear,sky is clear,337
+Christmas Day,289.7387028453811,0.26,0.17,0,Clear,scattered clouds,2243
+Christmas Day,275.0666546385929,15.68,0.01,100,Snow,snow,299
+Christmas Day,272.87866834409806,2.17,0.01,1,Clouds,overcast clouds,5325
+Christmas Day,273.19050983473574,2.67,0.14,16,Clouds,proximity thunderstorm,1226
+Christmas Day,291.6992665086436,2.64,0.01,0,Clear,sky is clear,943
+Christmas Day,287.9152081499077,3.01,0.01,93,Clouds,broken clouds,6708
+Christmas Day,269.19622273733074,0.7,0.03,36,Clouds,scattered clouds,6361
+Christmas Day,291.1630251021751,0.28,0.12,0,Clouds,light rain,6940
+Christmas Day,293.00026613010493,0.34,0.01,0,Rain,fog,6685
+Christmas Day,298.2361183661361,0.89,0.01,1,Clouds,overcast clouds,5783
+Christmas Day,278.39624293511554,2.97,0.01,97,Clouds,moderate rain,5563
+Christmas Day,291.77317842444114,8.05,0.17,0,Clouds,overcast clouds,42
+Christmas Day,291.2441804272163,1.58,0.01,12,Clouds,Sky is Clear,4731
+Christmas Day,297.58720179899683,0.26,0.02,89,Clouds,broken clouds,3785
+Christmas Day,267.2695054541549,4.4,0.02,12,Clouds,light rain,4466
+Christmas Day,268.8427033092672,0.88,0.15,3,Clear,sky is clear,12
+Christmas Day,280.00230544069814,0.42,0.01,1,Clear,sky is clear,3488
+Christmas Day,264.47242909027796,0.25,0.16,21,Clouds,overcast clouds,6338
+Christmas Day,294.2458931949029,1.5,0.09,58,Clouds,few clouds,5098
+Christmas Day,275.178924096873,15.47,0.15,46,Clear,sky is clear,1614
+Christmas Day,266.6988165393202,4.11,0.12,97,Clear,sky is clear,4222
+Christmas Day,280.4143746964809,0.25,0.01,97,Clouds,moderate rain,2329
+Christmas Day,264.9333054043713,0.61,0.11,72,Clear,overcast clouds,4912
+Christmas Day,279.4600018526878,0.69,0.01,0,Clouds,proximity thunderstorm,3270
+Christmas Day,267.66308796628937,0.46,0.04,1,Mist,sky is clear,334
+Christmas Day,275.4082705465379,0.25,0.17,0,Clear,sky is clear,4324
+Christmas Day,294.73197133845326,0.44,0.17,100,Snow,light rain,803
+Christmas Day,285.82999228652307,10.92,0.01,0,Rain,broken clouds,2556
+Christmas Day,265.5405236858991,3.5,0.12,96,Mist,Sky is Clear,89
+Christmas Day,293.51260711694954,0.74,0.14,0,Clouds,mist,379
+Christmas Day,263.09242138408314,0.25,0.16,1,Clear,sky is clear,2636
+Christmas Day,271.843827700903,7.36,0.03,39,Clouds,mist,2417
+Christmas Day,283.3435217276949,0.35,0.17,0,Clear,drizzle,5388
+Christmas Day,285.0540946325499,6.56,0.17,28,Clouds,light rain,296
+Christmas Day,294.94567897125876,0.53,0.01,100,Rain,scattered clouds,7117
+Christmas Day,280.0657909894091,9.68,0.01,22,Rain,light rain,2977
+Christmas Day,289.47789856659006,0.68,0.17,8,Clouds,moderate rain,3731
+Christmas Day,281.5778921089381,0.37,0.01,100,Rain,light snow,5821
+Christmas Day,282.2608525694568,0.7,0.17,0,Clear,sky is clear,1353
+Christmas Day,289.7000172429472,7.21,0.1,85,Clouds,mist,155
+Christmas Day,292.39816032014727,0.3,0.16,0,Clear,sky is clear,6597
+Christmas Day,281.42762125178024,0.31,0.03,0,Rain,fog,6902
+Christmas Day,281.3311298181715,12.52,0.02,0,Snow,light intensity drizzle,809
+Christmas Day,261.5467086574343,0.7,0.06,8,Clear,overcast clouds,225
+Christmas Day,262.80664979214885,11.07,0.07,99,Clouds,sky is clear,218
+Christmas Day,272.8945631772581,0.25,0.16,0,Clear,sky is clear,590
+Christmas Day,277.6142956135166,1.25,0.01,100,Clouds,mist,3718
+Christmas Day,266.93170062865937,0.83,0.03,20,Haze,drizzle,5839
+Christmas Day,277.6146274210835,0.26,0.15,100,Thunderstorm,fog,2629
+Christmas Day,266.32865734315476,2.59,0.04,100,Clouds,moderate rain,548
+Christmas Day,293.5210317210335,0.41,0.01,48,Clouds,overcast clouds,279
+Christmas Day,289.95039811755606,1.54,0.01,13,Mist,broken clouds,5085
+Christmas Day,270.226370524663,0.83,0.03,99,Clouds,scattered clouds,3578
+Christmas Day,280.20127630814864,2.3,0.02,100,Clouds,scattered clouds,4380
+Christmas Day,284.7109497796553,0.37,0.01,0,Clear,sky is clear,5104
+Christmas Day,298.8210567435463,6.88,0.01,98,Snow,fog,6040
+Christmas Day,292.13673072686424,1.1,0.17,100,Fog,light snow,1220
+Christmas Day,278.2489392375837,2.28,0.01,100,Rain,light intensity drizzle,3983
+Christmas Day,280.0995945966651,0.61,0.15,13,Mist,overcast clouds,1845
+Christmas Day,284.02533056309346,7.26,0.01,86,Clouds,broken clouds,7129
+Christmas Day,286.12985711645103,0.43,0.01,100,Snow,overcast clouds,5831
+Christmas Day,301.50817775119214,15.47,0.17,3,Drizzle,broken clouds,3710
+Christmas Day,247.47311395986424,8.15,0.01,44,Clouds,sky is clear,242
+Christmas Day,270.82647676624504,15.72,0.01,0,Snow,heavy snow,3674
+Christmas Day,286.0292473657708,13.43,0.05,13,Clouds,overcast clouds,1516
+Christmas Day,268.0496451029003,3.11,0.01,92,Clear,sky is clear,5205
+Christmas Day,271.5047418939643,0.25,0.01,7,Clear,haze,1438
+Christmas Day,266.72836936846466,0.44,0.01,20,Clouds,broken clouds,7082
+Christmas Day,293.3234328238733,6.93,0.01,100,Clouds,drizzle,6775
+Christmas Day,291.96031613459036,0.25,0.01,77,Clear,sky is clear,1084
+Christmas Day,292.7554929718558,8.32,0.08,84,Rain,broken clouds,4603
+Christmas Day,265.9390710744142,0.26,0.12,0,Clear,broken clouds,839
+Christmas Day,298.88384324810676,5.54,0.06,22,Snow,moderate rain,4953
+Christmas Day,299.6696916177209,4.2,0.16,0,Mist,moderate rain,5348
+Christmas Day,282.36751244126486,4.74,0.06,84,Haze,sky is clear,3955
+Christmas Day,279.77106378927465,0.33,0.01,0,Clouds,mist,845
+Christmas Day,300.90333458482337,10.16,0.03,0,Clear,sky is clear,3172
+Christmas Day,274.30920848682433,0.25,0.09,11,Rain,snow,7106
+Christmas Day,256.583494174663,4.6,0.14,79,Rain,light rain,4354
+Christmas Day,282.1509360313381,0.36,0.17,0,Mist,broken clouds,268
+Christmas Day,284.95236779927416,5.8,0.01,9,Rain,scattered clouds,3692
+Christmas Day,287.71213522569633,2.8,0.14,0,Mist,moderate rain,2011
+Christmas Day,299.59773029573284,1.05,0.17,87,Mist,mist,5886
+Christmas Day,274.49463976949363,0.39,0.01,100,Clouds,few clouds,322
+Christmas Day,279.6596376318262,1.8,0.02,96,Snow,light snow,401
+Christmas Day,264.4181900919673,0.25,0.01,46,Drizzle,haze,3312
+Christmas Day,246.39,0.26,0.12,21,Clear,haze,3222
+Christmas Day,278.9880280621675,2.98,0.12,55,Clouds,proximity thunderstorm,7142
+Christmas Day,305.2024206344878,8.73,0.01,96,Clouds,light rain,6811
+Christmas Day,263.88022570431565,11.63,0.01,99,Snow,light rain,521
+Christmas Day,283.34453473946706,9.29,0.01,100,Clouds,light rain,6493
+Christmas Day,280.3170161332884,3.69,0.02,7,Clouds,proximity thunderstorm,4687
+Christmas Day,281.5249165880012,5.66,0.01,100,Clouds,Sky is Clear,4968
+Christmas Day,285.777959818082,0.37,0.12,53,Drizzle,drizzle,2768
+Christmas Day,268.5463486528595,2.06,0.02,51,Clouds,few clouds,1258
+Christmas Day,264.8836149682337,0.37,0.01,2,Mist,overcast clouds,690
+Christmas Day,290.3393971219849,0.25,0.15,100,Rain,light snow,549
+Christmas Day,284.32680322943054,0.44,0.02,100,Clear,sky is clear,730
+Christmas Day,286.3996972499295,2.75,0.09,3,Haze,mist,3059
+Christmas Day,282.59761394598667,22.32,0.17,99,Clouds,mist,1740
+Christmas Day,284.5988905212499,2.73,0.01,100,Mist,sky is clear,2400
+Christmas Day,293.8517705605298,0.59,0.11,72,Haze,sky is clear,6233
+Christmas Day,276.0216522806293,18.41,0.17,6,Clouds,broken clouds,3241
+Christmas Day,290.9959099372826,5.89,0.01,100,Clouds,moderate rain,4860
+Christmas Day,262.2103967987112,0.27,0.15,99,Mist,broken clouds,1925
+Christmas Day,268.1416283121995,0.35,0.15,95,Snow,heavy intensity rain,1952
+Christmas Day,282.6538437859123,3.89,0.16,83,Clouds,light snow,4253
+Christmas Day,298.02343706933027,1.42,0.16,1,Mist,broken clouds,4985
+Christmas Day,299.60726358152056,3.9,0.13,0,Clear,sky is clear,364
+Christmas Day,293.5447111434614,0.49,0.02,98,Clouds,scattered clouds,6077
+Christmas Day,276.65368047733233,4.27,0.01,79,Clouds,mist,3315
+Christmas Day,293.0841544139826,9.71,0.17,30,Clouds,light rain,2405
+Christmas Day,282.47351664421745,2.1,0.02,31,Mist,mist,5295
+Christmas Day,281.61325750893565,0.25,0.1,100,Mist,broken clouds,4533
+Christmas Day,280.35973458261697,5.68,0.12,100,Clear,sky is clear,26
+Christmas Day,274.4673784197799,1.87,0.02,69,Clouds,few clouds,2084
+Christmas Day,291.99175922470533,9.5,0.07,10,Clear,mist,1488
+Christmas Day,282.7998630158632,7.31,0.06,3,Haze,broken clouds,5786
+Christmas Day,271.469099031986,0.47,0.17,100,Snow,light rain,6051
+Christmas Day,259.32847946976125,0.26,0.02,100,Clouds,Sky is Clear,6532
+Christmas Day,264.8575988191422,1.81,0.01,100,Rain,proximity thunderstorm,911
+Christmas Day,276.0459965175245,7.24,0.01,5,Drizzle,scattered clouds,230
+Christmas Day,280.6192304781923,6.16,0.01,0,Drizzle,Sky is Clear,5641
+Christmas Day,282.7357988876966,0.54,0.17,0,Clear,mist,6114
+Christmas Day,288.0650957741962,3.36,0.01,100,Clouds,broken clouds,7015
+Christmas Day,265.67868614508063,0.25,0.01,26,Clouds,mist,1963
+Christmas Day,279.67763737527423,1.29,0.07,92,Clear,mist,3778
+Christmas Day,274.425125570585,9.63,0.01,98,Clouds,moderate rain,6352
+Christmas Day,302.91914557911593,3.68,0.02,13,Clouds,scattered clouds,3908
+Christmas Day,271.34698589680335,0.27,0.01,99,Clouds,few clouds,4583
+Christmas Day,298.02064949999794,6.62,0.01,0,Drizzle,sky is clear,4951
+Christmas Day,299.70287697724973,0.28,0.02,90,Clear,sky is clear,4835
+Christmas Day,277.75156391398485,1.55,0.01,40,Clouds,few clouds,3952
+Christmas Day,302.0802087351053,9.74,0.05,100,Fog,fog,2194
+Christmas Day,269.4021934055794,5.81,0.17,32,Clouds,overcast clouds,799
+Christmas Day,274.25395530166793,9.23,0.02,87,Snow,broken clouds,317
+Christmas Day,274.9182272868357,1.65,0.01,7,Clouds,mist,4595
+Christmas Day,286.22110113882513,0.26,0.17,0,Clear,drizzle,6187
+Christmas Day,271.4131737682559,1.85,0.14,67,Drizzle,sky is clear,84
+Christmas Day,284.85003570533104,16.38,0.01,95,Clouds,broken clouds,5347
+Christmas Day,280.4233529382139,1.86,0.01,3,Thunderstorm,light snow,53
+Christmas Day,267.08709107766936,1.81,0.01,84,Clear,Sky is Clear,1009
+Christmas Day,283.78475492932716,17.71,0.15,0,Clouds,broken clouds,485
+Christmas Day,271.9068987272662,0.73,0.01,99,Rain,proximity thunderstorm,45
+Christmas Day,273.59203347719665,1.62,0.02,42,Thunderstorm,heavy snow,471
+Christmas Day,295.1430570819051,5.8,0.03,7,Clouds,broken clouds,5545
+Christmas Day,285.13294830764266,2.24,0.01,0,Drizzle,overcast clouds,11
+Christmas Day,280.8963240655352,0.3,0.17,100,Clouds,scattered clouds,1143
+Christmas Day,276.508789521004,0.25,0.01,14,Clear,overcast clouds,6845
+Christmas Day,275.6504492186758,1.46,0.1,0,Rain,broken clouds,3478
+Christmas Day,290.4012100935989,2.58,0.01,91,Clouds,broken clouds,7020
+Christmas Day,299.76453663285497,0.25,0.17,90,Fog,scattered clouds,4870
+Christmas Day,302.97566056626493,4.95,0.01,99,Clouds,broken clouds,310
+Christmas Day,285.7278736662722,2.48,0.17,2,Clear,sky is clear,1809
+Christmas Day,278.8672730372502,0.62,0.15,40,Clear,sky is clear,2062
+Christmas Day,270.04499267972665,3.11,0.02,78,Drizzle,sky is clear,1079
+Christmas Day,297.60973165782616,0.98,0.11,98,Clear,overcast clouds,6166
+Christmas Day,268.9168703101284,2.15,0.01,97,Clear,sky is clear,29
+Christmas Day,280.67401388823134,0.26,0.04,60,Clouds,moderate rain,1742
+Christmas Day,284.3293917849907,0.3,0.01,0,Clouds,moderate rain,6413
+Christmas Day,272.29866577791404,5.17,0.03,99,Clouds,overcast clouds,2507
+Christmas Day,260.06063307783904,6.45,0.14,6,Clear,sky is clear,1178
+Christmas Day,293.30235905033425,1.75,0.01,0,Clear,sky is clear,5606
+Christmas Day,291.81162520908345,1.56,0.03,66,Mist,mist,3501
+Christmas Day,297.15910724818536,14.12,0.01,31,Clouds,overcast clouds,6208
+Christmas Day,282.6955500149416,15.67,0.01,90,Fog,heavy snow,502
+Christmas Day,278.519191604713,0.28,0.01,100,Clouds,haze,1975
+Christmas Day,289.6376238229781,0.27,0.01,99,Clouds,overcast clouds,921
+Christmas Day,268.6579459527997,1.35,0.17,0,Clear,sky is clear,67
+Christmas Day,277.42089061148084,12.47,0.01,0,Clouds,scattered clouds,4258
+Christmas Day,290.92200018074203,3.48,0.12,0,Clouds,broken clouds,1381
+Christmas Day,295.9128953654295,1.06,0.01,12,Clouds,broken clouds,4762
+Christmas Day,295.6570592787326,0.85,0.01,98,Clouds,light rain,132
+Christmas Day,268.93898901772013,2.44,0.01,71,Snow,light rain,5927
+Christmas Day,279.1875479126527,2.03,0.17,1,Fog,heavy intensity drizzle,636
+Christmas Day,286.4714534362604,0.33,0.01,63,Clear,sky is clear,406
+Christmas Day,251.96116391881293,2.18,0.05,19,Thunderstorm,fog,1443
+Christmas Day,273.22724413242594,0.25,0.09,11,Clouds,broken clouds,386
+Christmas Day,296.5341017366741,1.81,0.02,88,Clear,sky is clear,2921
+Christmas Day,293.5064121400036,0.83,0.01,1,Clouds,broken clouds,2146
+Christmas Day,285.3330109102466,0.42,0.02,3,Rain,light snow,460
+Christmas Day,246.39,2.43,0.01,98,Rain,moderate rain,2134
+Christmas Day,280.4255737065196,1.6,0.17,100,Mist,overcast clouds,3311
+Christmas Day,270.5778928109619,2.23,0.09,91,Clear,sky is clear,3516
+Christmas Day,255.05072149160893,1.17,0.01,0,Clouds,mist,295
+Christmas Day,276.46351564098484,3.32,0.01,1,Drizzle,Sky is Clear,5237
+Christmas Day,295.3015342338101,1.81,0.01,5,Clear,mist,2974
+Christmas Day,267.66312990187765,0.39,0.01,10,Haze,overcast clouds,3361
+Christmas Day,287.98728552986057,12.65,0.01,58,Rain,fog,2828
+Christmas Day,299.458863908505,2.38,0.14,4,Rain,scattered clouds,5601
+Christmas Day,293.75683194104926,0.33,0.01,68,Rain,light rain,627
+Christmas Day,270.2034404351896,2.15,0.14,100,Clouds,Sky is Clear,27
+Christmas Day,260.2060867864568,0.76,0.12,100,Mist,sky is clear,235
+Christmas Day,294.4872088981911,1.82,0.01,0,Clear,sky is clear,2198
+Christmas Day,258.3464561666847,3.61,0.1,100,Thunderstorm,scattered clouds,6912
+Christmas Day,292.13487585830546,0.83,0.09,2,Clouds,mist,5587
+Christmas Day,268.3259717543684,6.88,0.06,22,Clear,haze,4911
+Christmas Day,281.19050612229614,13.58,0.1,70,Clear,mist,3736
+Christmas Day,289.0099211555887,0.62,0.16,0,Clear,overcast clouds,2657
+Christmas Day,292.9837972186502,0.32,0.09,2,Rain,moderate rain,2097
+Christmas Day,291.70554483355386,0.63,0.1,6,Mist,haze,3953
+Christmas Day,258.10553174411245,1.8,0.07,96,Clouds,mist,219
+Christmas Day,281.24272866119065,3.28,0.01,91,Mist,broken clouds,6731
+Christmas Day,273.59851704549897,4.24,0.04,45,Clouds,mist,5627
+Christmas Day,291.4837030200622,0.51,0.17,2,Mist,mist,4090
+Christmas Day,298.33761546288775,0.64,0.01,97,Clouds,Sky is Clear,900
+Christmas Day,295.2335002597799,2.08,0.1,0,Clear,sky is clear,5964
+Christmas Day,285.78077029635597,11.72,0.01,89,Clouds,overcast clouds,2118
+Christmas Day,288.47317093870487,0.42,0.01,1,Mist,broken clouds,1200
+Christmas Day,277.72655883024413,8.73,0.01,0,Haze,sky is clear,214
+Christmas Day,287.44563936279246,0.61,0.15,0,Clear,sky is clear,4870
+Christmas Day,261.5529236680913,0.31,0.17,36,Clear,sky is clear,656
+Christmas Day,287.67954251949044,9.23,0.17,0,Clear,sky is clear,117
+Christmas Day,304.118614389395,4.22,0.01,99,Clear,sky is clear,5960
+Christmas Day,278.3574595077041,0.61,0.05,44,Snow,heavy intensity rain,7042
+Christmas Day,299.49727484927723,17.11,0.01,0,Rain,scattered clouds,2964
+Christmas Day,272.2185076394123,7.23,0.02,99,Rain,thunderstorm with rain,1232
+Christmas Day,260.1910622870821,5.15,0.02,78,Mist,drizzle,1746
+Christmas Day,283.4063963979919,0.25,0.02,0,Clouds,light rain,6554
+Christmas Day,298.7738564092386,16.31,0.16,2,Thunderstorm,light rain,3571
+Christmas Day,281.2058457339658,0.68,0.17,100,Rain,light rain,2215
+Christmas Day,260.4929218542876,3.7,0.01,33,Clouds,overcast clouds,3127
+Christmas Day,291.57535503030397,0.51,0.11,0,Clouds,broken clouds,669
+Christmas Day,288.9510782777061,0.27,0.03,83,Clouds,haze,6323
+Christmas Day,282.2054217788316,0.85,0.1,48,Clouds,broken clouds,975
+Christmas Day,270.63865794727275,0.45,0.17,4,Clouds,scattered clouds,3064
+Christmas Day,276.54384559195205,0.31,0.01,10,Mist,broken clouds,3210
+Christmas Day,286.47487087813766,0.87,0.01,81,Rain,light rain,1376
+Christmas Day,294.678268945236,0.26,0.03,0,Mist,overcast clouds,3002
+Christmas Day,302.9507472014827,0.33,0.02,1,Clear,drizzle,6699
+Christmas Day,290.4774144930196,0.25,0.16,21,Clear,sky is clear,4795
+Christmas Day,280.1019896230449,1.06,0.09,100,Rain,light rain,6415
+Christmas Day,288.2488405879923,0.25,0.01,1,Haze,sky is clear,2142
+Christmas Day,284.6030920138257,13.93,0.01,100,Clouds,scattered clouds,2382
+Christmas Day,280.4542065764884,1.63,0.17,6,Clouds,light rain,438
+Christmas Day,281.0707471847133,0.28,0.01,2,Clouds,few clouds,4626
+Christmas Day,293.9977541467364,0.26,0.01,0,Mist,broken clouds,4806
+Christmas Day,288.3647748825407,1.21,0.01,100,Rain,Sky is Clear,1329
+Christmas Day,297.5638763290642,10.47,0.01,95,Mist,overcast clouds,2700
+Christmas Day,292.92057109017594,1.99,0.02,71,Mist,scattered clouds,143
+Christmas Day,304.7882862961664,1.64,0.08,99,Clear,sky is clear,6166
+Christmas Day,279.76699323014606,1.73,0.01,81,Haze,sky is clear,6998
+Christmas Day,278.6762346291407,1.56,0.17,86,Clouds,light snow,320
+Christmas Day,286.07520907596444,18.32,0.05,0,Clouds,broken clouds,651
+Christmas Day,266.66824037646984,9.52,0.01,21,Clear,broken clouds,3708
+Christmas Day,263.04684741900985,3.33,0.03,5,Clouds,thunderstorm with heavy rain,6002
+Christmas Day,254.8681499952355,1.27,0.01,1,Clouds,mist,1902
+Christmas Day,305.14844138559124,0.47,0.03,74,Thunderstorm,light intensity drizzle,5556
+Christmas Day,270.98846903626736,9.65,0.06,0,Clear,sky is clear,2319
+Christmas Day,278.9569450902093,0.28,0.03,99,Snow,light rain,4939
+Christmas Day,275.29038636368733,3.19,0.17,100,Clouds,mist,166
+Christmas Day,295.26599887373726,0.55,0.01,31,Mist,few clouds,294
+Christmas Day,284.4702984099539,0.32,0.1,100,Thunderstorm,moderate rain,6527
+Christmas Day,278.8364658361718,0.72,0.01,0,Clear,overcast clouds,1989
+Christmas Day,296.16925761432805,4.1,0.02,18,Clouds,scattered clouds,2535
+Independence Day,274.8090447787763,0.49,0.01,0,Clouds,overcast clouds,25
+Christmas Day,266.1823719723616,0.39,0.01,100,Clear,sky is clear,6487
+Christmas Day,286.4973133797634,14.15,0.01,65,Mist,mist,3757
+Christmas Day,274.21107928028346,0.42,0.01,29,Clear,sky is clear,3445
+Christmas Day,292.73436976613766,2.23,0.01,0,Rain,light intensity drizzle,3768
+Christmas Day,264.61565129925015,3.64,0.15,5,Clouds,broken clouds,684
+Christmas Day,301.53575483531415,0.32,0.01,0,Mist,drizzle,2533
+Christmas Day,263.37512858497035,0.39,0.02,0,Clear,broken clouds,6027
+Christmas Day,249.28744781571353,0.3,0.05,9,Rain,scattered clouds,4529
+Christmas Day,286.0384707045369,2.29,0.01,1,Clouds,drizzle,6923
+Christmas Day,264.55482900072207,13.62,0.01,1,Clouds,Sky is Clear,404
+Christmas Day,276.28844829433217,11.04,0.01,97,Mist,sky is clear,1869
+Christmas Day,299.03622725133937,0.36,0.01,100,Clouds,scattered clouds,2595
+Christmas Day,260.27029269215444,0.25,0.02,35,Thunderstorm,light rain,1773
+Christmas Day,269.6611129993471,0.37,0.01,98,Clouds,mist,4644
+Christmas Day,261.1137584655463,3.14,0.01,0,Haze,sky is clear,2106
+Christmas Day,282.52933723602155,8.37,0.01,0,Clouds,moderate rain,6590
+Christmas Day,297.93979642819943,3.48,0.02,0,Clouds,light intensity drizzle,5525
+Christmas Day,287.6524051440911,1.94,0.15,33,Snow,light snow,2181
+Christmas Day,273.617119789778,7.71,0.01,1,Clear,sky is clear,4431
+Christmas Day,300.76571552777204,3.44,0.12,0,Clear,mist,6935
+Christmas Day,298.486475781574,16.89,0.01,85,Rain,heavy snow,6796
+Christmas Day,259.1847511104341,1.17,0.04,0,Clouds,few clouds,814
+Christmas Day,272.5074938694328,2.72,0.14,25,Clear,sky is clear,5530
+Christmas Day,258.94160399950147,4.09,0.17,100,Clouds,Sky is Clear,7136
+Christmas Day,264.67950042254927,2.56,0.07,5,Clouds,broken clouds,460
+Christmas Day,285.12666613549413,0.4,0.01,99,Thunderstorm,fog,6712
+Christmas Day,284.64621855701756,0.35,0.12,97,Clear,drizzle,3001
+Christmas Day,301.3802171704574,0.27,0.01,0,Clear,Sky is Clear,5988
+Christmas Day,295.247388035071,0.42,0.17,0,Clear,mist,1135
+Christmas Day,274.708633317647,0.27,0.02,100,Mist,broken clouds,7072
+Christmas Day,277.4702938514556,4.85,0.12,64,Clouds,heavy snow,1897
+Christmas Day,279.18118032717445,1.2,0.16,66,Rain,broken clouds,4228
+Christmas Day,263.87237302343465,0.54,0.01,100,Clouds,mist,1765
+Christmas Day,282.39561203415667,2.95,0.03,0,Clear,sky is clear,2202
+Christmas Day,302.25493952634304,1.31,0.17,3,Clouds,broken clouds,4031
+Christmas Day,286.98067073404525,7.86,0.17,98,Snow,light rain,7095
+Christmas Day,268.580380360054,0.28,0.03,76,Clear,Sky is Clear,6516
+Christmas Day,275.8014617936844,3.53,0.01,85,Clouds,broken clouds,3784
+Christmas Day,255.72256081062108,0.25,0.08,0,Rain,few clouds,2677
+Christmas Day,293.4509458221987,1.76,0.17,3,Rain,light rain,6475
+Christmas Day,285.6850940133415,2.51,0.02,0,Clouds,mist,1623
+Christmas Day,291.7745431110901,1.79,0.01,4,Clear,drizzle,1597
+Christmas Day,281.3433208273691,4.49,0.01,93,Haze,sky is clear,4194
+Christmas Day,272.2721430819982,0.58,0.01,0,Clear,sky is clear,200
+Christmas Day,266.8510971477067,0.3,0.17,32,Clear,mist,6540
+Christmas Day,274.33798330243235,5.3,0.01,94,Rain,few clouds,4880
+Christmas Day,291.10403850334853,1.11,0.02,99,Rain,heavy snow,497
+Christmas Day,253.24948279603805,0.51,0.15,5,Clouds,scattered clouds,782
+Christmas Day,285.86065260325614,2.53,0.05,0,Clear,sky is clear,1409
+Christmas Day,269.37644400266583,0.33,0.17,100,Clouds,sky is clear,55
+Christmas Day,281.7952478194209,4.24,0.01,1,Clouds,overcast clouds,4667
+Christmas Day,280.27797702467734,0.33,0.01,100,Snow,heavy intensity rain,7133
+Christmas Day,280.9946129908302,0.31,0.09,4,Clear,sky is clear,2896
+Christmas Day,269.32214561886695,0.26,0.14,46,Drizzle,mist,5577
+Christmas Day,268.0989783609867,3.79,0.13,60,Clouds,overcast clouds,1447
+Christmas Day,281.74396418496826,5.0,0.04,11,Clear,sky is clear,611
+Christmas Day,292.45620050509075,1.37,0.01,11,Clear,Sky is Clear,75
+Christmas Day,283.96635455435626,7.32,0.01,0,Clear,sky is clear,4597
+Christmas Day,271.3270229450213,0.57,0.17,0,Clear,sky is clear,400
+Christmas Day,279.0921584363147,11.06,0.03,63,Drizzle,sky is clear,1130
+Christmas Day,283.679018085354,0.39,0.17,88,Rain,broken clouds,4374
+Christmas Day,272.18133815145575,0.25,0.03,0,Clear,sky is clear,585
+Christmas Day,246.39,6.21,0.01,1,Clouds,broken clouds,1841
+Christmas Day,270.46773178733173,0.25,0.05,0,Clear,sky is clear,367
+Christmas Day,280.43015240007486,0.66,0.17,94,Rain,scattered clouds,1300
+Christmas Day,291.4225515584485,0.26,0.01,100,Clear,Sky is Clear,2280
+Christmas Day,286.61960417239396,0.29,0.01,80,Snow,scattered clouds,4242
+Christmas Day,275.0194120744234,2.27,0.01,1,Clear,overcast clouds,5335
+Christmas Day,282.11192787841793,0.25,0.06,24,Mist,mist,6107
+Christmas Day,288.2214285711488,7.17,0.01,100,Clouds,light rain,2039
+Christmas Day,297.7359168452145,4.62,0.11,64,Clouds,proximity thunderstorm,3882
+Christmas Day,292.4452425947591,0.25,0.01,100,Clear,sky is clear,4834
+Christmas Day,262.63649113905126,1.08,0.02,100,Rain,scattered clouds,2597
+Christmas Day,267.60185583552857,6.87,0.07,0,Clouds,mist,77
+Christmas Day,274.2837003743319,10.5,0.15,0,Clouds,broken clouds,1106
+Christmas Day,264.8490163552995,5.57,0.09,46,Clear,sky is clear,241
+Christmas Day,260.0878976759208,0.25,0.01,99,Clouds,few clouds,6953
+Christmas Day,297.8302656983416,0.26,0.01,0,Clouds,broken clouds,4670
+Christmas Day,300.4324520624651,2.28,0.16,36,Rain,broken clouds,6102
+Christmas Day,286.74063260202854,0.66,0.17,7,Mist,light rain,1203
+Christmas Day,262.4531843794822,1.52,0.01,34,Rain,light intensity drizzle,429
+Christmas Day,281.9016987950358,1.1,0.17,13,Clouds,drizzle,4477
+Christmas Day,298.6818889667235,0.26,0.01,7,Clouds,broken clouds,4400
+Christmas Day,271.6718173320009,0.25,0.05,0,Clear,sky is clear,6945
+Christmas Day,287.9844396242315,1.22,0.09,15,Clouds,light rain,5762
+Christmas Day,272.5910780586574,0.42,0.01,2,Mist,mist,4515
+Christmas Day,265.69661062997926,7.54,0.07,100,Rain,light snow,3060
+Christmas Day,275.7823394136818,6.03,0.02,100,Snow,light snow,2137
+Christmas Day,290.91847522679313,0.5,0.01,94,Fog,light intensity drizzle,5124
+Christmas Day,284.07832799428024,13.39,0.01,70,Clouds,broken clouds,5188
+Christmas Day,295.4213111723649,0.58,0.16,100,Clouds,light rain,3780
+Christmas Day,258.4694198604237,1.17,0.03,100,Rain,light rain,6654
+Christmas Day,282.46700550987674,0.3,0.02,0,Haze,mist,1015
+Christmas Day,265.55861295130427,0.62,0.14,100,Rain,light rain,7095
+Christmas Day,265.2762419266609,0.87,0.01,17,Clear,overcast clouds,2384
+Christmas Day,295.61364125940264,0.36,0.17,93,Clouds,moderate rain,5803
+Christmas Day,270.472526099372,12.3,0.01,0,Clear,sky is clear,6362
+Christmas Day,266.7851201001277,2.93,0.01,90,Clear,sky is clear,1608
+Christmas Day,284.1154127848848,0.36,0.09,0,Clear,mist,2024
+Christmas Day,276.2575295549326,2.61,0.01,8,Drizzle,overcast clouds,4485
+Christmas Day,291.5717675196273,0.71,0.15,99,Clouds,mist,2807
+Christmas Day,293.9579806464016,1.5,0.07,84,Clear,sky is clear,4481
+Christmas Day,257.6367811430697,0.25,0.01,92,Clouds,mist,700
+Christmas Day,284.0671535624869,8.66,0.01,0,Clouds,moderate rain,2274
+Christmas Day,278.3171382223813,3.61,0.02,100,Clouds,mist,1023
+Christmas Day,271.183548738157,0.25,0.05,0,Clouds,scattered clouds,1285
+Christmas Day,274.95690691545343,0.3,0.01,16,Clouds,light rain,5524
+Christmas Day,269.4627084880522,23.14,0.01,98,Snow,light snow,4877
+Christmas Day,269.72064560785594,0.47,0.01,16,Rain,light snow,45
+Christmas Day,273.2985963431506,1.26,0.01,25,Clouds,overcast clouds,4798
+Christmas Day,279.62992970140306,0.3,0.16,8,Clouds,sky is clear,2893
+Christmas Day,302.5641903106802,13.57,0.13,0,Drizzle,few clouds,4407
+Christmas Day,277.9957932827472,0.71,0.01,0,Rain,broken clouds,2160
+Christmas Day,282.28895282518454,14.07,0.01,17,Thunderstorm,light snow,4123
+Christmas Day,263.6357224309867,0.26,0.16,100,Snow,light intensity drizzle,2526
+Christmas Day,289.05432489197443,13.39,0.01,0,Clouds,light snow,1929
+Christmas Day,297.2028984422003,6.29,0.01,0,Clear,broken clouds,6531
+Christmas Day,305.29283749557874,3.19,0.01,4,Mist,Sky is Clear,7121
+Christmas Day,281.975414356008,0.39,0.17,84,Clouds,light rain,1561
+Christmas Day,296.3184811677594,3.36,0.13,85,Clouds,scattered clouds,4093
+Christmas Day,275.64888494376254,0.28,0.01,100,Rain,light rain,5929
+Christmas Day,289.95310823859904,7.11,0.03,46,Snow,fog,1665
+Christmas Day,288.105554960567,11.76,0.06,100,Clouds,few clouds,240
+Christmas Day,271.87796951287595,0.51,0.01,65,Clouds,scattered clouds,6330
+Christmas Day,302.81537676824314,3.59,0.01,0,Mist,broken clouds,2128
+Christmas Day,269.31448784632306,17.1,0.07,86,Snow,light intensity drizzle,892
+Christmas Day,276.1588851437182,0.28,0.01,48,Rain,broken clouds,5595
+Christmas Day,272.5697386972433,1.27,0.14,12,Mist,Sky is Clear,6356
+Christmas Day,279.5825796658688,0.36,0.01,0,Clear,overcast clouds,4769
+Christmas Day,257.56747465313777,7.67,0.17,33,Mist,light rain,5746
+Christmas Day,254.6458931290584,6.8,0.01,14,Clear,sky is clear,5124
+Christmas Day,283.93645753125065,2.84,0.11,100,Clear,sky is clear,3174
+Christmas Day,299.0936343585862,0.71,0.17,0,Clouds,fog,2749
+Christmas Day,284.18064296757933,8.46,0.02,20,Mist,sky is clear,2457
+Christmas Day,261.66684033825294,4.24,0.11,0,Clouds,overcast clouds,187
+Christmas Day,284.2932735805907,1.17,0.05,9,Clouds,overcast clouds,4116
+Christmas Day,286.19796786840925,8.92,0.17,60,Rain,heavy snow,3768
+Christmas Day,275.62116782507115,4.33,0.01,32,Clouds,overcast clouds,1028
+Christmas Day,257.8281480134071,0.26,0.01,0,Clear,sky is clear,1472
+Christmas Day,287.5847788042378,1.71,0.17,100,Clouds,broken clouds,451
+Christmas Day,257.9033003935792,2.76,0.01,7,Haze,overcast clouds,3431
+Christmas Day,296.11801812418065,7.74,0.01,82,Fog,snow,4937
+Christmas Day,268.24859302030734,0.25,0.02,2,Mist,mist,5686
+Christmas Day,266.7510691353889,0.81,0.01,0,Clouds,mist,6
+Christmas Day,265.23467759233864,1.75,0.11,7,Clear,sky is clear,5088
+Christmas Day,281.9434589476805,2.35,0.01,99,Clouds,Sky is Clear,1266
+Christmas Day,291.6704924442928,0.51,0.16,19,Clear,mist,2289
+Christmas Day,280.77579851838163,3.36,0.01,4,Rain,heavy intensity rain,4956
+Christmas Day,276.5708063865256,0.94,0.08,10,Clear,sky is clear,428
+Christmas Day,284.447982120364,5.73,0.15,0,Mist,sky is clear,4212
+Christmas Day,284.4899058030208,0.95,0.14,64,Haze,few clouds,428
+Christmas Day,269.9682528032045,7.88,0.03,100,Clouds,scattered clouds,1716
+Christmas Day,292.1902316494177,0.28,0.15,91,Clouds,scattered clouds,187
+Christmas Day,260.3872401419747,0.38,0.01,13,Mist,sky is clear,5545
+Christmas Day,291.42781618792924,1.05,0.01,78,Rain,proximity thunderstorm,664
+Christmas Day,267.80739413852785,2.11,0.01,96,Mist,moderate rain,21
+Christmas Day,281.6501040810976,0.25,0.01,1,Clouds,scattered clouds,3723
+Christmas Day,288.11652659445053,0.28,0.13,4,Clouds,scattered clouds,7138
+Christmas Day,280.8284574546676,9.32,0.11,5,Clear,sky is clear,4514
+Christmas Day,275.4294286118183,0.25,0.01,10,Clear,Sky is Clear,506
+Christmas Day,270.1801868985557,0.58,0.01,100,Clouds,moderate rain,162
+Christmas Day,265.21375702563023,2.41,0.02,95,Clouds,scattered clouds,1722
+Christmas Day,281.38345875957174,2.13,0.17,1,Clear,sky is clear,1270
+Christmas Day,266.3677832766011,0.25,0.01,23,Clouds,light rain,1177
+Christmas Day,260.8660901149741,3.63,0.17,0,Mist,mist,705
+Christmas Day,273.1537909607087,2.25,0.01,99,Clouds,scattered clouds,113
+Christmas Day,279.0810204769842,15.79,0.05,100,Snow,light rain,2343
+Christmas Day,291.4673755982747,2.64,0.01,0,Snow,light rain,6301
+Christmas Day,274.2331385689822,0.43,0.09,2,Clear,sky is clear,4838
+Christmas Day,287.37709732280416,0.84,0.01,0,Mist,scattered clouds,1064
+Christmas Day,296.21395291394015,9.19,0.03,99,Clouds,moderate rain,1823
+Christmas Day,295.6006021960001,0.74,0.03,91,Mist,overcast clouds,6407
+Christmas Day,290.15833729237806,4.14,0.05,100,Clouds,mist,1477
+Christmas Day,282.9931979431065,1.02,0.04,2,Clear,sky is clear,1155
+Christmas Day,300.7125544942371,1.4,0.14,0,Clouds,snow,4233
+Christmas Day,270.8633533094986,2.83,0.11,68,Drizzle,overcast clouds,1727
+Christmas Day,270.8889312126617,0.25,0.16,100,Rain,few clouds,5320
+Christmas Day,270.12354942647755,0.3,0.1,0,Clear,sky is clear,1170
+Christmas Day,274.45606213305143,0.34,0.01,76,Clouds,light rain,1539
+Christmas Day,264.6468001463881,0.25,0.01,2,Mist,light rain,589
+Christmas Day,278.7680935815996,0.95,0.01,5,Rain,scattered clouds,1099
+Christmas Day,274.1597774179778,1.67,0.01,0,Clouds,broken clouds,116
+Christmas Day,265.90281287686014,2.86,0.01,96,Clouds,light rain,864
+Christmas Day,267.8214789705305,0.45,0.02,15,Clouds,scattered clouds,2534
+Christmas Day,289.157764119401,3.47,0.13,0,Clouds,scattered clouds,2169
+Christmas Day,289.57912272969935,1.75,0.03,93,Clouds,few clouds,2013
+Christmas Day,300.02997130317624,0.41,0.02,5,Clear,mist,2691
+Christmas Day,263.3652182983663,0.31,0.01,93,Clouds,mist,2935
+Christmas Day,276.59868442312336,0.77,0.05,41,Clear,sky is clear,4002
+Christmas Day,255.5415966162591,0.25,0.01,0,Clear,sky is clear,128
+Christmas Day,269.0774850613034,0.25,0.01,0,Clear,sky is clear,937
+Christmas Day,287.61488648593865,1.02,0.01,20,Clear,overcast clouds,4259
+Christmas Day,275.4219247023073,0.25,0.01,99,Clouds,overcast clouds,1205
+Christmas Day,293.793010294276,4.42,0.01,0,Clear,mist,517
+Christmas Day,260.00927452421996,0.65,0.01,99,Clouds,light rain,1926
+Christmas Day,259.30226918089494,0.63,0.01,4,Drizzle,overcast clouds,2737
+Christmas Day,280.1803224552761,0.25,0.02,0,Clear,sky is clear,1705
+Christmas Day,304.6542474780031,21.05,0.04,86,Clouds,broken clouds,4490
+Christmas Day,283.4607072796681,12.1,0.17,0,Clear,sky is clear,1314
+Christmas Day,280.3212220543346,3.2,0.01,6,Snow,snow,932
+Christmas Day,267.8684110903767,0.51,0.11,100,Rain,scattered clouds,6121
+Christmas Day,284.5715252758466,0.44,0.01,100,Snow,fog,5434
+Christmas Day,267.36417141993337,0.26,0.01,1,Clear,sky is clear,2415
+Christmas Day,289.99360673584164,1.16,0.06,93,Rain,scattered clouds,1005
+Christmas Day,288.53284417127963,6.06,0.01,0,Clear,sky is clear,2226
+Christmas Day,297.0084240745647,0.25,0.02,63,Clouds,overcast clouds,6008
+Christmas Day,296.3920111165147,2.42,0.06,7,Clear,sky is clear,5638
+Christmas Day,297.22776670289926,2.04,0.16,0,Clear,sky is clear,5304
+Christmas Day,261.25985837702035,14.87,0.01,3,Clouds,overcast clouds,756
+Christmas Day,293.33298440498777,4.86,0.16,100,Snow,light intensity drizzle,2620
+Christmas Day,288.0413272565221,3.38,0.01,31,Clouds,broken clouds,3184
+Christmas Day,301.3138927631097,7.53,0.15,2,Clouds,few clouds,888
+Christmas Day,295.8373382494662,0.37,0.01,12,Haze,sky is clear,6015
+Christmas Day,285.47300450737026,1.38,0.14,100,Rain,moderate rain,5780
+Christmas Day,302.32070640506487,14.27,0.01,100,Drizzle,overcast clouds,5332
+Christmas Day,289.8378801502926,0.6,0.01,78,Clear,sky is clear,3692
+Christmas Day,285.75022719552993,1.49,0.01,50,Mist,mist,6532
+Christmas Day,248.545889176179,0.36,0.16,1,Clouds,scattered clouds,5
+Christmas Day,268.55219721504915,0.66,0.13,0,Clear,sky is clear,887
+Christmas Day,280.81825459322533,2.08,0.01,89,Clouds,light rain,1565
+Christmas Day,271.57432172197105,2.25,0.17,100,Clouds,light intensity drizzle,261
+Christmas Day,282.07869938992116,7.37,0.01,97,Rain,light snow,1351
+Christmas Day,277.4309903262223,0.26,0.01,24,Clear,sky is clear,5477
+Christmas Day,294.8335730187605,1.83,0.01,61,Clouds,scattered clouds,6630
+Christmas Day,284.22202861554285,10.19,0.09,99,Mist,few clouds,4669
+Christmas Day,298.35636585694147,5.71,0.04,23,Mist,light rain,6218
+Christmas Day,279.92839384093077,0.27,0.01,7,Clear,sky is clear,7021
+Christmas Day,271.97997015871186,1.6,0.17,0,Clear,sky is clear,1471
+Christmas Day,270.3721807237562,0.26,0.01,94,Mist,mist,6202
+Christmas Day,256.4504851025644,8.92,0.17,100,Clouds,broken clouds,6722
+Christmas Day,283.91064247205026,0.31,0.01,36,Drizzle,mist,4275
+Christmas Day,286.64051716505656,4.8,0.1,100,Rain,heavy snow,6018
+Christmas Day,297.1236591149292,0.99,0.02,0,Clear,Sky is Clear,5452
+Christmas Day,272.7885729406383,1.5,0.01,100,Fog,light intensity drizzle,6480
+Christmas Day,277.1398752161691,0.26,0.01,3,Mist,mist,1202
+Christmas Day,275.2357668579606,7.56,0.01,100,Snow,fog,2683
+Christmas Day,288.42392130062774,16.12,0.11,5,Clouds,overcast clouds,1084
+Christmas Day,271.2563705640935,8.88,0.02,75,Clear,sky is clear,4444
+Christmas Day,278.2557921223542,8.27,0.16,26,Rain,snow,395
+Christmas Day,269.6008181888922,4.77,0.11,18,Mist,drizzle,1166
+Christmas Day,257.2460333290104,13.4,0.03,100,Clouds,moderate rain,1645
+Christmas Day,279.1092578902985,11.72,0.01,100,Rain,light rain,2717
+Christmas Day,286.2282071970611,2.13,0.05,0,Clouds,mist,341
+Christmas Day,278.1171914419177,3.24,0.01,1,Haze,haze,6020
+Christmas Day,288.9198380008862,4.31,0.01,0,Clouds,overcast clouds,7032
+Christmas Day,276.5677032587659,2.5,0.01,99,Clouds,broken clouds,353
+Christmas Day,277.16709274718454,5.49,0.07,0,Clear,sky is clear,385
+Christmas Day,287.43989728885896,0.76,0.17,85,Clouds,few clouds,2427
+Christmas Day,284.31714601348375,0.48,0.01,46,Mist,broken clouds,1027
+Christmas Day,297.50410494234353,3.03,0.05,90,Snow,snow,4346
+Christmas Day,280.0337337962577,8.73,0.03,98,Snow,light rain,6391
+Christmas Day,279.4320064157909,12.59,0.01,0,Clouds,light intensity drizzle,212
+Christmas Day,302.03501037143644,0.28,0.09,0,Clear,mist,5383
+Christmas Day,283.25115965815326,0.25,0.01,34,Clear,sky is clear,348
+Christmas Day,276.92774210470486,2.64,0.01,0,Mist,sky is clear,19
+Christmas Day,279.0743676029392,0.25,0.17,0,Clear,sky is clear,1415
+Christmas Day,289.55770879128886,0.71,0.02,0,Clear,sky is clear,3601
+Christmas Day,258.0705854930037,0.77,0.01,0,Clear,sky is clear,238
+Christmas Day,286.94756319134495,3.8,0.03,81,Clouds,broken clouds,653
+Christmas Day,261.7991220468555,0.32,0.16,1,Rain,overcast clouds,5464
+Christmas Day,276.7848094254424,3.08,0.01,10,Clouds,broken clouds,1276
+Christmas Day,266.30588748762,6.12,0.16,98,Clouds,sky is clear,4769
+Christmas Day,280.32053952138915,1.07,0.01,0,Fog,thunderstorm,1400
+Christmas Day,295.63662082717644,2.16,0.17,55,Rain,heavy intensity rain,6790
+Christmas Day,286.2859942131106,0.3,0.02,85,Thunderstorm,scattered clouds,7048
+Christmas Day,262.0763655312231,0.36,0.04,82,Clear,sky is clear,2770
+Christmas Day,281.6407897523865,0.58,0.01,11,Clouds,moderate rain,5642
+Christmas Day,293.47782041065943,3.43,0.01,9,Mist,Sky is Clear,2952
+Christmas Day,283.4017074495471,3.3,0.01,0,Clear,sky is clear,247
+Christmas Day,255.60773475359215,16.36,0.03,99,Mist,sky is clear,70
+Christmas Day,281.5088584728212,2.52,0.01,99,Haze,haze,7001
+Christmas Day,294.97466678107054,1.2,0.01,9,Clouds,few clouds,5202
+Christmas Day,274.7580706376402,0.27,0.1,21,Clouds,broken clouds,51
+Christmas Day,254.6086451186508,0.25,0.01,92,Clouds,sky is clear,6555
+Christmas Day,263.62844575452567,1.12,0.1,100,Clouds,sky is clear,2532
+Christmas Day,276.7383775534913,6.44,0.01,0,Clear,sky is clear,6704
+Christmas Day,257.0122381164385,1.86,0.01,0,Mist,haze,4693
+Christmas Day,274.45382903251885,5.46,0.09,100,Rain,broken clouds,3718
+Christmas Day,277.1823425262143,3.41,0.03,0,Clouds,scattered clouds,4221
+Christmas Day,264.49914303286135,0.25,0.17,62,Clouds,few clouds,1142
+Christmas Day,275.1478017783169,16.27,0.04,58,Rain,light snow,306
+Christmas Day,273.66282617549035,13.58,0.01,0,Clouds,moderate rain,3364
+Christmas Day,278.0721676140854,1.74,0.01,100,Fog,light snow,4574
+Christmas Day,294.72630799490605,1.11,0.01,0,Clear,sky is clear,6735
+Christmas Day,250.6213961462915,1.15,0.04,100,Clouds,moderate rain,6510
+Christmas Day,300.2615864122379,7.26,0.01,95,Clouds,light rain,2578
+Christmas Day,301.3622415959586,0.26,0.01,16,Rain,broken clouds,134
+Christmas Day,276.4838329319378,3.66,0.01,13,Mist,mist,7062
+Christmas Day,290.10149220241254,0.75,0.16,71,Snow,very heavy rain,5406
+Christmas Day,278.2289829799038,10.86,0.01,0,Mist,drizzle,5676
+Christmas Day,287.3296338801069,0.25,0.01,0,Clouds,light snow,6724
+Christmas Day,282.4055916457378,12.71,0.01,0,Clear,overcast clouds,1945
+Christmas Day,280.8645332096712,1.7,0.01,0,Mist,haze,293
+Christmas Day,284.6165294747161,1.55,0.02,53,Clear,sky is clear,5273
+Christmas Day,280.08857401235144,0.28,0.17,0,Clear,sky is clear,5288
+Christmas Day,270.0539944137884,10.38,0.11,99,Clouds,mist,340
+Christmas Day,278.69593795382116,2.26,0.06,1,Mist,broken clouds,3797
+Christmas Day,273.4923753034345,0.29,0.01,24,Clouds,scattered clouds,2919
+Christmas Day,287.0864797409885,9.61,0.13,18,Mist,mist,2674
+Christmas Day,277.91397978882594,0.25,0.17,16,Clear,sky is clear,335
+Christmas Day,285.2497031242398,0.25,0.02,27,Clouds,broken clouds,1037
+Christmas Day,298.46031101556275,0.51,0.17,12,Clouds,scattered clouds,2462
+Christmas Day,279.81303089733666,0.25,0.06,0,Clouds,scattered clouds,49
+Christmas Day,277.06592374227586,1.16,0.01,3,Clouds,broken clouds,3355
+Christmas Day,273.3015946472111,4.47,0.04,0,Clear,sky is clear,1706
+Christmas Day,277.07440067481275,5.18,0.16,64,Snow,fog,1644
+Christmas Day,303.49093658352126,2.33,0.01,0,Clear,broken clouds,3853
+Christmas Day,273.721931447221,2.05,0.02,25,Clear,broken clouds,4685
+Christmas Day,302.34018753534843,3.19,0.01,0,Clouds,light rain,4248
+Christmas Day,290.7942029645283,2.95,0.01,3,Mist,broken clouds,787
+Christmas Day,274.97842923550655,6.48,0.1,14,Rain,scattered clouds,5270
+Christmas Day,294.9089484543407,16.13,0.13,0,Clear,sky is clear,6555
+Christmas Day,268.6593638789137,0.32,0.01,97,Clouds,moderate rain,37
+Christmas Day,280.1760869777721,9.67,0.01,97,Rain,heavy snow,2553
+Christmas Day,297.11210005146233,5.94,0.17,96,Rain,scattered clouds,6157
+Christmas Day,282.13385319808674,0.49,0.02,36,Clouds,few clouds,7008
+Christmas Day,289.7536780287324,0.66,0.09,64,Clouds,mist,3013
+Christmas Day,277.35610118619763,3.77,0.09,0,Mist,overcast clouds,444
+Christmas Day,270.24866496247546,11.81,0.01,5,Clouds,broken clouds,42
+Christmas Day,296.4528444164667,1.23,0.17,0,Clear,broken clouds,4812
+Christmas Day,280.32043830267844,2.2,0.17,100,Clouds,mist,114
+Christmas Day,301.6878660927459,2.34,0.01,96,Rain,scattered clouds,3749
+Christmas Day,300.8445968248841,15.81,0.01,89,Clouds,mist,2401
+Christmas Day,278.83435784654046,0.34,0.01,100,Snow,snow,5092
+Christmas Day,266.54618276411554,5.85,0.01,21,Clouds,few clouds,1982
+Christmas Day,267.6067598760297,0.36,0.09,94,Clouds,broken clouds,332
+Christmas Day,278.21544893725513,0.8,0.01,2,Clear,haze,417
+Christmas Day,281.37394699505,6.8,0.01,51,Clear,mist,2219
+Christmas Day,274.4896498582502,0.54,0.17,32,Clear,overcast clouds,3921
+Christmas Day,287.2403354543886,0.33,0.16,56,Clouds,overcast clouds,2914
+Christmas Day,251.5248526044645,3.52,0.01,44,Snow,light snow,1028
+Christmas Day,279.2280595424402,0.25,0.12,0,Clouds,mist,423
+Christmas Day,293.0571021957735,4.3,0.12,84,Rain,light intensity drizzle,1253
+Christmas Day,284.3475012254546,2.62,0.01,100,Snow,heavy intensity rain,6723
+Christmas Day,300.83021906890406,2.0,0.01,54,Rain,light rain,6815
+Christmas Day,265.8186270267662,0.57,0.17,35,Clouds,sky is clear,2498
+Christmas Day,265.8074354966592,0.25,0.01,8,Drizzle,sky is clear,2871
+Christmas Day,296.91274279601123,0.29,0.17,7,Clear,overcast clouds,5734
+Christmas Day,279.5001628981465,0.4,0.01,36,Mist,sky is clear,6305
+Christmas Day,288.4954559102643,5.41,0.02,25,Rain,light intensity drizzle,108
+Christmas Day,279.1178912369735,0.39,0.17,100,Fog,light snow,2179
+Christmas Day,298.3689419477144,1.14,0.17,0,Haze,mist,288
+Christmas Day,283.9312088912671,3.69,0.03,67,Clouds,light intensity drizzle,627
+Christmas Day,300.55984675021466,20.51,0.01,4,Clear,Sky is Clear,6713
+Christmas Day,294.37865786299136,0.42,0.02,1,Clouds,mist,867
+Christmas Day,303.6188381742707,18.11,0.01,0,Rain,light snow,2825
+Christmas Day,258.88024935287865,0.76,0.01,22,Drizzle,sky is clear,182
+Christmas Day,286.43683795199,11.78,0.01,0,Clouds,light intensity drizzle,2520
+Christmas Day,285.1307260398992,7.16,0.04,11,Rain,moderate rain,2610
+Christmas Day,278.8386944546935,0.4,0.06,0,Clear,sky is clear,3959
+Christmas Day,265.9251403224267,0.29,0.01,100,Clouds,mist,3189
+Christmas Day,271.894273583689,0.26,0.02,84,Clear,sky is clear,4423
+Christmas Day,283.6771296565584,0.34,0.01,99,Rain,proximity thunderstorm,6664
+Christmas Day,272.41790101129163,0.26,0.01,95,Mist,sky is clear,2910
+Christmas Day,263.0178386798829,0.25,0.07,35,Drizzle,sky is clear,3039
+Christmas Day,277.55665531690283,0.25,0.01,0,Clear,sky is clear,2146
+Christmas Day,299.3749331088562,0.25,0.13,0,Clear,mist,5301
+Christmas Day,291.8669463797302,1.55,0.14,21,Clear,sky is clear,1253
+Christmas Day,300.07687676909256,0.43,0.17,0,Clouds,heavy intensity rain,6931
+Christmas Day,295.8221215822732,0.77,0.01,36,Clear,mist,6445
+Christmas Day,281.5181686043049,1.6,0.01,32,Clouds,mist,3511
+Christmas Day,294.24123911203833,1.21,0.01,3,Drizzle,broken clouds,2603
+Christmas Day,267.98270581739416,0.29,0.02,2,Mist,sky is clear,502
+Christmas Day,291.40547308636434,1.51,0.01,1,Clear,sky is clear,447
+Christmas Day,288.4460567212774,1.6,0.01,1,Clear,sky is clear,3885
+Christmas Day,305.38230255659846,1.94,0.16,100,Rain,light snow,4551
+Christmas Day,281.566710484641,3.25,0.02,78,Drizzle,mist,6741
+Christmas Day,292.363482889668,10.69,0.01,2,Rain,light intensity drizzle,6077
+Christmas Day,287.7916317309051,0.78,0.02,1,Clouds,Sky is Clear,5133
+Christmas Day,297.6497819630598,0.87,0.03,1,Clouds,broken clouds,4501
+Christmas Day,300.59451276124804,9.14,0.01,100,Clouds,broken clouds,6075
+Christmas Day,294.63215439571565,1.99,0.13,0,Clear,sky is clear,5898
+Christmas Day,278.9927436154254,3.92,0.01,61,Rain,broken clouds,5731
+Christmas Day,284.1449619348717,0.29,0.17,100,Rain,light rain,4842
+Christmas Day,286.61600541563155,0.42,0.01,100,Clouds,overcast clouds,6217
+Christmas Day,280.27812690148227,1.5,0.1,3,Rain,light snow,6954
+Christmas Day,290.7547485211636,0.28,0.01,0,Clear,sky is clear,4246
+Christmas Day,286.62897864620373,5.42,0.14,0,Clouds,moderate rain,2508
+Christmas Day,266.51304707421843,1.33,0.03,96,Fog,snow,3125
+Christmas Day,274.3708002749167,3.87,0.01,0,Drizzle,mist,1490
+Christmas Day,305.27038725754176,6.68,0.01,100,Snow,thunderstorm with rain,2402
+Christmas Day,277.6412463889901,1.28,0.01,4,Clear,sky is clear,270
+Christmas Day,260.8716097612255,1.93,0.16,14,Mist,scattered clouds,1560
+Christmas Day,279.0436804339965,4.12,0.01,65,Clouds,light intensity drizzle,3838
+Christmas Day,288.3401745980567,0.39,0.01,47,Clear,sky is clear,482
+Christmas Day,302.0234829218577,1.82,0.08,99,Mist,sky is clear,4202
+Christmas Day,302.19509704809866,0.96,0.01,21,Clear,sky is clear,2294
+Christmas Day,300.3562809221248,10.77,0.01,99,Snow,fog,2552
+Christmas Day,286.41180234414946,9.4,0.13,53,Clear,sky is clear,441
+Christmas Day,253.6775576156685,0.26,0.03,78,Clouds,overcast clouds,420
+Christmas Day,287.1847679188549,16.25,0.01,0,Clouds,few clouds,5777
+Christmas Day,279.04677140584965,0.25,0.01,11,Clouds,mist,2406
+Christmas Day,281.5495564109041,4.42,0.01,69,Clouds,overcast clouds,4012
+Christmas Day,271.0795477441347,0.46,0.01,8,Clear,mist,4417
+Christmas Day,276.47654197124746,0.26,0.01,71,Clear,sky is clear,499
+Christmas Day,276.92378919615925,12.96,0.02,0,Rain,snow,5936
+Christmas Day,270.8496958378,0.52,0.08,91,Clear,overcast clouds,6797
+Christmas Day,275.69370767633353,4.32,0.01,4,Clear,overcast clouds,6028
+Christmas Day,265.7181045139789,0.73,0.01,92,Clouds,mist,709
+Christmas Day,267.45404998211967,0.81,0.02,0,Mist,sky is clear,281
+Christmas Day,302.1461346042813,0.37,0.16,92,Clear,overcast clouds,6598
+Christmas Day,272.9558469935092,0.26,0.15,100,Clouds,few clouds,1456
+Christmas Day,293.21275718083785,0.48,0.01,98,Mist,sky is clear,171
+Christmas Day,275.82524787868203,2.04,0.17,87,Clouds,broken clouds,957
+Christmas Day,293.37283944876424,0.76,0.01,28,Rain,proximity thunderstorm,3383
+Christmas Day,274.0188706389588,1.47,0.01,0,Clear,sky is clear,1935
+Christmas Day,269.01119818831916,2.45,0.01,99,Rain,light rain,5581
+Christmas Day,306.7844992532913,8.52,0.16,34,Thunderstorm,fog,6799
+Christmas Day,274.3892065659191,0.28,0.01,0,Clear,sky is clear,2382
+Christmas Day,274.9394154211846,0.38,0.07,57,Clouds,scattered clouds,1168
+Christmas Day,266.1901790957886,9.68,0.01,100,Mist,mist,6620
+Christmas Day,285.77014394389806,7.46,0.01,48,Clear,broken clouds,2999
+Christmas Day,246.39,0.52,0.11,84,Rain,scattered clouds,2157
+Christmas Day,289.2798835044726,1.82,0.01,17,Clouds,mist,5606
+Christmas Day,283.1525915087143,17.02,0.01,16,Rain,light rain,7052
+Christmas Day,272.97344617923414,0.61,0.02,68,Clear,mist,482
+Christmas Day,302.1019342790536,1.26,0.17,2,Clear,sky is clear,1942
+Christmas Day,268.5038563474942,0.76,0.14,100,Drizzle,few clouds,2746
+Christmas Day,279.47596504560755,11.68,0.17,0,Clear,sky is clear,3799
+Christmas Day,291.06768029325497,16.9,0.01,16,Clear,sky is clear,6842
+Christmas Day,284.5582653049486,0.52,0.17,0,Clear,mist,6243
+Christmas Day,295.3484912109329,0.31,0.02,0,Clear,mist,6724
+Christmas Day,263.58680685407427,0.25,0.17,73,Clear,sky is clear,6675
+Christmas Day,282.7122331070593,0.88,0.01,0,Haze,mist,1951
+Christmas Day,273.2733401745302,1.81,0.01,0,Clear,sky is clear,4449
+Christmas Day,298.8333291118536,6.2,0.03,14,Clouds,mist,1406
+Christmas Day,291.5322596528607,7.88,0.09,88,Clear,sky is clear,2479
+Christmas Day,282.28162108534883,5.7,0.01,0,Clear,overcast clouds,213
+Christmas Day,300.0722470757229,2.33,0.01,6,Clear,drizzle,3058
+Christmas Day,297.8677970740164,0.56,0.13,0,Clear,sky is clear,535
+Christmas Day,291.5818763540682,16.64,0.01,45,Fog,heavy intensity drizzle,3806
+Christmas Day,290.60404555257304,5.38,0.16,0,Drizzle,scattered clouds,2893
+Christmas Day,270.7183860933955,0.74,0.01,100,Thunderstorm,light intensity drizzle,6989
+Christmas Day,282.62341988835465,3.68,0.05,100,Fog,heavy snow,5524
+Christmas Day,295.779064780213,9.83,0.12,92,Clouds,light snow,31
+Christmas Day,276.88873678538164,15.96,0.1,99,Rain,light snow,3864
+Christmas Day,289.9425716589408,3.56,0.01,40,Clouds,overcast clouds,3229
+Christmas Day,281.90733686088413,0.25,0.01,0,Clear,sky is clear,4157
+Christmas Day,264.79924004682294,1.17,0.17,0,Mist,mist,2361
+Christmas Day,293.31922608407393,0.25,0.07,0,Mist,drizzle,6153
+Christmas Day,254.84271922115852,0.29,0.01,0,Mist,haze,2755
+Christmas Day,287.6467941693858,0.41,0.01,100,Snow,light rain,1414
+Christmas Day,274.61940710211474,0.43,0.01,2,Mist,broken clouds,2043
+Christmas Day,289.1897941143742,6.1,0.01,100,Clouds,light rain,501
+Christmas Day,281.33853691860736,0.25,0.01,98,Clouds,few clouds,272
+Christmas Day,281.11171723525416,0.79,0.01,0,Clouds,overcast clouds,7030
+Christmas Day,272.46988329060576,3.96,0.11,0,Clouds,mist,3890
+Christmas Day,276.7265682321495,2.65,0.17,100,Rain,light intensity drizzle,2814
+Christmas Day,294.2967137798455,1.5,0.1,61,Clear,drizzle,3530
+Christmas Day,274.6236147737129,0.58,0.17,0,Mist,mist,3289
+Christmas Day,276.0121501990683,1.39,0.08,1,Haze,overcast clouds,1443
+Christmas Day,260.385802798959,6.0,0.01,0,Clear,sky is clear,4884
+Christmas Day,276.2874186221159,0.71,0.06,65,Mist,broken clouds,6730
+Christmas Day,282.06686077952315,18.54,0.03,0,Clear,drizzle,2824
+Christmas Day,269.378989785514,0.27,0.01,0,Clear,overcast clouds,6149
+Christmas Day,290.7887295542559,0.28,0.01,98,Clouds,broken clouds,6876
+Christmas Day,266.1472434254403,4.21,0.13,99,Fog,thunderstorm with rain,1549
+Christmas Day,273.7240350483388,1.31,0.02,0,Clouds,mist,982
+Christmas Day,284.156682599521,0.8,0.02,0,Clouds,scattered clouds,5107
+Christmas Day,275.9290762234116,0.78,0.16,1,Rain,few clouds,2275
+Christmas Day,282.8243056249929,0.46,0.01,94,Clouds,scattered clouds,2100
+Christmas Day,269.8233894535215,0.25,0.16,99,Rain,proximity thunderstorm,5872
+Christmas Day,274.5158003352914,0.34,0.02,97,Clouds,overcast clouds,834
+Christmas Day,251.85770052337492,2.74,0.01,0,Clear,sky is clear,1094
+Christmas Day,294.8196538180391,4.42,0.08,0,Clear,sky is clear,4109
+Christmas Day,277.27073232130755,2.08,0.11,11,Mist,overcast clouds,4880
+Christmas Day,281.0200283351593,7.35,0.16,59,Mist,scattered clouds,5303
+Christmas Day,294.12245885347636,0.33,0.01,2,Clouds,overcast clouds,6924
+Christmas Day,289.4430177602091,5.35,0.01,28,Clear,sky is clear,3295
+Christmas Day,293.9825374905213,3.42,0.12,67,Clear,sky is clear,4065
+Christmas Day,297.78287008878544,0.34,0.01,7,Drizzle,mist,2700
+Christmas Day,292.550982891624,0.41,0.03,9,Clouds,mist,2806
+Christmas Day,285.93473411498917,0.25,0.01,86,Rain,scattered clouds,3888
+Christmas Day,271.8205951653059,0.25,0.02,0,Clouds,sky is clear,2738
+Christmas Day,303.2266885630222,0.31,0.05,89,Clouds,moderate rain,5609
+Christmas Day,286.0807677080834,10.73,0.06,100,Rain,moderate rain,2005
+Christmas Day,286.0709873518774,0.94,0.05,99,Clear,sky is clear,4521
+Christmas Day,278.6539316927381,2.41,0.17,44,Fog,proximity thunderstorm with rain,7137
+Christmas Day,283.99867480318187,8.45,0.09,70,Mist,moderate rain,6859
+Christmas Day,291.5905998380602,0.39,0.17,12,Clouds,mist,4163
+Christmas Day,275.4924224913269,0.28,0.01,100,Clouds,overcast clouds,7045
+Christmas Day,283.76071923284974,1.08,0.02,48,Clear,sky is clear,4663
+Christmas Day,295.5475051009981,10.93,0.15,3,Clouds,broken clouds,3801
+Labor Day,276.3281924290281,9.33,0.01,79,Clear,overcast clouds,5619
+Christmas Day,266.748294428754,0.83,0.16,7,Mist,sky is clear,744
+Christmas Day,291.0541207361119,6.9,0.17,4,Clouds,broken clouds,4242
+Christmas Day,267.3270621197888,0.48,0.17,100,Mist,sky is clear,4332
+Christmas Day,264.0246710207797,0.25,0.01,2,Clouds,light rain,2715
+Christmas Day,260.0967365792706,0.52,0.06,1,Clear,sky is clear,138
+Christmas Day,283.48416763713567,0.33,0.01,2,Clear,overcast clouds,30
+Christmas Day,283.16289284819663,1.28,0.17,98,Clear,mist,238
+Christmas Day,281.29270352127753,0.96,0.01,1,Clear,sky is clear,6288
+Christmas Day,271.05834785912924,0.34,0.01,0,Clear,sky is clear,5501
+Christmas Day,285.99970717023496,15.83,0.02,49,Snow,light intensity drizzle,4525
+Christmas Day,277.412360910841,0.25,0.13,4,Clear,sky is clear,4061
+Christmas Day,279.0062402119553,6.56,0.01,82,Rain,moderate rain,4656
+Christmas Day,246.39,1.3,0.05,16,Clear,sky is clear,972
+Christmas Day,303.89051119993974,0.25,0.03,0,Clear,sky is clear,1925
+Christmas Day,286.54593987005035,6.01,0.01,8,Clear,sky is clear,2476
+Christmas Day,256.3012302583656,3.16,0.17,100,Clouds,light rain,910
+Christmas Day,296.43670920119945,0.3,0.01,6,Clear,sky is clear,5695
+Christmas Day,273.9484568078758,0.75,0.01,100,Mist,sky is clear,6080
+Christmas Day,308.2398214039888,0.32,0.01,98,Clouds,light rain,5933
+Christmas Day,261.0525233916537,8.55,0.01,72,Clear,sky is clear,4461
+Christmas Day,291.45999851285455,3.38,0.04,0,Clear,sky is clear,551
+Christmas Day,260.56996214696346,0.28,0.02,88,Fog,thunderstorm with light rain,6371
+Christmas Day,290.1907882952476,11.74,0.01,0,Clouds,broken clouds,1776
+Christmas Day,293.61559769705457,3.25,0.1,6,Clouds,broken clouds,1815
+Christmas Day,277.9321587519184,16.62,0.17,32,Rain,scattered clouds,1817
+Christmas Day,268.77483602170844,0.51,0.14,0,Clear,broken clouds,4370
+Christmas Day,276.01427069256107,0.99,0.16,100,Clouds,few clouds,2042
+Christmas Day,298.0976234970429,0.27,0.01,0,Clear,Sky is Clear,2590
+Christmas Day,279.456446881961,0.87,0.13,0,Clear,mist,1198
+Christmas Day,279.67514321931304,0.25,0.01,8,Mist,Sky is Clear,6213
+Christmas Day,286.1750032418049,0.33,0.02,3,Clear,sky is clear,107
+Christmas Day,269.3457943186177,3.13,0.06,3,Clouds,overcast clouds,5373
+Christmas Day,278.12270338590184,0.56,0.17,0,Drizzle,mist,1121
+Christmas Day,285.5994907135695,1.19,0.01,100,Clouds,mist,1413
+Christmas Day,268.89254691057187,1.18,0.01,0,Clouds,few clouds,3182
+Christmas Day,275.2721246463166,0.27,0.14,84,Clouds,broken clouds,2132
+Christmas Day,256.25825114224784,0.31,0.1,0,Drizzle,mist,1316
+Christmas Day,272.9605472617968,2.63,0.01,98,Clouds,broken clouds,2280
+Christmas Day,278.36111291962743,2.0,0.17,46,Clouds,overcast clouds,597
+Christmas Day,275.87311754679996,5.9,0.17,92,Clouds,Sky is Clear,1774
+Christmas Day,261.6453486436726,2.55,0.02,0,Clouds,broken clouds,388
+Christmas Day,271.38476462532634,0.41,0.17,0,Rain,light snow,6604
+Christmas Day,265.072810301577,0.26,0.05,35,Clear,sky is clear,1049
+Christmas Day,288.4331932187699,13.11,0.12,45,Mist,sky is clear,5745
+Christmas Day,250.04161830301703,0.31,0.16,0,Clear,sky is clear,657
+Christmas Day,288.57060725290677,1.44,0.01,70,Rain,heavy snow,69
+Christmas Day,284.36906527462406,1.03,0.01,54,Rain,proximity thunderstorm,273
+Christmas Day,280.4105501185197,15.24,0.01,0,Clouds,scattered clouds,385
+Christmas Day,284.90952057372186,0.4,0.01,9,Clear,mist,6683
+Christmas Day,267.05981545710915,9.01,0.07,96,Clear,sky is clear,4579
+Christmas Day,298.8501158796082,0.4,0.1,0,Clouds,sky is clear,7095
+Christmas Day,285.92624795376616,2.05,0.04,88,Fog,thunderstorm with rain,7151
+Christmas Day,272.7325038814579,0.25,0.01,100,Clear,drizzle,4324
+Christmas Day,290.64005227172817,2.77,0.01,100,Clouds,light rain,681
+Christmas Day,288.81117765653494,0.91,0.11,0,Clear,mist,3422
+Christmas Day,297.5335771123715,20.63,0.15,0,Mist,moderate rain,3288
+Christmas Day,267.94261417905534,0.25,0.01,27,Clear,mist,664
+Christmas Day,286.22486309309403,9.6,0.15,92,Clouds,mist,586
+Christmas Day,284.9290606116674,1.17,0.17,46,Fog,smoke,6389
+Christmas Day,269.0594062749599,0.25,0.01,0,Clouds,light snow,4083
+Christmas Day,295.16489185700027,10.55,0.02,99,Clouds,scattered clouds,3231
+Christmas Day,294.01499442918106,1.02,0.01,37,Clouds,overcast clouds,3497
+Christmas Day,289.4328141881988,9.68,0.01,100,Snow,proximity thunderstorm,6176
+Christmas Day,285.41050622246155,5.11,0.02,97,Clear,sky is clear,5389
+Christmas Day,276.4177001658678,0.25,0.1,0,Clear,sky is clear,2144
+Christmas Day,274.5712643110774,0.25,0.02,100,Snow,fog,5403
+Christmas Day,293.67288903200375,0.54,0.01,18,Snow,snow,2439
+Christmas Day,287.71033247795486,0.57,0.14,100,Clouds,broken clouds,3334
+Christmas Day,294.2075452733852,3.23,0.13,1,Mist,mist,2049
+Christmas Day,305.2035136983384,11.87,0.01,11,Mist,broken clouds,708
+Christmas Day,283.0545944038813,4.43,0.17,88,Rain,broken clouds,7014
+Christmas Day,268.7552904810529,10.28,0.08,100,Clouds,mist,2055
+Christmas Day,269.525432334384,3.61,0.17,21,Clouds,few clouds,2443
+Christmas Day,291.32703776899706,6.87,0.17,0,Clear,sky is clear,6582
+Christmas Day,249.62658327491485,0.4,0.01,83,Rain,overcast clouds,5969
+Christmas Day,298.50078809111574,5.34,0.17,91,Snow,heavy snow,6130
+Christmas Day,289.98522674159574,22.72,0.01,100,Snow,heavy snow,2124
+Christmas Day,290.27082199903583,0.25,0.01,100,Clouds,mist,1478
+Christmas Day,286.999076752359,5.7,0.15,0,Snow,heavy snow,26
+Christmas Day,277.54197523128045,11.43,0.16,0,Clear,sky is clear,2577
+Christmas Day,284.4299136524137,0.3,0.17,98,Mist,overcast clouds,4454
+Christmas Day,297.2539253581837,20.84,0.17,99,Rain,light snow,4431
+Christmas Day,280.7500707986524,0.39,0.15,100,Rain,light intensity drizzle,4756
+Christmas Day,284.24222870938235,10.44,0.17,100,Snow,light snow,927
+Christmas Day,256.06050565450374,0.25,0.01,3,Mist,haze,1895
+Christmas Day,262.2626499379651,0.69,0.17,100,Thunderstorm,light snow,5437
+Christmas Day,273.55503262604606,0.46,0.14,87,Clouds,overcast clouds,6851
+Christmas Day,276.6765021776012,3.07,0.15,100,Clouds,light intensity drizzle,3419
+Christmas Day,297.5971489984302,0.87,0.01,100,Clouds,broken clouds,5001
+Christmas Day,278.25903174661835,0.43,0.02,15,Clouds,mist,5005
+Christmas Day,297.86353791773575,0.36,0.02,1,Clouds,overcast clouds,4143
+Christmas Day,265.4058983924835,0.25,0.01,1,Clear,sky is clear,5837
+Christmas Day,280.57389887496106,0.25,0.01,31,Clear,sky is clear,325
+Christmas Day,281.1286107865461,0.33,0.17,73,Clear,mist,6249
+Christmas Day,267.007040926668,1.62,0.15,0,Clear,mist,3074
+Christmas Day,279.5962164657598,0.25,0.01,37,Clear,sky is clear,6881
+Christmas Day,295.77526788804425,1.32,0.01,50,Clouds,sky is clear,4907
+Christmas Day,267.29124017548594,0.87,0.01,100,Rain,scattered clouds,6610
+Christmas Day,271.40741053873217,2.82,0.01,100,Clouds,mist,1261
+Christmas Day,274.6824015840871,0.66,0.17,15,Clouds,moderate rain,5453
+Christmas Day,264.4447648155246,0.48,0.01,100,Snow,light snow,5562
+Christmas Day,271.64521577669655,0.32,0.01,99,Rain,light intensity drizzle,1053
+Christmas Day,279.33510389108744,0.32,0.01,2,Snow,fog,5738
+Christmas Day,276.51328376977153,3.01,0.15,5,Clear,sky is clear,5339
+Christmas Day,287.0741013271886,0.27,0.17,2,Rain,light rain,459
+Christmas Day,278.2596093528377,6.04,0.17,0,Clouds,mist,6326
+Christmas Day,288.7394395023349,0.27,0.14,2,Haze,sky is clear,950
+Christmas Day,262.4479719213154,1.21,0.16,99,Clear,moderate rain,4218
+Christmas Day,275.0755530715211,20.62,0.08,97,Clear,mist,2021
+Christmas Day,277.3395538172941,0.29,0.15,41,Clouds,haze,5640
+Christmas Day,274.8374407411935,1.78,0.01,36,Clear,sky is clear,5161
+Christmas Day,292.1252122704185,3.71,0.01,65,Haze,mist,3574
+Christmas Day,302.3756079820848,2.09,0.16,31,Clouds,broken clouds,5801
+Christmas Day,295.9897769231991,4.31,0.01,0,Clear,sky is clear,1664
+Christmas Day,274.685347153912,1.03,0.12,100,Clear,sky is clear,2524
+Christmas Day,296.4098934063637,2.21,0.17,85,Clear,mist,5088
+Christmas Day,286.62796596115857,0.41,0.01,0,Clear,mist,75
+Christmas Day,295.013717087497,1.23,0.01,80,Snow,scattered clouds,1977
+Christmas Day,282.98781418147456,1.42,0.17,94,Rain,light rain,3823
+Christmas Day,296.82723802492393,11.37,0.02,100,Mist,mist,810
+Christmas Day,280.57640645155925,0.45,0.02,28,Clouds,overcast clouds,1192
+Christmas Day,299.1631465922419,0.27,0.01,1,Rain,light rain,3221
+Christmas Day,291.98875631647866,0.54,0.1,2,Clouds,light rain,2618
+Christmas Day,277.49188108722325,3.01,0.01,80,Haze,sky is clear,2397
+Christmas Day,276.42578252113043,0.6,0.12,0,Clouds,broken clouds,3313
+Christmas Day,294.74718391796375,0.29,0.14,74,Mist,overcast clouds,2606
+Christmas Day,273.51469674410043,19.69,0.03,28,Clear,sky is clear,710
+Christmas Day,269.60971325060643,2.01,0.01,16,Clouds,overcast clouds,138
+Christmas Day,272.46408949099543,0.25,0.05,0,Clear,sky is clear,666
+Christmas Day,273.1004208477734,0.25,0.03,0,Clear,sky is clear,3504
+Christmas Day,299.43834736519017,0.59,0.01,0,Clear,sky is clear,7116
+Christmas Day,283.2827343865923,9.29,0.06,100,Clouds,moderate rain,5257
+Christmas Day,277.9443351603105,4.93,0.01,94,Snow,light rain,6347
+Christmas Day,290.4550805878113,1.34,0.01,0,Drizzle,mist,675
+Christmas Day,287.28405472055,0.29,0.14,0,Clear,sky is clear,702
+Christmas Day,283.7797796991701,7.46,0.08,0,Clear,mist,2051
+Christmas Day,269.53744494604473,7.69,0.01,85,Clouds,overcast clouds,5965
+Christmas Day,258.39768106442506,1.88,0.01,12,Clouds,overcast clouds,2065
+Christmas Day,295.1329977220447,5.16,0.11,90,Clouds,moderate rain,2795
+Christmas Day,264.04291464563846,0.27,0.12,80,Clear,overcast clouds,2388
+Christmas Day,280.6365285239474,3.15,0.17,9,Clear,sky is clear,1946
+Christmas Day,295.03177608898005,0.28,0.06,8,Clouds,light rain,6179
+Christmas Day,264.3655858765834,10.53,0.03,100,Fog,fog,6045
+Christmas Day,267.67012956139416,1.59,0.01,99,Rain,fog,6950
+Christmas Day,278.3295828931438,0.76,0.01,0,Clear,sky is clear,591
+Christmas Day,282.8019337316984,1.66,0.01,27,Snow,light intensity drizzle,3011
+Christmas Day,289.5087272794253,5.91,0.02,96,Clear,sky is clear,1823
+Christmas Day,289.18393827476194,0.27,0.04,100,Snow,fog,5908
+Christmas Day,271.34897321796575,1.05,0.06,0,Clear,sky is clear,249
