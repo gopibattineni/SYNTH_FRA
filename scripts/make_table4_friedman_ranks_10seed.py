@@ -9,13 +9,13 @@ import pandas as pd
 ROOT = Path(__file__).resolve().parents[1]
 EXCEL = (
     ROOT
-    / "multi seed generators"
+    / "3 multi seed generators"
     / "merged 10 seeds"
     / "classification"
     / "results"
     / "multi_seed_results.xlsx"
 )
-OUT = ROOT / "2 Single seed experiments with 80:20 spilit" / "paper results" / "table4_friedman_ranks_10seed.md"
+OUT = ROOT / "3 multi seed generators" / "table3_friedman_ranks_10seed.md"
 
 SEED_COLS = [
     "seed_42",
